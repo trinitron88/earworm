@@ -1,0 +1,60 @@
+{
+  "parent_snapshot": "b8b6e85ab184d8e243b1e40b7aea6500a31ac105",
+  "original_execution_git_revision": null,
+  "original_inputs": [
+    {
+      "path": "work/accounts_results/development_pairs.json",
+      "sha256": "d2e6384819902ca8b17e50088cfc39fe35d9bdbb416d30ac8cd07d0da1a26458",
+      "bytes": 13869835
+    },
+    {
+      "path": "work/accounts_results/held_out_pairs.json",
+      "sha256": "1185d51b2492bb8c01e50a13233a412e63d84f665c369b60f1556c0ae3de015a",
+      "bytes": 33798721
+    },
+    {
+      "path": "work/accounts_stimuli/manifest.json",
+      "sha256": "e3659900f30b5b70514a6e0088126374ecb84ead00c238079d7b262e2d63d4d9",
+      "bytes": 2620967
+    },
+    {
+      "path": "work/accounts_results/frozen_config.json",
+      "sha256": "da372bb83193c9b4377736765498d7bdef7e875dd5b2a17cd111ce43fb398378",
+      "bytes": 2725
+    },
+    {
+      "path": "work/accounts_results/protocol.json",
+      "sha256": "851456e8fd9a2e84b20eb4f0c39840b441d7569897dbe794339374f8abe772da",
+      "bytes": 6197
+    },
+    {
+      "path": "work/accounts_results/trials.json",
+      "sha256": "24ab94d5c915a78bf787bc0e6b128e4306e0f22cece202d31ff3725441c4d2af",
+      "bytes": 6080994
+    },
+    {
+      "path": "work/accounts_results/posthoc_diagnostics.json",
+      "sha256": "d9253c1af9ab9d84685067708e4e7957b1add25f276a24d043b2d695437c2bdf",
+      "bytes": 4435
+    }
+  ],
+  "frozen_source_sha256": {
+    "accounts_stimuli.py": "d141a6fbcb39a921765739ad64da8440f34743727c484672afec841794079820",
+    "accounts_reader.py": "783e1dc1968d553c83706dcc412f648fcb21f74a91c407c235d1f3a7fe037a88",
+    "accounts_experiment.py": "3e33ceef4f2b64ee5ff1206b869476a47bde1ff96504037a9f616d2fbbf30b59",
+    "remember_changes_acoustics.py": "33cb2b5881375374e4da6f45723be0ca117aa1674b8d41fccf8da9ecd7533ca4",
+    "confidence_reader.py": "4ee1788958ec092fbe0f3ff0a808ebb476cd5ef23758a8295918e47cc54ec4b5",
+    "incomplete_matcher.py": "e7e92d0b7128da018c65616b04a8d965ca77ad0ec5673414550bf6b64a14c7ae"
+  },
+  "export": {
+    "path": "candidate_evidence.jsonl",
+    "sha256": "805a3a5c9f39144387ce5c3d4b712dd15955efa62e906791bf4d19583367b637",
+    "bytes": 2049875,
+    "queries": 696,
+    "candidate_pairs": 6960
+  },
+  "method": "Exact selection of saved numeric evidence features and evaluation metadata. No score fitting, acoustic extraction, alignment search, or audio regeneration.",
+  "exclusions": "Fit groups, ambiguity-only twin, raw audio, full alignment paths, machine-local audio paths.",
+  "scoring_contract": "Only available and features enter the frozen arithmetic. Group/family/source/length/history metadata route evaluation and stratification only.",
+  "provenance_limit": "Pair-file hashes were captured for this export, after the original run; they identify these local saved originals but are not pre-run commitments. Frozen source/protocol hashes are the original recorded commitments."
+}

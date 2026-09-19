@@ -60,3 +60,29 @@ Review this audit package at the current PR head:
 - `review/experiment08/calibration-audit/checkpoint.json`
 
 The original experiment artifacts, model, threshold, and provenance records are unchanged. This is an `awaiting-review` checkpoint with a blocked audit, not a completed margin/sensitivity analysis. The report proposes one bounded next action only. Do not execute it automatically, launch Experiment 09, regenerate audio, refit models, change thresholds, merge, or authorize spending. Review the new head SHA once under the existing task; retain the prior completed-review marker for its original SHA.
+
+## Saved-evidence audit completion — 2026-09-19T09:55:13.723440+00:00
+
+The original local worker recovered the already saved candidate evidence and completed the existing authorized margin/sensitivity audit. This supersedes the prior missing-input status; the previous blocker package remains unchanged. The original experiment was not rerun, and its code, protocol, model, operational threshold, results, and provenance remain unchanged.
+
+Review these new artifacts at the exact current PR head:
+
+- `review/experiment08/calibration-audit/completion-20260919/REPORT.md`
+- `review/experiment08/calibration-audit/completion-20260919/candidate_evidence.jsonl`
+- `review/experiment08/calibration-audit/completion-20260919/input_identifiers.json`
+- `review/experiment08/calibration-audit/completion-20260919/analyze_saved_evidence.py`
+- `review/experiment08/calibration-audit/completion-20260919/export_saved_evidence.py`
+- `review/experiment08/calibration-audit/completion-20260919/verify_audit.py`
+- `review/experiment08/calibration-audit/completion-20260919/results/summary.json`
+- `review/experiment08/calibration-audit/completion-20260919/results/query_margins.csv`
+- `review/experiment08/calibration-audit/completion-20260919/results/candidate_scores.csv`
+- `review/experiment08/calibration-audit/completion-20260919/results/stratified_margins.json`
+- `review/experiment08/calibration-audit/completion-20260919/results/calibration_sensitivity.json`
+- `review/experiment08/calibration-audit/completion-20260919/results/feature_contributions.csv`
+- `review/experiment08/calibration-audit/completion-20260919/validation.json`
+- `review/experiment08/calibration-audit/completion-20260919/checkpoint.json`
+- `review/experiment08/calibration-audit/completion-20260919/CHECKSUMS.sha256`
+
+The saved-data audit reproduces 553/576 uniquely correct first rankings, 164/576 correct acceptances, and zero observed held-out absent-history false acceptances. Omitting the sole six-event calibration group changes the diagnostic threshold and yields 6/30 false acceptances on that omitted group. Tiny score margins limit robustness claims. All alternative thresholds are calibration-only diagnostics; none replaces the frozen threshold.
+
+Native local worker poll `earworm-worker-poll` is registered for 30-minute continuations in the existing Project Earworm conversation. This registration does not expand scientific authorization. The event-triggered reviewer is unchanged. Publish this complete snapshot once, save awaiting-review state, and stop; the report's one next-action proposal is not executed.
