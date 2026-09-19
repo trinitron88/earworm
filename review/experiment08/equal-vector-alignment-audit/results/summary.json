@@ -1,0 +1,100 @@
+{
+  "selected_queries": 17,
+  "maximum_pairs": 68,
+  "evidence_records": 85,
+  "saved_paths": 112,
+  "saved_alternative_paths_beyond_best": 27,
+  "records_with_retained_alternatives": 24,
+  "true_records_with_retained_alternatives": 3,
+  "acoustic_descriptions": 52,
+  "all_selected_pairs_available": true,
+  "query_eligible_event_counts": {
+    "2": 15,
+    "6": 1,
+    "4": 1
+  },
+  "queries_with_cached_events_outside_saved_eligible_set": 10,
+  "pair_equality_counts": {
+    "retained_alternatives_only_multiset_equal": 46,
+    "same_best_query_onset_anchors": 68,
+    "best_inspected_acoustic_fields_exact_equal": 0,
+    "retained_acoustic_path_multiset_exact_equal": 0,
+    "best_global_transform_exact_equal": 7,
+    "best_matched_acoustic_fields_exact_equal": 6,
+    "best_missing_acoustic_fields_exact_equal": 0,
+    "best_missing_anchor_regions_equal": 10,
+    "best_inserted_acoustic_fields_exact_equal": 68
+  },
+  "pair_difference_magnitudes": {
+    "best_reference_pitch_intervals_max_abs_difference": {
+      "comparable_pairs": 68,
+      "exactly_zero": 53,
+      "nonzero": 15,
+      "min": 0.0,
+      "max": 0.0003266334533691406
+    },
+    "best_reference_onset_intervals_s_max_abs_difference": {
+      "comparable_pairs": 68,
+      "exactly_zero": 11,
+      "nonzero": 57,
+      "min": 0.0,
+      "max": 0.3310000002384186
+    },
+    "best_pitch_residuals_max_abs_difference": {
+      "comparable_pairs": 68,
+      "exactly_zero": 53,
+      "nonzero": 15,
+      "min": 0.0,
+      "max": 0.0001633167266845703
+    },
+    "best_timing_residuals_s_max_abs_difference": {
+      "comparable_pairs": 68,
+      "exactly_zero": 48,
+      "nonzero": 20,
+      "min": 0.0,
+      "max": 2.220446049250313e-16
+    },
+    "best_missing_mapped_onset_s_max_abs_difference": {
+      "comparable_pairs": 68,
+      "exactly_zero": 8,
+      "nonzero": 60,
+      "min": 0.0,
+      "max": 1.1579998280966128
+    },
+    "best_missing_mapped_offset_s_max_abs_difference": {
+      "comparable_pairs": 68,
+      "exactly_zero": 5,
+      "nonzero": 63,
+      "min": 0.0,
+      "max": 1.3390001522772317
+    },
+    "best_missing_mapped_pitch_semitones_max_abs_difference": {
+      "comparable_pairs": 68,
+      "exactly_zero": 18,
+      "nonzero": 50,
+      "min": 0.0,
+      "max": 15.999728441238403
+    },
+    "best_missing_pitch_from_first_matched_reference_semitones_max_abs_difference": {
+      "comparable_pairs": 68,
+      "exactly_zero": 18,
+      "nonzero": 50,
+      "min": 0.0,
+      "max": 15.999728441238403
+    }
+  },
+  "best_record_max_abs_pitch_residual_semitones": 0.0001633167266845703,
+  "best_record_max_abs_timing_residual_s": 2.220446049250313e-16,
+  "all_best_record_residuals_inside_original_deadzones": true,
+  "frozen_threshold": 3.6264131202365606,
+  "all_selected_queries_rejected": true,
+  "verification": {
+    "saved_residual_loss_reconstruction_max_abs_error": 0.0,
+    "best_feature_reconstruction_max_abs_error": 0.0,
+    "arithmetic_check_tolerance": 1e-12,
+    "all_68_saved_scores_and_vectors_exactly_reconciled": true,
+    "frozen_source_and_config_hashes_match": true
+  },
+  "comparison_contract": "Best paths compare actual shared-query onset anchors. Signatures include measured reference/query events, saved transforms and residuals, plus mapped missing-event hypotheses; opaque IDs and reference-local indices are excluded. Missing hypotheses are ordered chronologically, not matched as physically identical events. Exact equality is used throughout; magnitudes are reported, without a new decision tolerance.",
+  "limits": "Only stored best/retained paths and selected cached event fields are inspected. Missing-event locations/pitches are hypotheses from a memory, not observed query notes or physical causes. Differences do not prove correct memory or perceptual identity. Equality under selected fields is not full acoustic equality. No alternative path search, extraction, fit or decision change."
+}

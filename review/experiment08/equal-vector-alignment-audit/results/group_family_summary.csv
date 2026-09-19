@@ -1,0 +1,9 @@
+stratum,value,query_n,maximum_pair_n,pairs_retained_alternatives_only_multiset_equal,pairs_same_best_query_onset_anchors,pairs_best_inspected_acoustic_fields_exact_equal,pairs_retained_acoustic_path_multiset_exact_equal,pairs_best_global_transform_exact_equal,pairs_best_matched_acoustic_fields_exact_equal,pairs_best_missing_acoustic_fields_exact_equal,pairs_best_missing_anchor_regions_equal,pairs_best_inserted_acoustic_fields_exact_equal
+group_id,e08,4,21,18,21,0,0,1,1,0,3,21
+group_id,e12,3,12,4,12,0,0,1,1,0,2,12
+group_id,e14,1,1,1,1,0,0,1,0,0,1,1
+group_id,e16,4,14,3,14,0,0,0,0,0,0,14
+group_id,e20,4,19,19,19,0,0,3,3,0,3,19
+group_id,e21,1,1,1,1,0,0,1,1,0,1,1
+family,delete_two,7,30,23,30,0,0,1,1,0,3,30
+family,merged,10,38,23,38,0,0,6,5,0,7,38

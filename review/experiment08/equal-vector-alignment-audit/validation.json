@@ -1,0 +1,44 @@
+{
+  "verified_utc": "2026-09-19T19:56:51.393340+00:00",
+  "python": "3.12.14",
+  "numpy": "2.5.3",
+  "saved_original_input_hashes_preserved": 56,
+  "exact_evidence_records_checked_against_original": 85,
+  "typed_event_array_exports_checked_against_original_caches": 52,
+  "independent_stdlib_verification": {
+    "selected_queries": 17,
+    "selected_pairs": 68,
+    "saved_records": 85,
+    "saved_paths": 112,
+    "selection_exactly_matches_frozen_census": true,
+    "pair_semantics_independently_verified": true,
+    "independent_equality_counts": {
+      "best_equal": 0,
+      "same_transform": 7,
+      "same_matched_fields": 6,
+      "same_missing_fields": 0,
+      "same_missing_anchor_regions": 10,
+      "same_retained_path_multiset": 0
+    },
+    "scalar_saved_arithmetic_max_abs_error": 0.0,
+    "arithmetic_verification_tolerance": 1e-12,
+    "group_family_counts_reconcile": true
+  },
+  "clean_repeat_byte_identical_files": {
+    "cached_events.csv": "dade9057b0fb46c4fc884d220752dcdeb06787b3fb250475db4ff4232025e5a8",
+    "group_family_summary.csv": "ee20658e2306fd87c4f40d2485e0ac001993eae322b2bf2774c1cb1add32daff",
+    "inserted_query_events.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "matched_correspondences.csv": "ae25d55b81991a5442839aea0f95f8736da482f9bb376c5e5ea249d9cb8d25bc",
+    "missing_event_hypotheses.csv": "dd6f03a66dae288435548cd2d465a73ba347b7492c07d1291a239cd382e08cca",
+    "pair_comparisons.csv": "9a79ae372cc8059b329dfc67c9abc66bb4e81fd19734a678a13c968275348cbf",
+    "query_summary.csv": "8e70dbe8974e09a15946e6274cd2082291313f94fea2f56ea0b25bdd66cd71d2",
+    "saved_paths.csv": "9da01d47b06c90133f77e4bdaf803d8980e12efd7e0d7fc1af0d1e4dd5eea212",
+    "summary.json": "e6f2c8c90eca065fe94c9b064c2ac8e2f6a1b1d8ff0bebd972a05a0687d62ecf"
+  },
+  "script_sha256": {
+    "export_saved_alignments.py": "ddf8c60ed79e03b3b2f05c698f38742d09772e175714d8e814fe154f393fe781",
+    "analyze_saved_alignments.py": "258b1795164aafd6ee3310c0256ddec4a4aa368270fae1d71647d09b04465f4d",
+    "verify_saved_alignment_audit.py": "b632216dac3baebb14fe7e41a6996b5f9a9f7fe13b52eae4c6c676dfec3db114"
+  },
+  "operations": "Saved-file inventory, scoped export, arithmetic reconstruction and descriptive comparison only. No extraction, alignment search, model inference, training, experiment, threshold selection or audio regeneration."
+}

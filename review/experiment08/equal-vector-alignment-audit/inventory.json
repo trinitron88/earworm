@@ -1,0 +1,920 @@
+{
+  "status": "complete",
+  "selected_queries": 17,
+  "selected_maximum_pairs": 68,
+  "selected_evidence_records": 85,
+  "selected_descriptions": 52,
+  "saved_paths": 112,
+  "evidence_records": [
+    {
+      "query_id": "e08_query_a_delete_two",
+      "reference_id": "e08_distractor_0",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e08_query_a_delete_two",
+      "reference_id": "e08_distractor_1",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e08_query_a_delete_two",
+      "reference_id": "e08_distractor_2",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e08_query_a_delete_two",
+      "reference_id": "e08_distractor_3",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e08_query_a_delete_two",
+      "reference_id": "e08_reference_a",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e08_query_a_delete_two",
+      "reference_id": "e08_reference_b",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e08_query_a_merged",
+      "reference_id": "e08_distractor_0",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e08_query_a_merged",
+      "reference_id": "e08_distractor_1",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e08_query_a_merged",
+      "reference_id": "e08_distractor_2",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 2
+    },
+    {
+      "query_id": "e08_query_a_merged",
+      "reference_id": "e08_distractor_3",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 2
+    },
+    {
+      "query_id": "e08_query_a_merged",
+      "reference_id": "e08_distractor_4",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e08_query_a_merged",
+      "reference_id": "e08_reference_a",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e08_query_a_merged",
+      "reference_id": "e08_reference_b",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e08_query_b_delete_two",
+      "reference_id": "e08_distractor_0",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e08_query_b_delete_two",
+      "reference_id": "e08_distractor_1",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e08_query_b_delete_two",
+      "reference_id": "e08_distractor_4",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e08_query_b_delete_two",
+      "reference_id": "e08_distractor_5",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 2
+    },
+    {
+      "query_id": "e08_query_b_delete_two",
+      "reference_id": "e08_reference_a",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e08_query_b_delete_two",
+      "reference_id": "e08_reference_b",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e08_query_b_merged",
+      "reference_id": "e08_distractor_0",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e08_query_b_merged",
+      "reference_id": "e08_distractor_1",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e08_query_b_merged",
+      "reference_id": "e08_distractor_2",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e08_query_b_merged",
+      "reference_id": "e08_distractor_3",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e08_query_b_merged",
+      "reference_id": "e08_reference_a",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e08_query_b_merged",
+      "reference_id": "e08_reference_b",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e12_query_a_delete_two",
+      "reference_id": "e12_distractor_0",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 2
+    },
+    {
+      "query_id": "e12_query_a_delete_two",
+      "reference_id": "e12_distractor_1",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 2
+    },
+    {
+      "query_id": "e12_query_a_delete_two",
+      "reference_id": "e12_distractor_4",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e12_query_a_delete_two",
+      "reference_id": "e12_distractor_5",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e12_query_a_delete_two",
+      "reference_id": "e12_reference_a",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e12_query_a_merged",
+      "reference_id": "e12_distractor_0",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 2
+    },
+    {
+      "query_id": "e12_query_a_merged",
+      "reference_id": "e12_distractor_2",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e12_query_a_merged",
+      "reference_id": "e12_distractor_3",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 2
+    },
+    {
+      "query_id": "e12_query_a_merged",
+      "reference_id": "e12_distractor_4",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 2
+    },
+    {
+      "query_id": "e12_query_a_merged",
+      "reference_id": "e12_reference_a",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 2
+    },
+    {
+      "query_id": "e12_query_a_merged",
+      "reference_id": "e12_reference_b",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 2
+    },
+    {
+      "query_id": "e12_query_b_merged",
+      "reference_id": "e12_distractor_2",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 2
+    },
+    {
+      "query_id": "e12_query_b_merged",
+      "reference_id": "e12_distractor_3",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e12_query_b_merged",
+      "reference_id": "e12_reference_a",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e12_query_b_merged",
+      "reference_id": "e12_reference_b",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e14_query_a_merged",
+      "reference_id": "e14_distractor_0",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e14_query_a_merged",
+      "reference_id": "e14_reference_a",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e16_query_a_delete_two",
+      "reference_id": "e16_distractor_1",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 4
+    },
+    {
+      "query_id": "e16_query_a_delete_two",
+      "reference_id": "e16_distractor_3",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 2
+    },
+    {
+      "query_id": "e16_query_a_delete_two",
+      "reference_id": "e16_distractor_5",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 2
+    },
+    {
+      "query_id": "e16_query_a_delete_two",
+      "reference_id": "e16_reference_a",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 2
+    },
+    {
+      "query_id": "e16_query_a_delete_two",
+      "reference_id": "e16_reference_b",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 2
+    },
+    {
+      "query_id": "e16_query_a_merged",
+      "reference_id": "e16_distractor_3",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 2
+    },
+    {
+      "query_id": "e16_query_a_merged",
+      "reference_id": "e16_distractor_5",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 2
+    },
+    {
+      "query_id": "e16_query_a_merged",
+      "reference_id": "e16_reference_a",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e16_query_a_merged",
+      "reference_id": "e16_reference_b",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 2
+    },
+    {
+      "query_id": "e16_query_b_delete_two",
+      "reference_id": "e16_distractor_0",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e16_query_b_delete_two",
+      "reference_id": "e16_distractor_2",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e16_query_b_delete_two",
+      "reference_id": "e16_reference_a",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e16_query_b_delete_two",
+      "reference_id": "e16_reference_b",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e16_query_b_merged",
+      "reference_id": "e16_distractor_2",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 3
+    },
+    {
+      "query_id": "e16_query_b_merged",
+      "reference_id": "e16_distractor_3",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 2
+    },
+    {
+      "query_id": "e16_query_b_merged",
+      "reference_id": "e16_distractor_5",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 2
+    },
+    {
+      "query_id": "e16_query_b_merged",
+      "reference_id": "e16_reference_a",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 2
+    },
+    {
+      "query_id": "e16_query_b_merged",
+      "reference_id": "e16_reference_b",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 2
+    },
+    {
+      "query_id": "e20_query_a_delete_two",
+      "reference_id": "e20_distractor_0",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e20_query_a_delete_two",
+      "reference_id": "e20_distractor_4",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e20_query_a_delete_two",
+      "reference_id": "e20_distractor_5",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e20_query_a_delete_two",
+      "reference_id": "e20_reference_a",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e20_query_a_delete_two",
+      "reference_id": "e20_reference_b",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e20_query_a_merged",
+      "reference_id": "e20_distractor_0",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e20_query_a_merged",
+      "reference_id": "e20_distractor_1",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e20_query_a_merged",
+      "reference_id": "e20_distractor_2",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e20_query_a_merged",
+      "reference_id": "e20_distractor_5",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e20_query_a_merged",
+      "reference_id": "e20_reference_a",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e20_query_a_merged",
+      "reference_id": "e20_reference_b",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e20_query_b_delete_two",
+      "reference_id": "e20_distractor_0",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e20_query_b_delete_two",
+      "reference_id": "e20_distractor_2",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e20_query_b_delete_two",
+      "reference_id": "e20_distractor_3",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e20_query_b_delete_two",
+      "reference_id": "e20_distractor_5",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e20_query_b_delete_two",
+      "reference_id": "e20_reference_a",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e20_query_b_delete_two",
+      "reference_id": "e20_reference_b",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e20_query_b_merged",
+      "reference_id": "e20_distractor_0",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e20_query_b_merged",
+      "reference_id": "e20_distractor_1",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e20_query_b_merged",
+      "reference_id": "e20_distractor_2",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e20_query_b_merged",
+      "reference_id": "e20_distractor_5",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e20_query_b_merged",
+      "reference_id": "e20_reference_a",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e20_query_b_merged",
+      "reference_id": "e20_reference_b",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e21_query_a_merged",
+      "reference_id": "e21_distractor_3",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    },
+    {
+      "query_id": "e21_query_a_merged",
+      "reference_id": "e21_reference_a",
+      "status": "available",
+      "missing_fields": [],
+      "retained_path_count": 1
+    }
+  ],
+  "acoustic_descriptions": [
+    {
+      "block_id": "e08_distractor_0",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 4
+    },
+    {
+      "block_id": "e08_distractor_1",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 4
+    },
+    {
+      "block_id": "e08_distractor_2",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 4
+    },
+    {
+      "block_id": "e08_distractor_3",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 4
+    },
+    {
+      "block_id": "e08_distractor_4",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 4
+    },
+    {
+      "block_id": "e08_distractor_5",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 4
+    },
+    {
+      "block_id": "e08_query_a_delete_two",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 2
+    },
+    {
+      "block_id": "e08_query_a_merged",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 3
+    },
+    {
+      "block_id": "e08_query_b_delete_two",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 2
+    },
+    {
+      "block_id": "e08_query_b_merged",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 3
+    },
+    {
+      "block_id": "e08_reference_a",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 4
+    },
+    {
+      "block_id": "e08_reference_b",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 4
+    },
+    {
+      "block_id": "e12_distractor_0",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 4
+    },
+    {
+      "block_id": "e12_distractor_1",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 4
+    },
+    {
+      "block_id": "e12_distractor_2",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 4
+    },
+    {
+      "block_id": "e12_distractor_3",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 4
+    },
+    {
+      "block_id": "e12_distractor_4",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 4
+    },
+    {
+      "block_id": "e12_distractor_5",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 4
+    },
+    {
+      "block_id": "e12_query_a_delete_two",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 2
+    },
+    {
+      "block_id": "e12_query_a_merged",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 3
+    },
+    {
+      "block_id": "e12_query_b_merged",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 3
+    },
+    {
+      "block_id": "e12_reference_a",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 4
+    },
+    {
+      "block_id": "e12_reference_b",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 4
+    },
+    {
+      "block_id": "e14_distractor_0",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 8
+    },
+    {
+      "block_id": "e14_query_a_merged",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 7
+    },
+    {
+      "block_id": "e14_reference_a",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 8
+    },
+    {
+      "block_id": "e16_distractor_0",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 4
+    },
+    {
+      "block_id": "e16_distractor_1",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 4
+    },
+    {
+      "block_id": "e16_distractor_2",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 4
+    },
+    {
+      "block_id": "e16_distractor_3",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 4
+    },
+    {
+      "block_id": "e16_distractor_5",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 4
+    },
+    {
+      "block_id": "e16_query_a_delete_two",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 2
+    },
+    {
+      "block_id": "e16_query_a_merged",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 3
+    },
+    {
+      "block_id": "e16_query_b_delete_two",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 2
+    },
+    {
+      "block_id": "e16_query_b_merged",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 3
+    },
+    {
+      "block_id": "e16_reference_a",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 4
+    },
+    {
+      "block_id": "e16_reference_b",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 4
+    },
+    {
+      "block_id": "e20_distractor_0",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 4
+    },
+    {
+      "block_id": "e20_distractor_1",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 4
+    },
+    {
+      "block_id": "e20_distractor_2",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 4
+    },
+    {
+      "block_id": "e20_distractor_3",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 4
+    },
+    {
+      "block_id": "e20_distractor_4",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 4
+    },
+    {
+      "block_id": "e20_distractor_5",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 4
+    },
+    {
+      "block_id": "e20_query_a_delete_two",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 2
+    },
+    {
+      "block_id": "e20_query_a_merged",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 3
+    },
+    {
+      "block_id": "e20_query_b_delete_two",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 2
+    },
+    {
+      "block_id": "e20_query_b_merged",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 3
+    },
+    {
+      "block_id": "e20_reference_a",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 4
+    },
+    {
+      "block_id": "e20_reference_b",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 4
+    },
+    {
+      "block_id": "e21_distractor_3",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 6
+    },
+    {
+      "block_id": "e21_query_a_merged",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 5
+    },
+    {
+      "block_id": "e21_reference_a",
+      "status": "available",
+      "missing_fields": [],
+      "saved_event_count": 6
+    }
+  ],
+  "scope_limit": "Only previously saved best/retained paths and six event arrays are exported. Unretained paths, frame streams, waveforms and unscoped candidate records are not exported or regenerated."
+}
