@@ -1,0 +1,17 @@
+{
+  "events": 10,
+  "frames": 380,
+  "interior_frames": 300,
+  "voiced_frames": 340,
+  "phase_refined_frames": 276,
+  "finite_positive_pitch_frames": 340,
+  "nonfinite_pitch_frames": 40,
+  "absent_arrays": 0,
+  "pitch_hz_range": [
+    210.13851928710938,
+    673.100830078125
+  ],
+  "unit_conversion": "12 * log2(Hz / 220), only for finite positive values; no missing value interpolation.",
+  "interior_contract": "Inclusive [cached onset + .018, cached offset - .018]; descriptive context only. All in-bound frames remain in the export and tables.",
+  "interpretation_boundary": "Frame pitch, spectral peak, voicing and phase flags are stored estimator outputs, not verified notes or confidence guarantees. No memory agreement score, winner, fitted segment or retrieval decision is produced."
+}
