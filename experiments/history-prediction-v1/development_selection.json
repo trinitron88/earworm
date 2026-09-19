@@ -1,0 +1,175 @@
+{
+  "transition": [
+    {
+      "order": 1,
+      "cutoff": 0.1,
+      "development_log_loss": 0.983763011521808
+    },
+    {
+      "order": 1,
+      "cutoff": 0.3,
+      "development_log_loss": 0.983763011521808
+    },
+    {
+      "order": 1,
+      "cutoff": 0.6,
+      "development_log_loss": 0.983763011521808
+    },
+    {
+      "order": 2,
+      "cutoff": 0.1,
+      "development_log_loss": 0.8105267065087753
+    },
+    {
+      "order": 2,
+      "cutoff": 0.3,
+      "development_log_loss": 0.8105267065087753
+    },
+    {
+      "order": 2,
+      "cutoff": 0.6,
+      "development_log_loss": 0.8105267065087753
+    },
+    {
+      "order": 3,
+      "cutoff": 0.1,
+      "development_log_loss": 0.8105267065087753
+    },
+    {
+      "order": 3,
+      "cutoff": 0.3,
+      "development_log_loss": 0.8105267065087753
+    },
+    {
+      "order": 3,
+      "cutoff": 0.6,
+      "development_log_loss": 0.8105267065087753
+    }
+  ],
+  "retrieval_absolute": [
+    {
+      "order": 2,
+      "cutoff": 0.1,
+      "development_log_loss": 0.8105267065087753
+    },
+    {
+      "order": 2,
+      "cutoff": 0.3,
+      "development_log_loss": 0.8105267065087753
+    },
+    {
+      "order": 2,
+      "cutoff": 0.6,
+      "development_log_loss": 0.8105267065087753
+    },
+    {
+      "order": 3,
+      "cutoff": 0.1,
+      "development_log_loss": 0.8105267065087753
+    },
+    {
+      "order": 3,
+      "cutoff": 0.3,
+      "development_log_loss": 0.8105267065087753
+    },
+    {
+      "order": 3,
+      "cutoff": 0.6,
+      "development_log_loss": 0.8105267065087753
+    },
+    {
+      "order": 4,
+      "cutoff": 0.1,
+      "development_log_loss": 1.2647250151634768
+    },
+    {
+      "order": 4,
+      "cutoff": 0.3,
+      "development_log_loss": 1.2647250151634768
+    },
+    {
+      "order": 4,
+      "cutoff": 0.6,
+      "development_log_loss": 1.2647250151634768
+    }
+  ],
+  "retrieval_transposed": [
+    {
+      "order": 2,
+      "cutoff": 0.1,
+      "development_log_loss": 0.5508327179999177
+    },
+    {
+      "order": 2,
+      "cutoff": 0.3,
+      "development_log_loss": 0.5508327179999177
+    },
+    {
+      "order": 2,
+      "cutoff": 0.6,
+      "development_log_loss": 0.5564437312834529
+    },
+    {
+      "order": 3,
+      "cutoff": 0.1,
+      "development_log_loss": 0.3563283978540738
+    },
+    {
+      "order": 3,
+      "cutoff": 0.3,
+      "development_log_loss": 0.3563283978540738
+    },
+    {
+      "order": 3,
+      "cutoff": 0.6,
+      "development_log_loss": 0.3563283978540738
+    },
+    {
+      "order": 4,
+      "cutoff": 0.1,
+      "development_log_loss": 1.5715859660607716
+    },
+    {
+      "order": 4,
+      "cutoff": 0.3,
+      "development_log_loss": 1.5715859660607716
+    },
+    {
+      "order": 4,
+      "cutoff": 0.6,
+      "development_log_loss": 1.5715859660607716
+    }
+  ],
+  "relational": [
+    {
+      "order": 2,
+      "cutoff": 0.1,
+      "development_log_loss": 0.550831250517808
+    },
+    {
+      "order": 2,
+      "cutoff": 0.3,
+      "development_log_loss": 0.550831250517808
+    },
+    {
+      "order": 2,
+      "cutoff": 0.6,
+      "development_log_loss": 0.550831250517808
+    },
+    {
+      "order": 3,
+      "cutoff": 0.1,
+      "development_log_loss": 0.35632839785407466
+    },
+    {
+      "order": 3,
+      "cutoff": 0.3,
+      "development_log_loss": 0.35632839785407466
+    },
+    {
+      "order": 3,
+      "cutoff": 0.6,
+      "development_log_loss": 0.35632839785407466
+    }
+  ]
+}

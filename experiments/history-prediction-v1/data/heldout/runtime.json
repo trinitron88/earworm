@@ -1,0 +1,18 @@
+{
+  "split": "heldout",
+  "episodes": 576,
+  "additional_future_invariance_probes": 48,
+  "elapsed_seconds": 2.023338458966464,
+  "prior_elapsed_seconds": 1.071284583013039,
+  "execution_revision": "4c9a87756f15fc1f458a3ffae9cd640661a637b3",
+  "dirty_at_start": true,
+  "dirty_paths_at_start": [
+    "?? experiments/history-prediction-v1/preregistration_receipt.json"
+  ],
+  "execution_inputs_match_commit": true,
+  "execution_code_sha256": "da3b3d38418a55ee7eba5bbda8d914d979093d5e266feb9735835669df778056",
+  "model_sha256": "2a8e2115572b25c75786b01eac5a6779e4fdd22e26a4a68c8313a4e4af1e80d6",
+  "python": "3.12.14",
+  "numpy": "2.5.3",
+  "end_utc_ns": 1789858159810067000
+}

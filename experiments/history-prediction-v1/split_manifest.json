@@ -1,0 +1,259 @@
+{
+  "namespace": "earworm-history-prediction-v1/fresh/20260919",
+  "groups": [
+    {
+      "group_id": "hp1_development_00",
+      "split": "development",
+      "seed": 6863617997708254746,
+      "order": 0,
+      "transfer_shift": 7
+    },
+    {
+      "group_id": "hp1_development_01",
+      "split": "development",
+      "seed": 6454498074617208643,
+      "order": 1,
+      "transfer_shift": 7
+    },
+    {
+      "group_id": "hp1_development_02",
+      "split": "development",
+      "seed": 7908982024002500400,
+      "order": 0,
+      "transfer_shift": 7
+    },
+    {
+      "group_id": "hp1_development_03",
+      "split": "development",
+      "seed": 1940063941180965677,
+      "order": 1,
+      "transfer_shift": 7
+    },
+    {
+      "group_id": "hp1_development_04",
+      "split": "development",
+      "seed": 7339982925906164,
+      "order": 0,
+      "transfer_shift": 7
+    },
+    {
+      "group_id": "hp1_development_05",
+      "split": "development",
+      "seed": 13019404658210385662,
+      "order": 1,
+      "transfer_shift": 7
+    },
+    {
+      "group_id": "hp1_development_06",
+      "split": "development",
+      "seed": 12095735464225729395,
+      "order": 0,
+      "transfer_shift": 7
+    },
+    {
+      "group_id": "hp1_development_07",
+      "split": "development",
+      "seed": 14308955627591648556,
+      "order": 1,
+      "transfer_shift": 7
+    },
+    {
+      "group_id": "hp1_calibration_00",
+      "split": "calibration",
+      "seed": 11882900653337129643,
+      "order": 0,
+      "transfer_shift": 12
+    },
+    {
+      "group_id": "hp1_calibration_01",
+      "split": "calibration",
+      "seed": 3380869270890057052,
+      "order": 1,
+      "transfer_shift": 12
+    },
+    {
+      "group_id": "hp1_calibration_02",
+      "split": "calibration",
+      "seed": 16874537522624164761,
+      "order": 0,
+      "transfer_shift": 12
+    },
+    {
+      "group_id": "hp1_calibration_03",
+      "split": "calibration",
+      "seed": 18044621619261402598,
+      "order": 1,
+      "transfer_shift": 12
+    },
+    {
+      "group_id": "hp1_heldout_00",
+      "split": "heldout",
+      "seed": 14073089902342620132,
+      "order": 0,
+      "transfer_shift": 31
+    },
+    {
+      "group_id": "hp1_heldout_01",
+      "split": "heldout",
+      "seed": 2433543408481911667,
+      "order": 1,
+      "transfer_shift": 36
+    },
+    {
+      "group_id": "hp1_heldout_02",
+      "split": "heldout",
+      "seed": 9756267465018229319,
+      "order": 0,
+      "transfer_shift": 31
+    },
+    {
+      "group_id": "hp1_heldout_03",
+      "split": "heldout",
+      "seed": 17985686236499169761,
+      "order": 1,
+      "transfer_shift": 36
+    },
+    {
+      "group_id": "hp1_heldout_04",
+      "split": "heldout",
+      "seed": 7669483165207214676,
+      "order": 0,
+      "transfer_shift": 31
+    },
+    {
+      "group_id": "hp1_heldout_05",
+      "split": "heldout",
+      "seed": 9126464933081624352,
+      "order": 1,
+      "transfer_shift": 36
+    },
+    {
+      "group_id": "hp1_heldout_06",
+      "split": "heldout",
+      "seed": 14205722177581694477,
+      "order": 0,
+      "transfer_shift": 31
+    },
+    {
+      "group_id": "hp1_heldout_07",
+      "split": "heldout",
+      "seed": 12784780867065461555,
+      "order": 1,
+      "transfer_shift": 36
+    },
+    {
+      "group_id": "hp1_heldout_08",
+      "split": "heldout",
+      "seed": 6772341753068221567,
+      "order": 0,
+      "transfer_shift": 31
+    },
+    {
+      "group_id": "hp1_heldout_09",
+      "split": "heldout",
+      "seed": 6672901016670039983,
+      "order": 1,
+      "transfer_shift": 36
+    },
+    {
+      "group_id": "hp1_heldout_10",
+      "split": "heldout",
+      "seed": 14457201311252313812,
+      "order": 0,
+      "transfer_shift": 31
+    },
+    {
+      "group_id": "hp1_heldout_11",
+      "split": "heldout",
+      "seed": 12729599082132490436,
+      "order": 1,
+      "transfer_shift": 36
+    },
+    {
+      "group_id": "hp1_heldout_12",
+      "split": "heldout",
+      "seed": 8775499358223841128,
+      "order": 0,
+      "transfer_shift": 31
+    },
+    {
+      "group_id": "hp1_heldout_13",
+      "split": "heldout",
+      "seed": 1786704558598142658,
+      "order": 1,
+      "transfer_shift": 36
+    },
+    {
+      "group_id": "hp1_heldout_14",
+      "split": "heldout",
+      "seed": 1910276431350141568,
+      "order": 0,
+      "transfer_shift": 31
+    },
+    {
+      "group_id": "hp1_heldout_15",
+      "split": "heldout",
+      "seed": 11485308365742278346,
+      "order": 1,
+      "transfer_shift": 36
+    },
+    {
+      "group_id": "hp1_heldout_16",
+      "split": "heldout",
+      "seed": 4846457428736804012,
+      "order": 0,
+      "transfer_shift": 31
+    },
+    {
+      "group_id": "hp1_heldout_17",
+      "split": "heldout",
+      "seed": 3922683000313584632,
+      "order": 1,
+      "transfer_shift": 36
+    },
+    {
+      "group_id": "hp1_heldout_18",
+      "split": "heldout",
+      "seed": 5958032741826849902,
+      "order": 0,
+      "transfer_shift": 31
+    },
+    {
+      "group_id": "hp1_heldout_19",
+      "split": "heldout",
+      "seed": 10868835412976898958,
+      "order": 1,
+      "transfer_shift": 36
+    },
+    {
+      "group_id": "hp1_heldout_20",
+      "split": "heldout",
+      "seed": 7825471037726837958,
+      "order": 0,
+      "transfer_shift": 31
+    },
+    {
+      "group_id": "hp1_heldout_21",
+      "split": "heldout",
+      "seed": 3150248132776567061,
+      "order": 1,
+      "transfer_shift": 36
+    },
+    {
+      "group_id": "hp1_heldout_22",
+      "split": "heldout",
+      "seed": 18211925481996556979,
+      "order": 0,
+      "transfer_shift": 31
+    },
+    {
+      "group_id": "hp1_heldout_23",
+      "split": "heldout",
+      "seed": 13241436458546712462,
+      "order": 1,
+      "transfer_shift": 36
+    }
+  ],
+  "all_variants_stay_with_group": true,
+  "E08_groups_reused": false
+}

@@ -1,0 +1,2594 @@
+[
+  {
+    "group_id": "hp1_heldout_00",
+    "family": "basic",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_00",
+    "family": "basic",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_00",
+    "family": "basic",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_00",
+    "family": "basic",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_00",
+    "family": "basic",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_00",
+    "family": "basic",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_00",
+    "family": "transfer",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_00",
+    "family": "transfer",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_00",
+    "family": "transfer",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_00",
+    "family": "transfer",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_00",
+    "family": "transfer",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_00",
+    "family": "transfer",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_01",
+    "family": "basic",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_01",
+    "family": "basic",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_01",
+    "family": "basic",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_01",
+    "family": "basic",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_01",
+    "family": "basic",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_01",
+    "family": "basic",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_01",
+    "family": "transfer",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_01",
+    "family": "transfer",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_01",
+    "family": "transfer",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_01",
+    "family": "transfer",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_01",
+    "family": "transfer",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_01",
+    "family": "transfer",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_02",
+    "family": "basic",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_02",
+    "family": "basic",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_02",
+    "family": "basic",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_02",
+    "family": "basic",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_02",
+    "family": "basic",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_02",
+    "family": "basic",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_02",
+    "family": "transfer",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_02",
+    "family": "transfer",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_02",
+    "family": "transfer",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_02",
+    "family": "transfer",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_02",
+    "family": "transfer",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_02",
+    "family": "transfer",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_03",
+    "family": "basic",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_03",
+    "family": "basic",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_03",
+    "family": "basic",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_03",
+    "family": "basic",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_03",
+    "family": "basic",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_03",
+    "family": "basic",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_03",
+    "family": "transfer",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_03",
+    "family": "transfer",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_03",
+    "family": "transfer",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_03",
+    "family": "transfer",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_03",
+    "family": "transfer",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_03",
+    "family": "transfer",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_04",
+    "family": "basic",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_04",
+    "family": "basic",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_04",
+    "family": "basic",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_04",
+    "family": "basic",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_04",
+    "family": "basic",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_04",
+    "family": "basic",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_04",
+    "family": "transfer",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_04",
+    "family": "transfer",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_04",
+    "family": "transfer",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_04",
+    "family": "transfer",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_04",
+    "family": "transfer",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_04",
+    "family": "transfer",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_05",
+    "family": "basic",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_05",
+    "family": "basic",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_05",
+    "family": "basic",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_05",
+    "family": "basic",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_05",
+    "family": "basic",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_05",
+    "family": "basic",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_05",
+    "family": "transfer",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_05",
+    "family": "transfer",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_05",
+    "family": "transfer",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_05",
+    "family": "transfer",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_05",
+    "family": "transfer",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_05",
+    "family": "transfer",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_06",
+    "family": "basic",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_06",
+    "family": "basic",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_06",
+    "family": "basic",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_06",
+    "family": "basic",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_06",
+    "family": "basic",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_06",
+    "family": "basic",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_06",
+    "family": "transfer",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_06",
+    "family": "transfer",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_06",
+    "family": "transfer",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_06",
+    "family": "transfer",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_06",
+    "family": "transfer",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_06",
+    "family": "transfer",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_07",
+    "family": "basic",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_07",
+    "family": "basic",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_07",
+    "family": "basic",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_07",
+    "family": "basic",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_07",
+    "family": "basic",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_07",
+    "family": "basic",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_07",
+    "family": "transfer",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_07",
+    "family": "transfer",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_07",
+    "family": "transfer",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_07",
+    "family": "transfer",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_07",
+    "family": "transfer",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_07",
+    "family": "transfer",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_08",
+    "family": "basic",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_08",
+    "family": "basic",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_08",
+    "family": "basic",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_08",
+    "family": "basic",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_08",
+    "family": "basic",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_08",
+    "family": "basic",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_08",
+    "family": "transfer",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_08",
+    "family": "transfer",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_08",
+    "family": "transfer",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_08",
+    "family": "transfer",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_08",
+    "family": "transfer",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_08",
+    "family": "transfer",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_09",
+    "family": "basic",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_09",
+    "family": "basic",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_09",
+    "family": "basic",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_09",
+    "family": "basic",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_09",
+    "family": "basic",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_09",
+    "family": "basic",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_09",
+    "family": "transfer",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_09",
+    "family": "transfer",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_09",
+    "family": "transfer",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_09",
+    "family": "transfer",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_09",
+    "family": "transfer",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_09",
+    "family": "transfer",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_10",
+    "family": "basic",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_10",
+    "family": "basic",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_10",
+    "family": "basic",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_10",
+    "family": "basic",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_10",
+    "family": "basic",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_10",
+    "family": "basic",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_10",
+    "family": "transfer",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_10",
+    "family": "transfer",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_10",
+    "family": "transfer",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_10",
+    "family": "transfer",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_10",
+    "family": "transfer",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_10",
+    "family": "transfer",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_11",
+    "family": "basic",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_11",
+    "family": "basic",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_11",
+    "family": "basic",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_11",
+    "family": "basic",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_11",
+    "family": "basic",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_11",
+    "family": "basic",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_11",
+    "family": "transfer",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_11",
+    "family": "transfer",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_11",
+    "family": "transfer",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_11",
+    "family": "transfer",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_11",
+    "family": "transfer",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_11",
+    "family": "transfer",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_12",
+    "family": "basic",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_12",
+    "family": "basic",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_12",
+    "family": "basic",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_12",
+    "family": "basic",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_12",
+    "family": "basic",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_12",
+    "family": "basic",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_12",
+    "family": "transfer",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_12",
+    "family": "transfer",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_12",
+    "family": "transfer",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_12",
+    "family": "transfer",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_12",
+    "family": "transfer",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_12",
+    "family": "transfer",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_13",
+    "family": "basic",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_13",
+    "family": "basic",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_13",
+    "family": "basic",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_13",
+    "family": "basic",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_13",
+    "family": "basic",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_13",
+    "family": "basic",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_13",
+    "family": "transfer",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_13",
+    "family": "transfer",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_13",
+    "family": "transfer",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_13",
+    "family": "transfer",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_13",
+    "family": "transfer",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_13",
+    "family": "transfer",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_14",
+    "family": "basic",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_14",
+    "family": "basic",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_14",
+    "family": "basic",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_14",
+    "family": "basic",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_14",
+    "family": "basic",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_14",
+    "family": "basic",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_14",
+    "family": "transfer",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_14",
+    "family": "transfer",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_14",
+    "family": "transfer",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_14",
+    "family": "transfer",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_14",
+    "family": "transfer",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_14",
+    "family": "transfer",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_15",
+    "family": "basic",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_15",
+    "family": "basic",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_15",
+    "family": "basic",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_15",
+    "family": "basic",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_15",
+    "family": "basic",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_15",
+    "family": "basic",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_15",
+    "family": "transfer",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_15",
+    "family": "transfer",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_15",
+    "family": "transfer",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_15",
+    "family": "transfer",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_15",
+    "family": "transfer",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_15",
+    "family": "transfer",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_16",
+    "family": "basic",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_16",
+    "family": "basic",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_16",
+    "family": "basic",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_16",
+    "family": "basic",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_16",
+    "family": "basic",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_16",
+    "family": "basic",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_16",
+    "family": "transfer",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_16",
+    "family": "transfer",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_16",
+    "family": "transfer",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_16",
+    "family": "transfer",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_16",
+    "family": "transfer",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_16",
+    "family": "transfer",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_17",
+    "family": "basic",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_17",
+    "family": "basic",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_17",
+    "family": "basic",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_17",
+    "family": "basic",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_17",
+    "family": "basic",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_17",
+    "family": "basic",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_17",
+    "family": "transfer",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_17",
+    "family": "transfer",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_17",
+    "family": "transfer",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_17",
+    "family": "transfer",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_17",
+    "family": "transfer",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_17",
+    "family": "transfer",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_18",
+    "family": "basic",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_18",
+    "family": "basic",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_18",
+    "family": "basic",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_18",
+    "family": "basic",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_18",
+    "family": "basic",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_18",
+    "family": "basic",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_18",
+    "family": "transfer",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_18",
+    "family": "transfer",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_18",
+    "family": "transfer",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_18",
+    "family": "transfer",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_18",
+    "family": "transfer",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_18",
+    "family": "transfer",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_19",
+    "family": "basic",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_19",
+    "family": "basic",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_19",
+    "family": "basic",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_19",
+    "family": "basic",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_19",
+    "family": "basic",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_19",
+    "family": "basic",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_19",
+    "family": "transfer",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_19",
+    "family": "transfer",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_19",
+    "family": "transfer",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_19",
+    "family": "transfer",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_19",
+    "family": "transfer",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_19",
+    "family": "transfer",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_20",
+    "family": "basic",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_20",
+    "family": "basic",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_20",
+    "family": "basic",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_20",
+    "family": "basic",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_20",
+    "family": "basic",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_20",
+    "family": "basic",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_20",
+    "family": "transfer",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_20",
+    "family": "transfer",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_20",
+    "family": "transfer",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_20",
+    "family": "transfer",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_20",
+    "family": "transfer",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_20",
+    "family": "transfer",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_21",
+    "family": "basic",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_21",
+    "family": "basic",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_21",
+    "family": "basic",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_21",
+    "family": "basic",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_21",
+    "family": "basic",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_21",
+    "family": "basic",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_21",
+    "family": "transfer",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_21",
+    "family": "transfer",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_21",
+    "family": "transfer",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_21",
+    "family": "transfer",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_21",
+    "family": "transfer",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_21",
+    "family": "transfer",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_22",
+    "family": "basic",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_22",
+    "family": "basic",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_22",
+    "family": "basic",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_22",
+    "family": "basic",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_22",
+    "family": "basic",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_22",
+    "family": "basic",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_22",
+    "family": "transfer",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_22",
+    "family": "transfer",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_22",
+    "family": "transfer",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_22",
+    "family": "transfer",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_22",
+    "family": "transfer",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_22",
+    "family": "transfer",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_23",
+    "family": "basic",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_23",
+    "family": "basic",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_23",
+    "family": "basic",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_23",
+    "family": "basic",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_23",
+    "family": "basic",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_23",
+    "family": "basic",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_23",
+    "family": "transfer",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_23",
+    "family": "transfer",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_23",
+    "family": "transfer",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_23",
+    "family": "transfer",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_23",
+    "family": "transfer",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_heldout_23",
+    "family": "transfer",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  }
+]

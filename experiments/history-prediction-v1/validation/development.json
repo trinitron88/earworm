@@ -1,0 +1,29 @@
+{
+  "status": "pass",
+  "split": "development",
+  "groups": 8,
+  "episodes": 192,
+  "forecasts_independently_reconstructed": 1152,
+  "max_probability_reconstruction_error": 2.220446049250313e-16,
+  "hash_chain_records": 3888,
+  "invariance_checks": 16,
+  "transfer_min_distance_from_training_semitones": null,
+  "validity_gates": {
+    "paired_bytes_inventory_duration": true,
+    "identical_probe_and_final_history": true,
+    "disjoint_group_seed_splits": true,
+    "prefix_only_api_and_guard": true,
+    "forecast_before_reveal": true,
+    "future_invariance": true,
+    "common_observation_budget": true,
+    "no_eviction": true,
+    "control_truth_semantics": true,
+    "transfer_novelty": true
+  },
+  "named_decisions": {
+    "causality": "Accept causal forecasts only if arrival ordering, prefix reconstruction, IPC schema and access guard reconcile; otherwise withhold causal claim.",
+    "balance_and_novelty": "Accept history/transfer comparison only if paired sound inventory, probe equality, split isolation and target novelty hold.",
+    "numerics": "Accept prediction scores only if independent probability and proper-score reconstruction agree.",
+    "limits": "This checks the instrumented implementation and saved trace, not an adversarial OS sandbox or human perceptual identity."
+  }
+}

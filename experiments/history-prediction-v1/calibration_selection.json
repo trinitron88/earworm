@@ -1,0 +1,986 @@
+{
+  "present": [
+    {
+      "temperature": 0.05,
+      "sigma": 0.08,
+      "floor": 0.001,
+      "calibration_log_loss": 1.2564027497070898
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.08,
+      "floor": 0.01,
+      "calibration_log_loss": 1.2647250151634755
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.08,
+      "floor": 0.05,
+      "calibration_log_loss": 1.3025768573018988
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.2,
+      "floor": 0.001,
+      "calibration_log_loss": 1.2564027497070898
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.2,
+      "floor": 0.01,
+      "calibration_log_loss": 1.2647250151634755
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.2,
+      "floor": 0.05,
+      "calibration_log_loss": 1.3025768573018988
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.4,
+      "floor": 0.001,
+      "calibration_log_loss": 1.2564027497070898
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.4,
+      "floor": 0.01,
+      "calibration_log_loss": 1.2647250151634755
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.4,
+      "floor": 0.05,
+      "calibration_log_loss": 1.3025768573018988
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.08,
+      "floor": 0.001,
+      "calibration_log_loss": 1.2564027497070898
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.08,
+      "floor": 0.01,
+      "calibration_log_loss": 1.2647250151634755
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.08,
+      "floor": 0.05,
+      "calibration_log_loss": 1.3025768573018988
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.2,
+      "floor": 0.001,
+      "calibration_log_loss": 1.2564027497070898
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.2,
+      "floor": 0.01,
+      "calibration_log_loss": 1.2647250151634755
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.2,
+      "floor": 0.05,
+      "calibration_log_loss": 1.3025768573018988
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.4,
+      "floor": 0.001,
+      "calibration_log_loss": 1.2564027497070898
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.4,
+      "floor": 0.01,
+      "calibration_log_loss": 1.2647250151634755
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.4,
+      "floor": 0.05,
+      "calibration_log_loss": 1.3025768573018988
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.08,
+      "floor": 0.001,
+      "calibration_log_loss": 1.2564027497070898
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.08,
+      "floor": 0.01,
+      "calibration_log_loss": 1.2647250151634755
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.08,
+      "floor": 0.05,
+      "calibration_log_loss": 1.3025768573018988
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.2,
+      "floor": 0.001,
+      "calibration_log_loss": 1.2564027497070898
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.2,
+      "floor": 0.01,
+      "calibration_log_loss": 1.2647250151634755
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.2,
+      "floor": 0.05,
+      "calibration_log_loss": 1.3025768573018988
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.4,
+      "floor": 0.001,
+      "calibration_log_loss": 1.2564027497070898
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.4,
+      "floor": 0.01,
+      "calibration_log_loss": 1.2647250151634755
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.4,
+      "floor": 0.05,
+      "calibration_log_loss": 1.3025768573018988
+    }
+  ],
+  "recency": [
+    {
+      "temperature": 0.05,
+      "sigma": 0.08,
+      "floor": 0.001,
+      "calibration_log_loss": 2.6410616272921
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.08,
+      "floor": 0.01,
+      "calibration_log_loss": 2.2643235980208254
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.08,
+      "floor": 0.05,
+      "calibration_log_loss": 2.028050654104413
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.2,
+      "floor": 0.001,
+      "calibration_log_loss": 2.6410628694803324
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.2,
+      "floor": 0.01,
+      "calibration_log_loss": 2.2643248399830234
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.2,
+      "floor": 0.05,
+      "calibration_log_loss": 2.028051895011291
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.4,
+      "floor": 0.001,
+      "calibration_log_loss": 2.655100011089584
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.4,
+      "floor": 0.01,
+      "calibration_log_loss": 2.27835931670003
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.4,
+      "floor": 0.05,
+      "calibration_log_loss": 2.0420739302749467
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.08,
+      "floor": 0.001,
+      "calibration_log_loss": 2.6410616272921
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.08,
+      "floor": 0.01,
+      "calibration_log_loss": 2.2643235980208254
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.08,
+      "floor": 0.05,
+      "calibration_log_loss": 2.028050654104413
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.2,
+      "floor": 0.001,
+      "calibration_log_loss": 2.6410628694803324
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.2,
+      "floor": 0.01,
+      "calibration_log_loss": 2.2643248399830234
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.2,
+      "floor": 0.05,
+      "calibration_log_loss": 2.028051895011291
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.4,
+      "floor": 0.001,
+      "calibration_log_loss": 2.655100011089584
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.4,
+      "floor": 0.01,
+      "calibration_log_loss": 2.27835931670003
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.4,
+      "floor": 0.05,
+      "calibration_log_loss": 2.0420739302749467
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.08,
+      "floor": 0.001,
+      "calibration_log_loss": 2.6410616272921
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.08,
+      "floor": 0.01,
+      "calibration_log_loss": 2.2643235980208254
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.08,
+      "floor": 0.05,
+      "calibration_log_loss": 2.028050654104413
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.2,
+      "floor": 0.001,
+      "calibration_log_loss": 2.6410628694803324
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.2,
+      "floor": 0.01,
+      "calibration_log_loss": 2.2643248399830234
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.2,
+      "floor": 0.05,
+      "calibration_log_loss": 2.028051895011291
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.4,
+      "floor": 0.001,
+      "calibration_log_loss": 2.655100011089584
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.4,
+      "floor": 0.01,
+      "calibration_log_loss": 2.27835931670003
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.4,
+      "floor": 0.05,
+      "calibration_log_loss": 2.0420739302749467
+    }
+  ],
+  "transition": [
+    {
+      "temperature": 0.05,
+      "sigma": 0.08,
+      "floor": 0.001,
+      "calibration_log_loss": 0.895689256737806
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.08,
+      "floor": 0.01,
+      "calibration_log_loss": 0.9041782239236665
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.08,
+      "floor": 0.05,
+      "calibration_log_loss": 0.9428063277063456
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.2,
+      "floor": 0.001,
+      "calibration_log_loss": 0.8956917411018339
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.2,
+      "floor": 0.01,
+      "calibration_log_loss": 0.9041807077226603
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.2,
+      "floor": 0.05,
+      "calibration_log_loss": 0.9428088088683603
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.4,
+      "floor": 0.001,
+      "calibration_log_loss": 0.9237658777255534
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.4,
+      "floor": 0.01,
+      "calibration_log_loss": 0.9322481827332311
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.4,
+      "floor": 0.05,
+      "calibration_log_loss": 0.9708451965072097
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.08,
+      "floor": 0.001,
+      "calibration_log_loss": 0.895689256737806
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.08,
+      "floor": 0.01,
+      "calibration_log_loss": 0.9041782239236665
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.08,
+      "floor": 0.05,
+      "calibration_log_loss": 0.9428063277063456
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.2,
+      "floor": 0.001,
+      "calibration_log_loss": 0.8956917411018339
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.2,
+      "floor": 0.01,
+      "calibration_log_loss": 0.9041807077226603
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.2,
+      "floor": 0.05,
+      "calibration_log_loss": 0.9428088088683603
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.4,
+      "floor": 0.001,
+      "calibration_log_loss": 0.9237658777255534
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.4,
+      "floor": 0.01,
+      "calibration_log_loss": 0.9322481827332311
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.4,
+      "floor": 0.05,
+      "calibration_log_loss": 0.9708451965072097
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.08,
+      "floor": 0.001,
+      "calibration_log_loss": 0.895689256737806
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.08,
+      "floor": 0.01,
+      "calibration_log_loss": 0.9041782239236665
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.08,
+      "floor": 0.05,
+      "calibration_log_loss": 0.9428063277063456
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.2,
+      "floor": 0.001,
+      "calibration_log_loss": 0.8956917411018339
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.2,
+      "floor": 0.01,
+      "calibration_log_loss": 0.9041807077226603
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.2,
+      "floor": 0.05,
+      "calibration_log_loss": 0.9428088088683603
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.4,
+      "floor": 0.001,
+      "calibration_log_loss": 0.9237658777255534
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.4,
+      "floor": 0.01,
+      "calibration_log_loss": 0.9322481827332311
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.4,
+      "floor": 0.05,
+      "calibration_log_loss": 0.9708451965072097
+    }
+  ],
+  "retrieval_absolute": [
+    {
+      "temperature": 0.05,
+      "sigma": 0.08,
+      "floor": 0.001,
+      "calibration_log_loss": 0.895689256737806
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.08,
+      "floor": 0.01,
+      "calibration_log_loss": 0.9041782239236665
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.08,
+      "floor": 0.05,
+      "calibration_log_loss": 0.9428063277063456
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.2,
+      "floor": 0.001,
+      "calibration_log_loss": 0.8956917411018339
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.2,
+      "floor": 0.01,
+      "calibration_log_loss": 0.9041807077226603
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.2,
+      "floor": 0.05,
+      "calibration_log_loss": 0.9428088088683603
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.4,
+      "floor": 0.001,
+      "calibration_log_loss": 0.9237658777255534
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.4,
+      "floor": 0.01,
+      "calibration_log_loss": 0.9322481827332311
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.4,
+      "floor": 0.05,
+      "calibration_log_loss": 0.9708451965072097
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.08,
+      "floor": 0.001,
+      "calibration_log_loss": 0.895689256737806
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.08,
+      "floor": 0.01,
+      "calibration_log_loss": 0.9041782239236665
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.08,
+      "floor": 0.05,
+      "calibration_log_loss": 0.9428063277063456
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.2,
+      "floor": 0.001,
+      "calibration_log_loss": 0.8956917411018339
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.2,
+      "floor": 0.01,
+      "calibration_log_loss": 0.9041807077226603
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.2,
+      "floor": 0.05,
+      "calibration_log_loss": 0.9428088088683603
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.4,
+      "floor": 0.001,
+      "calibration_log_loss": 0.9237658777255534
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.4,
+      "floor": 0.01,
+      "calibration_log_loss": 0.9322481827332311
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.4,
+      "floor": 0.05,
+      "calibration_log_loss": 0.9708451965072097
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.08,
+      "floor": 0.001,
+      "calibration_log_loss": 0.895689256737806
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.08,
+      "floor": 0.01,
+      "calibration_log_loss": 0.9041782239236665
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.08,
+      "floor": 0.05,
+      "calibration_log_loss": 0.9428063277063456
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.2,
+      "floor": 0.001,
+      "calibration_log_loss": 0.8956917411018339
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.2,
+      "floor": 0.01,
+      "calibration_log_loss": 0.9041807077226603
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.2,
+      "floor": 0.05,
+      "calibration_log_loss": 0.9428088088683603
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.4,
+      "floor": 0.001,
+      "calibration_log_loss": 0.9237658777255534
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.4,
+      "floor": 0.01,
+      "calibration_log_loss": 0.9322481827332311
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.4,
+      "floor": 0.05,
+      "calibration_log_loss": 0.9708451965072097
+    }
+  ],
+  "retrieval_transposed": [
+    {
+      "temperature": 0.05,
+      "sigma": 0.08,
+      "floor": 0.001,
+      "calibration_log_loss": 0.5349757637685223
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.08,
+      "floor": 0.01,
+      "calibration_log_loss": 0.5436314326838573
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.08,
+      "floor": 0.05,
+      "calibration_log_loss": 0.5830357981107923
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.2,
+      "floor": 0.001,
+      "calibration_log_loss": 0.5349807324965766
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.2,
+      "floor": 0.01,
+      "calibration_log_loss": 0.5436364002818438
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.2,
+      "floor": 0.05,
+      "calibration_log_loss": 0.5830407604348203
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.4,
+      "floor": 0.001,
+      "calibration_log_loss": 0.5911290057429676
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.4,
+      "floor": 0.01,
+      "calibration_log_loss": 0.5997713503019377
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.4,
+      "floor": 0.05,
+      "calibration_log_loss": 0.639113535711473
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.08,
+      "floor": 0.001,
+      "calibration_log_loss": 0.5349757637685223
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.08,
+      "floor": 0.01,
+      "calibration_log_loss": 0.5436314326838573
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.08,
+      "floor": 0.05,
+      "calibration_log_loss": 0.5830357981107923
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.2,
+      "floor": 0.001,
+      "calibration_log_loss": 0.5349807324965766
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.2,
+      "floor": 0.01,
+      "calibration_log_loss": 0.5436364002818438
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.2,
+      "floor": 0.05,
+      "calibration_log_loss": 0.5830407604348203
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.4,
+      "floor": 0.001,
+      "calibration_log_loss": 0.5911290057429676
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.4,
+      "floor": 0.01,
+      "calibration_log_loss": 0.5997713503019377
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.4,
+      "floor": 0.05,
+      "calibration_log_loss": 0.639113535711473
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.08,
+      "floor": 0.001,
+      "calibration_log_loss": 0.5349757637685223
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.08,
+      "floor": 0.01,
+      "calibration_log_loss": 0.5436314326838573
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.08,
+      "floor": 0.05,
+      "calibration_log_loss": 0.5830357981107923
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.2,
+      "floor": 0.001,
+      "calibration_log_loss": 0.5349807324965766
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.2,
+      "floor": 0.01,
+      "calibration_log_loss": 0.5436364002818438
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.2,
+      "floor": 0.05,
+      "calibration_log_loss": 0.5830407604348203
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.4,
+      "floor": 0.001,
+      "calibration_log_loss": 0.5911290057429676
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.4,
+      "floor": 0.01,
+      "calibration_log_loss": 0.5997713503019377
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.4,
+      "floor": 0.05,
+      "calibration_log_loss": 0.639113535711473
+    }
+  ],
+  "relational": [
+    {
+      "temperature": 0.05,
+      "sigma": 0.08,
+      "floor": 0.001,
+      "calibration_log_loss": 0.5349757637685223
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.08,
+      "floor": 0.01,
+      "calibration_log_loss": 0.5436314326838573
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.08,
+      "floor": 0.05,
+      "calibration_log_loss": 0.5830357981107923
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.2,
+      "floor": 0.001,
+      "calibration_log_loss": 0.5349807324965781
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.2,
+      "floor": 0.01,
+      "calibration_log_loss": 0.5436364002818453
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.2,
+      "floor": 0.05,
+      "calibration_log_loss": 0.5830407604348219
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.4,
+      "floor": 0.001,
+      "calibration_log_loss": 0.5911290057440169
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.4,
+      "floor": 0.01,
+      "calibration_log_loss": 0.5997713503029868
+    },
+    {
+      "temperature": 0.05,
+      "sigma": 0.4,
+      "floor": 0.05,
+      "calibration_log_loss": 0.6391135357125209
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.08,
+      "floor": 0.001,
+      "calibration_log_loss": 0.5349757637685223
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.08,
+      "floor": 0.01,
+      "calibration_log_loss": 0.5436314326838573
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.08,
+      "floor": 0.05,
+      "calibration_log_loss": 0.5830357981107923
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.2,
+      "floor": 0.001,
+      "calibration_log_loss": 0.5349807324965781
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.2,
+      "floor": 0.01,
+      "calibration_log_loss": 0.5436364002818453
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.2,
+      "floor": 0.05,
+      "calibration_log_loss": 0.5830407604348219
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.4,
+      "floor": 0.001,
+      "calibration_log_loss": 0.5911290057440169
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.4,
+      "floor": 0.01,
+      "calibration_log_loss": 0.5997713503029868
+    },
+    {
+      "temperature": 0.2,
+      "sigma": 0.4,
+      "floor": 0.05,
+      "calibration_log_loss": 0.6391135357125209
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.08,
+      "floor": 0.001,
+      "calibration_log_loss": 0.5349757637685223
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.08,
+      "floor": 0.01,
+      "calibration_log_loss": 0.5436314326838573
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.08,
+      "floor": 0.05,
+      "calibration_log_loss": 0.5830357981107923
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.2,
+      "floor": 0.001,
+      "calibration_log_loss": 0.5349807324965781
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.2,
+      "floor": 0.01,
+      "calibration_log_loss": 0.5436364002818453
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.2,
+      "floor": 0.05,
+      "calibration_log_loss": 0.5830407604348219
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.4,
+      "floor": 0.001,
+      "calibration_log_loss": 0.5911290057440169
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.4,
+      "floor": 0.01,
+      "calibration_log_loss": 0.5997713503029868
+    },
+    {
+      "temperature": 0.5,
+      "sigma": 0.4,
+      "floor": 0.05,
+      "calibration_log_loss": 0.6391135357125209
+    }
+  ]
+}
