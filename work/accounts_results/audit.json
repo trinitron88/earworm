@@ -1,0 +1,25 @@
+{
+  "earlier_files_unchanged": 12351,
+  "changed_prior_files": [],
+  "frozen_sources_unchanged": true,
+  "fresh_disjoint_patterns": 264,
+  "split_patterns_disjoint": true,
+  "pcm_hashes_verified": 1128,
+  "description_digests_verified": 1080,
+  "freeze_before_heldout_extraction": true,
+  "no_stacks_in_fitting_or_calibration": true,
+  "fit_reproduced_pairs": 1200,
+  "calibration_selection_recomputed": true,
+  "trial_rows_recomputed": 13824,
+  "no_physical_cause_assertions": true,
+  "fresh_pair_and_handle_invariance_checks": [
+    "e08_query_a_delete_rest",
+    "e09_query_a_mask_present",
+    "e10_query_a_delete_timing",
+    "e11_query_a_delete_detune"
+  ],
+  "fresh_decisions_equal_batch": 84,
+  "availability_checks_pass": true,
+  "future_prefix_pairs": 4,
+  "diagnostic_source": "Known-reference ceilings separated from actually retrieved joint metric."
+}

@@ -1,0 +1,39 @@
+{
+  "configs": {
+    "scalar06": {
+      "threshold": -0.018333334128061932,
+      "origin": "Frozen06"
+    },
+    "count_offset_top": {
+      "threshold": -0.018333334128061932,
+      "development_correct_singletons": 144,
+      "development_false_acceptances": 0,
+      "positive_n": 144,
+      "negative_n": 144,
+      "origin": "06development only"
+    },
+    "evidence_sets": {
+      "max_residual_per_match": 0.018333334128061932,
+      "development_correct_singletons": 144,
+      "development_false_acceptances": 0,
+      "positive_n": 144,
+      "negative_n": 144,
+      "origin": "06development only"
+    }
+  },
+  "frozen_utc": "2026-09-19T03:05:29.467717+00:00",
+  "source_sha256": {
+    "confidence_investigation.py": "237398f6d7cfa7a15f52378a3884924317c872d2cb73aaade235d7545bce8b53",
+    "confidence_reader.py": "4ee1788958ec092fbe0f3ff0a808ebb476cd5ef23758a8295918e47cc54ec4b5"
+  },
+  "development_groups": [
+    "s00",
+    "s01",
+    "s02",
+    "s03",
+    "s04",
+    "s05",
+    "s06",
+    "s07"
+  ]
+}

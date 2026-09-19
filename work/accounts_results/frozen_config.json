@@ -1,0 +1,99 @@
+{
+  "mean": [
+    1.424023558379317,
+    1.5923826710523905,
+    0.6079292328042318,
+    0.6662016293891287,
+    0.9563445653924716,
+    0.7670006613756613,
+    0.8911349402904256,
+    0.392070767195768,
+    0.3337983706108704,
+    0.03256613756613769,
+    2.0310048738727815,
+    1.955976355856374
+  ],
+  "scale": [
+    28.839434573599693,
+    0.32247307413628085,
+    0.16871370270706523,
+    0.1841884855109096,
+    28.85229472495839,
+    0.2776053319402254,
+    28.853889816902644,
+    0.16871370270706518,
+    0.18418848551090924,
+    0.0759914199575819,
+    0.29722327461291553,
+    0.34433484181595764
+  ],
+  "coef": [
+    -0.10067515138039233,
+    0.3237922503675114,
+    0.8894460940114841,
+    1.2572359171587626,
+    -0.04978551389297523,
+    4.01406717154738,
+    -0.05909025700431892,
+    -0.88944609401149,
+    -1.2572359171587628,
+    -0.1901067659209956,
+    -0.45896887318568824,
+    -0.5436830291102611
+  ],
+  "intercept": -7.356364000313694,
+  "feature_names": [
+    "cost",
+    "matched_log",
+    "reference_coverage",
+    "query_coverage",
+    "mean_pitch_loss",
+    "exact_pitch_fraction",
+    "mean_timing_loss",
+    "missing_fraction",
+    "inserted_fraction",
+    "unreliable_query_fraction",
+    "reference_log",
+    "query_log"
+  ],
+  "fit_pairs": 1200,
+  "fit_positive_pairs": 120,
+  "threshold": 3.6264131202365606,
+  "baseline_thresholds": {
+    "count": 5e-324,
+    "envelope": -0.0018214749688952312
+  },
+  "calibration": {
+    "accounts": {
+      "threshold": 3.6264131202365606,
+      "correct_singletons": 37,
+      "false_acceptances": 1,
+      "positive_n": 120,
+      "negative_n": 120
+    },
+    "count": {
+      "threshold": 5e-324,
+      "correct_singletons": 0,
+      "false_acceptances": 0,
+      "positive_n": 120,
+      "negative_n": 120
+    },
+    "envelope": {
+      "threshold": -0.0018214749688952312,
+      "correct_singletons": 15,
+      "false_acceptances": 5,
+      "positive_n": 120,
+      "negative_n": 120
+    }
+  },
+  "frozen_utc": "2026-09-19T07:36:18.789612+00:00",
+  "source_sha256": {
+    "accounts_stimuli.py": "d141a6fbcb39a921765739ad64da8440f34743727c484672afec841794079820",
+    "accounts_reader.py": "783e1dc1968d553c83706dcc412f648fcb21f74a91c407c235d1f3a7fe037a88",
+    "accounts_experiment.py": "3e33ceef4f2b64ee5ff1206b869476a47bde1ff96504037a9f616d2fbbf30b59",
+    "remember_changes_acoustics.py": "33cb2b5881375374e4da6f45723be0ca117aa1674b8d41fccf8da9ecd7533ca4",
+    "confidence_reader.py": "4ee1788958ec092fbe0f3ff0a808ebb476cd5ef23758a8295918e47cc54ec4b5",
+    "incomplete_matcher.py": "e7e92d0b7128da018c65616b04a8d965ca77ad0ec5673414550bf6b64a14c7ae"
+  },
+  "protocol_sha256": "851456e8fd9a2e84b20eb4f0c39840b441d7569897dbe794339374f8abe772da"
+}

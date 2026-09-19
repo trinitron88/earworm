@@ -1,0 +1,213 @@
+{
+  "snapshot": "Experiment08 sanitized review handoff",
+  "prepared_utc": "2026-09-19T08:09:23.065337+00:00",
+  "original_run_git_revision": null,
+  "original_run_revision_note": "No Git revision recorded; the original working directory was not a Git checkout. The later upload commit is a snapshot identifier only.",
+  "protocol_frozen_utc": "2026-09-19T07:35:44.263852+00:00",
+  "publication_activity": "Copy, redact local paths, adapt report delivery links, and tabulate saved decisions only. No completed or new experiment executed.",
+  "original_artifacts": [
+    {
+      "path": "work/accounts_stimuli.py",
+      "original_sha256": "d141a6fbcb39a921765739ad64da8440f34743727c484672afec841794079820",
+      "published_sha256": "d141a6fbcb39a921765739ad64da8440f34743727c484672afec841794079820",
+      "treatment": "byte-identical"
+    },
+    {
+      "path": "work/accounts_reader.py",
+      "original_sha256": "783e1dc1968d553c83706dcc412f648fcb21f74a91c407c235d1f3a7fe037a88",
+      "published_sha256": "783e1dc1968d553c83706dcc412f648fcb21f74a91c407c235d1f3a7fe037a88",
+      "treatment": "byte-identical"
+    },
+    {
+      "path": "work/accounts_experiment.py",
+      "original_sha256": "3e33ceef4f2b64ee5ff1206b869476a47bde1ff96504037a9f616d2fbbf30b59",
+      "published_sha256": "3e33ceef4f2b64ee5ff1206b869476a47bde1ff96504037a9f616d2fbbf30b59",
+      "treatment": "byte-identical"
+    },
+    {
+      "path": "work/remember_changes_acoustics.py",
+      "original_sha256": "33cb2b5881375374e4da6f45723be0ca117aa1674b8d41fccf8da9ecd7533ca4",
+      "published_sha256": "33cb2b5881375374e4da6f45723be0ca117aa1674b8d41fccf8da9ecd7533ca4",
+      "treatment": "byte-identical"
+    },
+    {
+      "path": "work/confidence_reader.py",
+      "original_sha256": "4ee1788958ec092fbe0f3ff0a808ebb476cd5ef23758a8295918e47cc54ec4b5",
+      "published_sha256": "4ee1788958ec092fbe0f3ff0a808ebb476cd5ef23758a8295918e47cc54ec4b5",
+      "treatment": "byte-identical"
+    },
+    {
+      "path": "work/incomplete_matcher.py",
+      "original_sha256": "e7e92d0b7128da018c65616b04a8d965ca77ad0ec5673414550bf6b64a14c7ae",
+      "published_sha256": "e7e92d0b7128da018c65616b04a8d965ca77ad0ec5673414550bf6b64a14c7ae",
+      "treatment": "byte-identical"
+    },
+    {
+      "path": "work/accounts_audit.py",
+      "original_sha256": "5776b7dc169cfeeb798a769f7f196362bed2a4fa18ead7257da03aeaa7d910d6",
+      "published_sha256": "5776b7dc169cfeeb798a769f7f196362bed2a4fa18ead7257da03aeaa7d910d6",
+      "treatment": "byte-identical"
+    },
+    {
+      "path": "work/accounts_portable.py",
+      "original_sha256": "58ee8e529d15e1bbc97924855680447153c19ab8f8c6838070f8545015a42ea8",
+      "published_sha256": "58ee8e529d15e1bbc97924855680447153c19ab8f8c6838070f8545015a42ea8",
+      "treatment": "byte-identical"
+    },
+    {
+      "path": "work/accounts_report.py",
+      "original_sha256": "a8f9ab479070698fcb3617cba82fd7eea334c0bbf65f0ff7f8df0101ee42b700",
+      "published_sha256": "a8f9ab479070698fcb3617cba82fd7eea334c0bbf65f0ff7f8df0101ee42b700",
+      "treatment": "byte-identical"
+    },
+    {
+      "path": "work/accounts_results/protocol.json",
+      "original_sha256": "851456e8fd9a2e84b20eb4f0c39840b441d7569897dbe794339374f8abe772da",
+      "published_sha256": "851456e8fd9a2e84b20eb4f0c39840b441d7569897dbe794339374f8abe772da",
+      "treatment": "byte-identical"
+    },
+    {
+      "path": "work/accounts_results/frozen_config.json",
+      "original_sha256": "da372bb83193c9b4377736765498d7bdef7e875dd5b2a17cd111ce43fb398378",
+      "published_sha256": "da372bb83193c9b4377736765498d7bdef7e875dd5b2a17cd111ce43fb398378",
+      "treatment": "byte-identical"
+    },
+    {
+      "path": "work/accounts_results/summary.json",
+      "original_sha256": "3e4f6e7343b1b3995d05c3b9a42f3f23ba33653f8c350966de287c8efa9a444d",
+      "published_sha256": "3e4f6e7343b1b3995d05c3b9a42f3f23ba33653f8c350966de287c8efa9a444d",
+      "treatment": "byte-identical"
+    },
+    {
+      "path": "work/accounts_results/posthoc_diagnostics.json",
+      "original_sha256": "d9253c1af9ab9d84685067708e4e7957b1add25f276a24d043b2d695437c2bdf",
+      "published_sha256": "d9253c1af9ab9d84685067708e4e7957b1add25f276a24d043b2d695437c2bdf",
+      "treatment": "byte-identical"
+    },
+    {
+      "path": "work/accounts_results/audit.json",
+      "original_sha256": "5580a0581c3c317efa159cf2cadf02c0462437ac52c159358ce77718128239be",
+      "published_sha256": "5580a0581c3c317efa159cf2cadf02c0462437ac52c159358ce77718128239be",
+      "treatment": "byte-identical"
+    },
+    {
+      "path": "work/accounts_results/replay_summary.json",
+      "original_sha256": "788b1e6d90fa9df6c0be6aedd12159b474a2faa05e7bebe8eff01a0ba7aadc8a",
+      "published_sha256": "788b1e6d90fa9df6c0be6aedd12159b474a2faa05e7bebe8eff01a0ba7aadc8a",
+      "treatment": "byte-identical"
+    },
+    {
+      "path": "work/accounts_results/prefix_checks.json",
+      "original_sha256": "2d53582292fbbf83c87017379a3ca7338efa5749d90bbc89bcfbd6694cedf422",
+      "published_sha256": "2d53582292fbbf83c87017379a3ca7338efa5749d90bbc89bcfbd6694cedf422",
+      "treatment": "byte-identical"
+    },
+    {
+      "path": "work/accounts_results/metric_definition_note.json",
+      "original_sha256": "cd6f07250d480887aca3aa7ede2bf60e59d250f9c5a9c6570d979ba5920fce29",
+      "published_sha256": "cd6f07250d480887aca3aa7ede2bf60e59d250f9c5a9c6570d979ba5920fce29",
+      "treatment": "byte-identical"
+    },
+    {
+      "path": "work/accounts_results/ambiguity.json",
+      "original_sha256": "644ec09199b464d0c4321f4622be1ce7b9b7392c489047eeb09eee79c692b004",
+      "published_sha256": "644ec09199b464d0c4321f4622be1ce7b9b7392c489047eeb09eee79c692b004",
+      "treatment": "byte-identical"
+    },
+    {
+      "path": "work/accounts_results/fresh_replays.json",
+      "original_sha256": "e79a44c52d86382998c1d87d6347851905b0cdccd40a1ca696c929dba9641d29",
+      "published_sha256": "e79a44c52d86382998c1d87d6347851905b0cdccd40a1ca696c929dba9641d29",
+      "treatment": "byte-identical"
+    },
+    {
+      "path": "work/accounts_results/swapped_replays.json",
+      "original_sha256": "44b4bce357da00df039a57208e3ba21f71056fc80c5e3f82c70e394c905f2c2d",
+      "published_sha256": "44b4bce357da00df039a57208e3ba21f71056fc80c5e3f82c70e394c905f2c2d",
+      "treatment": "byte-identical"
+    },
+    {
+      "path": "work/confidence_results/frozen_config.json",
+      "original_sha256": "eae59207f8f1d96cf8e1dd81d4f0cb830926106cdce054d9d46db6d0cb4e9c31",
+      "published_sha256": "eae59207f8f1d96cf8e1dd81d4f0cb830926106cdce054d9d46db6d0cb4e9c31",
+      "treatment": "byte-identical"
+    },
+    {
+      "path": "work/accounts_results/portable_validation.json",
+      "source": "work/accounts_results/portable_validation.json",
+      "original_sha256": "f359a91b548025b8920b0c0fbedc8694605ebc279ae7ee37c3ab746ddb992b8a",
+      "published_sha256": "18fda5ca58bd9ff51448f89589c69b5faec55ff33d70d4f7b54eae9082c17b98",
+      "treatment": "Only portable_root replaced; recorded validation findings unchanged."
+    },
+    {
+      "path": "work/accounts_stimuli/manifest.json",
+      "source": "work/accounts_stimuli/manifest.json",
+      "original_sha256": "e3659900f30b5b70514a6e0088126374ecb84ead00c238079d7b262e2d63d4d9",
+      "published_sha256": "daa5581de52e203edaacc47496f0b744025e1a3da3465ba126aee3b31cb1a1c5",
+      "treatment": "Only 1,128 audio_path values changed to repository-relative generated paths; notes, seeds, exclusions, splits, and PCM hashes unchanged."
+    },
+    {
+      "path": "review/experiment08/waveform_hashes.csv",
+      "source": "work/accounts_stimuli/manifest.json",
+      "original_sha256": "e3659900f30b5b70514a6e0088126374ecb84ead00c238079d7b262e2d63d4d9",
+      "published_sha256": "5d3e7cb4beea8e837a094fc4120492fa6fa05559f30ecb0c5e1c2886f99d047b",
+      "treatment": "Existing waveform hashes and routing labels; no waveform generated or uploaded."
+    },
+    {
+      "path": "review/experiment08/primary_trials.csv",
+      "source": "work/accounts_results/trials.json",
+      "original_sha256": "24ab94d5c915a78bf787bc0e6b128e4306e0f22cece202d31ff3725441c4d2af",
+      "published_sha256": "c445f44486af7a4fd484a38edfd41763452ef69ff745dc91c959a24ac2a1d51c",
+      "treatment": "Filter saved rows to 16-second intact-memory condition; all four readers included. Empty joint columns mean not evaluated."
+    },
+    {
+      "path": "review/experiment08/control_summary.csv",
+      "source": "work/accounts_results/trials.json",
+      "original_sha256": "24ab94d5c915a78bf787bc0e6b128e4306e0f22cece202d31ff3725441c4d2af",
+      "published_sha256": "8ea0ce7941fc5bb466a6a8e9cc8e74840d9a1e6dde2f09475bc18d993fa60508",
+      "treatment": "Counts of existing saved decisions by method/delay/reset condition; no rescoring or fitting."
+    },
+    {
+      "path": "review/experiment08/report_examples.json",
+      "source": "work/accounts_results/query_details.json",
+      "original_sha256": "59497ddb328adfdd79bc1d25d2b82dab7647fc071d2b29927783a26fbf950f03",
+      "published_sha256": "63a2eb79e7fe8033b215f4566a3d5304e9781afae1ecc798bf17a6feb310fa98",
+      "treatment": "The four existing report examples only; no new inference."
+    },
+    {
+      "path": "outputs/competing-accounts-results.png",
+      "original_sha256": "7998ac91b8cd2e3d9b461462c991b64191df0b51898a85e41c0801b3252dd070",
+      "published_sha256": "7998ac91b8cd2e3d9b461462c991b64191df0b51898a85e41c0801b3252dd070",
+      "treatment": "byte-identical"
+    },
+    {
+      "path": "outputs/competing-accounts-observations.png",
+      "original_sha256": "e9cfed160596a7ce4688ef6d93f7ac544bfa235a75acee31415befba96de9648",
+      "published_sha256": "e9cfed160596a7ce4688ef6d93f7ac544bfa235a75acee31415befba96de9648",
+      "treatment": "byte-identical"
+    },
+    {
+      "path": "outputs/competing-accounts-report.html",
+      "original_sha256": "d9029cdcec5ac9d76d14d5e1b47984749bda27fa261f8fd81e1d29266b6aca65",
+      "published_sha256": "c9f83a604060cc7b4961072d6fbf487d8b44c3866ef3400773e7081df30b6cbe",
+      "treatment": "Delivery links/footer adapted for the review snapshot; scientific text, figures, recorded examples, and five embedded synthetic WAVs unchanged."
+    },
+    {
+      "path": "outputs/experiment08-milestone.md",
+      "original_sha256": "4e646738abbd224c614f4d76b4548cf3a74e28b2997553dd9397577162eb2243",
+      "published_sha256": "8a1c3d149e5560dcbaaf1b307a89e52775d604820f85fb68375ac52471037238",
+      "treatment": "Delivery links only; findings unchanged."
+    }
+  ],
+  "omitted": [
+    "credentials and machine configuration",
+    "personal or employer materials",
+    "model downloads and caches",
+    "virtual environments",
+    "large generated audio collection",
+    "full development/held-out alignment tables",
+    "full prior workspace file inventories",
+    "local ZIP packages"
+  ],
+  "embedded_audio": "Five existing two-second synthetic examples, retained inside the HTML report; no other audio included."
+}

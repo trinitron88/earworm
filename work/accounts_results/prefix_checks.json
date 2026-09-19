@@ -1,0 +1,34 @@
+[
+  {
+    "group_id": "e08",
+    "query_id": "e08_query_a_delete_rest",
+    "different_future_audio": true,
+    "arrived_prefix_equal": true,
+    "description_equal": true,
+    "emitted_decision_equal": true
+  },
+  {
+    "group_id": "e09",
+    "query_id": "e09_query_a_delete_rest",
+    "different_future_audio": true,
+    "arrived_prefix_equal": true,
+    "description_equal": true,
+    "emitted_decision_equal": true
+  },
+  {
+    "group_id": "e10",
+    "query_id": "e10_query_a_delete_rest",
+    "different_future_audio": true,
+    "arrived_prefix_equal": true,
+    "description_equal": true,
+    "emitted_decision_equal": true
+  },
+  {
+    "group_id": "e11",
+    "query_id": "e11_query_a_delete_rest",
+    "different_future_audio": true,
+    "arrived_prefix_equal": true,
+    "description_equal": true,
+    "emitted_decision_equal": true
+  }
+]

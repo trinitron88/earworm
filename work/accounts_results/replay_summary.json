@@ -1,0 +1,16 @@
+{
+  "fresh_trials": 84,
+  "fresh_blocks": 840,
+  "prefix_pairs": 4,
+  "prefix_extra_blocks": 44,
+  "output_timestamps_complete": true,
+  "latency_median_s": 0.05904281249968335,
+  "latency_max_s": 0.08352754102088511,
+  "feature_cache_hit": false,
+  "similarity_cache_hit": false,
+  "memory_descriptions_unchanged": true,
+  "reset_swapped_states_equal": true,
+  "exact_wall_times_recorded": true,
+  "logical_time": "Simulated sound arrivals, serialized measured computation; actual wall ready times separately recorded. Audio files processed faster than real time, not a live microphone test.",
+  "extract_blocks": 1080
+}

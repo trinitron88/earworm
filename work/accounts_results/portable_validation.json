@@ -1,0 +1,14 @@
+{
+  "portable_root": "[local validation directory omitted]",
+  "regenerated_waveforms": 1128,
+  "all_pcm_hashes_identical": true,
+  "source_files_identical": true,
+  "development_waveforms_reextracted": 328,
+  "fit_and_calibration_identical": true,
+  "portable_fresh_pairs": [
+    "e08_query_a_delete_rest",
+    "e09_query_a_mask_present",
+    "e10_query_a_delete_timing",
+    "e11_query_a_delete_detune"
+  ]
+}

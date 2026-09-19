@@ -1,0 +1,167 @@
+{
+  "label": "Post-hoc fixed-output diagnostics; no new fitting or threshold selection. Known-reference alignment ceilings use an oracle source and are not joint retrieval results.",
+  "families": {
+    "exact": {
+      "n": 32,
+      "unique_top_score_true": 32,
+      "true_top_tied": 0,
+      "direct_best_alignment": 32,
+      "direct_account_set": 32,
+      "top_true_but_rejected": 0,
+      "accepted_singleton": 32
+    },
+    "transpose": {
+      "n": 32,
+      "unique_top_score_true": 32,
+      "true_top_tied": 0,
+      "direct_best_alignment": 32,
+      "direct_account_set": 32,
+      "top_true_but_rejected": 0,
+      "accepted_singleton": 32
+    },
+    "detune": {
+      "n": 32,
+      "unique_top_score_true": 32,
+      "true_top_tied": 0,
+      "direct_best_alignment": 32,
+      "direct_account_set": 32,
+      "top_true_but_rejected": 32,
+      "accepted_singleton": 0
+    },
+    "timing": {
+      "n": 32,
+      "unique_top_score_true": 32,
+      "true_top_tied": 0,
+      "direct_best_alignment": 32,
+      "direct_account_set": 32,
+      "top_true_but_rejected": 0,
+      "accepted_singleton": 32
+    },
+    "delete_rest": {
+      "n": 32,
+      "unique_top_score_true": 32,
+      "true_top_tied": 0,
+      "direct_best_alignment": 32,
+      "direct_account_set": 32,
+      "top_true_but_rejected": 24,
+      "accepted_singleton": 8
+    },
+    "delete_closed": {
+      "n": 32,
+      "unique_top_score_true": 28,
+      "true_top_tied": 1,
+      "direct_best_alignment": 32,
+      "direct_account_set": 32,
+      "top_true_but_rejected": 24,
+      "accepted_singleton": 4
+    },
+    "delete_two": {
+      "n": 32,
+      "unique_top_score_true": 24,
+      "true_top_tied": 7,
+      "direct_best_alignment": 32,
+      "direct_account_set": 32,
+      "top_true_but_rejected": 24,
+      "accepted_singleton": 0
+    },
+    "substitute": {
+      "n": 32,
+      "unique_top_score_true": 32,
+      "true_top_tied": 0,
+      "direct_best_alignment": 0,
+      "direct_account_set": 31,
+      "top_true_but_rejected": 32,
+      "accepted_singleton": 0
+    },
+    "insert": {
+      "n": 32,
+      "unique_top_score_true": 32,
+      "true_top_tied": 0,
+      "direct_best_alignment": 32,
+      "direct_account_set": 32,
+      "top_true_but_rejected": 32,
+      "accepted_singleton": 0
+    },
+    "delete_insert": {
+      "n": 32,
+      "unique_top_score_true": 32,
+      "true_top_tied": 0,
+      "direct_best_alignment": 32,
+      "direct_account_set": 32,
+      "top_true_but_rejected": 32,
+      "accepted_singleton": 0
+    },
+    "weak_present": {
+      "n": 32,
+      "unique_top_score_true": 32,
+      "true_top_tied": 0,
+      "direct_best_alignment": 0,
+      "direct_account_set": 0,
+      "top_true_but_rejected": 24,
+      "accepted_singleton": 8
+    },
+    "mask_present": {
+      "n": 32,
+      "unique_top_score_true": 32,
+      "true_top_tied": 0,
+      "direct_best_alignment": 0,
+      "direct_account_set": 0,
+      "top_true_but_rejected": 32,
+      "accepted_singleton": 0
+    },
+    "mask_absent": {
+      "n": 32,
+      "unique_top_score_true": 32,
+      "true_top_tied": 0,
+      "direct_best_alignment": 32,
+      "direct_account_set": 32,
+      "top_true_but_rejected": 32,
+      "accepted_singleton": 0
+    },
+    "merged": {
+      "n": 32,
+      "unique_top_score_true": 21,
+      "true_top_tied": 10,
+      "direct_best_alignment": 0,
+      "direct_account_set": 0,
+      "top_true_but_rejected": 21,
+      "accepted_singleton": 0
+    },
+    "legitimate_rest": {
+      "n": 32,
+      "unique_top_score_true": 32,
+      "true_top_tied": 0,
+      "direct_best_alignment": 32,
+      "direct_account_set": 32,
+      "top_true_but_rejected": 0,
+      "accepted_singleton": 32
+    },
+    "delete_transpose": {
+      "n": 32,
+      "unique_top_score_true": 32,
+      "true_top_tied": 0,
+      "direct_best_alignment": 32,
+      "direct_account_set": 32,
+      "top_true_but_rejected": 24,
+      "accepted_singleton": 8
+    },
+    "delete_timing": {
+      "n": 32,
+      "unique_top_score_true": 32,
+      "true_top_tied": 0,
+      "direct_best_alignment": 32,
+      "direct_account_set": 32,
+      "top_true_but_rejected": 24,
+      "accepted_singleton": 8
+    },
+    "delete_detune": {
+      "n": 32,
+      "unique_top_score_true": 32,
+      "true_top_tied": 0,
+      "direct_best_alignment": 32,
+      "direct_account_set": 32,
+      "top_true_but_rejected": 32,
+      "accepted_singleton": 0
+    }
+  }
+}

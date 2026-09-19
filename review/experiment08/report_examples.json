@@ -1,0 +1,1000 @@
+[
+  {
+    "query_id": "e09_query_a_delete_rest",
+    "family": "delete_rest",
+    "group_id": "e09",
+    "accepted": [
+      {
+        "memory_id": "e09_reference_a",
+        "support_logit": 3.6266266302486665,
+        "accounts": [
+          {
+            "cost": 0.11666666666666665,
+            "matched_pairs": [
+              [
+                0,
+                0
+              ],
+              [
+                1,
+                1
+              ],
+              [
+                2,
+                2
+              ],
+              [
+                4,
+                3
+              ],
+              [
+                5,
+                4
+              ]
+            ],
+            "missing_reference": [
+              3
+            ],
+            "inserted_query": [],
+            "global_pitch_shift": 0.0,
+            "timing_scale": 1.0,
+            "timing_offset_s": 0.0,
+            "pitch_residual_semitones": [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "absolute_pitch_change_semitones": [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "onset_change_s": [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "timing_residual_s": [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "mean_pitch_loss": 0.0,
+            "exact_pitch_fraction": 1.0,
+            "mean_timing_loss": 0.0,
+            "missing_evidence": [
+              {
+                "reference_event": 3,
+                "expected_interval_s": [
+                  0.628000020980835,
+                  0.7210000157356262
+                ],
+                "measured_max_rms": 9.673847500835109e-09,
+                "quiet_threshold_rms": 0.0018320724368095398,
+                "status": "quiet_at_predicted_location",
+                "supported_accounts": [
+                  "no_audible_counterpart"
+                ],
+                "physical_cause": "not_identified"
+              }
+            ],
+            "pitch_edits": [],
+            "timing_edits": [],
+            "observation_statement": "Original acoustic measurements retained; correspondences and expected locations are separate hypotheses."
+          },
+          {
+            "cost": 0.24916532278060913,
+            "matched_pairs": [
+              [
+                0,
+                0
+              ],
+              [
+                1,
+                1
+              ],
+              [
+                3,
+                2
+              ],
+              [
+                4,
+                3
+              ],
+              [
+                5,
+                4
+              ]
+            ],
+            "missing_reference": [
+              2
+            ],
+            "inserted_query": [],
+            "global_pitch_shift": 0.0,
+            "timing_scale": 1.0,
+            "timing_offset_s": 0.0,
+            "pitch_residual_semitones": [
+              0.0,
+              0.0,
+              -0.9999837875366211,
+              0.0,
+              0.0
+            ],
+            "absolute_pitch_change_semitones": [
+              0.0,
+              0.0,
+              -0.9999837875366211,
+              0.0,
+              0.0
+            ],
+            "onset_change_s": [
+              0.0,
+              0.0,
+              -0.16500002145767212,
+              0.0,
+              0.0
+            ],
+            "timing_residual_s": [
+              0.0,
+              0.0,
+              -0.16500002145767212,
+              0.0,
+              0.0
+            ],
+            "mean_pitch_loss": 0.0949983787536621,
+            "exact_pitch_fraction": 0.8,
+            "mean_timing_loss": 0.06400000858306884,
+            "missing_evidence": [
+              {
+                "reference_event": 2,
+                "expected_interval_s": [
+                  0.46299999952316284,
+                  0.5559999942779541
+                ],
+                "measured_max_rms": 0.18320724368095398,
+                "quiet_threshold_rms": 0.0018320724368095398,
+                "status": "unresolved_observation",
+                "supported_accounts": [
+                  "weak_or_masked_event",
+                  "merged_or_displaced_event",
+                  "absent_event_with_other_sound"
+                ],
+                "physical_cause": "not_identified"
+              }
+            ],
+            "pitch_edits": [
+              {
+                "reference_event": 3,
+                "query_event": 2,
+                "semitones": -0.9999837875366211,
+                "kind": "detuning"
+              }
+            ],
+            "timing_edits": [
+              {
+                "reference_event": 3,
+                "query_event": 2,
+                "seconds": -0.16500002145767212
+              }
+            ],
+            "observation_statement": "Original acoustic measurements retained; correspondences and expected locations are separate hypotheses."
+          }
+        ]
+      }
+    ],
+    "observed_raw_events": 5,
+    "reliable_events": 5,
+    "truth_present_events": 5,
+    "true_reference_evidence": {
+      "available": true,
+      "features": [
+        0.11666666666666665,
+        1.791759469228055,
+        0.8333333333333334,
+        1.0,
+        0.0,
+        1.0,
+        0.0,
+        0.16666666666666666,
+        0.0,
+        0.0,
+        1.9459101490553132,
+        1.791759469228055
+      ],
+      "paths": [
+        {
+          "cost": 0.11666666666666665,
+          "matched_pairs": [
+            [
+              0,
+              0
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              4,
+              3
+            ],
+            [
+              5,
+              4
+            ]
+          ],
+          "missing_reference": [
+            3
+          ],
+          "inserted_query": [],
+          "global_pitch_shift": 0.0,
+          "timing_scale": 1.0,
+          "timing_offset_s": 0.0,
+          "pitch_residual_semitones": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "absolute_pitch_change_semitones": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "onset_change_s": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "timing_residual_s": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "mean_pitch_loss": 0.0,
+          "exact_pitch_fraction": 1.0,
+          "mean_timing_loss": 0.0
+        },
+        {
+          "cost": 0.24916532278060913,
+          "matched_pairs": [
+            [
+              0,
+              0
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              3,
+              2
+            ],
+            [
+              4,
+              3
+            ],
+            [
+              5,
+              4
+            ]
+          ],
+          "missing_reference": [
+            2
+          ],
+          "inserted_query": [],
+          "global_pitch_shift": 0.0,
+          "timing_scale": 1.0,
+          "timing_offset_s": 0.0,
+          "pitch_residual_semitones": [
+            0.0,
+            0.0,
+            -0.9999837875366211,
+            0.0,
+            0.0
+          ],
+          "absolute_pitch_change_semitones": [
+            0.0,
+            0.0,
+            -0.9999837875366211,
+            0.0,
+            0.0
+          ],
+          "onset_change_s": [
+            0.0,
+            0.0,
+            -0.16500002145767212,
+            0.0,
+            0.0
+          ],
+          "timing_residual_s": [
+            0.0,
+            0.0,
+            -0.16500002145767212,
+            0.0,
+            0.0
+          ],
+          "mean_pitch_loss": 0.0949983787536621,
+          "exact_pitch_fraction": 0.8,
+          "mean_timing_loss": 0.06400000858306884
+        }
+      ],
+      "reference_events": 6,
+      "query_events": 5
+    }
+  },
+  {
+    "query_id": "e09_query_a_weak_present",
+    "family": "weak_present",
+    "group_id": "e09",
+    "accepted": [
+      {
+        "memory_id": "e09_reference_a",
+        "support_logit": 3.6266266302486665,
+        "accounts": [
+          {
+            "cost": 0.11666666666666665,
+            "matched_pairs": [
+              [
+                0,
+                0
+              ],
+              [
+                1,
+                1
+              ],
+              [
+                2,
+                2
+              ],
+              [
+                4,
+                3
+              ],
+              [
+                5,
+                4
+              ]
+            ],
+            "missing_reference": [
+              3
+            ],
+            "inserted_query": [],
+            "global_pitch_shift": 0.0,
+            "timing_scale": 1.0,
+            "timing_offset_s": 0.0,
+            "pitch_residual_semitones": [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "absolute_pitch_change_semitones": [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "onset_change_s": [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "timing_residual_s": [
+              0.0,
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "mean_pitch_loss": 0.0,
+            "exact_pitch_fraction": 1.0,
+            "mean_timing_loss": 0.0,
+            "missing_evidence": [
+              {
+                "reference_event": 3,
+                "expected_interval_s": [
+                  0.628000020980835,
+                  0.7210000157356262
+                ],
+                "measured_max_rms": 0.006356768775731325,
+                "quiet_threshold_rms": 0.0018320724368095398,
+                "status": "unresolved_observation",
+                "supported_accounts": [
+                  "weak_or_masked_event",
+                  "merged_or_displaced_event",
+                  "absent_event_with_other_sound"
+                ],
+                "physical_cause": "not_identified"
+              }
+            ],
+            "pitch_edits": [],
+            "timing_edits": [],
+            "observation_statement": "Original acoustic measurements retained; correspondences and expected locations are separate hypotheses."
+          },
+          {
+            "cost": 0.24916532278060913,
+            "matched_pairs": [
+              [
+                0,
+                0
+              ],
+              [
+                1,
+                1
+              ],
+              [
+                3,
+                2
+              ],
+              [
+                4,
+                3
+              ],
+              [
+                5,
+                4
+              ]
+            ],
+            "missing_reference": [
+              2
+            ],
+            "inserted_query": [],
+            "global_pitch_shift": 0.0,
+            "timing_scale": 1.0,
+            "timing_offset_s": 0.0,
+            "pitch_residual_semitones": [
+              0.0,
+              0.0,
+              -0.9999837875366211,
+              0.0,
+              0.0
+            ],
+            "absolute_pitch_change_semitones": [
+              0.0,
+              0.0,
+              -0.9999837875366211,
+              0.0,
+              0.0
+            ],
+            "onset_change_s": [
+              0.0,
+              0.0,
+              -0.16500002145767212,
+              0.0,
+              0.0
+            ],
+            "timing_residual_s": [
+              0.0,
+              0.0,
+              -0.16500002145767212,
+              0.0,
+              0.0
+            ],
+            "mean_pitch_loss": 0.0949983787536621,
+            "exact_pitch_fraction": 0.8,
+            "mean_timing_loss": 0.06400000858306884,
+            "missing_evidence": [
+              {
+                "reference_event": 2,
+                "expected_interval_s": [
+                  0.46299999952316284,
+                  0.5559999942779541
+                ],
+                "measured_max_rms": 0.18320724368095398,
+                "quiet_threshold_rms": 0.0018320724368095398,
+                "status": "unresolved_observation",
+                "supported_accounts": [
+                  "weak_or_masked_event",
+                  "merged_or_displaced_event",
+                  "absent_event_with_other_sound"
+                ],
+                "physical_cause": "not_identified"
+              }
+            ],
+            "pitch_edits": [
+              {
+                "reference_event": 3,
+                "query_event": 2,
+                "semitones": -0.9999837875366211,
+                "kind": "detuning"
+              }
+            ],
+            "timing_edits": [
+              {
+                "reference_event": 3,
+                "query_event": 2,
+                "seconds": -0.16500002145767212
+              }
+            ],
+            "observation_statement": "Original acoustic measurements retained; correspondences and expected locations are separate hypotheses."
+          }
+        ]
+      }
+    ],
+    "observed_raw_events": 5,
+    "reliable_events": 5,
+    "truth_present_events": 6,
+    "true_reference_evidence": {
+      "available": true,
+      "features": [
+        0.11666666666666665,
+        1.791759469228055,
+        0.8333333333333334,
+        1.0,
+        0.0,
+        1.0,
+        0.0,
+        0.16666666666666666,
+        0.0,
+        0.0,
+        1.9459101490553132,
+        1.791759469228055
+      ],
+      "paths": [
+        {
+          "cost": 0.11666666666666665,
+          "matched_pairs": [
+            [
+              0,
+              0
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              4,
+              3
+            ],
+            [
+              5,
+              4
+            ]
+          ],
+          "missing_reference": [
+            3
+          ],
+          "inserted_query": [],
+          "global_pitch_shift": 0.0,
+          "timing_scale": 1.0,
+          "timing_offset_s": 0.0,
+          "pitch_residual_semitones": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "absolute_pitch_change_semitones": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "onset_change_s": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "timing_residual_s": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "mean_pitch_loss": 0.0,
+          "exact_pitch_fraction": 1.0,
+          "mean_timing_loss": 0.0
+        },
+        {
+          "cost": 0.24916532278060913,
+          "matched_pairs": [
+            [
+              0,
+              0
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              3,
+              2
+            ],
+            [
+              4,
+              3
+            ],
+            [
+              5,
+              4
+            ]
+          ],
+          "missing_reference": [
+            2
+          ],
+          "inserted_query": [],
+          "global_pitch_shift": 0.0,
+          "timing_scale": 1.0,
+          "timing_offset_s": 0.0,
+          "pitch_residual_semitones": [
+            0.0,
+            0.0,
+            -0.9999837875366211,
+            0.0,
+            0.0
+          ],
+          "absolute_pitch_change_semitones": [
+            0.0,
+            0.0,
+            -0.9999837875366211,
+            0.0,
+            0.0
+          ],
+          "onset_change_s": [
+            0.0,
+            0.0,
+            -0.16500002145767212,
+            0.0,
+            0.0
+          ],
+          "timing_residual_s": [
+            0.0,
+            0.0,
+            -0.16500002145767212,
+            0.0,
+            0.0
+          ],
+          "mean_pitch_loss": 0.0949983787536621,
+          "exact_pitch_fraction": 0.8,
+          "mean_timing_loss": 0.06400000858306884
+        }
+      ],
+      "reference_events": 6,
+      "query_events": 5
+    }
+  },
+  {
+    "query_id": "e09_query_a_mask_present",
+    "family": "mask_present",
+    "group_id": "e09",
+    "accepted": [],
+    "observed_raw_events": 6,
+    "reliable_events": 5,
+    "truth_present_events": 6,
+    "true_reference_evidence": {
+      "available": true,
+      "features": [
+        0.11666666666666665,
+        1.791759469228055,
+        0.8333333333333334,
+        1.0,
+        0.0,
+        1.0,
+        0.0,
+        0.16666666666666666,
+        0.0,
+        0.16666666666666663,
+        1.9459101490553132,
+        1.791759469228055
+      ],
+      "paths": [
+        {
+          "cost": 0.11666666666666665,
+          "matched_pairs": [
+            [
+              0,
+              0
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              4,
+              4
+            ],
+            [
+              5,
+              5
+            ]
+          ],
+          "missing_reference": [
+            3
+          ],
+          "inserted_query": [],
+          "global_pitch_shift": 0.0,
+          "timing_scale": 1.0,
+          "timing_offset_s": 0.0,
+          "pitch_residual_semitones": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "absolute_pitch_change_semitones": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "onset_change_s": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "timing_residual_s": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "mean_pitch_loss": 0.0,
+          "exact_pitch_fraction": 1.0,
+          "mean_timing_loss": 0.0
+        },
+        {
+          "cost": 0.24916532278060913,
+          "matched_pairs": [
+            [
+              0,
+              0
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              3,
+              2
+            ],
+            [
+              4,
+              4
+            ],
+            [
+              5,
+              5
+            ]
+          ],
+          "missing_reference": [
+            2
+          ],
+          "inserted_query": [],
+          "global_pitch_shift": 0.0,
+          "timing_scale": 1.0,
+          "timing_offset_s": 0.0,
+          "pitch_residual_semitones": [
+            0.0,
+            0.0,
+            -0.9999837875366211,
+            0.0,
+            0.0
+          ],
+          "absolute_pitch_change_semitones": [
+            0.0,
+            0.0,
+            -0.9999837875366211,
+            0.0,
+            0.0
+          ],
+          "onset_change_s": [
+            0.0,
+            0.0,
+            -0.16500002145767212,
+            0.0,
+            0.0
+          ],
+          "timing_residual_s": [
+            0.0,
+            0.0,
+            -0.16500002145767212,
+            0.0,
+            0.0
+          ],
+          "mean_pitch_loss": 0.0949983787536621,
+          "exact_pitch_fraction": 0.8,
+          "mean_timing_loss": 0.06400000858306884
+        }
+      ],
+      "reference_events": 6,
+      "query_events": 5
+    }
+  },
+  {
+    "query_id": "e09_query_a_delete_detune",
+    "family": "delete_detune",
+    "group_id": "e09",
+    "accepted": [],
+    "observed_raw_events": 5,
+    "reliable_events": 5,
+    "truth_present_events": 5,
+    "true_reference_evidence": {
+      "available": true,
+      "features": [
+        0.15416611035664876,
+        1.791759469228055,
+        0.8333333333333334,
+        1.0,
+        0.04499933242797852,
+        0.8,
+        0.0,
+        0.16666666666666666,
+        0.0,
+        0.0,
+        1.9459101490553132,
+        1.791759469228055
+      ],
+      "paths": [
+        {
+          "cost": 0.15416611035664876,
+          "matched_pairs": [
+            [
+              0,
+              0
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              4,
+              3
+            ],
+            [
+              5,
+              4
+            ]
+          ],
+          "missing_reference": [
+            3
+          ],
+          "inserted_query": [],
+          "global_pitch_shift": 0.0,
+          "timing_scale": 1.0,
+          "timing_offset_s": 0.0,
+          "pitch_residual_semitones": [
+            0.0,
+            0.0,
+            0.0,
+            0.49999332427978516,
+            0.0
+          ],
+          "absolute_pitch_change_semitones": [
+            0.0,
+            0.0,
+            0.0,
+            0.49999332427978516,
+            0.0
+          ],
+          "onset_change_s": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "timing_residual_s": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "mean_pitch_loss": 0.04499933242797852,
+          "exact_pitch_fraction": 0.8,
+          "mean_timing_loss": 0.0
+        },
+        {
+          "cost": 0.2866647664705912,
+          "matched_pairs": [
+            [
+              0,
+              0
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              3,
+              2
+            ],
+            [
+              4,
+              3
+            ],
+            [
+              5,
+              4
+            ]
+          ],
+          "missing_reference": [
+            2
+          ],
+          "inserted_query": [],
+          "global_pitch_shift": 0.0,
+          "timing_scale": 1.0,
+          "timing_offset_s": 0.0,
+          "pitch_residual_semitones": [
+            0.0,
+            0.0,
+            -0.9999837875366211,
+            0.49999332427978516,
+            0.0
+          ],
+          "absolute_pitch_change_semitones": [
+            0.0,
+            0.0,
+            -0.9999837875366211,
+            0.49999332427978516,
+            0.0
+          ],
+          "onset_change_s": [
+            0.0,
+            0.0,
+            -0.16500002145767212,
+            0.0,
+            0.0
+          ],
+          "timing_residual_s": [
+            0.0,
+            0.0,
+            -0.16500002145767212,
+            0.0,
+            0.0
+          ],
+          "mean_pitch_loss": 0.13999771118164062,
+          "exact_pitch_fraction": 0.6,
+          "mean_timing_loss": 0.06400000858306884
+        }
+      ],
+      "reference_events": 6,
+      "query_events": 5
+    }
+  }
+]

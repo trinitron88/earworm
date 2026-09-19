@@ -1,0 +1,517 @@
+{
+  "created_utc": "2026-09-19T07:37:47.661180+00:00",
+  "primary_by_method": {
+    "accounts": {
+      "n": 576,
+      "correct_singletons": 164,
+      "source_covered": 164,
+      "absent_false_accept": 0,
+      "joint_best": 156,
+      "joint_account_set": 156
+    },
+    "old07": {
+      "n": 576,
+      "correct_singletons": 198,
+      "source_covered": 198,
+      "absent_false_accept": 0,
+      "joint_best": 0,
+      "joint_account_set": 0
+    },
+    "count": {
+      "n": 576,
+      "correct_singletons": 0,
+      "source_covered": 0,
+      "absent_false_accept": 0,
+      "joint_best": 0,
+      "joint_account_set": 0
+    },
+    "envelope": {
+      "n": 576,
+      "correct_singletons": 38,
+      "source_covered": 78,
+      "absent_false_accept": 40,
+      "joint_best": 0,
+      "joint_account_set": 0
+    }
+  },
+  "families": {
+    "exact": {
+      "n": 32,
+      "correct_singletons": 32,
+      "source_covered": 32,
+      "absent_false_accept": 0,
+      "joint_best": 32,
+      "joint_account_set": 32
+    },
+    "transpose": {
+      "n": 32,
+      "correct_singletons": 32,
+      "source_covered": 32,
+      "absent_false_accept": 0,
+      "joint_best": 32,
+      "joint_account_set": 32
+    },
+    "detune": {
+      "n": 32,
+      "correct_singletons": 0,
+      "source_covered": 0,
+      "absent_false_accept": 0,
+      "joint_best": 0,
+      "joint_account_set": 0
+    },
+    "timing": {
+      "n": 32,
+      "correct_singletons": 32,
+      "source_covered": 32,
+      "absent_false_accept": 0,
+      "joint_best": 32,
+      "joint_account_set": 32
+    },
+    "delete_rest": {
+      "n": 32,
+      "correct_singletons": 8,
+      "source_covered": 8,
+      "absent_false_accept": 0,
+      "joint_best": 8,
+      "joint_account_set": 8
+    },
+    "delete_closed": {
+      "n": 32,
+      "correct_singletons": 4,
+      "source_covered": 4,
+      "absent_false_accept": 0,
+      "joint_best": 4,
+      "joint_account_set": 4
+    },
+    "delete_two": {
+      "n": 32,
+      "correct_singletons": 0,
+      "source_covered": 0,
+      "absent_false_accept": 0,
+      "joint_best": 0,
+      "joint_account_set": 0
+    },
+    "substitute": {
+      "n": 32,
+      "correct_singletons": 0,
+      "source_covered": 0,
+      "absent_false_accept": 0,
+      "joint_best": 0,
+      "joint_account_set": 0
+    },
+    "insert": {
+      "n": 32,
+      "correct_singletons": 0,
+      "source_covered": 0,
+      "absent_false_accept": 0,
+      "joint_best": 0,
+      "joint_account_set": 0
+    },
+    "delete_insert": {
+      "n": 32,
+      "correct_singletons": 0,
+      "source_covered": 0,
+      "absent_false_accept": 0,
+      "joint_best": 0,
+      "joint_account_set": 0
+    },
+    "weak_present": {
+      "n": 32,
+      "correct_singletons": 8,
+      "source_covered": 8,
+      "absent_false_accept": 0,
+      "joint_best": 0,
+      "joint_account_set": 0
+    },
+    "mask_present": {
+      "n": 32,
+      "correct_singletons": 0,
+      "source_covered": 0,
+      "absent_false_accept": 0,
+      "joint_best": 0,
+      "joint_account_set": 0
+    },
+    "mask_absent": {
+      "n": 32,
+      "correct_singletons": 0,
+      "source_covered": 0,
+      "absent_false_accept": 0,
+      "joint_best": 0,
+      "joint_account_set": 0
+    },
+    "merged": {
+      "n": 32,
+      "correct_singletons": 0,
+      "source_covered": 0,
+      "absent_false_accept": 0,
+      "joint_best": 0,
+      "joint_account_set": 0
+    },
+    "legitimate_rest": {
+      "n": 32,
+      "correct_singletons": 32,
+      "source_covered": 32,
+      "absent_false_accept": 0,
+      "joint_best": 32,
+      "joint_account_set": 32
+    },
+    "delete_transpose": {
+      "n": 32,
+      "correct_singletons": 8,
+      "source_covered": 8,
+      "absent_false_accept": 0,
+      "joint_best": 8,
+      "joint_account_set": 8
+    },
+    "delete_timing": {
+      "n": 32,
+      "correct_singletons": 8,
+      "source_covered": 8,
+      "absent_false_accept": 0,
+      "joint_best": 8,
+      "joint_account_set": 8
+    },
+    "delete_detune": {
+      "n": 32,
+      "correct_singletons": 0,
+      "source_covered": 0,
+      "absent_false_accept": 0,
+      "joint_best": 0,
+      "joint_account_set": 0
+    }
+  },
+  "groups": {
+    "e08": {
+      "n": 36,
+      "correct_singletons": 8,
+      "source_covered": 8,
+      "absent_false_accept": 0,
+      "joint_best": 8,
+      "joint_account_set": 8
+    },
+    "e09": {
+      "n": 36,
+      "correct_singletons": 18,
+      "source_covered": 18,
+      "absent_false_accept": 0,
+      "joint_best": 16,
+      "joint_account_set": 16
+    },
+    "e10": {
+      "n": 36,
+      "correct_singletons": 8,
+      "source_covered": 8,
+      "absent_false_accept": 0,
+      "joint_best": 8,
+      "joint_account_set": 8
+    },
+    "e11": {
+      "n": 36,
+      "correct_singletons": 8,
+      "source_covered": 8,
+      "absent_false_accept": 0,
+      "joint_best": 8,
+      "joint_account_set": 8
+    },
+    "e12": {
+      "n": 36,
+      "correct_singletons": 8,
+      "source_covered": 8,
+      "absent_false_accept": 0,
+      "joint_best": 8,
+      "joint_account_set": 8
+    },
+    "e13": {
+      "n": 36,
+      "correct_singletons": 17,
+      "source_covered": 17,
+      "absent_false_accept": 0,
+      "joint_best": 15,
+      "joint_account_set": 15
+    },
+    "e14": {
+      "n": 36,
+      "correct_singletons": 8,
+      "source_covered": 8,
+      "absent_false_accept": 0,
+      "joint_best": 8,
+      "joint_account_set": 8
+    },
+    "e15": {
+      "n": 36,
+      "correct_singletons": 8,
+      "source_covered": 8,
+      "absent_false_accept": 0,
+      "joint_best": 8,
+      "joint_account_set": 8
+    },
+    "e16": {
+      "n": 36,
+      "correct_singletons": 8,
+      "source_covered": 8,
+      "absent_false_accept": 0,
+      "joint_best": 8,
+      "joint_account_set": 8
+    },
+    "e17": {
+      "n": 36,
+      "correct_singletons": 17,
+      "source_covered": 17,
+      "absent_false_accept": 0,
+      "joint_best": 15,
+      "joint_account_set": 15
+    },
+    "e18": {
+      "n": 36,
+      "correct_singletons": 8,
+      "source_covered": 8,
+      "absent_false_accept": 0,
+      "joint_best": 8,
+      "joint_account_set": 8
+    },
+    "e19": {
+      "n": 36,
+      "correct_singletons": 8,
+      "source_covered": 8,
+      "absent_false_accept": 0,
+      "joint_best": 8,
+      "joint_account_set": 8
+    },
+    "e20": {
+      "n": 36,
+      "correct_singletons": 8,
+      "source_covered": 8,
+      "absent_false_accept": 0,
+      "joint_best": 8,
+      "joint_account_set": 8
+    },
+    "e21": {
+      "n": 36,
+      "correct_singletons": 16,
+      "source_covered": 16,
+      "absent_false_accept": 0,
+      "joint_best": 14,
+      "joint_account_set": 14
+    },
+    "e22": {
+      "n": 36,
+      "correct_singletons": 8,
+      "source_covered": 8,
+      "absent_false_accept": 0,
+      "joint_best": 8,
+      "joint_account_set": 8
+    },
+    "e23": {
+      "n": 36,
+      "correct_singletons": 8,
+      "source_covered": 8,
+      "absent_false_accept": 0,
+      "joint_best": 8,
+      "joint_account_set": 8
+    }
+  },
+  "lengths": {
+    "4": {
+      "n": 144,
+      "correct_singletons": 32,
+      "source_covered": 32,
+      "absent_false_accept": 0,
+      "joint_best": 32,
+      "joint_account_set": 32
+    },
+    "6": {
+      "n": 144,
+      "correct_singletons": 68,
+      "source_covered": 68,
+      "absent_false_accept": 0,
+      "joint_best": 60,
+      "joint_account_set": 60
+    },
+    "8": {
+      "n": 144,
+      "correct_singletons": 32,
+      "source_covered": 32,
+      "absent_false_accept": 0,
+      "joint_best": 32,
+      "joint_account_set": 32
+    },
+    "10": {
+      "n": 144,
+      "correct_singletons": 32,
+      "source_covered": 32,
+      "absent_false_accept": 0,
+      "joint_best": 32,
+      "joint_account_set": 32
+    }
+  },
+  "controls": {
+    "0s_intact": {
+      "n": 576,
+      "correct_singletons": 164,
+      "source_covered": 164,
+      "absent_false_accept": 0,
+      "joint_best": 156,
+      "joint_account_set": 156
+    },
+    "0s_drop_reference": {
+      "n": 576,
+      "correct_singletons": 0,
+      "source_covered": 0,
+      "absent_false_accept": 0,
+      "joint_best": 0,
+      "joint_account_set": 0
+    },
+    "0s_reset_before_query": {
+      "n": 576,
+      "correct_singletons": 0,
+      "source_covered": 0,
+      "absent_false_accept": 0,
+      "joint_best": 0,
+      "joint_account_set": 0
+    },
+    "16s_intact": {
+      "n": 576,
+      "correct_singletons": 164,
+      "source_covered": 164,
+      "absent_false_accept": 0,
+      "joint_best": 156,
+      "joint_account_set": 156
+    },
+    "16s_drop_reference": {
+      "n": 576,
+      "correct_singletons": 0,
+      "source_covered": 0,
+      "absent_false_accept": 0,
+      "joint_best": 0,
+      "joint_account_set": 0
+    },
+    "16s_reset_before_query": {
+      "n": 576,
+      "correct_singletons": 0,
+      "source_covered": 0,
+      "absent_false_accept": 0,
+      "joint_best": 0,
+      "joint_account_set": 0
+    }
+  },
+  "ambiguity": {
+    "accounts": {
+      "n": 32,
+      "exact_sets": 8,
+      "both_covered": 8
+    },
+    "old07": {
+      "n": 32,
+      "exact_sets": 24,
+      "both_covered": 24
+    },
+    "count": {
+      "n": 32,
+      "exact_sets": 0,
+      "both_covered": 0
+    },
+    "envelope": {
+      "n": 32,
+      "exact_sets": 0,
+      "both_covered": 0
+    }
+  },
+  "observation": {
+    "delete_rest": {
+      "n": 32,
+      "fewer_raw_events": 0,
+      "fewer_reliable_events": 0,
+      "correct_singleton": 8,
+      "missing_correspondence_trials": 8,
+      "unresolved_gap_trials": 0,
+      "quiet_gap_trials": 8,
+      "false_quiet_on_present_trials": 0,
+      "truth_deleted_localized": 8,
+      "physical_causal_claims": 0
+    },
+    "delete_closed": {
+      "n": 32,
+      "fewer_raw_events": 0,
+      "fewer_reliable_events": 0,
+      "correct_singleton": 4,
+      "missing_correspondence_trials": 4,
+      "unresolved_gap_trials": 4,
+      "quiet_gap_trials": 0,
+      "false_quiet_on_present_trials": 0,
+      "truth_deleted_localized": 4,
+      "physical_causal_claims": 0
+    },
+    "delete_two": {
+      "n": 32,
+      "fewer_raw_events": 0,
+      "fewer_reliable_events": 0,
+      "correct_singleton": 0,
+      "missing_correspondence_trials": 0,
+      "unresolved_gap_trials": 0,
+      "quiet_gap_trials": 0,
+      "false_quiet_on_present_trials": 0,
+      "truth_deleted_localized": 0,
+      "physical_causal_claims": 0
+    },
+    "weak_present": {
+      "n": 32,
+      "fewer_raw_events": 32,
+      "fewer_reliable_events": 32,
+      "correct_singleton": 8,
+      "missing_correspondence_trials": 8,
+      "unresolved_gap_trials": 8,
+      "quiet_gap_trials": 0,
+      "false_quiet_on_present_trials": 0,
+      "truth_deleted_localized": 0,
+      "physical_causal_claims": 0
+    },
+    "mask_present": {
+      "n": 32,
+      "fewer_raw_events": 0,
+      "fewer_reliable_events": 32,
+      "correct_singleton": 0,
+      "missing_correspondence_trials": 0,
+      "unresolved_gap_trials": 0,
+      "quiet_gap_trials": 0,
+      "false_quiet_on_present_trials": 0,
+      "truth_deleted_localized": 0,
+      "physical_causal_claims": 0
+    },
+    "mask_absent": {
+      "n": 32,
+      "fewer_raw_events": 0,
+      "fewer_reliable_events": 0,
+      "correct_singleton": 0,
+      "missing_correspondence_trials": 0,
+      "unresolved_gap_trials": 0,
+      "quiet_gap_trials": 0,
+      "false_quiet_on_present_trials": 0,
+      "truth_deleted_localized": 0,
+      "physical_causal_claims": 0
+    },
+    "merged": {
+      "n": 32,
+      "fewer_raw_events": 32,
+      "fewer_reliable_events": 32,
+      "correct_singleton": 0,
+      "missing_correspondence_trials": 0,
+      "unresolved_gap_trials": 0,
+      "quiet_gap_trials": 0,
+      "false_quiet_on_present_trials": 0,
+      "truth_deleted_localized": 0,
+      "physical_causal_claims": 0
+    },
+    "legitimate_rest": {
+      "n": 32,
+      "fewer_raw_events": 0,
+      "fewer_reliable_events": 0,
+      "correct_singleton": 32,
+      "missing_correspondence_trials": 0,
+      "unresolved_gap_trials": 0,
+      "quiet_gap_trials": 0,
+      "false_quiet_on_present_trials": 0,
+      "truth_deleted_localized": 0,
+      "physical_causal_claims": 0
+    }
+  }
+}

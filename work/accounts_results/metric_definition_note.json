@@ -1,0 +1,8 @@
+{
+  "applicability": "Joint recovery metrics apply to accounts only. The baseline rows in trials.json contain null joint fields. summary.json sums these to zero; those baseline zeros mean NOT EVALUATED, not failed recovery.",
+  "ordinary_origin": "Ordinary retrieval scores use constructed source provenance; they are not human identity judgments. An absent-origin false acceptance does not establish perceptual dissimilarity.",
+  "recovery": "Strict correspondence recovery checks the programmed event mapping. Substitution versus deletion-plus-insertion can fit the same sound; hidden construction history is not uniquely audible.",
+  "observation": "Weak/masked/merged cases have separate observation metrics; strict full physical recovery is impossible when the corresponding event is undetected. Masked rejections are not counted as successful uncertainty-aware memory retrieval.",
+  "replication": "576 primary queries are clustered in 16 held-out groups. Ambiguity has 16 unique cases evaluated in two memory orders; 32 decisions are not 32 independent cases.",
+  "diagnostics": "Top-rank and known-reference ceilings are post-hoc analyses of frozen outputs, not acceptance results or new tuned models."
+}

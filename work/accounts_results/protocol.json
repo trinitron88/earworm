@@ -1,0 +1,109 @@
+{
+  "experiment": 8,
+  "frozen_utc": "2026-09-19T07:35:44.263852+00:00",
+  "source_sha256": {
+    "accounts_stimuli.py": "d141a6fbcb39a921765739ad64da8440f34743727c484672afec841794079820",
+    "accounts_reader.py": "783e1dc1968d553c83706dcc412f648fcb21f74a91c407c235d1f3a7fe037a88",
+    "accounts_experiment.py": "3e33ceef4f2b64ee5ff1206b869476a47bde1ff96504037a9f616d2fbbf30b59",
+    "remember_changes_acoustics.py": "33cb2b5881375374e4da6f45723be0ca117aa1674b8d41fccf8da9ecd7533ca4",
+    "confidence_reader.py": "4ee1788958ec092fbe0f3ff0a808ebb476cd5ef23758a8295918e47cc54ec4b5",
+    "incomplete_matcher.py": "e7e92d0b7128da018c65616b04a8d965ca77ad0ec5673414550bf6b64a14c7ae"
+  },
+  "question": "Recover memory and acoustic edits without a supplied edit family or fixed coverage fraction; retain competing explanations and observation uncertainty.",
+  "split": {
+    "fit": "e00-e03: one group per length; core families only",
+    "calibration": "e04-e07: one per length; core only",
+    "held_out": "e08-e23: four groups per length; no tuning"
+  },
+  "data": {
+    "groups": 24,
+    "lengths": [
+      4,
+      6,
+      8,
+      10
+    ],
+    "prior_patterns_excluded": 1032,
+    "fresh_base_patterns": 264,
+    "blocks": 1128,
+    "query_seconds": 2
+  },
+  "inputs": "PCM and sample rate; acoustic descriptions only in matching. No generator note counts, pitches, edit labels, source, or split as predictor features. Opaque handles route outputs.",
+  "controls": [
+    "Overlapping length/count/gap/edit mixtures and count/envelope baselines",
+    "Weak, masked, and merged observations versus actual omissions",
+    "Exactly ambiguous source waveforms and nonexclusive observation explanations"
+  ],
+  "alignment": {
+    "min_phase_fraction": 0.5,
+    "max_pitch_span_cents": 150.0,
+    "max_centroid_f0_ratio": 4.0,
+    "gap_cost": 0.7,
+    "pitch_scale_semitones": 2.0,
+    "pitch_deadzone_semitones": 0.05,
+    "timing_deadzone_s": 0.005,
+    "timing_cost_per_second": 2.0,
+    "initial_normalized_timing_weight": 0.15,
+    "shift_proposals": 8,
+    "paths_per_cell": 2,
+    "max_retained_paths": 4,
+    "retained_cost_slack": 0.15,
+    "quiet_relative_rms": 0.01,
+    "quiet_absolute_rms": 1e-05,
+    "pitch_edit_reporting_semitones": 0.2,
+    "timing_edit_reporting_s": 0.015
+  },
+  "feature_names": [
+    "cost",
+    "matched_log",
+    "reference_coverage",
+    "query_coverage",
+    "mean_pitch_loss",
+    "exact_pitch_fraction",
+    "mean_timing_loss",
+    "missing_fraction",
+    "inserted_fraction",
+    "unreliable_query_fraction",
+    "reference_log",
+    "query_log"
+  ],
+  "fit": "StandardScaler plus L2 LogisticRegression C=1, balanced classes, random_state=8, max_iter=2000; pairwise source labels from fit core groups only. Logits are support scores, not probabilities.",
+  "calibration": "Across source A/B crossed histories (one head plus eight identical distractors): choose score threshold maximizing correct singleton retrieval under <=5% empirical absent-history false acceptance; ties favor fewer false accepts then stricter threshold. Apply one threshold to all families and lengths. Return every memory at/above threshold.",
+  "frozen_baseline": "Unchanged Experiment07 evidence_sets with its existing residual threshold and five-sixths/full-query coverage gates.",
+  "simple_baselines": "Raw detected-event count difference; L2 distance of unit-normalized 64-bin RMS envelopes. Each threshold independently calibrated by the same criterion.",
+  "stages": [
+    "core",
+    "delete_transpose",
+    "delete_timing",
+    "delete_detune"
+  ],
+  "scoring": {
+    "source": "Origin membership and correct-singleton fraction separate; ordinary absent-history acceptance; ambiguity cases require both compatible memories and no extra.",
+    "best_alignment": "Evaluate top alignment of the actually uniquely retrieved true source; exact missing reference set and inserted-event count; all absolute per-event pitch changes within .20 semitone and onset changes within .015 s; require full true surviving correspondence. Generator truth is evaluator-only.",
+    "account_set": "Same strict joint criterion but any retained alignment; reported separately from best.",
+    "observation_controls": "Report detection count, nonfinite/quality-filtered events, missing positions, quiet-gap assertions, unresolved gaps, and false quiet assertions for physically present weak/masked/merged notes. Do not score hidden mask cause as recoverable.",
+    "uncertainty": "All missing correspondences retain physical_cause=not_identified. Quiet-at-predicted-location is acoustic support under this fit, not proof of a performer action or human identity."
+  },
+  "delay_controls": {
+    "delays_s": [
+      0,
+      16
+    ],
+    "modes": [
+      "intact",
+      "drop_reference",
+      "reset_before_query"
+    ],
+    "intervening_sound": "eight completed 2s distractor blocks",
+    "capacity": "12 acoustic entries; no decay or interference learning"
+  },
+  "availability": "Only completed supplied 2s blocks; batch cache timings explicitly distinct from fresh sequential waveform replay. Logical online schedule is block end plus computation, serialize backlog; wall times and output-ready timestamps recorded after matching AND explanation. No live continuous-stream claim.",
+  "replay": "Four held-out groups (one per length), A source, six predetermined families (exact,delete_rest,mask_present,delete_transpose,delete_timing,delete_detune), 16s intact/drop/reset; each block described afresh. Four paired history swaps and four future-prefix pairs. No similarity cache in replay.",
+  "limitations": [
+    "Synthetic monophonic additive phrases; known completed windows; hand-supplied edit vocabulary; limited alignment beam; four fit and four calibration groups; generalization measured on sixteen groups, not independent trials.",
+    "A full acoustic memory store is supplied; this is not learned recurrent memory or subjective hearing.",
+    "MERT checkpoint remains frozen and unused in new scoring; no new MERT inference, fitting, or foundation-model training.",
+    "No human perceptual identity inference; human pilot remains separate."
+  ],
+  "paid_external_compute_usd": 0
+}
