@@ -1,0 +1,87 @@
+{
+  "frozen_threshold": 3.6264131202365606,
+  "feature_order": [
+    "cost",
+    "matched_log",
+    "reference_coverage",
+    "query_coverage",
+    "mean_pitch_loss",
+    "exact_pitch_fraction",
+    "mean_timing_loss",
+    "missing_fraction",
+    "inserted_fraction",
+    "unreliable_query_fraction",
+    "reference_log",
+    "query_log"
+  ],
+  "categories": {
+    "all_12_equal": "Both available; every feature compares exactly equal.",
+    "only_cost_timing_differ": "Both available; other ten exactly equal; cost and/or mean_timing_loss differ.",
+    "other_differences": "Both available; at least one of the other ten differs.",
+    "unavailable": "True-source and/or tied maximum evidence unavailable; no feature equality inferred."
+  },
+  "denominators": "Pair counts include every exact absent-history maximum. Query any/all count each query once across all its exact maxima, including unavailable pairs; category-any columns can overlap. Ten-equal is the union of the first two categories. No tolerance in feature equality or acceptance.",
+  "score_near_diagnostic": "Prior strict absolute score difference < 1e-9; reported separately and never used to select exact maxima, classify features, or decide acceptance.",
+  "counts": {
+    "query_n": 576,
+    "group_n": 16,
+    "max_pair_n": 632,
+    "available_pair_n": 632,
+    "queries_all_max_pairs_available": 576,
+    "queries_with_tied_exact_absent_maxima": 18,
+    "queries_any_alternate_reference_max": 48,
+    "pairs_all_12_equal": 68,
+    "queries_any_all_12_equal": 17,
+    "queries_all_all_12_equal": 17,
+    "pairs_only_cost_timing_differ": 104,
+    "queries_any_only_cost_timing_differ": 104,
+    "queries_all_only_cost_timing_differ": 104,
+    "pairs_other_differences": 460,
+    "queries_any_other_differences": 455,
+    "queries_all_other_differences": 455,
+    "pairs_unavailable": 0,
+    "queries_any_unavailable": 0,
+    "queries_all_unavailable": 0,
+    "outcome_true_singleton": 164,
+    "outcome_wrong_singleton": 0,
+    "outcome_multiple_candidates": 0,
+    "outcome_none": 412,
+    "queries_any_ten_equal": 121,
+    "queries_all_ten_equal": 121,
+    "absent_false_accept_queries": 0,
+    "true_vs_absent_max_score_near_queries": 18,
+    "queries_with_extra_score_near_maxima": 19,
+    "true_margin_min": -4.946186384594724,
+    "true_margin_median": -0.35265007270279014,
+    "true_margin_max": 2.382312863856603,
+    "absent_margin_min": -10.350452064130181,
+    "absent_margin_median": -4.330068327181324,
+    "absent_margin_max": -1.2761520000736937e-06,
+    "true_minus_absent_max_min": -2.102291603218907,
+    "true_minus_absent_max_median": 4.216742370042722,
+    "true_minus_absent_max_max": 9.609636516644636
+  },
+  "verification": {
+    "held_out_queries": 576,
+    "held_out_candidate_vectors": 5760,
+    "groups": 16,
+    "frozen_numpy_scores_exact": true,
+    "scalar_max_abs_difference": 3.552713678800501e-15,
+    "arithmetic_check_tolerance": 1e-12,
+    "previous_query_margins_and_exact_maxima_matched": 576,
+    "primary_present_and_absent_decisions_matched": 576,
+    "e21_matched_pair_crosschecks": [
+      {
+        "query_id": "e21_query_a_delete_closed",
+        "category": "only_cost_timing_differ",
+        "scores_margins_and_ids_exact": true
+      },
+      {
+        "query_id": "e21_query_b_delete_closed",
+        "category": "other_differences",
+        "scores_margins_and_ids_exact": true
+      }
+    ],
+    "export_hash_and_frozen_config_hash_match_prior_identifiers": true
+  }
+}
