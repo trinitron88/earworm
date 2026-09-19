@@ -1,0 +1,99 @@
+{
+  "full_calibration_reproduced": {
+    "threshold": 3.6264131202365606,
+    "n": 120,
+    "correct_singletons": 37,
+    "absent_false_acceptances": 1
+  },
+  "folds": [
+    {
+      "omitted_group": "e04",
+      "omitted_length": 4,
+      "threshold": 3.6264131202365606,
+      "threshold_minus_frozen": 0.0,
+      "retained_calibration": {
+        "threshold": 3.6264131202365606,
+        "n": 90,
+        "correct_singletons": 29,
+        "absent_false_acceptances": 1
+      },
+      "omitted_at_diagnostic_threshold": {
+        "n": 30,
+        "correct_singletons": 8,
+        "absent_false_acceptances": 0
+      },
+      "omitted_at_frozen_threshold": {
+        "n": 30,
+        "correct_singletons": 8,
+        "absent_false_acceptances": 0
+      }
+    },
+    {
+      "omitted_group": "e05",
+      "omitted_length": 6,
+      "threshold": 3.5126056913275674,
+      "threshold_minus_frozen": -0.1138074289089932,
+      "retained_calibration": {
+        "threshold": 3.5126056913275674,
+        "n": 90,
+        "correct_singletons": 28,
+        "absent_false_acceptances": 0
+      },
+      "omitted_at_diagnostic_threshold": {
+        "n": 30,
+        "correct_singletons": 8,
+        "absent_false_acceptances": 6
+      },
+      "omitted_at_frozen_threshold": {
+        "n": 30,
+        "correct_singletons": 13,
+        "absent_false_acceptances": 1
+      }
+    },
+    {
+      "omitted_group": "e06",
+      "omitted_length": 8,
+      "threshold": 3.6264131202365606,
+      "threshold_minus_frozen": 0.0,
+      "retained_calibration": {
+        "threshold": 3.6264131202365606,
+        "n": 90,
+        "correct_singletons": 29,
+        "absent_false_acceptances": 1
+      },
+      "omitted_at_diagnostic_threshold": {
+        "n": 30,
+        "correct_singletons": 8,
+        "absent_false_acceptances": 0
+      },
+      "omitted_at_frozen_threshold": {
+        "n": 30,
+        "correct_singletons": 8,
+        "absent_false_acceptances": 0
+      }
+    },
+    {
+      "omitted_group": "e07",
+      "omitted_length": 10,
+      "threshold": 3.6264131202365606,
+      "threshold_minus_frozen": 0.0,
+      "retained_calibration": {
+        "threshold": 3.6264131202365606,
+        "n": 90,
+        "correct_singletons": 29,
+        "absent_false_acceptances": 1
+      },
+      "omitted_at_diagnostic_threshold": {
+        "n": 30,
+        "correct_singletons": 8,
+        "absent_false_acceptances": 0
+      },
+      "omitted_at_frozen_threshold": {
+        "n": 30,
+        "correct_singletons": 8,
+        "absent_false_acceptances": 0
+      }
+    }
+  ],
+  "warning": "Diagnostics on calibration groups only. Frozen readout and deployed threshold unchanged. Each omission also removes its unique calibration length; group and length cannot be separated. No diagnostic threshold is selected using held-out outcomes."
+}

@@ -1,0 +1,60 @@
+{
+  "checked_at_utc": "2026-09-19T09:55:40.002622+00:00",
+  "python": "3.12.14",
+  "numpy": "2.5.3",
+  "clean_audit_reexecution": [
+    {
+      "file": "calibration_sensitivity.json",
+      "identical": true,
+      "sha256": "1a18f1ad88719f80b146bba9bb31b2a02e23af3af3b9182b726fb29e5f33ea70"
+    },
+    {
+      "file": "candidate_scores.csv",
+      "identical": true,
+      "sha256": "92b140205b435c6fb309ac545613318774c9df2d8e3ee6a5efad7d7c51375e1c"
+    },
+    {
+      "file": "feature_contributions.csv",
+      "identical": true,
+      "sha256": "316765755be3cc164c3a4438bec50aefe4008284fa8f3067ab88ecb33008c41c"
+    },
+    {
+      "file": "query_margins.csv",
+      "identical": true,
+      "sha256": "e20513ec099a3e979db78fdd9c746fc57395cc514755dc4ea088ccf6a94475a6"
+    },
+    {
+      "file": "stratified_margins.json",
+      "identical": true,
+      "sha256": "738a0273f838643718558a1a125dcbfb312d0116e963c876a7972b99e0bb9ea2"
+    },
+    {
+      "file": "summary.json",
+      "identical": true,
+      "sha256": "d8fff62517a3dc2ee38e113c5235d1d78498b2995ae2d74576330f9e5a5ab58e"
+    }
+  ],
+  "frozen_threshold_routine_comparisons": [
+    {
+      "omitted_group": null,
+      "exact_frozen_threshold_routine_match": true
+    },
+    {
+      "omitted_group": "e04",
+      "exact_frozen_threshold_routine_match": true
+    },
+    {
+      "omitted_group": "e05",
+      "exact_frozen_threshold_routine_match": true
+    },
+    {
+      "omitted_group": "e06",
+      "exact_frozen_threshold_routine_match": true
+    },
+    {
+      "omitted_group": "e07",
+      "exact_frozen_threshold_routine_match": true
+    }
+  ],
+  "note": "Audit calculations only. Original experiment pipelines, alignment, audio generation, training, and replay were not run."
+}

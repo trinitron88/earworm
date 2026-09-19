@@ -1,0 +1,203 @@
+{
+  "repository": "trinitron88/earworm",
+  "inspected_commit": "44349be60642d25ea206b05831a98c362234a25f",
+  "tree_sha": "7cae840f6b5b48df0402ef18b54b8878df009d65",
+  "truncated": false,
+  "files": [
+    {
+      "path": ".gitignore",
+      "git_blob_sha": "dc06b52d997bec6be48f787430e4ce323216802f",
+      "size": 621
+    },
+    {
+      "path": ".python-version",
+      "git_blob_sha": "f36fa5fd8017a085e301126c8c3fc30f1a2550b9",
+      "size": 8
+    },
+    {
+      "path": "PROJECT_STATE.md",
+      "git_blob_sha": "b7450e54ec5c4aeda180a5f5a406eed7fbf8e10b",
+      "size": 11236
+    },
+    {
+      "path": "README.md",
+      "git_blob_sha": "09047fc0071cbbfe275a3d5a4a588cf1f041c0a7",
+      "size": 971
+    },
+    {
+      "path": "REVIEW_SNAPSHOT_MANIFEST.json",
+      "git_blob_sha": "209980ba906454ebcde119a81a00a9eadc2b92be",
+      "size": 10958
+    },
+    {
+      "path": "SHA256SUMS",
+      "git_blob_sha": "9474da8a0a197a73e69a9afe466a6ff8a8862839",
+      "size": 3669
+    },
+    {
+      "path": "outputs/competing-accounts-observations.png",
+      "git_blob_sha": "7a24426482b95587c45de4e89c76d939ede8b886",
+      "size": 114543
+    },
+    {
+      "path": "outputs/competing-accounts-report.html",
+      "git_blob_sha": "7f89993b713ac588b38552450811a78a34bb75d8",
+      "size": 1616591
+    },
+    {
+      "path": "outputs/competing-accounts-results.png",
+      "git_blob_sha": "0abd3058d1111a88cc1df2284d6df2e1e34b0eae",
+      "size": 114694
+    },
+    {
+      "path": "outputs/experiment08-milestone.md",
+      "git_blob_sha": "353ad9ef5727115d87a2c8a0acf408b31c487999",
+      "size": 1976
+    },
+    {
+      "path": "requirements.txt",
+      "git_blob_sha": "cd1d0c75b8ca7d401f11385a9c1354dac689f6be",
+      "size": 66
+    },
+    {
+      "path": "review/experiment08/control_summary.csv",
+      "git_blob_sha": "5c3b675de662b9d99a959aeb1c8338e38d40e06f",
+      "size": 951
+    },
+    {
+      "path": "review/experiment08/primary_trials.csv",
+      "git_blob_sha": "55b1f6e86db9a45c0a207f6e4ca6866335c98dad",
+      "size": 230530
+    },
+    {
+      "path": "review/experiment08/report_examples.json",
+      "git_blob_sha": "99a2b4cd92959f7d7bcd65994b111e87802bd33d",
+      "size": 23165
+    },
+    {
+      "path": "review/experiment08/trigger-test-request-20260919.md",
+      "git_blob_sha": "24910bcc08b0118dd58375a263050d0b20a4b837",
+      "size": 3361
+    },
+    {
+      "path": "review/experiment08/waveform_hashes.csv",
+      "git_blob_sha": "cc96c042dee36721fd8663237b13cc520b9f67a2",
+      "size": 131211
+    },
+    {
+      "path": "work/accounts_audit.py",
+      "git_blob_sha": "b54cd4f17d20980d3d2c6ba3be86f8acf5d10d16",
+      "size": 10863
+    },
+    {
+      "path": "work/accounts_experiment.py",
+      "git_blob_sha": "8e9efea9d02314a0a7577bb0c923294b0a98a0b2",
+      "size": 26135
+    },
+    {
+      "path": "work/accounts_portable.py",
+      "git_blob_sha": "a714dad42b31e8168461a356725b964b795fe339",
+      "size": 3652
+    },
+    {
+      "path": "work/accounts_reader.py",
+      "git_blob_sha": "4afedc261a4ac526a316cee3b0c971596a6df8be",
+      "size": 8679
+    },
+    {
+      "path": "work/accounts_report.py",
+      "git_blob_sha": "d68cee1ad6e03c59d62e5d47393ae7b9b5b5f71f",
+      "size": 30578
+    },
+    {
+      "path": "work/accounts_results/ambiguity.json",
+      "git_blob_sha": "b3e17ace67c8046a5ad7398ce27d3249d3990146",
+      "size": 35235
+    },
+    {
+      "path": "work/accounts_results/audit.json",
+      "git_blob_sha": "b0c2b145d41709c4d9c02178025ba88ccde59818",
+      "size": 865
+    },
+    {
+      "path": "work/accounts_results/fresh_replays.json",
+      "git_blob_sha": "a8da5bd1b777643dcc80184b9d1ff3f1b9187288",
+      "size": 463626
+    },
+    {
+      "path": "work/accounts_results/frozen_config.json",
+      "git_blob_sha": "06128c8d6bb32791df55c343542ccd3885c28b9b",
+      "size": 2725
+    },
+    {
+      "path": "work/accounts_results/metric_definition_note.json",
+      "git_blob_sha": "8ba0118cbbcd1d1c98e9c73d8ba438e3382dbcbf",
+      "size": 1213
+    },
+    {
+      "path": "work/accounts_results/portable_validation.json",
+      "git_blob_sha": "ed677c102cd0d79eb701a3fe7ad53e829d90aede",
+      "size": 411
+    },
+    {
+      "path": "work/accounts_results/posthoc_diagnostics.json",
+      "git_blob_sha": "c1bd5c75d6d3f448c95d5e10f42f4b41cfaa8593",
+      "size": 4435
+    },
+    {
+      "path": "work/accounts_results/prefix_checks.json",
+      "git_blob_sha": "e1d53de070d83e30056091f320d79838949b1b61",
+      "size": 847
+    },
+    {
+      "path": "work/accounts_results/protocol.json",
+      "git_blob_sha": "048b916febdb65455165a45f3123105f8eb13bfb",
+      "size": 6197
+    },
+    {
+      "path": "work/accounts_results/replay_summary.json",
+      "git_blob_sha": "3bf310c7dcd338a8e18695fda9026e8fa13a8fa4",
+      "size": 622
+    },
+    {
+      "path": "work/accounts_results/summary.json",
+      "git_blob_sha": "3ffa94a45e8319bdd587a71d8af83303589587ab",
+      "size": 12190
+    },
+    {
+      "path": "work/accounts_results/swapped_replays.json",
+      "git_blob_sha": "6b2aa90b1c49b5c84aa9b9b82e6cba3df0f1cb84",
+      "size": 71603
+    },
+    {
+      "path": "work/accounts_stimuli.py",
+      "git_blob_sha": "c4e72eb1d7cc951f1756a21231d46b3834b200da",
+      "size": 8024
+    },
+    {
+      "path": "work/accounts_stimuli/manifest.json",
+      "git_blob_sha": "f0b3cd0c193081c5c42fa15c8b245ce8dd44821d",
+      "size": 2570207
+    },
+    {
+      "path": "work/confidence_reader.py",
+      "git_blob_sha": "c3f347b33391ab33d05eafb02144d668ca375674",
+      "size": 6846
+    },
+    {
+      "path": "work/confidence_results/frozen_config.json",
+      "git_blob_sha": "954e93164f8cfee5fd691ba7e626c62d9632123d",
+      "size": 1017
+    },
+    {
+      "path": "work/incomplete_matcher.py",
+      "git_blob_sha": "3122c171f29ca87c6aea06c1550bb1bb21e58ded",
+      "size": 8616
+    },
+    {
+      "path": "work/remember_changes_acoustics.py",
+      "git_blob_sha": "011fc6354ad96b801e803ec32a92e2cb837c4374",
+      "size": 16133
+    }
+  ]
+}

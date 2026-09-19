@@ -1,0 +1,19 @@
+{
+  "status": "awaiting-review",
+  "audit_status": "completed_saved_evidence_audit",
+  "parent_snapshot": "b8b6e85ab184d8e243b1e40b7aea6500a31ac105",
+  "publication_snapshot": "Resolve the commit containing this completion package from PR #2.",
+  "supersedes_status_only": "../checkpoint.json: blocked_missing_saved_pairs; earlier package preserved unchanged",
+  "authorized_assignment_comment": 5740577316,
+  "reconciled_review_ids": [5255130712, 5255192711],
+  "report": "review/experiment08/calibration-audit/completion-20260919/REPORT.md",
+  "input": "review/experiment08/calibration-audit/completion-20260919/candidate_evidence.jsonl",
+  "script": "review/experiment08/calibration-audit/completion-20260919/analyze_saved_evidence.py",
+  "results": "review/experiment08/calibration-audit/completion-20260919/results/",
+  "completed": ["Recovered original local saved evidence without regeneration", "Reconciled published blocker", "Compared true-source and absent-history margins by group, length, and family", "Computed calibration-only leave-one-group-out sensitivity with frozen model", "Verified original decisions and provenance"],
+  "next_action_proposed_only": "Read-only matched-pair inspection of e05/e21 delete-closed true-source and closest-impostor alignment/evidence; not executed",
+  "worker_poll": {"id": "earworm-worker-poll", "saved_interval_minutes": 30, "destination": "Existing local Project Earworm conversation", "authorization_limits_unchanged": true},
+  "frozen_model_and_operational_threshold_unchanged": true,
+  "original_experiment_artifacts_and_previous_blocker_package_unchanged": true,
+  "stop_condition": "Publish one complete snapshot, save exact commit receipt locally, release worker lock, and end invocation. Later scheduled checks may inspect authorized feedback without expanding scope."
+}

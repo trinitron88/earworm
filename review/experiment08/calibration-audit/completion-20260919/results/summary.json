@@ -1,0 +1,103 @@
+{
+  "frozen_threshold": 3.6264131202365606,
+  "by_split": {
+    "calibration": {
+      "n": 120,
+      "correct_singletons": 37,
+      "absent_false_acceptances": 1,
+      "groups": 4,
+      "unique_top_in_present_history": 109,
+      "unique_top_but_rejected": 73,
+      "true_score": {
+        "min": -0.2654208755846863,
+        "q25": 2.325809452617809,
+        "median": 3.2047867711155202,
+        "q75": 4.337846426135648,
+        "max": 6.0087259840931635
+      },
+      "absent_max_score": {
+        "min": -3.94934676017618,
+        "q25": -1.5392475578603593,
+        "median": -0.265493548234073,
+        "q75": 1.6196420672836296,
+        "max": 3.6264132224483037
+      },
+      "true_margin": {
+        "min": -3.891833995821247,
+        "q25": -1.3006036676187516,
+        "median": -0.42162634912104036,
+        "q75": 0.7114333058990883,
+        "max": 2.382312863856603
+      },
+      "absent_margin": {
+        "min": -7.575759880412741,
+        "q25": -5.16566067809692,
+        "median": -3.8919066684706336,
+        "q75": -2.006771052952931,
+        "max": 1.02211743069347e-07
+      },
+      "true_minus_absent_max": {
+        "min": -0.00015657280929382011,
+        "q25": 0.0002473021033144729,
+        "median": 3.40290614716345,
+        "q75": 5.06412876560078,
+        "max": 6.904933247181375
+      }
+    },
+    "held_out": {
+      "n": 576,
+      "correct_singletons": 164,
+      "absent_false_acceptances": 0,
+      "groups": 16,
+      "unique_top_in_present_history": 553,
+      "unique_top_but_rejected": 389,
+      "true_score": {
+        "min": -1.3197732643581634,
+        "q25": 2.219831068864471,
+        "median": 3.2737630475337705,
+        "q75": 3.6266266302486665,
+        "max": 6.0087259840931635
+      },
+      "absent_max_score": {
+        "min": -6.72403894389362,
+        "q25": -2.029381790059692,
+        "median": -0.703655206944763,
+        "q75": 1.1071580239011762,
+        "max": 3.6264118440845605
+      },
+      "true_margin": {
+        "min": -4.946186384594724,
+        "q25": -1.4065820513720895,
+        "median": -0.35265007270279014,
+        "q75": 0.0002135100121058997,
+        "max": 2.382312863856603
+      },
+      "absent_margin": {
+        "min": -10.350452064130181,
+        "q25": -5.655794910296253,
+        "median": -4.330068327181324,
+        "q75": -2.5192550963353844,
+        "max": -1.2761520000736937e-06
+      },
+      "true_minus_absent_max": {
+        "min": -2.102291603218907,
+        "q25": 2.3104334175015673,
+        "median": 4.216742370042722,
+        "q75": 5.367498173947498,
+        "max": 9.609636516644636
+      }
+    }
+  },
+  "verification": {
+    "held_out_present_and_absent_decisions_matched": 576,
+    "calibration_threshold_exact": true,
+    "calibration_counts_matched": true,
+    "ranking_counts_by_family_matched": true,
+    "candidate_pairs": 6960,
+    "scalar_arithmetic_max_abs_difference": 3.552713678800501e-15,
+    "source_hashes_match": true,
+    "export_hash_matches": true,
+    "metadata_and_histories_match_published_manifest": true
+  },
+  "operations": "Frozen linear arithmetic on saved evidence; calibration-only diagnostic threshold sweeps. No extraction, alignment, fitting, audio generation, or MERT inference."
+}
