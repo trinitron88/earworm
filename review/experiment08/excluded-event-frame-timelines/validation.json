@@ -1,0 +1,150 @@
+{
+  "status": "pass",
+  "verified_at_utc": "2026-09-19T20:59:32.543701+00:00",
+  "scope": "Saved-data audit only; no extractor, experiment, path search or scoring invocation.",
+  "runtime": {
+    "python": "3.12.14",
+    "numpy": "2.5.3",
+    "matplotlib": "3.11.2"
+  },
+  "original_inputs_verified_unchanged": [
+    {
+      "path": "work/accounts_features/e08_query_a_merged.npz",
+      "sha256": "8964a678469bd6b7b740e81e141968e3fe79f0767a37d38ed54f2476848f2dfe",
+      "bytes": 8731
+    },
+    {
+      "path": "work/accounts_features/e08_query_b_merged.npz",
+      "sha256": "d23e07fbf3b59570a7d0e90caf0480c0bb605f2b99d827b1b85ab0fb68fa4ef6",
+      "bytes": 8730
+    },
+    {
+      "path": "work/accounts_features/e12_query_a_merged.npz",
+      "sha256": "6c0a0daa3e1fb1974c57db107a83abb8fc259e9aa3840660af7c33cc6de1801b",
+      "bytes": 8788
+    },
+    {
+      "path": "work/accounts_features/e12_query_b_merged.npz",
+      "sha256": "f78dfb86e204d6f104dea915d052d21dc9dd6c5ab7bd3b45ba8e67de3e43a2f1",
+      "bytes": 8792
+    },
+    {
+      "path": "work/accounts_features/e14_query_a_merged.npz",
+      "sha256": "9fcd8cb70f625eb66d5ac3d25f1c4cff0cfbe67f7ce4be1ecdfcd3567d14c672",
+      "bytes": 10417
+    },
+    {
+      "path": "work/accounts_features/e16_query_a_merged.npz",
+      "sha256": "87338a83a2b10346e048a6c7beaecc544377971f94c7e8ddb7fe7f8fca703e80",
+      "bytes": 8702
+    },
+    {
+      "path": "work/accounts_features/e16_query_b_merged.npz",
+      "sha256": "6f790c6b1ce5712fed783644a26b1973122ffc37c65ef7cd3b83c8750e5d9da3",
+      "bytes": 8714
+    },
+    {
+      "path": "work/accounts_features/e20_query_a_merged.npz",
+      "sha256": "65aac2e88064ee31678d7c6487e33356f8c29317920e5c3ce131c74f88db8b26",
+      "bytes": 8587
+    },
+    {
+      "path": "work/accounts_features/e20_query_b_merged.npz",
+      "sha256": "fda100f2622c2088cc2a568c653f436b8f840f390953eda181fec343132631b1",
+      "bytes": 8598
+    },
+    {
+      "path": "work/accounts_features/e21_query_a_merged.npz",
+      "sha256": "197d1befdc2d6e8f3206a357713beb9673fc385bdd157e1deea8e6a228d1b730",
+      "bytes": 9351
+    },
+    {
+      "path": "work/accounts_features/timings.json",
+      "sha256": "07331eb8a485b571d02397573cc91bca26ed176117038c47923b965ef712eab8",
+      "bytes": 489915
+    },
+    {
+      "path": "work/accounts_results/protocol.json",
+      "sha256": "851456e8fd9a2e84b20eb4f0c39840b441d7569897dbe794339374f8abe772da",
+      "bytes": 6197
+    },
+    {
+      "path": "work/accounts_results/frozen_config.json",
+      "sha256": "da372bb83193c9b4377736765498d7bdef7e875dd5b2a17cd111ce43fb398378",
+      "bytes": 2725
+    }
+  ],
+  "frozen_source_hashes_checked_in_original_and_snapshot": 6,
+  "full_description_digests_reconciled_to_original_timing_records": 10,
+  "complete_fixed_bound_selections_verified": 10,
+  "exact_original_array_slices_checked": 80,
+  "fresh_export_byte_identical_files": 4,
+  "reproduced_outputs_byte_identical": [
+    {
+      "path": "results/event_summary.csv",
+      "sha256": "6ad4cc114455f889d05fc42d2672c929a73d5cb6f4889443039c119da970613f",
+      "bytes": 5578
+    },
+    {
+      "path": "results/frames.csv",
+      "sha256": "4cf49a451598c51cb369918a1fca985dbc9edfaf0ebf3d0da7a31a44eb4b8c91",
+      "bytes": 104318
+    },
+    {
+      "path": "results/summary.json",
+      "sha256": "24ba7304959f8fcd4ec35d94c2847ccfe3a1025c7cac84aec8b1421e485a41e7",
+      "bytes": 796
+    },
+    {
+      "path": "results/timelines-1.png",
+      "sha256": "b52c728ef330f5557dc53c1a392f4ac218c0c77fbc68519660c39080abb1b608",
+      "bytes": 370562
+    },
+    {
+      "path": "results/timelines-1.svg",
+      "sha256": "28acbdf272379ea82cf4dbcbe73a7738f4ce820a2c97b13a2b7498a5fba406be",
+      "bytes": 305223
+    },
+    {
+      "path": "results/timelines-2.png",
+      "sha256": "c11dfd8f564f2db5b3be266e634428403bb7714cd1854afc677a3ccd7c22fc6f",
+      "bytes": 358991
+    },
+    {
+      "path": "results/timelines-2.svg",
+      "sha256": "329b1c692aeef8a5e79eebf5362c9f63b0debb2a0f21f1b0d2dd5bcd7cb774bc",
+      "bytes": 303875
+    }
+  ],
+  "independent_verification": {
+    "status": "pass",
+    "events": 10,
+    "frames": 380,
+    "interior_frames": 300,
+    "voiced_frames": 340,
+    "phase_refined_frames": 276,
+    "finite_positive_pitch_frames": 340,
+    "nonfinite_pitch_frames": 40,
+    "absent_arrays": 0,
+    "exact_typed_array_hashes": 80,
+    "prior_input_hashes_checked": 4,
+    "frozen_source_hashes_checked": 6,
+    "exact_expectation_rows": 130,
+    "event_assessment_rows": 10,
+    "verification_limit": "Checks assessment coverage, not visual-interpretation truth. Full original cache hashes/digests and export completeness were additionally reconciled locally; they cannot be independently rechecked from the scoped export alone."
+  },
+  "scripts_sha256": {
+    "export_saved_frames.py": "7105bc2d26995876a5477f1acde720efb09fec5443b4890998ffeda462365281",
+    "analyze_saved_frames.py": "fca92a7d1d0acc0fa4356f1c0fd903d01c035f8d806899f297eea73301f977f4",
+    "verify_saved_frames.py": "eed4b15133b7ec952522ad68fe4f51de922b105e3ceb780759770c326b446523"
+  },
+  "visual_inspection": {
+    "pages": 2,
+    "method": "Scatter plots inspected visually alongside original chronological numeric tables; qualitative readings recorded in event_assessments.csv. No automatic correctness claim."
+  },
+  "limits": [
+    "Original full caches are not included in the public-to-collaborators snapshot; original-input hashes and digests require those local files to independently reconcile.",
+    "Qualitative assessment coverage is checked; interpretation is not validated against human judgments.",
+    "No CI check is claimed."
+  ]
+}

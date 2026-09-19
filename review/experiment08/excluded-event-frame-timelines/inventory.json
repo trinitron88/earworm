@@ -1,0 +1,569 @@
+{
+  "selected_events": 10,
+  "exported_events": 10,
+  "in_bound_frames": 380,
+  "status": "complete",
+  "events": [
+    {
+      "query_id": "e08_query_a_merged",
+      "event_index": 1,
+      "onset_s": 0.29899999499320984,
+      "offset_s": 0.4869999885559082,
+      "interior_start_s": 0.31699999499320985,
+      "interior_end_s": 0.4689999885559082,
+      "original_frame_count": 397,
+      "adjacent_frame_before_s": 0.29499998688697815,
+      "adjacent_frame_after_s": 0.49000000953674316,
+      "absent_arrays": [],
+      "status": "available",
+      "in_bound_frame_count": 38,
+      "array_inventory": {
+        "frame_time_s": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 0
+        },
+        "frame_rms": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 0
+        },
+        "frame_energy_dbfs": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 0
+        },
+        "frame_voiced": {
+          "present": true,
+          "dtype": "bool",
+          "nonfinite_count": 0
+        },
+        "frame_pitch_hz": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 4
+        },
+        "frame_spectral_peak_hz": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 4
+        },
+        "frame_phase_refined": {
+          "present": true,
+          "dtype": "bool",
+          "nonfinite_count": 0
+        },
+        "frame_spectral_centroid_hz": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 0
+        }
+      }
+    },
+    {
+      "query_id": "e08_query_b_merged",
+      "event_index": 1,
+      "onset_s": 0.29899999499320984,
+      "offset_s": 0.4869999885559082,
+      "interior_start_s": 0.31699999499320985,
+      "interior_end_s": 0.4689999885559082,
+      "original_frame_count": 397,
+      "adjacent_frame_before_s": 0.29499998688697815,
+      "adjacent_frame_after_s": 0.49000000953674316,
+      "absent_arrays": [],
+      "status": "available",
+      "in_bound_frame_count": 38,
+      "array_inventory": {
+        "frame_time_s": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 0
+        },
+        "frame_rms": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 0
+        },
+        "frame_energy_dbfs": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 0
+        },
+        "frame_voiced": {
+          "present": true,
+          "dtype": "bool",
+          "nonfinite_count": 0
+        },
+        "frame_pitch_hz": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 4
+        },
+        "frame_spectral_peak_hz": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 4
+        },
+        "frame_phase_refined": {
+          "present": true,
+          "dtype": "bool",
+          "nonfinite_count": 0
+        },
+        "frame_spectral_centroid_hz": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 0
+        }
+      }
+    },
+    {
+      "query_id": "e12_query_a_merged",
+      "event_index": 1,
+      "onset_s": 0.29899999499320984,
+      "offset_s": 0.4869999885559082,
+      "interior_start_s": 0.31699999499320985,
+      "interior_end_s": 0.4689999885559082,
+      "original_frame_count": 397,
+      "adjacent_frame_before_s": 0.29499998688697815,
+      "adjacent_frame_after_s": 0.49000000953674316,
+      "absent_arrays": [],
+      "status": "available",
+      "in_bound_frame_count": 38,
+      "array_inventory": {
+        "frame_time_s": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 0
+        },
+        "frame_rms": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 0
+        },
+        "frame_energy_dbfs": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 0
+        },
+        "frame_voiced": {
+          "present": true,
+          "dtype": "bool",
+          "nonfinite_count": 0
+        },
+        "frame_pitch_hz": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 4
+        },
+        "frame_spectral_peak_hz": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 4
+        },
+        "frame_phase_refined": {
+          "present": true,
+          "dtype": "bool",
+          "nonfinite_count": 0
+        },
+        "frame_spectral_centroid_hz": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 0
+        }
+      }
+    },
+    {
+      "query_id": "e12_query_b_merged",
+      "event_index": 1,
+      "onset_s": 0.29899999499320984,
+      "offset_s": 0.4869999885559082,
+      "interior_start_s": 0.31699999499320985,
+      "interior_end_s": 0.4689999885559082,
+      "original_frame_count": 397,
+      "adjacent_frame_before_s": 0.29499998688697815,
+      "adjacent_frame_after_s": 0.49000000953674316,
+      "absent_arrays": [],
+      "status": "available",
+      "in_bound_frame_count": 38,
+      "array_inventory": {
+        "frame_time_s": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 0
+        },
+        "frame_rms": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 0
+        },
+        "frame_energy_dbfs": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 0
+        },
+        "frame_voiced": {
+          "present": true,
+          "dtype": "bool",
+          "nonfinite_count": 0
+        },
+        "frame_pitch_hz": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 4
+        },
+        "frame_spectral_peak_hz": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 4
+        },
+        "frame_phase_refined": {
+          "present": true,
+          "dtype": "bool",
+          "nonfinite_count": 0
+        },
+        "frame_spectral_centroid_hz": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 0
+        }
+      }
+    },
+    {
+      "query_id": "e14_query_a_merged",
+      "event_index": 3,
+      "onset_s": 0.628000020980835,
+      "offset_s": 0.8169999718666077,
+      "interior_start_s": 0.646000020980835,
+      "interior_end_s": 0.7989999718666077,
+      "original_frame_count": 397,
+      "adjacent_frame_before_s": 0.625,
+      "adjacent_frame_after_s": 0.8199999928474426,
+      "absent_arrays": [],
+      "status": "available",
+      "in_bound_frame_count": 38,
+      "array_inventory": {
+        "frame_time_s": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 0
+        },
+        "frame_rms": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 0
+        },
+        "frame_energy_dbfs": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 0
+        },
+        "frame_voiced": {
+          "present": true,
+          "dtype": "bool",
+          "nonfinite_count": 0
+        },
+        "frame_pitch_hz": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 4
+        },
+        "frame_spectral_peak_hz": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 4
+        },
+        "frame_phase_refined": {
+          "present": true,
+          "dtype": "bool",
+          "nonfinite_count": 0
+        },
+        "frame_spectral_centroid_hz": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 0
+        }
+      }
+    },
+    {
+      "query_id": "e16_query_a_merged",
+      "event_index": 1,
+      "onset_s": 0.2980000078678131,
+      "offset_s": 0.4869999885559082,
+      "interior_start_s": 0.3160000078678131,
+      "interior_end_s": 0.4689999885559082,
+      "original_frame_count": 397,
+      "adjacent_frame_before_s": 0.29499998688697815,
+      "adjacent_frame_after_s": 0.49000000953674316,
+      "absent_arrays": [],
+      "status": "available",
+      "in_bound_frame_count": 38,
+      "array_inventory": {
+        "frame_time_s": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 0
+        },
+        "frame_rms": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 0
+        },
+        "frame_energy_dbfs": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 0
+        },
+        "frame_voiced": {
+          "present": true,
+          "dtype": "bool",
+          "nonfinite_count": 0
+        },
+        "frame_pitch_hz": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 4
+        },
+        "frame_spectral_peak_hz": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 4
+        },
+        "frame_phase_refined": {
+          "present": true,
+          "dtype": "bool",
+          "nonfinite_count": 0
+        },
+        "frame_spectral_centroid_hz": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 0
+        }
+      }
+    },
+    {
+      "query_id": "e16_query_b_merged",
+      "event_index": 1,
+      "onset_s": 0.29899999499320984,
+      "offset_s": 0.4860000014305115,
+      "interior_start_s": 0.31699999499320985,
+      "interior_end_s": 0.46800000143051146,
+      "original_frame_count": 397,
+      "adjacent_frame_before_s": 0.29499998688697815,
+      "adjacent_frame_after_s": 0.49000000953674316,
+      "absent_arrays": [],
+      "status": "available",
+      "in_bound_frame_count": 38,
+      "array_inventory": {
+        "frame_time_s": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 0
+        },
+        "frame_rms": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 0
+        },
+        "frame_energy_dbfs": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 0
+        },
+        "frame_voiced": {
+          "present": true,
+          "dtype": "bool",
+          "nonfinite_count": 0
+        },
+        "frame_pitch_hz": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 4
+        },
+        "frame_spectral_peak_hz": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 4
+        },
+        "frame_phase_refined": {
+          "present": true,
+          "dtype": "bool",
+          "nonfinite_count": 0
+        },
+        "frame_spectral_centroid_hz": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 0
+        }
+      }
+    },
+    {
+      "query_id": "e20_query_a_merged",
+      "event_index": 1,
+      "onset_s": 0.29899999499320984,
+      "offset_s": 0.4869999885559082,
+      "interior_start_s": 0.31699999499320985,
+      "interior_end_s": 0.4689999885559082,
+      "original_frame_count": 397,
+      "adjacent_frame_before_s": 0.29499998688697815,
+      "adjacent_frame_after_s": 0.49000000953674316,
+      "absent_arrays": [],
+      "status": "available",
+      "in_bound_frame_count": 38,
+      "array_inventory": {
+        "frame_time_s": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 0
+        },
+        "frame_rms": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 0
+        },
+        "frame_energy_dbfs": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 0
+        },
+        "frame_voiced": {
+          "present": true,
+          "dtype": "bool",
+          "nonfinite_count": 0
+        },
+        "frame_pitch_hz": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 4
+        },
+        "frame_spectral_peak_hz": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 4
+        },
+        "frame_phase_refined": {
+          "present": true,
+          "dtype": "bool",
+          "nonfinite_count": 0
+        },
+        "frame_spectral_centroid_hz": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 0
+        }
+      }
+    },
+    {
+      "query_id": "e20_query_b_merged",
+      "event_index": 1,
+      "onset_s": 0.29899999499320984,
+      "offset_s": 0.4860000014305115,
+      "interior_start_s": 0.31699999499320985,
+      "interior_end_s": 0.46800000143051146,
+      "original_frame_count": 397,
+      "adjacent_frame_before_s": 0.29499998688697815,
+      "adjacent_frame_after_s": 0.49000000953674316,
+      "absent_arrays": [],
+      "status": "available",
+      "in_bound_frame_count": 38,
+      "array_inventory": {
+        "frame_time_s": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 0
+        },
+        "frame_rms": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 0
+        },
+        "frame_energy_dbfs": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 0
+        },
+        "frame_voiced": {
+          "present": true,
+          "dtype": "bool",
+          "nonfinite_count": 0
+        },
+        "frame_pitch_hz": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 4
+        },
+        "frame_spectral_peak_hz": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 4
+        },
+        "frame_phase_refined": {
+          "present": true,
+          "dtype": "bool",
+          "nonfinite_count": 0
+        },
+        "frame_spectral_centroid_hz": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 0
+        }
+      }
+    },
+    {
+      "query_id": "e21_query_a_merged",
+      "event_index": 2,
+      "onset_s": 0.46299999952316284,
+      "offset_s": 0.6520000100135803,
+      "interior_start_s": 0.48099999952316286,
+      "interior_end_s": 0.6340000100135803,
+      "original_frame_count": 397,
+      "adjacent_frame_before_s": 0.46000000834465027,
+      "adjacent_frame_after_s": 0.6549999713897705,
+      "absent_arrays": [],
+      "status": "available",
+      "in_bound_frame_count": 38,
+      "array_inventory": {
+        "frame_time_s": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 0
+        },
+        "frame_rms": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 0
+        },
+        "frame_energy_dbfs": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 0
+        },
+        "frame_voiced": {
+          "present": true,
+          "dtype": "bool",
+          "nonfinite_count": 0
+        },
+        "frame_pitch_hz": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 4
+        },
+        "frame_spectral_peak_hz": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 4
+        },
+        "frame_phase_refined": {
+          "present": true,
+          "dtype": "bool",
+          "nonfinite_count": 0
+        },
+        "frame_spectral_centroid_hz": {
+          "present": true,
+          "dtype": "float32",
+          "nonfinite_count": 0
+        }
+      }
+    }
+  ],
+  "memory_expectation_rows": 130
+}

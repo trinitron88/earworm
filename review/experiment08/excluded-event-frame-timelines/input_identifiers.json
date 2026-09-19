@@ -1,0 +1,170 @@
+{
+  "assignment_id": "earworm-excluded-event-frame-timelines-v1",
+  "instruction_comment_id": 5744920500,
+  "base_main_commit": "a818d59f86cd8540399ea49f743d2d1bb0fb2736",
+  "original_execution_git_revision": null,
+  "original_inputs": [
+    {
+      "path": "work/accounts_features/e08_query_a_merged.npz",
+      "sha256": "8964a678469bd6b7b740e81e141968e3fe79f0767a37d38ed54f2476848f2dfe",
+      "bytes": 8731
+    },
+    {
+      "path": "work/accounts_features/e08_query_b_merged.npz",
+      "sha256": "d23e07fbf3b59570a7d0e90caf0480c0bb605f2b99d827b1b85ab0fb68fa4ef6",
+      "bytes": 8730
+    },
+    {
+      "path": "work/accounts_features/e12_query_a_merged.npz",
+      "sha256": "6c0a0daa3e1fb1974c57db107a83abb8fc259e9aa3840660af7c33cc6de1801b",
+      "bytes": 8788
+    },
+    {
+      "path": "work/accounts_features/e12_query_b_merged.npz",
+      "sha256": "f78dfb86e204d6f104dea915d052d21dc9dd6c5ab7bd3b45ba8e67de3e43a2f1",
+      "bytes": 8792
+    },
+    {
+      "path": "work/accounts_features/e14_query_a_merged.npz",
+      "sha256": "9fcd8cb70f625eb66d5ac3d25f1c4cff0cfbe67f7ce4be1ecdfcd3567d14c672",
+      "bytes": 10417
+    },
+    {
+      "path": "work/accounts_features/e16_query_a_merged.npz",
+      "sha256": "87338a83a2b10346e048a6c7beaecc544377971f94c7e8ddb7fe7f8fca703e80",
+      "bytes": 8702
+    },
+    {
+      "path": "work/accounts_features/e16_query_b_merged.npz",
+      "sha256": "6f790c6b1ce5712fed783644a26b1973122ffc37c65ef7cd3b83c8750e5d9da3",
+      "bytes": 8714
+    },
+    {
+      "path": "work/accounts_features/e20_query_a_merged.npz",
+      "sha256": "65aac2e88064ee31678d7c6487e33356f8c29317920e5c3ce131c74f88db8b26",
+      "bytes": 8587
+    },
+    {
+      "path": "work/accounts_features/e20_query_b_merged.npz",
+      "sha256": "fda100f2622c2088cc2a568c653f436b8f840f390953eda181fec343132631b1",
+      "bytes": 8598
+    },
+    {
+      "path": "work/accounts_features/e21_query_a_merged.npz",
+      "sha256": "197d1befdc2d6e8f3206a357713beb9673fc385bdd157e1deea8e6a228d1b730",
+      "bytes": 9351
+    },
+    {
+      "path": "work/accounts_features/timings.json",
+      "sha256": "07331eb8a485b571d02397573cc91bca26ed176117038c47923b965ef712eab8",
+      "bytes": 489915
+    },
+    {
+      "path": "work/accounts_results/protocol.json",
+      "sha256": "851456e8fd9a2e84b20eb4f0c39840b441d7569897dbe794339374f8abe772da",
+      "bytes": 6197
+    },
+    {
+      "path": "work/accounts_results/frozen_config.json",
+      "sha256": "da372bb83193c9b4377736765498d7bdef7e875dd5b2a17cd111ce43fb398378",
+      "bytes": 2725
+    }
+  ],
+  "frozen_source_sha256": {
+    "accounts_stimuli.py": "d141a6fbcb39a921765739ad64da8440f34743727c484672afec841794079820",
+    "accounts_reader.py": "783e1dc1968d553c83706dcc412f648fcb21f74a91c407c235d1f3a7fe037a88",
+    "accounts_experiment.py": "3e33ceef4f2b64ee5ff1206b869476a47bde1ff96504037a9f616d2fbbf30b59",
+    "remember_changes_acoustics.py": "33cb2b5881375374e4da6f45723be0ca117aa1674b8d41fccf8da9ecd7533ca4",
+    "confidence_reader.py": "4ee1788958ec092fbe0f3ff0a808ebb476cd5ef23758a8295918e47cc54ec4b5",
+    "incomplete_matcher.py": "e7e92d0b7128da018c65616b04a8d965ca77ad0ec5673414550bf6b64a14c7ae"
+  },
+  "original_description_digest_checks": [
+    {
+      "query_id": "e08_query_a_merged",
+      "full_description_digest": "b842030a2cd51a1bba9e4c6dd3a8e571ed4d9978c93e108f53ff633570e40cfa",
+      "matched_original_timing_record": true
+    },
+    {
+      "query_id": "e08_query_b_merged",
+      "full_description_digest": "989bc0cea9499c9351b3f507447fb0ed557517124a38a233ed8b675313b335cd",
+      "matched_original_timing_record": true
+    },
+    {
+      "query_id": "e12_query_a_merged",
+      "full_description_digest": "518ab634ac0e3fd4f90e0ea1af8fe2b817d13591d1988cc7238fc4524bc897c4",
+      "matched_original_timing_record": true
+    },
+    {
+      "query_id": "e12_query_b_merged",
+      "full_description_digest": "73c0715a6e1f37eecc211780d36e13ca9b5f3c6a50632928007de6e5e7de9ba6",
+      "matched_original_timing_record": true
+    },
+    {
+      "query_id": "e14_query_a_merged",
+      "full_description_digest": "d19dca6e2f19314acaf376273f514f0f014c0feeeac663454dc23f6eae4b5b9a",
+      "matched_original_timing_record": true
+    },
+    {
+      "query_id": "e16_query_a_merged",
+      "full_description_digest": "782b31b77f79c6aec3457cf319b791973145f77eb259ad9fbc5d53fcce74badf",
+      "matched_original_timing_record": true
+    },
+    {
+      "query_id": "e16_query_b_merged",
+      "full_description_digest": "4c5dbb61c9099559331c804a3db3bf453b0e2119c25840510c3869101dd3fae3",
+      "matched_original_timing_record": true
+    },
+    {
+      "query_id": "e20_query_a_merged",
+      "full_description_digest": "b9a48ae17c6d3e959eb96ffb701ec15f0bf23215bfccca384c7bfc59314ef319",
+      "matched_original_timing_record": true
+    },
+    {
+      "query_id": "e20_query_b_merged",
+      "full_description_digest": "4f5126ab5dcbd511d7f8453fbe5c29bce4bf10559fb468e5a4d580a92e98f151",
+      "matched_original_timing_record": true
+    },
+    {
+      "query_id": "e21_query_a_merged",
+      "full_description_digest": "aeefd88fcabd7dcab7dd48e47361002fb22787c2eb130b2356bac35c04c292b6",
+      "matched_original_timing_record": true
+    }
+  ],
+  "prior_audit_inputs": [
+    {
+      "path": "review/experiment08/equal-vector-alignment-audit/input_identifiers.json",
+      "sha256": "501b7a936d38c3e7466999d453d55726792bbbeee93606862d88b0e593a94a25"
+    },
+    {
+      "path": "review/experiment08/equal-vector-alignment-audit/saved_inputs.json",
+      "sha256": "017b9f1e3d85e131a5f9e4d0fab2a45eb139bbda94b6886a5b443392fabe24b5"
+    },
+    {
+      "path": "review/experiment08/equal-vector-alignment-audit/results/query_summary.csv",
+      "sha256": "8e70dbe8974e09a15946e6274cd2082291313f94fea2f56ea0b25bdd66cd71d2"
+    },
+    {
+      "path": "review/experiment08/equal-vector-alignment-audit/results/missing_event_hypotheses.csv",
+      "sha256": "dd6f03a66dae288435548cd2d465a73ba347b7492c07d1291a239cd382e08cca"
+    }
+  ],
+  "exports": [
+    {
+      "path": "saved_frames.json",
+      "sha256": "ab9fa9178e48a6b2d27e53709819235312267ff84b51bdfb8fa9e9cfb2ebf17d",
+      "bytes": 130033
+    },
+    {
+      "path": "inventory.json",
+      "sha256": "8ea06652ff15c0147bdb9d2c621087b5838425713c7761ed52e3e3bb035a028a",
+      "bytes": 15525
+    },
+    {
+      "path": "memory_expectations.csv",
+      "sha256": "e896dc2ce4588e40451ebe5362404219ff402b78e36184d071f1368d288c2afa",
+      "bytes": 41424
+    }
+  ],
+  "method": "Select existing typed array samples only; preserve original frame indices, dtypes, all values and nonfinite bits. Expectations copied to a separate table with source-row mapping. No extraction, boundary adjustment, interpolation, segmentation, path search, new feature/scorer or decision change.",
+  "provenance_limit": "Original caches are not published in full; their hashes match the preceding audit and full-description digests match original timing records. Publication commits are not original execution revisions."
+}

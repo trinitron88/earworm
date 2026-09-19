@@ -1,0 +1,17 @@
+{
+  "status": "pass",
+  "events": 10,
+  "frames": 380,
+  "interior_frames": 300,
+  "voiced_frames": 340,
+  "phase_refined_frames": 276,
+  "finite_positive_pitch_frames": 340,
+  "nonfinite_pitch_frames": 40,
+  "absent_arrays": 0,
+  "exact_typed_array_hashes": 80,
+  "prior_input_hashes_checked": 4,
+  "frozen_source_hashes_checked": 6,
+  "exact_expectation_rows": 130,
+  "event_assessment_rows": 10,
+  "verification_limit": "Checks assessment coverage, not visual-interpretation truth. Full original cache hashes/digests and export completeness were additionally reconciled locally; they cannot be independently rechecked from the scoped export alone."
+}

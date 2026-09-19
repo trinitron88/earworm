@@ -1,0 +1,19 @@
+{
+  "assignment_id": "earworm-excluded-event-frame-timelines-v1",
+  "instruction_comment_id": 5744920500,
+  "instruction_comment_version": "2026-09-19T20:04:52Z",
+  "reviewed_prior_sha": "2658f497efe9f1a95988247a586235f03f885c85",
+  "base_main_commit": "a818d59f86cd8540399ea49f743d2d1bb0fb2736",
+  "status": "awaiting-review-on-publication",
+  "completed": "All ten fixed excluded events, 380 chronological frames and 130 separately retained memory-expectation rows accounted for. No requested arrays absent; 40 NaN pitch samples retained.",
+  "report": "review/experiment08/excluded-event-frame-timelines/REPORT.md",
+  "results": "review/experiment08/excluded-event-frame-timelines/results/",
+  "project_overview_updated": "PROJECT_STATE.md",
+  "publication": "The containing successor PR head identifies this snapshot; exact head and result paths are returned to PR #2 after publication.",
+  "prior_artifacts_preserved": true,
+  "frozen_model_and_threshold_unchanged": true,
+  "original_execution_git_revision": null,
+  "next_proposal": "Inspect frozen estimator code and existing saved values to explain pitch-versus-spectral-peak disagreement in e14/e21, without extraction, pitch correction, scoring or decision change.",
+  "next_proposal_executed": false,
+  "stop_condition": "Publish once, save local awaiting-review checkpoint, release worker lock, and end invocation."
+}
