@@ -20,16 +20,17 @@ MERT remains frozen and was unused in Experiment 08 and the subsequent audits. N
 - **Calibration is fragile.** A saved-data audit found that omitting the sole six-event calibration group changes the diagnostic threshold and increases errors on that omitted group. The operational model and threshold remain unchanged.
 - **Some distinctions disappear in the support features.** Across 576 queries from 16 groups, 17 queries have all twelve support features equal to their strongest absent-history candidates; another 104 differ only in cost and timing loss. All exact tied maxima were retained: 632 pairs, not 632 independent queries.
 - **This is only part of the bottleneck.** Those 121 queries span 9/16 groups and accompany 117/412 rejections; 295 rejections have other feature differences. Equal support vectors do not imply equal original sound, equal full alignment evidence, or human perceptual identity.
+- **The richer saved state retains distinctions that the support vector omits.** A follow-up inspection of all 17 all-equal queries and their 68 maximum pairs finds different saved transformations or missing-event accounts in every pair. Fifteen queries have only two eligible events. Ten merged-event queries retain a broad-pitch event in the cache that is excluded from matching; whether its internal timeline can resolve any ambiguity remains untested.
 
 All masked cases were rejected. Successful retrieval under masking while withholding an unsupported causal explanation therefore remains unmet.
 
 ## Completed work and next authorized step
 
-The [calibration audit (PR #2)](https://github.com/trinitron88/earworm/pull/2), [four-query matched-pair audit (PR #3)](https://github.com/trinitron88/earworm/pull/3), and [held-out prevalence census (PR #4)](https://github.com/trinitron88/earworm/pull/4) have been reviewed and merged. The census is published at `329365558d7383403972bab0b0427d005b233926`, merged into main by `1a99ea67f2c95809690bf14516cdb4671c4aaaff`.
+The [calibration audit (PR #2)](https://github.com/trinitron88/earworm/pull/2), [four-query matched-pair audit (PR #3)](https://github.com/trinitron88/earworm/pull/3), [held-out prevalence census (PR #4)](https://github.com/trinitron88/earworm/pull/4), and [living-overview update (PR #5)](https://github.com/trinitron88/earworm/pull/5) have been reviewed and merged. This snapshot starts from main `536f314b10b8d1d4a0cbb14a92caef9616157b47`.
 
-**Next authorized scientific work, not yet executed:** inspect already-saved ordered alignment evidence for the 17 all-equal queries and their 68 maximum pairs. Determine whether relational distinctions remain in those records despite identical support vectors, or whether the inspected evidence is itself ambiguous. Different IDs or reference-local indices alone are not musical distinctions. Inventory saved evidence first and report missing records without regeneration. Authority: [assignment `earworm-equal-vector-alignments-v1`](https://github.com/trinitron88/earworm/pull/2#issuecomment-5744506474).
+**Completed in this snapshot, awaiting review:** [the saved-alignment audit](review/experiment08/equal-vector-alignment-audit/REPORT.md), assignment `earworm-equal-vector-alignments-v1` ([authorization](https://github.com/trinitron88/earworm/pull/2#issuecomment-5744506474), [continuation](https://github.com/trinitron88/earworm/pull/2#issuecomment-5744608819)). All 85 scoped source/candidate records, 112 retained paths and 52 cached descriptions are accounted for. Comparisons use acoustic values and common query-time anchors rather than opaque IDs. The matched query evidence still fits competing accounts inside the frozen deadzones; different expectations do not prove which memory is correct. All 17 selected queries remain rejected.
 
-This documentation update refreshes the overview and makes it part of every future PR. It does not execute that assignment or change experimental results.
+**One proposed next step, not executed or yet authorized:** inspect existing frame timelines inside the ten excluded merged-query events, within their fixed cached onset/offset bounds, to determine what ordered pitch or energy observations remain. Keep those observations separate from either memory's expected notes. No new extraction, scoring rule or retrieval decision is proposed for that inspection. The worker stops after this snapshot's publication and awaits review.
 
 ## Working process and boundaries
 
@@ -48,6 +49,7 @@ The evidence consists of correlated synthetic variants with supplied two-second 
 | Calibration and rejection margins | [Calibration audit](review/experiment08/calibration-audit/completion-20260919/REPORT.md) |
 | Four source/impostor comparisons | [Matched-pair audit](review/experiment08/matched-pair-audit-e05-e21/REPORT.md) |
 | Prevalence, ties and verification | [Held-out census](review/experiment08/heldout-feature-prevalence/REPORT.md) |
+| Relationships retained beyond equal support vectors | [Saved-alignment audit](review/experiment08/equal-vector-alignment-audit/REPORT.md) |
 
 ## Reproduction
 

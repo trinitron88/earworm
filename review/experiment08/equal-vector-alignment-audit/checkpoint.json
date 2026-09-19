@@ -1,0 +1,17 @@
+{
+  "assignment_id": "earworm-equal-vector-alignments-v1",
+  "instruction_comment_ids": [5744506474, 5744608819],
+  "base_main_commit": "536f314b10b8d1d4a0cbb14a92caef9616157b47",
+  "status": "awaiting-review-on-publication",
+  "completed": "Scoped saved-evidence inspection of all 17 all-12-equal queries and 68 exact absent-maximum pairs: 85 evidence records, 112 retained paths, and 52 cached descriptions. No required record missing.",
+  "report": "review/experiment08/equal-vector-alignment-audit/REPORT.md",
+  "results": "review/experiment08/equal-vector-alignment-audit/results/",
+  "project_overview_updated": "PROJECT_STATE.md",
+  "publication": "The containing successor PR head identifies the snapshot; exact head and paths are returned to PR #2 after publication.",
+  "prior_artifacts_preserved": true,
+  "frozen_model_and_threshold_unchanged": true,
+  "original_execution_git_revision": null,
+  "next_proposal": "Inspect existing frame timelines inside the ten excluded merged-query events using their fixed cached onset/offset bounds, separating observations from memory expectations; no new extraction or scoring rule.",
+  "next_proposal_executed": false,
+  "stop_condition": "Publish once, save local awaiting-review checkpoint, release worker lock, and end invocation."
+}
