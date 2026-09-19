@@ -1,0 +1,36 @@
+{
+  "verified_utc": "2026-09-19T18:43:32.187771+00:00",
+  "python": "3.12.14",
+  "numpy": "2.5.3",
+  "independent_stdlib_verification": {
+    "query_records_independently_checked": 576,
+    "maximum_pairs_independently_checked": 632,
+    "all_exact_maxima_preserved": true,
+    "duplicate_pairs": 0,
+    "feature_categories_independently_matched": {
+      "only_cost_timing_differ": 104,
+      "all_12_equal": 68,
+      "other_differences": 460
+    },
+    "present_outcomes_independently_matched": {
+      "none": 412,
+      "true_singleton": 164
+    },
+    "tied_maximum_queries": 18,
+    "stratification_partitions_reconcile": 5,
+    "all_input_hashes_unchanged": true
+  },
+  "clean_repeat_byte_identical_files": {
+    "category_outcomes.csv": "9eaa15d979a98d18541f1f91d9f7d762554e4f3ae7b20a627a48368c48da7eac",
+    "input_identifiers.json": "1efee25166ac642484460ecc1736da16b7be9dad5b3f43a0078dee6744e540d3",
+    "maximum_pair_census.csv": "3b6eb79ebd9a819ec75bac763e231addbb0efba8b36f6cc8660832dcad403a9b",
+    "query_census.csv": "efc1d26669b106ac53c02d3e1c8b3f42799f486294656f7898379d1ce943a384",
+    "stratified_counts.csv": "afbebec0029254bfd65359fe7fcdccf23f88ea10c0b1e0277a1fb7001de812c5",
+    "summary.json": "5e3b1a07adebc2acbd2b02e4ddc5b3ee0663765fa13e2fa4a839ac81d850e9b0"
+  },
+  "script_sha256": {
+    "analyze_prevalence.py": "57f49e8cdbfb91e042449e35be0e77cd24a67060e2b47f28493c82014315e167",
+    "verify_census.py": "9c7d5df0de517f18b71f870d8f10dde67eaa96a8ed3baba9ac6a46852c47123d"
+  },
+  "operations": "Read published saved features and scores only; frozen arithmetic verification and descriptive counting. No extraction, pair search, model fitting, audio processing, experiment rerun, or threshold selection."
+}

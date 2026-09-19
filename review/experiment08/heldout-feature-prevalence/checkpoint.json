@@ -1,0 +1,15 @@
+{
+  "assignment_id": "earworm-heldout-feature-prevalence-v1",
+  "instruction_comment_id": 5744179177,
+  "instruction_url": "https://github.com/trinitron88/earworm/pull/2#issuecomment-5744179177",
+  "base_main_commit": "1c695ffc33e00f239ac5b070696b8b1a2121ac59",
+  "status": "awaiting-review-on-publication",
+  "completed": "Saved-evidence census of 576 held-out queries and all 632 exact absent-history maximum pairs; frozen decisions reconciled; prior e21 cases cross-checked.",
+  "result_directory": "review/experiment08/heldout-feature-prevalence/results/",
+  "report": "review/experiment08/heldout-feature-prevalence/REPORT.md",
+  "publication": "The containing successor PR head identifies this snapshot; exact SHA and paths are returned to PR #2 after publication.",
+  "preserved": "Original experiment and all earlier audit artifacts, fitted model, operational threshold, local setup, MERT freeze, 30-minute worker cadence, processed-comment tracking and no-overlapping-worker safeguard.",
+  "next_proposal": "Inspect saved ordered alignment correspondences for the 17 all-equal queries and their 68 maximum pairs, without regeneration or scoring changes.",
+  "next_proposal_executed": false,
+  "stop_condition": "Publish once, save local awaiting-review checkpoint, release worker lock, and end invocation."
+}

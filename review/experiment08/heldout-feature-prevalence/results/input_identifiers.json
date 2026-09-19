@@ -1,0 +1,57 @@
+{
+  "base_main_commit": "1c695ffc33e00f239ac5b070696b8b1a2121ac59",
+  "assignment_id": "earworm-heldout-feature-prevalence-v1",
+  "instruction_comment_id": 5744179177,
+  "inputs": [
+    {
+      "role": "export",
+      "path": "review/experiment08/calibration-audit/completion-20260919/candidate_evidence.jsonl",
+      "sha256": "805a3a5c9f39144387ce5c3d4b712dd15955efa62e906791bf4d19583367b637",
+      "bytes": 2049875
+    },
+    {
+      "role": "export_identifiers",
+      "path": "review/experiment08/calibration-audit/completion-20260919/input_identifiers.json",
+      "sha256": "9eca98d25a6b8c9b1dabd7226fa4ef9e06fc4b74069624a946f4bd49ed635e10",
+      "bytes": 2891
+    },
+    {
+      "role": "scores",
+      "path": "review/experiment08/calibration-audit/completion-20260919/results/candidate_scores.csv",
+      "sha256": "92b140205b435c6fb309ac545613318774c9df2d8e3ee6a5efad7d7c51375e1c",
+      "bytes": 518936
+    },
+    {
+      "role": "margins",
+      "path": "review/experiment08/calibration-audit/completion-20260919/results/query_margins.csv",
+      "sha256": "e20513ec099a3e979db78fdd9c746fc57395cc514755dc4ea088ccf6a94475a6",
+      "bytes": 151121
+    },
+    {
+      "role": "config",
+      "path": "work/accounts_results/frozen_config.json",
+      "sha256": "da372bb83193c9b4377736765498d7bdef7e875dd5b2a17cd111ce43fb398378",
+      "bytes": 2725
+    },
+    {
+      "role": "trials",
+      "path": "review/experiment08/primary_trials.csv",
+      "sha256": "c445f44486af7a4fd484a38edfd41763452ef69ff745dc91c959a24ac2a1d51c",
+      "bytes": 230530
+    },
+    {
+      "role": "matched_scores",
+      "path": "review/experiment08/matched-pair-audit-e05-e21/results/scores_and_margins.csv",
+      "sha256": "1a7b44b462dc36424069b25c6b6d20bda1d849a98fc9f59f173b7e29176b78b4",
+      "bytes": 1254
+    },
+    {
+      "role": "matched_inputs",
+      "path": "review/experiment08/matched-pair-audit-e05-e21/saved_inputs.json",
+      "sha256": "bb10c8c08ed471cfa5cdff7922deb00adf9e4b9e627635b9be759cc247a2bc42",
+      "bytes": 146553
+    }
+  ],
+  "scoring_contract": "Only available/features enter frozen arithmetic; metadata routes evaluation and stratification only.",
+  "provenance": "Uses the published compact export directly. This audit does not revalidate original omitted pair files or acoustic caches and does not assign an execution Git revision to the original experiment."
+}
