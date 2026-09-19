@@ -1,60 +1,58 @@
 # Project Earworm — current state
 
-Updated September 19, 2026. This living overview is refreshed in every PR; detailed experimental records and prior audit packages remain historical evidence.
+Updated September 19, 2026. This living overview is refreshed in every PR; original experiment records and prior audit packages remain historical evidence.
 
 ## Goal
 
-Build auditory representation and memory that help AI systems hear, listen to, and interpret music: retain what arrived, remember earlier sound, recognize relationships through changes, and distinguish observations from expectations. Richer musical response is the long-term ambition; the current work does not establish human-like appreciation or subjective experience.
+Build auditory representation and memory that help AI systems hear, listen to and interpret music: retain what arrived, remember earlier sound, recognize relationships through changes, and use auditory history to anticipate what comes next. Observations must remain distinct from expectations. Human-like musical appreciation is a long-term ambition; no subjective experience is established here.
 
-The working architecture separates acoustic descriptions, a representation that changes over time, relationships such as repetition and transformation, and downstream interpretation. Emotion or identity labels should not define what the underlying auditory memory can retain.
+## Current phase and result
 
-## Current phase
+**The one authorized history-dependent prediction experiment is complete, awaiting review. Its frozen decision rule selects B: retain transformation-aware sequence retrieval as the prediction reference.** [Report](experiments/history-prediction-v1/REPORT.md) · [Selected reference](experiments/history-prediction-v1/selected_reference.json)
 
-**Experiment 08 is complete. We are diagnosing its limitations using saved evidence.** The prototype stores explicit acoustic memories of controlled synthetic monophonic phrases, aligns a heard phrase against candidates, and either retrieves a memory or withholds acceptance. It considers competing explanations for alterations.
+On 24 fresh held-out groups, the relational readout and transformation-aware retrieval each correctly predicted both continuations in every paired basic and transposed case. Histories contained the same sound-block bytes in different temporal relationships; the final two history blocks and present probe were identical. Transposed target pitches were unheard in the episode and training data.
 
-MERT remains frozen and was unused in Experiment 08 and the subsequent audits. No Experiment 09 has started. Human judgments remain a separate pilot.
+Reset/removal removed the history advantage; swapping histories redirected forecasts; ambiguous histories retained approximately equal probabilities for their two futures. Forecasts were durably committed before reveal. The relational readout had zero measured transfer advantage, with paired group-bootstrap interval [0, 0], satisfying the predefined equivalence criterion on this sample. This supports controlled causal anticipation, not an advance beyond retrieval or universal equivalence.
 
-## Main findings
+The test uses clean synthetic monophonic blocks, supplied block boundaries and an explicit continuation rule. Natural music, polyphony, long-term memory and appreciation remain outside the demonstrated capability. MERT remains frozen and was unused in this experiment.
 
-- **Ranking is stronger than accepted retrieval.** The correct phrase ranks uniquely first in 553/576 held-out queries, but the frozen rule retrieves it in only 164/576. The earlier reader accepted 198/576, so Experiment 08 is not a retrieval improvement. Both recorded zero absent-source false acceptances in this set.
-- **Calibration is fragile.** A saved-data audit found that omitting the sole six-event calibration group changes the diagnostic threshold and increases errors on that omitted group. The operational model and threshold remain unchanged.
-- **Some distinctions disappear in the support features.** Across 576 queries from 16 groups, 17 queries have all twelve support features equal to their strongest absent-history candidates; another 104 differ only in cost and timing loss. All exact tied maxima were retained: 632 pairs, not 632 independent queries.
-- **This is only part of the bottleneck.** Those 121 queries span 9/16 groups and accompany 117/412 rejections; 295 rejections have other feature differences. Equal support vectors do not imply equal original sound, equal full alignment evidence, or human perceptual identity.
-- **The richer saved state retains distinctions that the support vector omits.** A follow-up inspection of all 17 all-equal queries and their 68 maximum pairs finds different saved transformations or missing-event accounts in every pair. Fifteen queries have only two eligible events. Ten merged-event queries retain a broad-pitch event in the cache that is excluded from matching.
-- **Ordered observations also survive inside the excluded events.** All ten inspected events contain earlier/later frequency structure across 380 saved frames. Forty pitch samples are missing, and two examples show disagreement between cached pitch and spectral peak. The observations are separate from memory expectations; no improved retrieval or verified fundamental frequency is established.
+## What Experiment 08 established
 
-All masked cases were rejected. Successful retrieval under masking while withholding an unsupported causal explanation therefore remains unmet.
+- **Useful signal exists:** the correct stored phrase ranked uniquely first in 553/576 held-out queries. This is a ranking result, not a direct retention measure.
+- **Accepted retrieval lagged:** the frozen reader accepted 164/576, versus 198/576 for the earlier reader. Calibration allowed at most 5% empirical absent-history false acceptance; this set recorded zero. It was not a zero-tolerance design.
+- **Several losses remain distinct:** event eligibility excluded some broad-pitch events, feature aggregation omitted retained relationships, and calibrated acceptance rejected otherwise high-ranked candidates. No result establishes the gate as the sole cause.
+- **Saved information exceeded the decision summary:** all 17 selected equal-vector queries retained differing path or expectation information; ten excluded events retained ordered frame observations, with missing samples and estimator-channel disagreement preserved.
 
-## Completed work and next authorized step
+The successive audits inspected selected, correlated failures. Their number is not independent evidence against Earworm's direction. All masked Experiment 08 cases were rejected; retrieval under masking while withholding an unsupported causal explanation remains unmet.
 
-The [calibration audit (PR #2)](https://github.com/trinitron88/earworm/pull/2), [four-query matched-pair audit (PR #3)](https://github.com/trinitron88/earworm/pull/3), [held-out prevalence census (PR #4)](https://github.com/trinitron88/earworm/pull/4), [living-overview update (PR #5)](https://github.com/trinitron88/earworm/pull/5), and [saved-alignment audit (PR #6)](https://github.com/trinitron88/earworm/pull/6) have been reviewed and merged. This snapshot starts from main `a818d59f86cd8540399ea49f743d2d1bb0fb2736`.
+## Completed work and next authorized action
 
-**Completed in this snapshot, awaiting review:** [the saved-frame timeline inspection](review/experiment08/excluded-event-frame-timelines/REPORT.md), assignment `earworm-excluded-event-frame-timelines-v1` ([authorization](https://github.com/trinitron88/earworm/pull/2#issuecomment-5744920500)). All ten fixed event bounds and 380 in-bound frames are accounted for, with original dtypes and missing values preserved. The 300 interior frames are marked as context. A separate table preserves 130 memory-conditioned expectation rows. No agreement score, memory winner, boundary change or revised retrieval decision was produced.
+[PRs #2–#7](https://github.com/trinitron88/earworm/pull/7) have been reviewed and merged; detailed audit links are below. This snapshot starts from main `1cdbb2de5c174ba35e4c77221a0bb171c3f05f3c`.
 
-**One proposed next step, not executed or yet authorized:** inspect the frozen estimator implementation and existing channel/flag values to explain the provenance of the pitch-versus-spectral-peak disagreements in two of these events. No extractor rerun, pitch correction, scoring or decision change is proposed. The next authorized worker action is to publish this completed snapshot and await review; the worker stops afterward.
+Brian explicitly authorized [one implementation and run](https://github.com/trinitron88/earworm/pull/2#issuecomment-5745703250), as a scoped exception to the older saved-data-only limit. Its [preregistration receipt](https://github.com/trinitron88/earworm/pull/2#issuecomment-5745907889) preceded the single held-out evaluation. Actual held-out execution revision: `4c9a87756f15fc1f458a3ffae9cd640661a637b3`; the final publication commit is separately reported in the PR receipt.
 
-## Working process and boundaries
+**Current action:** publish the complete prediction snapshot and branch-B receipt, then stop awaiting review. Retain the simpler frozen prediction reference for the capability demonstrated. No next experiment or automatic audit is authorized.
 
-A local worker checks instructions every 30 minutes, tracks completed work, and exits if another worker is active. PR #2 remains the instruction channel after its merge; successor PRs carry review snapshots. The separate event-triggered reviewer reviews exact commits, may merge accepted work under Brian's delegation, and issues bounded assignments. The worker may push authorized changes but does not merge.
+The estimator-channel provenance audit remains **unstarted and deferred** under [the superseding decision-before-assignment policy](https://github.com/trinitron88/earworm/pull/2#issuecomment-5745619992). It is not a prerequisite.
 
-Current work uses saved data and the existing local setup. Original experiment code, protocols, model, operational threshold and results remain frozen. New experiments, training, audio regeneration, spending and broader scientific changes require separate authorization. A report's proposed follow-up is not automatically an execution instruction.
+## Working process and limits
 
-The evidence consists of correlated synthetic variants with supplied two-second windows, a monophonic detector and fixed-capacity memory. It does not demonstrate natural or polyphonic listening, learned memory decay, or human musical identity. Generator metadata stays outside predictor inputs. A quiet location under an alignment does not prove that a performer omitted a note.
+The existing local worker checks every 30 minutes, tracks processed instructions and exits if another worker is active. PR #2 remains the instruction channel; successor PRs carry complete snapshots. Each PR updates this overview. The separate reviewer is unchanged. The worker may push authorized work but does not merge, force-push or change main.
+
+Substantive assignments must name a decision, different concrete actions for plausible results and a bounded stop condition. A report's recommendation does not authorize further work. All frozen Experiment 08 code, models, thresholds, stimuli, results and prior audits remain preserved. New experiments, extraction, training, deployment or spending beyond the completed exception require explicit authorization. Human judgments remain a separate pilot.
 
 ## Detailed evidence
 
 | Topic | Record |
 |---|---|
-| Experiment 08 and causal-memory controls | [Milestone](outputs/experiment08-milestone.md), [full report](outputs/competing-accounts-report.html) |
-| Frozen rules and decisions | [Protocol](work/accounts_results/protocol.json), [configuration](work/accounts_results/frozen_config.json), [primary trials](review/experiment08/primary_trials.csv) |
-| Calibration and rejection margins | [Calibration audit](review/experiment08/calibration-audit/completion-20260919/REPORT.md) |
+| New history-dependent prediction | [Report](experiments/history-prediction-v1/REPORT.md), [protocol](experiments/history-prediction-v1/protocol.json), [group results](experiments/history-prediction-v1/results/heldout/groups.csv), [validity checks](experiments/history-prediction-v1/validation/heldout.json) |
+| Experiment 08 | [Milestone](outputs/experiment08-milestone.md), [full report](outputs/competing-accounts-report.html) |
+| Calibration and rejection | [Calibration audit](review/experiment08/calibration-audit/completion-20260919/REPORT.md) |
 | Four source/impostor comparisons | [Matched-pair audit](review/experiment08/matched-pair-audit-e05-e21/REPORT.md) |
-| Prevalence, ties and verification | [Held-out census](review/experiment08/heldout-feature-prevalence/REPORT.md) |
-| Relationships retained beyond equal support vectors | [Saved-alignment audit](review/experiment08/equal-vector-alignment-audit/REPORT.md) |
+| Feature equality prevalence | [Held-out census](review/experiment08/heldout-feature-prevalence/REPORT.md) |
+| Relationships beyond support vectors | [Saved-alignment audit](review/experiment08/equal-vector-alignment-audit/REPORT.md) |
 | Ordered frames inside excluded events | [Saved-frame inspection](review/experiment08/excluded-event-frame-timelines/REPORT.md) |
 
-## Reproduction
+## Historical provenance
 
-The [original handoff notes](review/experiment08/original-snapshot-PROJECT_STATE.md) are preserved byte-for-byte, including provenance, paths, reproduction commands and limitations. Their workflow status describes the original snapshot and is superseded by this overview. Commands there are documentation, not authorization to rerun an experiment; later audit reports provide saved-data-only verification instructions.
-
-The original run had no recorded execution Git revision. Publication commits identify later snapshots; frozen source hashes identify the recorded implementation. Original `SHA256SUMS` and `REVIEW_SNAPSHOT_MANIFEST.json` describe the initial package, including its old overview and README. Verify that historical package at `06fe4470d64b0a1c00f3e65b7701a393af9a43d8`; those manifests have not been rewritten for this evolving repository. Each later audit has its own integrity records.
+[Original handoff notes](review/experiment08/original-snapshot-PROJECT_STATE.md) are preserved byte-for-byte. The original Experiment 08 run had no recorded execution Git revision; source hashes identify its implementation. Initial `SHA256SUMS` and `REVIEW_SNAPSHOT_MANIFEST.json` describe snapshot `06fe4470d64b0a1c00f3e65b7701a393af9a43d8`, not the evolving overview. Later packages carry their own integrity records. Documented reproduction commands are not authorization for another worker run.

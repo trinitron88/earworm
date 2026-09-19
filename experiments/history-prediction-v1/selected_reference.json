@@ -1,0 +1,14 @@
+{
+  "assignment_id": "earworm-history-prediction-v1",
+  "decision_branch": "B",
+  "mechanism": "retrieval_transposed",
+  "parameters": "frozen_model.json",
+  "parameters_sha256": "2a8e2115572b25c75786b01eac5a6779e4fdd22e26a4a68c8313a4e4af1e80d6",
+  "supported_scope": [
+    "controlled basic anticipation",
+    "predefined uniform-transposition anticipation"
+  ],
+  "selection_evidence": "results/heldout/decision.json",
+  "relational_advantage_claim": false,
+  "follow_on_execution_authorized": false
+}

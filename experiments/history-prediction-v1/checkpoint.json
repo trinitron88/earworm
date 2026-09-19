@@ -1,0 +1,15 @@
+{
+  "assignment_id": "earworm-history-prediction-v1",
+  "instruction_comment_id": 5745703250,
+  "instruction_version": "2026-09-19T22:17:45Z",
+  "status": "awaiting-review-on-publication",
+  "evaluation_completed_once": true,
+  "execution_revision": "4c9a87756f15fc1f458a3ffae9cd640661a637b3",
+  "preregistration_comment_id": 5745907889,
+  "selected_branch": "B",
+  "resulting_action": "Retain retrieval_transposed as the prediction reference for basic and transposed anticipation; no claim beyond retrieval/transition prediction.",
+  "report": "experiments/history-prediction-v1/REPORT.md",
+  "frozen_prior_artifacts_preserved": true,
+  "estimator_provenance_audit": "deferred",
+  "stop_condition": "One complete successor snapshot and branch receipt; checkpoint, release lock, stop. No automatic follow-on."
+}

@@ -1,0 +1,94 @@
+{
+  "assignment_id": "earworm-history-prediction-v1",
+  "base_snapshot": "1cdbb2de5c174ba35e4c77221a0bb171c3f05f3c",
+  "frozen_execution_revision": "4c9a87756f15fc1f458a3ffae9cd640661a637b3",
+  "final_publication_revision": "Containing final PR head; separately returned in PR #2 completion receipt.",
+  "execution_code_sha256": "da3b3d38418a55ee7eba5bbda8d914d979093d5e266feb9735835669df778056",
+  "protocol_sha256": "3fac42cc230af394a990a156fd91e706f5002ebddaa0ce5761b9f4311fcfa097",
+  "runtime_stages": [
+    {
+      "split": "development",
+      "episodes": 192,
+      "additional_future_invariance_probes": 16,
+      "elapsed_seconds": 0.7041655830107629,
+      "prior_elapsed_seconds": 0,
+      "execution_revision": "1cdbb2de5c174ba35e4c77221a0bb171c3f05f3c",
+      "dirty_at_start": true,
+      "execution_code_sha256": "23f4b07ed49f8c8b0c00dd5b4451fb55fea406932fb9b9d3800a2f4c58eaaeb6",
+      "model_sha256": "6d584bd32dfc9736d89bc79123ec0c06c7660ad19fc07f13ccc5184e35fe6bae",
+      "python": "3.12.14",
+      "numpy": "2.5.3",
+      "end_utc_ns": 1789857612251749000
+    },
+    {
+      "split": "calibration",
+      "episodes": 96,
+      "additional_future_invariance_probes": 8,
+      "elapsed_seconds": 0.36711900000227615,
+      "prior_elapsed_seconds": 0.7041655830107629,
+      "execution_revision": "1cdbb2de5c174ba35e4c77221a0bb171c3f05f3c",
+      "dirty_at_start": true,
+      "execution_code_sha256": "23f4b07ed49f8c8b0c00dd5b4451fb55fea406932fb9b9d3800a2f4c58eaaeb6",
+      "model_sha256": "fdab0dbf3b899c2f763226b2fa47b311627a5cc5dd39eef67baed8974bbdeaaf",
+      "python": "3.12.14",
+      "numpy": "2.5.3",
+      "end_utc_ns": 1789857622062305000
+    },
+    {
+      "split": "heldout",
+      "episodes": 576,
+      "additional_future_invariance_probes": 48,
+      "elapsed_seconds": 2.023338458966464,
+      "prior_elapsed_seconds": 1.071284583013039,
+      "execution_revision": "4c9a87756f15fc1f458a3ffae9cd640661a637b3",
+      "dirty_at_start": true,
+      "dirty_paths_at_start": [
+        "?? experiments/history-prediction-v1/preregistration_receipt.json"
+      ],
+      "execution_inputs_match_commit": true,
+      "execution_code_sha256": "da3b3d38418a55ee7eba5bbda8d914d979093d5e266feb9735835669df778056",
+      "model_sha256": "2a8e2115572b25c75786b01eac5a6779e4fdd22e26a4a68c8313a4e4af1e80d6",
+      "python": "3.12.14",
+      "numpy": "2.5.3",
+      "end_utc_ns": 1789858159810067000
+    }
+  ],
+  "source_snapshot_contract": "Each stage archives execution_sources.json and config_used.json. Development/calibration ran with isolated uncommitted new sources on the recorded base. Heldout executable inputs match the committed frozen revision; only preregistration_receipt.json was untracked at its start.",
+  "preregistration": {
+    "exit_code": 0,
+    "response": "https://github.com/trinitron88/earworm/pull/2#issuecomment-5745907889",
+    "posted_utc_ns": 1789858135422179000,
+    "comment_id": 5745907889,
+    "protocol_sha256": "3fac42cc230af394a990a156fd91e706f5002ebddaa0ce5761b9f4311fcfa097",
+    "server_created_at": "2026-09-19T22:48:55Z",
+    "server_updated_at": "2026-09-19T22:48:55Z",
+    "saved_body_sha256": "bba88c73e96e42d084fecf165a35d6aef185dd75ca1142c2c62a4e2adb74ca60",
+    "body": "Preregistration receipt \u2014 `earworm-history-prediction-v1`\n\nImplementation, development selection and calibration are complete. Held-out stimuli/results have not been generated or exposed. This records the freeze before the single evaluation; it is not a result or a request for another assignment.\n\n- Frozen protocol SHA-256: `3fac42cc230af394a990a156fd91e706f5002ebddaa0ce5761b9f4311fcfa097`\n- Aggregate execution-code SHA-256: `da3b3d38418a55ee7eba5bbda8d914d979093d5e266feb9735835669df778056`\n- Split manifest SHA-256: `2208f65fab3c166aba1ee66b32a040c207d18ea202351f213386bb9883f4c2cb`\n- Frozen model SHA-256: `2a8e2115572b25c75786b01eac5a6779e4fdd22e26a4a68c8313a4e4af1e80d6`\n- Local frozen execution revision: `4c9a87756f15fc1f458a3ffae9cd640661a637b3` (will be included in the complete successor snapshot; final publication SHA will be recorded separately).\n- Paths: `experiments/history-prediction-v1/protocol.json`, `freeze.json`, `split_manifest.json`, `frozen_model.json` and source files under that directory.\n\n36 fresh groups: 8 development, 4 calibration, 24 held out. The fixed design totals 864 episodes plus 72 conservatively counted future-substitution probes (936 <= 1,000), .12-second completed blocks, 14 history blocks plus probe, capacity 32, and <=2 hours local compute. The two held-out transpositions are +31/+36 semitones; their target pitches are unheard in the episode and training. The three-block present cue is identical within each paired history; block-byte inventories/counts/durations are identical. Reset, balanced removal, correctly retargeted swap, information-preserving demonstration-order shuffle, and balanced ambiguous histories are included.\n\nAll six mechanisms receive the same arrived observations: marginal/present, recency, development-selected order-1\u20133 transition, absolute sequence retrieval, transformation-aware sequence retrieval, and a lightweight relational readout. Only development selects structural parameters; only four calibration groups fit probability parameters. A separate guarded predictor process receives strict arrival messages without evaluator metadata/futures. Forecasts are hash-chained, appended and fsynced before future reveal; same-prefix future substitutions must yield identical forecast bytes.\n\nFrozen scoring: .35-semitone point tolerance; group-weighted accuracy and both-members paired success; log loss and distribution Brier; 5,000 paired group bootstrap resamples with seed 2026091907. Basic paired success >=.80 with positive lower95 improvement over present and passing controls; transfer paired success >=.70. A requires >=.10 transfer advantage over strongest simpler baseline, positive lower95 paired bound and no worse proper scores. B requires passing basic plus the accuracy-difference CI wholly within \u00b1.05 (and comparable proper scores), or a clearly superior simpler baseline. Ambiguity requires >=.90 mass on the predefined alternatives, <=.10 error per .5 alternative and max class probability <=.60. Invalid localized prerequisites select C; otherwise inconclusive. No tuning or second evaluation after held-out exposure.\n\nAll Experiment 08 and prior audit artifacts remain frozen. The estimator-provenance audit remains deferred. One complete successor PR and branch-selection receipt will follow, then the worker stops awaiting review.\n"
+  },
+  "total_unique_episode_streams": 864,
+  "additional_substitution_probes": 72,
+  "total_conservatively_counted_streams": 936,
+  "numerical_stream_runner_elapsed_seconds": 3.094623041979503,
+  "whole_authorization_to_validation_elapsed_seconds_upper_bound": 2199.772956,
+  "timing_limit": "Whole authorization-to-validation wall interval includes implementation, fitting, verification and network waits, and is below two hours; stream-runner timing alone excludes fitting/verification.",
+  "paid_external_compute": false,
+  "frozen_prior_files_verified": 130,
+  "saved_heldout_output_reproduction": {
+    "files": 7,
+    "byte_identical": true,
+    "sha256": {
+      "ambiguity_calibration.csv": "ca635b5ccb1576b208c0a3013f9a1fbc2f8cfc66c308e061f1a08c5cb09dabd5",
+      "controls.json": "7257c694cd115f6bd14e5d647421a8ea5d2c02fda734d65559c269c4af8b8fdd",
+      "decision.json": "7bb43414eb03f76a72f0272e60188835b9e46b59b61e1697f229a5bf7fb7d8ee",
+      "groups.csv": "0b6ca0d55350ff52d825873cb421110ef08ac510443ce74df3722c3c423ae0fe",
+      "paired_comparisons.csv": "da76fa815ddc609451ea5563160f8235d73c40c75acb6d834f5e1f9b3dbf53da",
+      "summary.csv": "090e7f4e8893583e1d2c2b9b4062ef5f8c5dfd437add3b53d66d5ad4e5901f8d",
+      "trials.csv": "ab243181cf018a682589d2b985704e7c8cdd5ceebe8a8a75b574b464c5cb327f"
+    }
+  },
+  "independent_verification": "validation/heldout.json",
+  "heldout_evaluations": 1,
+  "post_evaluation_model_changes": false,
+  "verified_at_utc": "2026-09-19T22:54:24.772956+00:00",
+  "server_preregistration_precedes_heldout": true
+}
