@@ -1,0 +1,61 @@
+{
+  "checked_at_utc": "2026-09-19T17:57:34.029822+00:00",
+  "python": "3.12.14",
+  "numpy": "2.5.3",
+  "clean_audit_reexecution": [
+    {
+      "file": "feature_gap_contributions.csv",
+      "byte_identical": true,
+      "sha256": "61f9cf5c5884900218e13634834036b36a8c80d2ff1729cd18efac076070ee8b"
+    },
+    {
+      "file": "measured_events.csv",
+      "byte_identical": true,
+      "sha256": "6f59b4f6232d84f4421bdeb2195a0084e70457c5239aa9265c1bdaa9d52414e9"
+    },
+    {
+      "file": "missing_position_energy.csv",
+      "byte_identical": true,
+      "sha256": "d2ea55c5ed6df69f0229bc93198c27bbfd2f7da06fefa6392465e67d12a7e3cf"
+    },
+    {
+      "file": "saved_correspondences.csv",
+      "byte_identical": true,
+      "sha256": "08af7cf9933aef76346f5d3b018edfdd5fdd4e1a7f88d18c103662a7249669e7"
+    },
+    {
+      "file": "saved_path_summary.csv",
+      "byte_identical": true,
+      "sha256": "db1e34b49ae01a33873627cece9723c54d511b94fb92a03b04cdff0b5dc8f975"
+    },
+    {
+      "file": "scores_and_margins.csv",
+      "byte_identical": true,
+      "sha256": "1a7b44b462dc36424069b25c6b6d20bda1d849a98fc9f59f173b7e29176b78b4"
+    },
+    {
+      "file": "summary.json",
+      "byte_identical": true,
+      "sha256": "6c1df6d09fefa07491b25198cd14469efdaf7bf7da9030465f9bdf9a85d3a8f3"
+    },
+    {
+      "file": "verification.json",
+      "byte_identical": true,
+      "sha256": "bc45054f803b6ad588c0361398b73b977b5e77d5db86ab7273184eeed0fdf970"
+    }
+  ],
+  "checks": {
+    "prior_query_scores_and_margins_exactly_reconciled": 4,
+    "query_metadata_and_histories_exact": true,
+    "selected_evidence_features_equal_compact_export": true,
+    "all_maxima_and_near_ties_reconciled": true,
+    "saved_residuals_max_abs_reconstruction_error": 0.0,
+    "saved_losses_max_abs_reconstruction_error": 0.0,
+    "feature_gap_sum_max_abs_roundoff_difference": 2.0783196381734355e-15,
+    "scalar_support_max_abs_difference": 1.7763568394002505e-15,
+    "floating_point_check_tolerance": 1e-12,
+    "operational_threshold_unchanged": true,
+    "original_pipeline_executed": false
+  },
+  "scope": "Only saved-data arithmetic was rerun; no original experiment pipeline, audio, alignment search, training, or replay."
+}

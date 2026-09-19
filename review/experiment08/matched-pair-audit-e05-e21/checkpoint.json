@@ -1,0 +1,20 @@
+{
+  "status": "awaiting-review",
+  "assignment_status": "completed_saved_matched_pair_audit",
+  "instruction_id": "earworm-e05-e21-matched-pair-v1",
+  "instruction_comment_id": 5743879321,
+  "instruction_version": "2026-09-19T17:22:57Z",
+  "instruction_channel": "https://github.com/trinitron88/earworm/pull/2",
+  "reviewed_predecessor_sha": "3da31dacd1abda91a37a8a8cb5d9c200335ea3f6",
+  "base_main_merge_sha": "f463c0673035bdf4b0b20bdb715d5442b398ddb4",
+  "branch": "review/experiment08-matched-pair-e05-e21-20260919",
+  "publication_snapshot": "Resolve the exact head of the successor PR linked from the shared instruction channel.",
+  "report": "review/experiment08/matched-pair-audit-e05-e21/REPORT.md",
+  "results": "review/experiment08/matched-pair-audit-e05-e21/results/",
+  "original_experiment_and_prior_audits_unchanged": true,
+  "frozen_model_and_operational_threshold_unchanged": true,
+  "pipeline_or_new_experiment_executed": false,
+  "next_action_proposed_only": "Measure prevalence of matching non-timing features among source/strongest-impostor saved held-out pairs; not executed",
+  "worker_poll": "Existing 30-minute continuation; no duplicate or reviewer modification",
+  "stop_condition": "Publish one complete successor PR, link exact SHA and paths on PR #2, save receipt locally, release lock, and end invocation."
+}
