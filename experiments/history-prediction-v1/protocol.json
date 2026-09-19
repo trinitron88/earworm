@@ -1,0 +1,253 @@
+{
+  "assignment_id": "earworm-history-prediction-v1",
+  "authorization_comment_id": 5745703250,
+  "base_snapshot": "1cdbb2de5c174ba35e4c77221a0bb171c3f05f3c",
+  "decision": "Carry forward the relational predictor, a simpler retrieval/transition reference, a targeted prerequisite repair, or no selection.",
+  "scope": "One isolated fresh synthetic monophonic completed-block experiment; no E08 changes, MERT use, paid compute, natural/polyphonic work or second tuned evaluation.",
+  "split": {
+    "manifest": "split_manifest.json",
+    "development_groups": 8,
+    "calibration_groups": 4,
+    "heldout_groups": 24,
+    "group_unit": "All 24 episodes and two extra unrevealed-future probes stay in the same group/split. Groups use a fresh namespace and independent seeds; E08 groups/stimuli are not imported.",
+    "heldout_material_not_generated_before_freeze": true
+  },
+  "bounds": {
+    "episode_control_streams": 864,
+    "additional_future_substitution_probes_conservatively_counted_as_streams": 72,
+    "total_counted_streams": 936,
+    "maximum_authorized_streams": 1000,
+    "block_duration_seconds": 0.12,
+    "sample_rate_hz": 16000,
+    "prefix_blocks_including_probe": 15,
+    "history_blocks_before_probe": 14,
+    "memory_capacity_blocks": 32,
+    "maximum_authorized_history_blocks": 32,
+    "local_compute_seconds_limit": 7200
+  },
+  "temporal_rule": {
+    "rule": "A three-block cue predicts the observed successor of an earlier matching relative-pitch cue in the same auditory history, translated to the current cue register. When identical cues were followed by both alternatives, their predefined continuation distribution is balanced.",
+    "demonstrations": "Q=[base,base+u,base+v]; R=[base,base+w,base+v], u != w. One history binds Q to v-d and R to v+d; its paired history swaps these successors. Histories contain identical block-byte multisets/counts, pitch inventory and duration.",
+    "current_sound": "Final two history blocks are Q[0:2] in the query register; the current probe is Q[2] there. These three waveforms are byte-identical within each pair.",
+    "counterbalance": "Q/R demonstration order alternates evenly within each split; four distractor blocks are distributed before, between and after demonstrations using the group seed. Amplitude, harmonic mix and phase are group-shared and identical across bindings.",
+    "stimulus_parameters": {
+      "base_semitones_re_220hz": [
+        -9,
+        -6
+      ],
+      "u_and_w_distinct_from": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "v_from": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "d_from": [
+        4,
+        5
+      ],
+      "novelty_constraint": "choose d only where v-d != u; neither possible transposed continuation equals any current cue pitch",
+      "amplitude_range": [
+        0.2,
+        0.28
+      ],
+      "second_harmonic_range": [
+        0.08,
+        0.15
+      ],
+      "phase_range_radians": [
+        -3.141592653589793,
+        3.141592653589793
+      ],
+      "envelope": "sin(pi*n/1919)^2",
+      "waveform_dtype": "little-endian float32",
+      "padding_offsets": [
+        -2,
+        -1,
+        1,
+        6
+      ]
+    },
+    "construction_limit": "This is a stipulated conditional prediction task, not evidence of human musical identity or subjective hearing."
+  },
+  "transfer": {
+    "family": "Uniform transposition of the three-event query cue and predicted continuation relative to its earlier demonstration; no other transformation family.",
+    "development_shift_semitones": 7,
+    "calibration_shift_semitones": 12,
+    "heldout_shifts_semitones": [
+      31,
+      36
+    ],
+    "novelty": "Targets must not match a prior heard pitch in the episode or any development/calibration heard pitch, within .35 semitone; also require distinct waveform hashes. Training register <=22 and heldout transfer target >=25 by construction. Verify after evaluation without changing stimuli or criteria.",
+    "query_register_anchor": "Current arrived probe pitch; no candidate set or continuation waveform supplied to predictor."
+  },
+  "target": {
+    "quantity": "First continuation event pitch, represented as interval from the arrived probe; point forecast also reported in semitones relative to 220 Hz.",
+    "classes": [
+      -24,
+      -23,
+      -22,
+      -21,
+      -20,
+      -19,
+      -18,
+      -17,
+      -16,
+      -15,
+      -14,
+      -13,
+      -12,
+      -11,
+      -10,
+      -9,
+      -8,
+      -7,
+      -6,
+      -5,
+      -4,
+      -3,
+      -2,
+      -1,
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      "unknown_or_out_of_range"
+    ],
+    "tolerance_semitones": 0.35,
+    "unknown_rule": "Unavailable anchor yields unknown=1. An inferred interval outside [-24.5,24.5] contributes to unknown. Missing key/successor observations are not filled.",
+    "vocabulary_source": "Fixed before development analysis; not estimated from evaluation targets."
+  },
+  "observations": {
+    "extractor": "Versioned isolated model.py clean-block FFT peak estimator; completed .12s arrived blocks only. Raw continuous pitch, RMS, spectral concentration and availability retained. No E08 gate or logits used.",
+    "unknown_gates": {
+      "minimum_rms": 0.01,
+      "minimum_spectral_concentration": 0.3
+    },
+    "uncertainty_limit": "Availability and spectral concentration are instrument measurements, not calibrated note confidence. Prediction probabilities are separately calibrated."
+  },
+  "mechanisms": {
+    "present": "Development marginal interval distribution; same probe anchor, no history dependency.",
+    "recency": "Most recent observed one-pitch match and its already-observed successor; no match -> marginal.",
+    "transition": "Absolute acoustic transition contexts, order selected from 1\u20133 on development.",
+    "retrieval_absolute": "Full observed sequence-context key plus its observed continuation; development context candidates 2\u20134 blocks; absolute max pitch residual cutoff, weighted ties.",
+    "retrieval_transposed": "Same sequence retrieval with least-squares uniform shift estimated from arrived key context; transform remembered successor by that shift. Development context candidates 2\u20134 blocks.",
+    "relational": "Lightweight acoustic-memory attention/readout using pairwise interval geometry of observed context keys and their successor intervals. Development context candidates 2\u20133 blocks. Relationship encoding is explicit; only context/cutoff selection and probability parameters are fitted.",
+    "common_budgets": "Same arrived observations, full 32-block capacity, no eviction, <=14 possible remembered context windows per prediction. Baselines may deliberately ignore information. All comparisons use the same target vocabulary and scoring; no heldout condition/group/seed/path/candidate identifiers enter any predictor."
+  },
+  "development_selection": {
+    "criterion": "Mean log loss on development intact and ambiguous episodes, basic and rehearsal-transposition families combined; deterministic ties prefer shorter order then smaller cutoff.",
+    "cutoff_candidates_semitones": [
+      0.1,
+      0.3,
+      0.6
+    ],
+    "learned_prior": "Aggregate development outcome frequencies only.",
+    "selected_model": "development_model.json"
+  },
+  "calibration": {
+    "groups": 4,
+    "purpose": "Fit normalized predictive probability parameters only; no context/order/cutoff changes.",
+    "criterion": "Mean log loss across calibration episodes; deterministic ties by smaller temperature, sigma, floor.",
+    "temperature_candidates": [
+      0.05,
+      0.2,
+      0.5
+    ],
+    "interval_bin_gaussian_sigma_candidates": [
+      0.08,
+      0.2,
+      0.4
+    ],
+    "uniform_floor_candidates": [
+      0.001,
+      0.01,
+      0.05
+    ],
+    "final_parameters": "frozen_model.json"
+  },
+  "controls": {
+    "intact": "Paired bindings require different forecasts under identical current cue.",
+    "reset": "Process all earlier blocks, then clear every mechanism memory immediately before the final two history blocks. No eviction; explicit reset. Retained cue has no observed successor, so history advantage should disappear.",
+    "removal": "Replace both demonstration successor blocks with same-length zero waveform in both variants. Position/count budgets retained and paired prefixes become identical; unavailable pitches remain unknown.",
+    "swap": "Use counterpart history and score against its corresponding swapped future, never against the unswapped target. Forecast distribution must equal counterpart intact distribution.",
+    "shuffle": "Reverse order of the complete four-block demonstration chunks; preserve their within-chunk transitions and the current cue. This deliberately preserves useful information; performance need not fall to chance. It is not arbitrary note-order destruction.",
+    "ambiguous": "Demonstrate the same Q cue followed by both successors; paired episodes have identical prefix bytes and balanced A/B futures. Evaluate probabilities against the predefined .5/.5 outcome distribution.",
+    "numerical_tolerances": {
+      "reset_and_removal_group_mean_accuracy_max": 0.55,
+      "reset_and_removal_paired_success_max": 0.1,
+      "paired_prefix_forecast_total_variation_max": 1e-09,
+      "swap_counterpart_probability_error_max": 1e-09,
+      "basic_swap_paired_success_min": 0.8,
+      "shuffle_accuracy_drop_max": 0.1,
+      "ambiguous_alternative_mass_min": 0.9,
+      "ambiguous_each_alternative_probability_error_max": 0.1,
+      "ambiguous_max_class_probability_max": 0.6
+    },
+    "eligibility": "Numerical capability/control/ambiguity requirements apply separately to each mechanism considered for A/B. A weak baseline failing a capability is not itself a data-validity failure."
+  },
+  "causal_contract": {
+    "worker": "Separate subprocess imports only model.py plus numeric/stdlib dependencies. Receives strict init/config, arrive/raw-bytes, reset, forecast schemas; no evaluator IDs, truth, future objects, paths or candidate lists.",
+    "access_guard": "After numerical initialization an audit hook rejects filesystem open/list/scandir, network, subprocess, system and ctypes access. One deliberate forbidden-open probe must be blocked. This is instrumented process separation, not an adversarial OS security sandbox.",
+    "forecast_log": "Append-only exclusive-create hash-chained events.jsonl; fsync forecast distribution, point estimate, prefix/state hashes and code/config hashes before reveal; reveal is then logged/fsynced before the future block enters the extractor.",
+    "future_invariance": "For the first intact history in each family/group substitute the other withheld future in the evaluator, request another forecast with unchanged worker state, and require byte-identical forecast payload. Count these extra requests conservatively in stream budget.",
+    "receipt": "Publish protocol SHA-256 and aggregate execution code hash to PR #2 before heldout generation/evaluation."
+  },
+  "metrics": {
+    "group_weighting": "All 24 heldout groups equally weighted. Paired success requires both intact variant point forecasts within tolerance. Correlated variants are not independent samples.",
+    "proper_log_loss": "-sum(y_i log p_i), with y one-hot except predefined balanced ambiguous distributions.",
+    "brier": "sum((p_i-y_i)^2), squared probability error against the known outcome distribution. For ambiguous trials expected realized Brier adds the constant .5; primary intact trials are conventional Brier.",
+    "bootstrap": {
+      "resamples": 5000,
+      "seed": 2026091907,
+      "unit": "phrase group",
+      "method": "paired percentile bootstrap; same group index samples for each mechanism/metric; quantiles .025,.975"
+    },
+    "comparisons": "Relational minus EACH baseline on basic and transfer accuracy, paired success, log loss and Brier; report all. Strongest simpler mechanism selected by heldout transfer accuracy, then log loss, then fixed baseline order; no tuning to this selection."
+  },
+  "branch_criteria": {
+    "validity": "All byte/inventory/duration, leakage/isolation, forecast/reveal/invariance, split, shared observation budget, eviction and control-truth semantics gates pass. A localized failure selects C; otherwise inconclusive. Invalid evidence cannot select A/B.",
+    "basic": "Group mean intact paired success >=.80; lower95 bound of accuracy improvement over present >0; reset/removal, swapped-history, preserved-information shuffle and basic ambiguity criteria pass.",
+    "transfer": "Group mean intact paired success >=.70 and transfer ambiguity criteria pass.",
+    "A": "Relational passes basic and transfer; >=.10 transfer accuracy advantage over strongest eligible simpler baseline; lower95 paired bound >0; no worse mean log loss or Brier. Retain relational prototype.",
+    "B": "Strongest simpler baseline passes basic and transfer accuracy difference CI is wholly inside [-.05,.05], with absolute mean log-loss difference <=.05 nats and Brier difference <=.02; OR simpler exceeds relational by >=.10 with positive lower95 paired bound and no worse proper scores. Retain simpler reference. If transfer fails both but basic/equivalence pass, retain basic capability only.",
+    "C": "A localized prerequisite observation/memory/readout or validity failure withholds affected capability; name exactly one targeted repair but do not execute after freeze.",
+    "inconclusive": "No justified A/B and no localized prerequisite failure: preserve result, make no architecture selection, stop.",
+    "finite_sample_limit": "A degenerate group-bootstrap interval when every group difference is identical describes this sample, not universal equivalence."
+  },
+  "stopping": "One frozen heldout evaluation; preserve failures, no tuning/retest, no additional experiment or automatic audit. Publish complete successor snapshot and branch receipt, then stop awaiting review.",
+  "required_checks_decisions": {
+    "balance": "Accept history-dependence comparison only if present/probe and byte inventories are balanced.",
+    "causality": "Trust anticipation claim only if no future access and forecast commitment precedes reveal.",
+    "novelty": "Accept transposition claim only if target unheard at that pitch in episode/training.",
+    "scores": "Accept branch choice only after independent forecast/proper-score arithmetic reconciliation.",
+    "artifact_preservation": "Accept snapshot only if frozen E08/prior blobs remain unchanged."
+  },
+  "execution_provenance": "Development/calibration store actual base revision plus dirty source snapshots and hashes. Heldout uses a committed frozen implementation/protocol/model revision; an untracked external preregistration receipt may make the worktree dirty without changing executable inputs. Final publication SHA is recorded separately."
+}

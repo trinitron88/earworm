@@ -1,0 +1,170 @@
+{
+  "present": {
+    "basic": {
+      "reset_removal_pass": true,
+      "reset_removal_total_variation": {
+        "reset": 0.0,
+        "removal": 0.0
+      },
+      "swap_pass": false,
+      "swap_max_probability_difference": 0.0,
+      "shuffle_preserved_information_pass": true,
+      "ambiguity_pass": false,
+      "ambiguous_min_support_mass": 0.2479000000000001,
+      "ambiguous_max_probability_error": 0.37604999999999994
+    },
+    "transfer": {
+      "reset_removal_pass": true,
+      "reset_removal_total_variation": {
+        "reset": 0.0,
+        "removal": 0.0
+      },
+      "swap_pass": false,
+      "swap_max_probability_difference": 0.0,
+      "shuffle_preserved_information_pass": true,
+      "ambiguity_pass": false,
+      "ambiguous_min_support_mass": 0.2479000000000001,
+      "ambiguous_max_probability_error": 0.37604999999999994
+    }
+  },
+  "recency": {
+    "basic": {
+      "reset_removal_pass": true,
+      "reset_removal_total_variation": {
+        "reset": 0.0,
+        "removal": 0.0
+      },
+      "swap_pass": false,
+      "swap_max_probability_difference": 0.0,
+      "shuffle_preserved_information_pass": true,
+      "ambiguity_pass": false,
+      "ambiguous_min_support_mass": 0.9903926212816451,
+      "ambiguous_max_probability_error": 0.4998
+    },
+    "transfer": {
+      "reset_removal_pass": true,
+      "reset_removal_total_variation": {
+        "reset": 0.0,
+        "removal": 0.0
+      },
+      "swap_pass": false,
+      "swap_max_probability_difference": 0.0,
+      "shuffle_preserved_information_pass": true,
+      "ambiguity_pass": false,
+      "ambiguous_min_support_mass": 0.2479000000000001,
+      "ambiguous_max_probability_error": 0.37604999999999994
+    }
+  },
+  "transition": {
+    "basic": {
+      "reset_removal_pass": true,
+      "reset_removal_total_variation": {
+        "reset": 0.0,
+        "removal": 0.0
+      },
+      "swap_pass": true,
+      "swap_max_probability_difference": 0.0,
+      "shuffle_preserved_information_pass": true,
+      "ambiguity_pass": true,
+      "ambiguous_min_support_mass": 0.9903926212816695,
+      "ambiguous_max_probability_error": 0.004803689359177465
+    },
+    "transfer": {
+      "reset_removal_pass": true,
+      "reset_removal_total_variation": {
+        "reset": 0.0,
+        "removal": 0.0
+      },
+      "swap_pass": false,
+      "swap_max_probability_difference": 0.0,
+      "shuffle_preserved_information_pass": true,
+      "ambiguity_pass": false,
+      "ambiguous_min_support_mass": 0.2479000000000001,
+      "ambiguous_max_probability_error": 0.37604999999999994
+    }
+  },
+  "retrieval_absolute": {
+    "basic": {
+      "reset_removal_pass": true,
+      "reset_removal_total_variation": {
+        "reset": 0.0,
+        "removal": 0.0
+      },
+      "swap_pass": true,
+      "swap_max_probability_difference": 0.0,
+      "shuffle_preserved_information_pass": true,
+      "ambiguity_pass": true,
+      "ambiguous_min_support_mass": 0.9903926212816695,
+      "ambiguous_max_probability_error": 0.004803689359177465
+    },
+    "transfer": {
+      "reset_removal_pass": true,
+      "reset_removal_total_variation": {
+        "reset": 0.0,
+        "removal": 0.0
+      },
+      "swap_pass": false,
+      "swap_max_probability_difference": 0.0,
+      "shuffle_preserved_information_pass": true,
+      "ambiguity_pass": false,
+      "ambiguous_min_support_mass": 0.2479000000000001,
+      "ambiguous_max_probability_error": 0.37604999999999994
+    }
+  },
+  "retrieval_transposed": {
+    "basic": {
+      "reset_removal_pass": true,
+      "reset_removal_total_variation": {
+        "reset": 0.0,
+        "removal": 0.0
+      },
+      "swap_pass": true,
+      "swap_max_probability_difference": 0.0,
+      "shuffle_preserved_information_pass": true,
+      "ambiguity_pass": true,
+      "ambiguous_min_support_mass": 0.9903926212816695,
+      "ambiguous_max_probability_error": 0.004803689359177465
+    },
+    "transfer": {
+      "reset_removal_pass": true,
+      "reset_removal_total_variation": {
+        "reset": 0.0,
+        "removal": 0.0
+      },
+      "swap_pass": true,
+      "swap_max_probability_difference": 0.0,
+      "shuffle_preserved_information_pass": true,
+      "ambiguity_pass": true,
+      "ambiguous_min_support_mass": 0.9903926212816683,
+      "ambiguous_max_probability_error": 0.004803689359180019
+    }
+  },
+  "relational": {
+    "basic": {
+      "reset_removal_pass": true,
+      "reset_removal_total_variation": {
+        "reset": 0.0,
+        "removal": 0.0
+      },
+      "swap_pass": true,
+      "swap_max_probability_difference": 0.0,
+      "shuffle_preserved_information_pass": true,
+      "ambiguity_pass": true,
+      "ambiguous_min_support_mass": 0.9903926212816695,
+      "ambiguous_max_probability_error": 0.004803689359177465
+    },
+    "transfer": {
+      "reset_removal_pass": true,
+      "reset_removal_total_variation": {
+        "reset": 0.0,
+        "removal": 0.0
+      },
+      "swap_pass": true,
+      "swap_max_probability_difference": 0.0,
+      "shuffle_preserved_information_pass": true,
+      "ambiguity_pass": true,
+      "ambiguous_min_support_mass": 0.9903926212816695,
+      "ambiguous_max_probability_error": 0.004803689359177465
+    }
+  }
+}

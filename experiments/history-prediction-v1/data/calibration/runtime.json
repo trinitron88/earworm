@@ -1,0 +1,14 @@
+{
+  "split": "calibration",
+  "episodes": 96,
+  "additional_future_invariance_probes": 8,
+  "elapsed_seconds": 0.36711900000227615,
+  "prior_elapsed_seconds": 0.7041655830107629,
+  "execution_revision": "1cdbb2de5c174ba35e4c77221a0bb171c3f05f3c",
+  "dirty_at_start": true,
+  "execution_code_sha256": "23f4b07ed49f8c8b0c00dd5b4451fb55fea406932fb9b9d3800a2f4c58eaaeb6",
+  "model_sha256": "fdab0dbf3b899c2f763226b2fa47b311627a5cc5dd39eef67baed8974bbdeaaf",
+  "python": "3.12.14",
+  "numpy": "2.5.3",
+  "end_utc_ns": 1789857622062305000
+}

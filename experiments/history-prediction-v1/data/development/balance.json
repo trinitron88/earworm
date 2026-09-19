@@ -1,0 +1,866 @@
+[
+  {
+    "group_id": "hp1_development_00",
+    "family": "basic",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_00",
+    "family": "basic",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_00",
+    "family": "basic",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_00",
+    "family": "basic",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_00",
+    "family": "basic",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_00",
+    "family": "basic",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_00",
+    "family": "transfer",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_00",
+    "family": "transfer",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_00",
+    "family": "transfer",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_00",
+    "family": "transfer",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_00",
+    "family": "transfer",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_00",
+    "family": "transfer",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_01",
+    "family": "basic",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_01",
+    "family": "basic",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_01",
+    "family": "basic",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_01",
+    "family": "basic",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_01",
+    "family": "basic",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_01",
+    "family": "basic",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_01",
+    "family": "transfer",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_01",
+    "family": "transfer",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_01",
+    "family": "transfer",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_01",
+    "family": "transfer",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_01",
+    "family": "transfer",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_01",
+    "family": "transfer",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_02",
+    "family": "basic",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_02",
+    "family": "basic",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_02",
+    "family": "basic",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_02",
+    "family": "basic",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_02",
+    "family": "basic",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_02",
+    "family": "basic",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_02",
+    "family": "transfer",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_02",
+    "family": "transfer",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_02",
+    "family": "transfer",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_02",
+    "family": "transfer",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_02",
+    "family": "transfer",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_02",
+    "family": "transfer",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_03",
+    "family": "basic",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_03",
+    "family": "basic",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_03",
+    "family": "basic",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_03",
+    "family": "basic",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_03",
+    "family": "basic",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_03",
+    "family": "basic",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_03",
+    "family": "transfer",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_03",
+    "family": "transfer",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_03",
+    "family": "transfer",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_03",
+    "family": "transfer",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_03",
+    "family": "transfer",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_03",
+    "family": "transfer",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_04",
+    "family": "basic",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_04",
+    "family": "basic",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_04",
+    "family": "basic",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_04",
+    "family": "basic",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_04",
+    "family": "basic",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_04",
+    "family": "basic",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_04",
+    "family": "transfer",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_04",
+    "family": "transfer",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_04",
+    "family": "transfer",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_04",
+    "family": "transfer",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_04",
+    "family": "transfer",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_04",
+    "family": "transfer",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_05",
+    "family": "basic",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_05",
+    "family": "basic",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_05",
+    "family": "basic",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_05",
+    "family": "basic",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_05",
+    "family": "basic",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_05",
+    "family": "basic",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_05",
+    "family": "transfer",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_05",
+    "family": "transfer",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_05",
+    "family": "transfer",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_05",
+    "family": "transfer",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_05",
+    "family": "transfer",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_05",
+    "family": "transfer",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_06",
+    "family": "basic",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_06",
+    "family": "basic",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_06",
+    "family": "basic",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_06",
+    "family": "basic",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_06",
+    "family": "basic",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_06",
+    "family": "basic",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_06",
+    "family": "transfer",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_06",
+    "family": "transfer",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_06",
+    "family": "transfer",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_06",
+    "family": "transfer",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_06",
+    "family": "transfer",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_06",
+    "family": "transfer",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_07",
+    "family": "basic",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_07",
+    "family": "basic",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_07",
+    "family": "basic",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_07",
+    "family": "basic",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_07",
+    "family": "basic",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_07",
+    "family": "basic",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_07",
+    "family": "transfer",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_07",
+    "family": "transfer",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_07",
+    "family": "transfer",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_07",
+    "family": "transfer",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_07",
+    "family": "transfer",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  },
+  {
+    "group_id": "hp1_development_07",
+    "family": "transfer",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 15,
+    "duration_s": 1.8
+  }
+]

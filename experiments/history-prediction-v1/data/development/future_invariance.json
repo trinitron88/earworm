@@ -1,0 +1,114 @@
+[
+  {
+    "episode": "hp1_development_00/basic/intact/0",
+    "first_future_sha256": "aa7ba7f94b6f65d60031c87672806919572b7078a3b31910dfdd7e73cfb2fe00",
+    "substituted_future_sha256": "83232d4155bfc1d1ad97720f78f21a4492e3da24899af5e3e9306e2dc0a302f1",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "48c3cf1c74cbd7a226d8ecf131250d387232cc16f3005f6265d1f8074ffd15bf"
+  },
+  {
+    "episode": "hp1_development_00/transfer/intact/0",
+    "first_future_sha256": "999b170c589673fe980d1596212b774c24c6b93614ac0b73e79da20ed7b440bd",
+    "substituted_future_sha256": "eed3353c5ec6dea3168754bfdadbd975826083ec38cbf2a3f3232217d2a159b6",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "9a82009666aaf03178e5eac125ff8fad399daff8bedae3d9f197e57bbd4fdbd8"
+  },
+  {
+    "episode": "hp1_development_01/basic/intact/0",
+    "first_future_sha256": "bba851ba38c802b5b15679023f9caae2c7220d240e78d550d30959ac5d7483bb",
+    "substituted_future_sha256": "bb3d05e35b470946e4b54c32fa51d062054a946dce2bd9aaa30be34108ce02d5",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "160ae30ff66e379a5d4854015cdc14332ba51e59ce0d7bca88986a9d2a24586a"
+  },
+  {
+    "episode": "hp1_development_01/transfer/intact/0",
+    "first_future_sha256": "515680cfafe44007d4f6302cd465fee7791e9949d64d629f095833286539bcf6",
+    "substituted_future_sha256": "0592abdc8a4470fec036e0be4f81de93cfd52896549fedee3e10b48b8d78dbf6",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "c64415d4b7b085ed563c6e6180afaa44d75b7f8e047337738b293c838fcdb8a7"
+  },
+  {
+    "episode": "hp1_development_02/basic/intact/0",
+    "first_future_sha256": "ae680a1eb5e8092983dece8a2e8654e799028f9ee174ea3b2b8afb336d2e7ee8",
+    "substituted_future_sha256": "7b1aebd455999c7bfb827e27093b4c70e4c5eadcbc49c220efb947de65979c28",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "4926eeca30846b7bba86b40a034d7e02328b9afc31fa2facb96ef3d867f7f572"
+  },
+  {
+    "episode": "hp1_development_02/transfer/intact/0",
+    "first_future_sha256": "75080d21f53610677bf32b7000ceeadd9231f2756e606fc6c2a64d5d0abebd97",
+    "substituted_future_sha256": "0f3f1279c142b541842a2e214c753df67b50b1069d9354eef049903dee588ef8",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "8c3864c8fc7f179c05822452a4ee62e84edf6ef679211e2015ed05f60302a151"
+  },
+  {
+    "episode": "hp1_development_03/basic/intact/0",
+    "first_future_sha256": "fdefdfe1be900424693de11574a9db09e8f0dbfdd778475ef5afb9950586bfaf",
+    "substituted_future_sha256": "584e64acf97ba7790f4b796880f2ca1f886baf8c784a23f824334f8c1968353e",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "22fe633ad58106b275f820e9a8657d4b1d66859e66eba9655745a7d55b041f40"
+  },
+  {
+    "episode": "hp1_development_03/transfer/intact/0",
+    "first_future_sha256": "563a61250cee85114b30d879e6d066f076247b6fcedbd754bc43361c84a7f4f1",
+    "substituted_future_sha256": "77f366588a6d8a1a2b3ea179772d6a62da7a7fd3a3cb85ccc1c85912a38c6452",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "4e77038c9e2ceb3553b82babb0da561125328d24f8a493e858a20bae447af285"
+  },
+  {
+    "episode": "hp1_development_04/basic/intact/0",
+    "first_future_sha256": "d0c17b1b54dd9ff3863419f5251c8614f547699d33053a990cc1a43324cbcf00",
+    "substituted_future_sha256": "fdf9dcfe426b5cd9f1f4360171a37c959f341784968c29636bd1b0714d5421ab",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "d589765580384cefa29c981ed92c785e25c9091ac826459dc875beb0d3dd51e0"
+  },
+  {
+    "episode": "hp1_development_04/transfer/intact/0",
+    "first_future_sha256": "5ee8d96751f1a14728014252bbd8adb0f3d0f22b1b0adcf89a349916d7847e91",
+    "substituted_future_sha256": "f6dfa77ee18ce46e744556b3c49623665103fed1d6f0823f23af516877dd0fc3",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "b88fc346c0948c2a0c194294264ac18abe3f01d39954d1d9778e0a9f3683d916"
+  },
+  {
+    "episode": "hp1_development_05/basic/intact/0",
+    "first_future_sha256": "63adbdac7ef231292fc702fafa3a01c74a326596a85c07c7fcbc6244489287c0",
+    "substituted_future_sha256": "b5bcb0c97a2466c064b870b07335a97cde7707ec14532880fcf071bd28594958",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "000174a62b7319a3bff76d21ba04e711977f0f79514bb672f63838322b3c4018"
+  },
+  {
+    "episode": "hp1_development_05/transfer/intact/0",
+    "first_future_sha256": "4d95f503998c52111897af7d61f840d0632da8f4b0367e292d836a616f12a707",
+    "substituted_future_sha256": "a6de8d4aea66446aa29bd9dbd41c14205c202e6b351371d1969816b9c6d93d55",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "c190dfa12d2e69c9158e976b856a08faa43764030b76091d55b8590266775e0a"
+  },
+  {
+    "episode": "hp1_development_06/basic/intact/0",
+    "first_future_sha256": "c6cb6d45a36b4a78e60e1e1387d778a5befdb4a90a26d04f2ea5d541753ffc5e",
+    "substituted_future_sha256": "a633ec21482536043081f4423cd656c910b526c63a17433530c032197ce38793",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "227428bf08b8cc6a8068e198cfb4abadd1979e50c1bd09f9be4debb0483a8230"
+  },
+  {
+    "episode": "hp1_development_06/transfer/intact/0",
+    "first_future_sha256": "02c8183b390c468e6dc50aa16288bdf89363bfb7ad253d52b94520a9e9d70993",
+    "substituted_future_sha256": "206b6785b9136fca31e0aac0977835703394ea9829f3e8d09b46bffcebf427cb",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "3bfa21b9bc18f32731703a299a36b8989815f72d2a655fd2c3ed4a09641938a7"
+  },
+  {
+    "episode": "hp1_development_07/basic/intact/0",
+    "first_future_sha256": "86f4a5958ddc91eab8b5568024de0668f4413fa291a134633430ccffe7690edb",
+    "substituted_future_sha256": "0423ec02db2459fff4fa6f3c65f2298cb71f72a063ed6c1b289b84e895ae429d",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "0c6ab1e80857b6b9965a6ffcb6dbffbde5a66bf80e302505706f3de1259fe1f8"
+  },
+  {
+    "episode": "hp1_development_07/transfer/intact/0",
+    "first_future_sha256": "a0981dea8feb02ed50e0cc60a0ca57d0f9da96abb6e6902b2a3d1ce0f7a10f11",
+    "substituted_future_sha256": "c64c645c4f9094a485163ebadcdb59fc21583692224542834c55207f6107978a",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "1427976cd3b64d6cdaf73d7b0e5019ea92c87c2cada95c7920b622cda4bb254c"
+  }
+]
