@@ -37,3 +37,9 @@ Adding the `earworm-review-ready` label is the readiness signal. Success require
 Before posting, check prior reviews and discussion for a durable completed-review marker for that exact head SHA. This request is NOT such a marker: no scientific review has been completed by creating it. Preserve the task's deduplication and no-merge/no-code-change/no-experiment/no-spending boundaries. Do not treat a recommendation as permission for the worker to start the next experiment.
 
 If the trigger does not run, report the test as unverified; do not replace it with polling or pretend a manual review proves event delivery. Leave this branch and pull request unmerged for inspection.
+
+## Worker handoff test — 2026-09-19T08:35:19Z
+
+The experiment artifacts remain unchanged. This commit appends only this worker handoff test note.
+
+The reviewer must resolve PR #2's current head SHA from GitHub at review time and identify that exact revision in any review, rather than relying on an earlier SHA in the request. This note is not a completed review and does not authorize another experiment or spending.
