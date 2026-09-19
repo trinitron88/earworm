@@ -1,0 +1,175 @@
+{
+  "instruction_id": "earworm-e05-e21-matched-pair-v1",
+  "instruction_comment_id": 5743879321,
+  "reviewed_snapshot": "3da31dacd1abda91a37a8a8cb5d9c200335ea3f6",
+  "base_merge": "f463c0673035bdf4b0b20bdb715d5442b398ddb4",
+  "original_execution_git_revision": null,
+  "original_inputs": [
+    {
+      "path": "work/accounts_results/development_pairs.json",
+      "sha256": "d2e6384819902ca8b17e50088cfc39fe35d9bdbb416d30ac8cd07d0da1a26458",
+      "bytes": 13869835
+    },
+    {
+      "path": "work/accounts_results/held_out_pairs.json",
+      "sha256": "1185d51b2492bb8c01e50a13233a412e63d84f665c369b60f1556c0ae3de015a",
+      "bytes": 33798721
+    },
+    {
+      "path": "work/accounts_results/frozen_config.json",
+      "sha256": "da372bb83193c9b4377736765498d7bdef7e875dd5b2a17cd111ce43fb398378",
+      "bytes": 2725
+    },
+    {
+      "path": "work/accounts_results/protocol.json",
+      "sha256": "851456e8fd9a2e84b20eb4f0c39840b441d7569897dbe794339374f8abe772da",
+      "bytes": 6197
+    },
+    {
+      "path": "work/accounts_features/e05_distractor_0.npz",
+      "sha256": "1d71547df503e74bb6fc7037e74fae9b80a43f35d5957708220ef526ced91453",
+      "bytes": 9559
+    },
+    {
+      "path": "work/accounts_features/e05_distractor_1.npz",
+      "sha256": "0abb0bc5b4c8dff54d05a63be7be6ac67cfecd347d615d4ceb40e2b3001d57fe",
+      "bytes": 9573
+    },
+    {
+      "path": "work/accounts_features/e05_query_a_delete_closed.npz",
+      "sha256": "57220439d0845f5593399cbb107ee81ae55e21eeb846015b607e1732efb851fa",
+      "bytes": 9185
+    },
+    {
+      "path": "work/accounts_features/e05_query_b_delete_closed.npz",
+      "sha256": "800134d5350a3fa051ccb030eddfe2f193e8aee2cd3b966c0ac9d910057c0da0",
+      "bytes": 9196
+    },
+    {
+      "path": "work/accounts_features/e05_reference_a.npz",
+      "sha256": "480a9026e709fe99b0ee17292fdf322272707bf289fd6daf39554c6468ce0916",
+      "bytes": 9554
+    },
+    {
+      "path": "work/accounts_features/e05_reference_b.npz",
+      "sha256": "b84aa5439393505a59cafea867fe9ad32cf921fc7c53dd6205b933614ad56802",
+      "bytes": 9568
+    },
+    {
+      "path": "work/accounts_features/e21_distractor_1.npz",
+      "sha256": "40db525495cae922c24b21e6bac566f82b3391af93e9487116b66f81667823f1",
+      "bytes": 9318
+    },
+    {
+      "path": "work/accounts_features/e21_distractor_3.npz",
+      "sha256": "afa6a9badb1062a4e8a26be1bc0174c1de93b13aa401ac8410c85ecea47fd4ad",
+      "bytes": 9313
+    },
+    {
+      "path": "work/accounts_features/e21_query_a_delete_closed.npz",
+      "sha256": "4aa7c12c3e236b78967213ebf22190d2e3ff827e4b769bf9fca75e3246eb55c5",
+      "bytes": 8979
+    },
+    {
+      "path": "work/accounts_features/e21_query_b_delete_closed.npz",
+      "sha256": "3f89e6ce3316a0b1e25f83a1a6c53c7d30ff3db2477a34377a7944e8834cafef",
+      "bytes": 8976
+    },
+    {
+      "path": "work/accounts_features/e21_reference_a.npz",
+      "sha256": "8be93fcff183b4ef8f2ed500c67d94e8fdbd737e044e981ad408bf6d0857f4f2",
+      "bytes": 9312
+    },
+    {
+      "path": "work/accounts_features/e21_reference_b.npz",
+      "sha256": "2298badb3829ea61e669417a94b375bba5e69db456d331c281c3ad9e51e50ea9",
+      "bytes": 9321
+    },
+    {
+      "path": "work/accounts_features/timings.json",
+      "sha256": "07331eb8a485b571d02397573cc91bca26ed176117038c47923b965ef712eab8",
+      "bytes": 489915
+    }
+  ],
+  "frozen_source_sha256": {
+    "accounts_stimuli.py": "d141a6fbcb39a921765739ad64da8440f34743727c484672afec841794079820",
+    "accounts_reader.py": "783e1dc1968d553c83706dcc412f648fcb21f74a91c407c235d1f3a7fe037a88",
+    "accounts_experiment.py": "3e33ceef4f2b64ee5ff1206b869476a47bde1ff96504037a9f616d2fbbf30b59",
+    "remember_changes_acoustics.py": "33cb2b5881375374e4da6f45723be0ca117aa1674b8d41fccf8da9ecd7533ca4",
+    "confidence_reader.py": "4ee1788958ec092fbe0f3ff0a808ebb476cd5ef23758a8295918e47cc54ec4b5",
+    "incomplete_matcher.py": "e7e92d0b7128da018c65616b04a8d965ca77ad0ec5673414550bf6b64a14c7ae"
+  },
+  "original_description_digest_checks": [
+    {
+      "block_id": "e05_distractor_0",
+      "saved_description_digest": "9f8fe7c36229df3900af728719a3c178049ea74a6b3e2e36aca7bd058e9fd69a",
+      "matched_original_timing_record": true
+    },
+    {
+      "block_id": "e05_distractor_1",
+      "saved_description_digest": "285118d6bd30a6b63bd92fd91a4e988da329d12b8482b05ecdc158abd736a079",
+      "matched_original_timing_record": true
+    },
+    {
+      "block_id": "e05_query_a_delete_closed",
+      "saved_description_digest": "8f058a10333ab928699eb32743e53ff19a0687e8ded2078d59df7e2f29ac4667",
+      "matched_original_timing_record": true
+    },
+    {
+      "block_id": "e05_query_b_delete_closed",
+      "saved_description_digest": "d2c711377995a33d3b7d79cddc7323733cd9cd487f843e7c753e112ede911172",
+      "matched_original_timing_record": true
+    },
+    {
+      "block_id": "e05_reference_a",
+      "saved_description_digest": "f97568f63fbcd70ab3b553aef27133519cd5be77edc7a3e92428ebdeadb529e5",
+      "matched_original_timing_record": true
+    },
+    {
+      "block_id": "e05_reference_b",
+      "saved_description_digest": "a5f9735dc0ef29c2425bab5d0b8a6389834c47a97bfe5c24b3c1e2ecf8b40f39",
+      "matched_original_timing_record": true
+    },
+    {
+      "block_id": "e21_distractor_1",
+      "saved_description_digest": "54311b4e0d2e734a3882717e9ec22d9d48d150c59656b93efc4b940cba336387",
+      "matched_original_timing_record": true
+    },
+    {
+      "block_id": "e21_distractor_3",
+      "saved_description_digest": "dc3c9a881b1984b72c1fa143ddfd84f0c32c94d1b3d267e962f9cc41bbaf9e13",
+      "matched_original_timing_record": true
+    },
+    {
+      "block_id": "e21_query_a_delete_closed",
+      "saved_description_digest": "aeed9892fb307b0c21d665d1e47723465902b993afe941e4e7c8590ba97bac71",
+      "matched_original_timing_record": true
+    },
+    {
+      "block_id": "e21_query_b_delete_closed",
+      "saved_description_digest": "83db95b09d570eae50d127e3247a23b7ef27b85ab9d0771f4cbe509de55bc311",
+      "matched_original_timing_record": true
+    },
+    {
+      "block_id": "e21_reference_a",
+      "saved_description_digest": "b7f646064f6085e023c2230e5d7c2388e10639008a07e090e53c5b0f3841a168",
+      "matched_original_timing_record": true
+    },
+    {
+      "block_id": "e21_reference_b",
+      "saved_description_digest": "29f9552da13df449fd203694c71db5fe90a53163a10d318249a763062a7245e4",
+      "matched_original_timing_record": true
+    }
+  ],
+  "prior_compact_export": {
+    "path": "review/experiment08/calibration-audit/completion-20260919/candidate_evidence.jsonl",
+    "sha256": "805a3a5c9f39144387ce5c3d4b712dd15955efa62e906791bf4d19583367b637"
+  },
+  "selected_export": {
+    "path": "saved_inputs.json",
+    "sha256": "bb10c8c08ed471cfa5cdff7922deb00adf9e4b9e627635b9be759cc247a2bc42",
+    "bytes": 146553
+  },
+  "method": "Exact selection of existing pair evidence, retained paths, and typed acoustic-description arrays; no acoustic extraction, alignment search, training, or regeneration.",
+  "hash_timing": "Local input hashes identify the files used now; they are not newly asserted pre-run commitments. Full cached-description digests also match original extraction timing records."
+}

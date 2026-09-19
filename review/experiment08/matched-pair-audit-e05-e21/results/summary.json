@@ -1,0 +1,188 @@
+{
+  "queries": [
+    {
+      "query_id": "e05_query_a_delete_closed",
+      "split": "calibration",
+      "true_reference": "e05_reference_a",
+      "true_score": 3.626412776084819,
+      "true_margin": -3.441517417712703e-07,
+      "absent_max_ids": "e05_distractor_0",
+      "absent_max_score": 3.6264132224483037,
+      "absent_margin": 1.02211743069347e-07,
+      "true_minus_absent_max": -4.463634848406173e-07,
+      "present_distractor_max_ids": "e05_distractor_0",
+      "present_distractor_max_score": 3.6264132224483037,
+      "absent_and_present_impostor_same": true,
+      "true_impostor_gap_within_prior_1e_9_ranking_tolerance": false,
+      "accepted_present": "e05_distractor_0",
+      "accepted_absent": "e05_distractor_0",
+      "correct_singleton": false,
+      "selection": {
+        "absent_exact_maxima": [
+          "e05_distractor_0"
+        ],
+        "absent_within_1e_9_of_max": [
+          "e05_distractor_0"
+        ],
+        "present_distractor_exact_maxima": [
+          "e05_distractor_0"
+        ],
+        "present_distractor_within_1e_9_of_max": [
+          "e05_distractor_0"
+        ]
+      },
+      "feature_gap_comparisons": [
+        {
+          "impostor_id": "e05_distractor_0",
+          "direct_score_gap": -4.463634848406173e-07,
+          "sum_feature_gap_contributions": -4.4636348411735913e-07,
+          "absolute_roundoff_discrepancy": 7.232581402543976e-16,
+          "nonzero_feature_differences": [
+            "cost",
+            "mean_timing_loss"
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "e05_query_b_delete_closed",
+      "split": "calibration",
+      "true_reference": "e05_reference_b",
+      "true_score": 3.6264131202365606,
+      "true_margin": 0.0,
+      "absent_max_ids": "e05_distractor_1",
+      "absent_max_score": 3.626413120118378,
+      "absent_margin": -1.1818279688213806e-10,
+      "true_minus_absent_max": 1.1818279688213806e-10,
+      "present_distractor_max_ids": "e05_distractor_1",
+      "present_distractor_max_score": 3.626413120118378,
+      "absent_and_present_impostor_same": true,
+      "true_impostor_gap_within_prior_1e_9_ranking_tolerance": true,
+      "accepted_present": "e05_reference_b",
+      "accepted_absent": "",
+      "correct_singleton": true,
+      "selection": {
+        "absent_exact_maxima": [
+          "e05_distractor_1"
+        ],
+        "absent_within_1e_9_of_max": [
+          "e05_distractor_1"
+        ],
+        "present_distractor_exact_maxima": [
+          "e05_distractor_1"
+        ],
+        "present_distractor_within_1e_9_of_max": [
+          "e05_distractor_1"
+        ]
+      },
+      "feature_gap_comparisons": [
+        {
+          "impostor_id": "e05_distractor_1",
+          "direct_score_gap": 1.1818279688213806e-10,
+          "sum_feature_gap_contributions": 1.1818370631703714e-10,
+          "absolute_roundoff_discrepancy": 9.094348990746758e-16,
+          "nonzero_feature_differences": [
+            "cost",
+            "mean_timing_loss"
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "e21_query_a_delete_closed",
+      "split": "held_out",
+      "true_reference": "e21_reference_a",
+      "true_score": 3.626412736448162,
+      "true_margin": -3.8378839839481316e-07,
+      "absent_max_ids": "e21_distractor_3",
+      "absent_max_score": 3.6264118440845605,
+      "absent_margin": -1.2761520000736937e-06,
+      "true_minus_absent_max": 8.923636016788805e-07,
+      "present_distractor_max_ids": "e21_distractor_3",
+      "present_distractor_max_score": 3.6264118440845605,
+      "absent_and_present_impostor_same": true,
+      "true_impostor_gap_within_prior_1e_9_ranking_tolerance": false,
+      "accepted_present": "",
+      "accepted_absent": "",
+      "correct_singleton": false,
+      "selection": {
+        "absent_exact_maxima": [
+          "e21_distractor_3"
+        ],
+        "absent_within_1e_9_of_max": [
+          "e21_distractor_3"
+        ],
+        "present_distractor_exact_maxima": [
+          "e21_distractor_3"
+        ],
+        "present_distractor_within_1e_9_of_max": [
+          "e21_distractor_3"
+        ]
+      },
+      "feature_gap_comparisons": [
+        {
+          "impostor_id": "e21_distractor_3",
+          "direct_score_gap": 8.923636016788805e-07,
+          "sum_feature_gap_contributions": 8.923636037572002e-07,
+          "absolute_roundoff_discrepancy": 2.0783196381734355e-15,
+          "nonzero_feature_differences": [
+            "cost",
+            "mean_timing_loss"
+          ]
+        }
+      ]
+    },
+    {
+      "query_id": "e21_query_b_delete_closed",
+      "split": "held_out",
+      "true_reference": "e21_reference_b",
+      "true_score": 3.6264122287574763,
+      "true_margin": -8.914790843306264e-07,
+      "absent_max_ids": "e21_distractor_1",
+      "absent_max_score": -1.045169196021451,
+      "absent_margin": -4.671582316258012,
+      "true_minus_absent_max": 4.671581424778927,
+      "present_distractor_max_ids": "e21_distractor_1",
+      "present_distractor_max_score": -1.045169196021451,
+      "absent_and_present_impostor_same": true,
+      "true_impostor_gap_within_prior_1e_9_ranking_tolerance": false,
+      "accepted_present": "",
+      "accepted_absent": "",
+      "correct_singleton": false,
+      "selection": {
+        "absent_exact_maxima": [
+          "e21_distractor_1"
+        ],
+        "absent_within_1e_9_of_max": [
+          "e21_distractor_1"
+        ],
+        "present_distractor_exact_maxima": [
+          "e21_distractor_1"
+        ],
+        "present_distractor_within_1e_9_of_max": [
+          "e21_distractor_1"
+        ]
+      },
+      "feature_gap_comparisons": [
+        {
+          "impostor_id": "e21_distractor_1",
+          "direct_score_gap": 4.671581424778927,
+          "sum_feature_gap_contributions": 4.671581424778927,
+          "absolute_roundoff_discrepancy": 0.0,
+          "nonzero_feature_differences": [
+            "cost",
+            "matched_log",
+            "reference_coverage",
+            "query_coverage",
+            "mean_timing_loss",
+            "missing_fraction",
+            "inserted_fraction"
+          ]
+        }
+      ]
+    }
+  ],
+  "frozen_threshold": 3.6264131202365606,
+  "interpretation": "Four selected post-hoc cases. Exact equality defines maximum ties; a separate 1e-9 list matches the prior ranking tolerance. Operational acceptance remains exact >= threshold.",
+  "energy_rule": "Apply the original expected-position RMS rule to saved query frames; locations are alignment hypotheses, energy is measured, physical cause remains unidentified. No energy feature directly enters the frozen support vector."
+}

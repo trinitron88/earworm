@@ -1,0 +1,13 @@
+{
+  "prior_query_scores_and_margins_exactly_reconciled": 4,
+  "query_metadata_and_histories_exact": true,
+  "selected_evidence_features_equal_compact_export": true,
+  "all_maxima_and_near_ties_reconciled": true,
+  "saved_residuals_max_abs_reconstruction_error": 0.0,
+  "saved_losses_max_abs_reconstruction_error": 0.0,
+  "feature_gap_sum_max_abs_roundoff_difference": 2.0783196381734355e-15,
+  "scalar_support_max_abs_difference": 1.7763568394002505e-15,
+  "floating_point_check_tolerance": 1e-12,
+  "operational_threshold_unchanged": true,
+  "original_pipeline_executed": false
+}
