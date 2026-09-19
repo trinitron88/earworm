@@ -1,0 +1,55 @@
+{
+  "repository": "trinitron88/earworm",
+  "inspected_commit": "44349be60642d25ea206b05831a98c362234a25f",
+  "base_tree_sha": "7cae840f6b5b48df0402ef18b54b8878df009d65",
+  "original_execution_commit": null,
+  "original_execution_provenance": "Frozen source SHA-256 values in unchanged work/accounts_results/protocol.json.",
+  "handoff_url": "https://github.com/trinitron88/earworm/pull/2#issuecomment-5740577316",
+  "review_url": "https://github.com/trinitron88/earworm/pull/2#pullrequestreview-5255130712",
+  "inputs": [
+    {
+      "path": "PROJECT_STATE.md",
+      "git_blob_sha": "b7450e54ec5c4aeda180a5f5a406eed7fbf8e10b"
+    },
+    {
+      "path": "work/accounts_results/frozen_config.json",
+      "git_blob_sha": "06128c8d6bb32791df55c343542ccd3885c28b9b"
+    },
+    {
+      "path": "work/accounts_results/protocol.json",
+      "git_blob_sha": "048b916febdb65455165a45f3123105f8eb13bfb"
+    },
+    {
+      "path": "work/accounts_results/summary.json",
+      "git_blob_sha": "3ffa94a45e8319bdd587a71d8af83303589587ab"
+    },
+    {
+      "path": "work/accounts_results/posthoc_diagnostics.json",
+      "git_blob_sha": "c1bd5c75d6d3f448c95d5e10f42f4b41cfaa8593"
+    },
+    {
+      "path": "work/accounts_experiment.py",
+      "git_blob_sha": "8e9efea9d02314a0a7577bb0c923294b0a98a0b2"
+    },
+    {
+      "path": "work/accounts_reader.py",
+      "git_blob_sha": "4afedc261a4ac526a316cee3b0c971596a6df8be"
+    },
+    {
+      "path": "review/experiment08/primary_trials.csv",
+      "git_blob_sha": "55b1f6e86db9a45c0a207f6e4ca6866335c98dad"
+    },
+    {
+      "path": "review/experiment08/report_examples.json",
+      "git_blob_sha": "99a2b4cd92959f7d7bcd65994b111e87802bd33d"
+    },
+    {
+      "path": "REVIEW_SNAPSHOT_MANIFEST.json",
+      "git_blob_sha": "209980ba906454ebcde119a81a00a9eadc2b92be"
+    },
+    {
+      "path": "SHA256SUMS",
+      "git_blob_sha": "9474da8a0a197a73e69a9afe466a6ff8a8862839"
+    }
+  ]
+}

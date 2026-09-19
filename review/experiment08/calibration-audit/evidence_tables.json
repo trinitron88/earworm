@@ -1,0 +1,292 @@
+{
+  "status": "blocked_missing_saved_pairs",
+  "inspected_commit": "44349be60642d25ea206b05831a98c362234a25f",
+  "fixed_threshold": 3.6264131202365606,
+  "calibration_only_sensitivity": {
+    "status": "not_computed",
+    "groups": [
+      "e04",
+      "e05",
+      "e06",
+      "e07"
+    ],
+    "reason": "Per-query calibration candidate scores/evidence unavailable. Aggregate 37 correct / 1 false acceptance out of 120 is insufficient."
+  },
+  "frozen_calibration_summary": {
+    "threshold": 3.6264131202365606,
+    "correct_singletons": 37,
+    "false_acceptances": 1,
+    "positive_n": 120,
+    "negative_n": 120
+  },
+  "held_out_margin_comparison": {
+    "status": "not_computed",
+    "reason": "Complete true-source and absent-history candidate scores unavailable."
+  },
+  "missing_inputs": [
+    {
+      "path": "work/accounts_results/development_pairs.json",
+      "purpose": "Calibration candidate evidence/scores for e04-e07. Needed for leave-one-calibration-group-out threshold sensitivity.",
+      "present_in_inspected_tree": false,
+      "present_in_local_root": false
+    },
+    {
+      "path": "work/accounts_results/held_out_pairs.json",
+      "purpose": "Held-out candidate evidence/scores. Needed for true-source and maximum absent-history margins for 576 queries.",
+      "present_in_inspected_tree": false,
+      "present_in_local_root": false
+    }
+  ],
+  "primary_csv_headers": [
+    "query_id",
+    "group_id",
+    "length",
+    "stage",
+    "family",
+    "source",
+    "delay_s",
+    "mode",
+    "method",
+    "accepted_present",
+    "accepted_absent",
+    "correct_singleton",
+    "source_covered",
+    "absent_false_accept",
+    "joint_best",
+    "joint_account_set"
+  ],
+  "primary_csv_rows": 2304,
+  "primary_unique_queries": 576,
+  "methods": {
+    "accounts": {
+      "n": 576,
+      "correct_singletons": 164,
+      "absent_false_accept": 0,
+      "joint_best": 156
+    },
+    "old07": {
+      "n": 576,
+      "correct_singletons": 198,
+      "absent_false_accept": 0,
+      "joint_best": null
+    },
+    "count": {
+      "n": 576,
+      "correct_singletons": 0,
+      "absent_false_accept": 0,
+      "joint_best": null
+    },
+    "envelope": {
+      "n": 576,
+      "correct_singletons": 38,
+      "absent_false_accept": 40,
+      "joint_best": null
+    }
+  },
+  "lengths": {
+    "4": {
+      "n": 144,
+      "correct_singletons": 32,
+      "absent_false_accept": 0,
+      "joint_best": 32
+    },
+    "6": {
+      "n": 144,
+      "correct_singletons": 68,
+      "absent_false_accept": 0,
+      "joint_best": 60
+    },
+    "8": {
+      "n": 144,
+      "correct_singletons": 32,
+      "absent_false_accept": 0,
+      "joint_best": 32
+    },
+    "10": {
+      "n": 144,
+      "correct_singletons": 32,
+      "absent_false_accept": 0,
+      "joint_best": 32
+    }
+  },
+  "families": {
+    "exact": {
+      "n": 32,
+      "correct_singletons": 32,
+      "absent_false_accept": 0,
+      "joint_best": 32,
+      "unique_top_score_true": 32
+    },
+    "transpose": {
+      "n": 32,
+      "correct_singletons": 32,
+      "absent_false_accept": 0,
+      "joint_best": 32,
+      "unique_top_score_true": 32
+    },
+    "detune": {
+      "n": 32,
+      "correct_singletons": 0,
+      "absent_false_accept": 0,
+      "joint_best": 0,
+      "unique_top_score_true": 32
+    },
+    "timing": {
+      "n": 32,
+      "correct_singletons": 32,
+      "absent_false_accept": 0,
+      "joint_best": 32,
+      "unique_top_score_true": 32
+    },
+    "delete_rest": {
+      "n": 32,
+      "correct_singletons": 8,
+      "absent_false_accept": 0,
+      "joint_best": 8,
+      "unique_top_score_true": 32
+    },
+    "delete_closed": {
+      "n": 32,
+      "correct_singletons": 4,
+      "absent_false_accept": 0,
+      "joint_best": 4,
+      "unique_top_score_true": 28
+    },
+    "delete_two": {
+      "n": 32,
+      "correct_singletons": 0,
+      "absent_false_accept": 0,
+      "joint_best": 0,
+      "unique_top_score_true": 24
+    },
+    "substitute": {
+      "n": 32,
+      "correct_singletons": 0,
+      "absent_false_accept": 0,
+      "joint_best": 0,
+      "unique_top_score_true": 32
+    },
+    "insert": {
+      "n": 32,
+      "correct_singletons": 0,
+      "absent_false_accept": 0,
+      "joint_best": 0,
+      "unique_top_score_true": 32
+    },
+    "delete_insert": {
+      "n": 32,
+      "correct_singletons": 0,
+      "absent_false_accept": 0,
+      "joint_best": 0,
+      "unique_top_score_true": 32
+    },
+    "weak_present": {
+      "n": 32,
+      "correct_singletons": 8,
+      "absent_false_accept": 0,
+      "joint_best": 0,
+      "unique_top_score_true": 32
+    },
+    "mask_present": {
+      "n": 32,
+      "correct_singletons": 0,
+      "absent_false_accept": 0,
+      "joint_best": 0,
+      "unique_top_score_true": 32
+    },
+    "mask_absent": {
+      "n": 32,
+      "correct_singletons": 0,
+      "absent_false_accept": 0,
+      "joint_best": 0,
+      "unique_top_score_true": 32
+    },
+    "merged": {
+      "n": 32,
+      "correct_singletons": 0,
+      "absent_false_accept": 0,
+      "joint_best": 0,
+      "unique_top_score_true": 21
+    },
+    "legitimate_rest": {
+      "n": 32,
+      "correct_singletons": 32,
+      "absent_false_accept": 0,
+      "joint_best": 32,
+      "unique_top_score_true": 32
+    },
+    "delete_transpose": {
+      "n": 32,
+      "correct_singletons": 8,
+      "absent_false_accept": 0,
+      "joint_best": 8,
+      "unique_top_score_true": 32
+    },
+    "delete_timing": {
+      "n": 32,
+      "correct_singletons": 8,
+      "absent_false_accept": 0,
+      "joint_best": 8,
+      "unique_top_score_true": 32
+    },
+    "delete_detune": {
+      "n": 32,
+      "correct_singletons": 0,
+      "absent_false_accept": 0,
+      "joint_best": 0,
+      "unique_top_score_true": 32
+    }
+  },
+  "unique_top_total_reported": 553,
+  "published_example_margins": [
+    {
+      "query_id": "e09_query_a_delete_rest",
+      "group_id": "e09",
+      "length": 6,
+      "family": "delete_rest",
+      "saved_true_source_support_logit": 3.6266266302486665,
+      "fixed_threshold": 3.6264131202365606,
+      "saved_true_source_margin": 0.0002135100121058997,
+      "maximum_absent_history_score": null,
+      "absent_history_margin": null,
+      "availability": "Accepted example only; no absent-history candidate scores"
+    },
+    {
+      "query_id": "e09_query_a_weak_present",
+      "group_id": "e09",
+      "length": 6,
+      "family": "weak_present",
+      "saved_true_source_support_logit": 3.6266266302486665,
+      "fixed_threshold": 3.6264131202365606,
+      "saved_true_source_margin": 0.0002135100121058997,
+      "maximum_absent_history_score": null,
+      "absent_history_margin": null,
+      "availability": "Accepted example only; no absent-history candidate scores"
+    },
+    {
+      "query_id": "e09_query_a_mask_present",
+      "group_id": "e09",
+      "length": 6,
+      "family": "mask_present",
+      "saved_true_source_support_logit": null,
+      "fixed_threshold": 3.6264131202365606,
+      "saved_true_source_margin": null,
+      "maximum_absent_history_score": null,
+      "absent_history_margin": null,
+      "availability": "Rejected example; no emitted support logit. Saved true-reference features are outside this partial calculation."
+    },
+    {
+      "query_id": "e09_query_a_delete_detune",
+      "group_id": "e09",
+      "length": 6,
+      "family": "delete_detune",
+      "saved_true_source_support_logit": null,
+      "fixed_threshold": 3.6264131202365606,
+      "saved_true_source_margin": null,
+      "maximum_absent_history_score": null,
+      "absent_history_margin": null,
+      "availability": "Rejected example; no emitted support logit. Saved true-reference features are outside this partial calculation."
+    }
+  ],
+  "scope": "Deterministic saved-artifact checks and arithmetic only. No fitting, threshold replacement, audio generation/extraction, experiment execution, or confirmatory claims."
+}

@@ -1,0 +1,38 @@
+{
+  "status": "awaiting-review",
+  "audit_status": "blocked_missing_saved_pairs",
+  "repository": "trinitron88/earworm",
+  "pull_request_number": 2,
+  "operational_instruction_channel": "https://github.com/trinitron88/earworm/pull/2",
+  "branch": "review/experiment08-trigger-test-20260919",
+  "parent_snapshot": "44349be60642d25ea206b05831a98c362234a25f",
+  "publication_snapshot": "The commit containing this checkpoint; resolve its SHA from PR #2 or git log.",
+  "report": "review/experiment08/calibration-audit/REPORT.md",
+  "script": "review/experiment08/calibration-audit/check_saved_evidence.mjs",
+  "tables": "review/experiment08/calibration-audit/evidence_tables.json",
+  "missing_inputs": [
+    "work/accounts_results/development_pairs.json",
+    "work/accounts_results/held_out_pairs.json"
+  ],
+  "completed": [
+    "Read the updated PM handoff and checked the live PR head and accessible existing work",
+    "Verified saved decision aggregates, selected existing margins, and input identities",
+    "Prepared a blocker report and one complete publication snapshot"
+  ],
+  "not_completed": [
+    "Full true-source versus maximum absent-history score-margin comparison",
+    "Leave-one-calibration-group-out threshold sensitivity"
+  ],
+  "next_action_proposed_only": "Original worker exports already saved candidate evidence/scores with identifiers and source hashes; if unavailable, retain blocker.",
+  "seen_instructions": [
+    {"id": 5255130712, "kind": "review", "target_sha": "44349be60642d25ea206b05831a98c362234a25f", "status": "Read; requested full audit blocked by missing inputs"},
+    {"id": 5740577316, "kind": "PM comment", "updated_at": "2026-09-19T08:49:26Z", "status": "Read; authorized blocker handoff prepared for publication"},
+    {"id": 5740638506, "kind": "local-poll setup request", "updated_at": "2026-09-19T09:01:03Z", "status": "Seen only; installation and verification not performed here"}
+  ],
+  "worker_poll_status": "requested_but_not_verified",
+  "reviewer_task_status": "Existing task unchanged; no duplicate created",
+  "external_review": "No review can yet be associated with this new commit at preparation time. Any immediately available review will be recorded after publication without another commit or automatic execution.",
+  "stop_condition": "Publish once to the existing PR branch, check once for an already available review, then stop. No polling or execution of recommendations.",
+  "frozen_model_and_threshold_unchanged": true,
+  "original_experiment_artifacts_unchanged": true
+}

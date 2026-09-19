@@ -1,0 +1,72 @@
+{
+  "repository": "trinitron88/earworm",
+  "inspected_commit": "44349be60642d25ea206b05831a98c362234a25f",
+  "inputs": [
+    {
+      "path": "PROJECT_STATE.md",
+      "git_blob_sha": "b7450e54ec5c4aeda180a5f5a406eed7fbf8e10b",
+      "sha256": "46f02d276a79ce7df92304c7c8ba4e863e41cc0375ba977540cb3fef850ca81a",
+      "bytes": 11236
+    },
+    {
+      "path": "work/accounts_results/frozen_config.json",
+      "git_blob_sha": "06128c8d6bb32791df55c343542ccd3885c28b9b",
+      "sha256": "da372bb83193c9b4377736765498d7bdef7e875dd5b2a17cd111ce43fb398378",
+      "bytes": 2725
+    },
+    {
+      "path": "work/accounts_results/protocol.json",
+      "git_blob_sha": "048b916febdb65455165a45f3123105f8eb13bfb",
+      "sha256": "851456e8fd9a2e84b20eb4f0c39840b441d7569897dbe794339374f8abe772da",
+      "bytes": 6197
+    },
+    {
+      "path": "work/accounts_results/summary.json",
+      "git_blob_sha": "3ffa94a45e8319bdd587a71d8af83303589587ab",
+      "sha256": "3e4f6e7343b1b3995d05c3b9a42f3f23ba33653f8c350966de287c8efa9a444d",
+      "bytes": 12190
+    },
+    {
+      "path": "work/accounts_results/posthoc_diagnostics.json",
+      "git_blob_sha": "c1bd5c75d6d3f448c95d5e10f42f4b41cfaa8593",
+      "sha256": "d9253c1af9ab9d84685067708e4e7957b1add25f276a24d043b2d695437c2bdf",
+      "bytes": 4435
+    },
+    {
+      "path": "work/accounts_experiment.py",
+      "git_blob_sha": "8e9efea9d02314a0a7577bb0c923294b0a98a0b2",
+      "sha256": "3e33ceef4f2b64ee5ff1206b869476a47bde1ff96504037a9f616d2fbbf30b59",
+      "bytes": 26135
+    },
+    {
+      "path": "work/accounts_reader.py",
+      "git_blob_sha": "4afedc261a4ac526a316cee3b0c971596a6df8be",
+      "sha256": "783e1dc1968d553c83706dcc412f648fcb21f74a91c407c235d1f3a7fe037a88",
+      "bytes": 8679
+    },
+    {
+      "path": "review/experiment08/primary_trials.csv",
+      "git_blob_sha": "55b1f6e86db9a45c0a207f6e4ca6866335c98dad",
+      "sha256": "c445f44486af7a4fd484a38edfd41763452ef69ff745dc91c959a24ac2a1d51c",
+      "bytes": 230530
+    },
+    {
+      "path": "review/experiment08/report_examples.json",
+      "git_blob_sha": "99a2b4cd92959f7d7bcd65994b111e87802bd33d",
+      "sha256": "63a2eb79e7fe8033b215f4566a3d5304e9781afae1ecc798bf17a6feb310fa98",
+      "bytes": 23165
+    },
+    {
+      "path": "REVIEW_SNAPSHOT_MANIFEST.json",
+      "git_blob_sha": "209980ba906454ebcde119a81a00a9eadc2b92be",
+      "sha256": "d165a91c2bf584bcfaf135f65ebf01028d640928ee9d957785ef9037ba36bd97",
+      "bytes": 10958
+    },
+    {
+      "path": "SHA256SUMS",
+      "git_blob_sha": "9474da8a0a197a73e69a9afe466a6ff8a8862839",
+      "sha256": "098fb3f50ab71d91991d115fd7f42384fda701d68e55aea060be98dcd6681a39",
+      "bytes": 3669
+    }
+  ]
+}

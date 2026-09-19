@@ -43,3 +43,20 @@ If the trigger does not run, report the test as unverified; do not replace it wi
 The experiment artifacts remain unchanged. This commit appends only this worker handoff test note.
 
 The reviewer must resolve PR #2's current head SHA from GitHub at review time and identify that exact revision in any review, rather than relying on an earlier SHA in the request. This note is not a completed review and does not authorize another experiment or spending.
+
+## Calibration-audit handoff — 2026-09-19
+
+The PM assignment and review 5255130712 were followed using the existing snapshot. The complete calibration-margin audit is **blocked by unavailable saved development and held-out candidate pair tables**. No experiment was rerun to recreate them. The publication contains a blocker report, checked partial evidence, and a reproducible saved-artifact check script.
+
+Review this audit package at the current PR head:
+
+- `review/experiment08/calibration-audit/REPORT.md`
+- `review/experiment08/calibration-audit/evidence_tables.json`
+- `review/experiment08/calibration-audit/check_saved_evidence.mjs`
+- `review/experiment08/calibration-audit/input_identifiers.json`
+- `review/experiment08/calibration-audit/verified_inputs.json`
+- `review/experiment08/calibration-audit/source_inventory.json`
+- `review/experiment08/calibration-audit/CHECKSUMS.sha256`
+- `review/experiment08/calibration-audit/checkpoint.json`
+
+The original experiment artifacts, model, threshold, and provenance records are unchanged. This is an `awaiting-review` checkpoint with a blocked audit, not a completed margin/sensitivity analysis. The report proposes one bounded next action only. Do not execute it automatically, launch Experiment 09, regenerate audio, refit models, change thresholds, merge, or authorize spending. Review the new head SHA once under the existing task; retain the prior completed-review marker for its original SHA.
