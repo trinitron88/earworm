@@ -1,0 +1,4 @@
+left,right,difference,lower95,upper95
+acoustic/candidate,acoustic/reference,0.0,0.0,0.0
+oracle/candidate,acoustic/candidate,0.5,0.125,0.875
+oracle/reference,acoustic/reference,0.5,0.125,0.875

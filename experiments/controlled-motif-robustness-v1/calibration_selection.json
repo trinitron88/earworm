@@ -1,0 +1,432 @@
+[
+  {
+    "model": "present",
+    "grid": [
+      {
+        "parameters": {
+          "temperature": 0.05,
+          "sigma": 0.08,
+          "floor": 0.001
+        },
+        "accuracy": 0.0763888888888889,
+        "log_loss": 5.343837692291654
+      },
+      {
+        "parameters": {
+          "temperature": 0.05,
+          "sigma": 0.08,
+          "floor": 0.05
+        },
+        "accuracy": 0.0763888888888889,
+        "log_loss": 3.8491144735185188
+      },
+      {
+        "parameters": {
+          "temperature": 0.05,
+          "sigma": 0.2,
+          "floor": 0.001
+        },
+        "accuracy": 0.0763888888888889,
+        "log_loss": 5.343837692291654
+      },
+      {
+        "parameters": {
+          "temperature": 0.05,
+          "sigma": 0.2,
+          "floor": 0.05
+        },
+        "accuracy": 0.0763888888888889,
+        "log_loss": 3.8491144735185188
+      },
+      {
+        "parameters": {
+          "temperature": 0.2,
+          "sigma": 0.08,
+          "floor": 0.001
+        },
+        "accuracy": 0.0763888888888889,
+        "log_loss": 5.343837692291654
+      },
+      {
+        "parameters": {
+          "temperature": 0.2,
+          "sigma": 0.08,
+          "floor": 0.05
+        },
+        "accuracy": 0.0763888888888889,
+        "log_loss": 3.8491144735185188
+      },
+      {
+        "parameters": {
+          "temperature": 0.2,
+          "sigma": 0.2,
+          "floor": 0.001
+        },
+        "accuracy": 0.0763888888888889,
+        "log_loss": 5.343837692291654
+      },
+      {
+        "parameters": {
+          "temperature": 0.2,
+          "sigma": 0.2,
+          "floor": 0.05
+        },
+        "accuracy": 0.0763888888888889,
+        "log_loss": 3.8491144735185188
+      }
+    ],
+    "selected": {
+      "parameters": {
+        "temperature": 0.05,
+        "sigma": 0.08,
+        "floor": 0.05
+      },
+      "accuracy": 0.0763888888888889,
+      "log_loss": 3.8491144735185188
+    }
+  },
+  {
+    "model": "recency",
+    "grid": [
+      {
+        "parameters": {
+          "temperature": 0.05,
+          "sigma": 0.08,
+          "floor": 0.001
+        },
+        "accuracy": 0.2638888888888889,
+        "log_loss": 7.121500805215201
+      },
+      {
+        "parameters": {
+          "temperature": 0.05,
+          "sigma": 0.08,
+          "floor": 0.05
+        },
+        "accuracy": 0.2638888888888889,
+        "log_loss": 4.639293978765824
+      },
+      {
+        "parameters": {
+          "temperature": 0.05,
+          "sigma": 0.2,
+          "floor": 0.001
+        },
+        "accuracy": 0.2638888888888889,
+        "log_loss": 7.121502668497968
+      },
+      {
+        "parameters": {
+          "temperature": 0.05,
+          "sigma": 0.2,
+          "floor": 0.05
+        },
+        "accuracy": 0.2638888888888889,
+        "log_loss": 4.63929584012656
+      },
+      {
+        "parameters": {
+          "temperature": 0.2,
+          "sigma": 0.08,
+          "floor": 0.001
+        },
+        "accuracy": 0.2638888888888889,
+        "log_loss": 7.121500805215201
+      },
+      {
+        "parameters": {
+          "temperature": 0.2,
+          "sigma": 0.08,
+          "floor": 0.05
+        },
+        "accuracy": 0.2638888888888889,
+        "log_loss": 4.639293978765824
+      },
+      {
+        "parameters": {
+          "temperature": 0.2,
+          "sigma": 0.2,
+          "floor": 0.001
+        },
+        "accuracy": 0.2638888888888889,
+        "log_loss": 7.121502668497968
+      },
+      {
+        "parameters": {
+          "temperature": 0.2,
+          "sigma": 0.2,
+          "floor": 0.05
+        },
+        "accuracy": 0.2638888888888889,
+        "log_loss": 4.63929584012656
+      }
+    ],
+    "selected": {
+      "parameters": {
+        "temperature": 0.05,
+        "sigma": 0.08,
+        "floor": 0.05
+      },
+      "accuracy": 0.2638888888888889,
+      "log_loss": 4.639293978765824
+    }
+  },
+  {
+    "model": "transition",
+    "grid": [
+      {
+        "parameters": {
+          "temperature": 0.05,
+          "sigma": 0.08,
+          "floor": 0.001
+        },
+        "accuracy": 0.4861111111111111,
+        "log_loss": 4.45530841874896
+      },
+      {
+        "parameters": {
+          "temperature": 0.05,
+          "sigma": 0.08,
+          "floor": 0.05
+        },
+        "accuracy": 0.4861111111111111,
+        "log_loss": 2.963365252480253
+      },
+      {
+        "parameters": {
+          "temperature": 0.05,
+          "sigma": 0.2,
+          "floor": 0.001
+        },
+        "accuracy": 0.4861111111111111,
+        "log_loss": 4.4553121453061175
+      },
+      {
+        "parameters": {
+          "temperature": 0.05,
+          "sigma": 0.2,
+          "floor": 0.05
+        },
+        "accuracy": 0.4861111111111111,
+        "log_loss": 2.9633689747671443
+      },
+      {
+        "parameters": {
+          "temperature": 0.2,
+          "sigma": 0.08,
+          "floor": 0.001
+        },
+        "accuracy": 0.4861111111111111,
+        "log_loss": 4.45530841874896
+      },
+      {
+        "parameters": {
+          "temperature": 0.2,
+          "sigma": 0.08,
+          "floor": 0.05
+        },
+        "accuracy": 0.4861111111111111,
+        "log_loss": 2.963365252480253
+      },
+      {
+        "parameters": {
+          "temperature": 0.2,
+          "sigma": 0.2,
+          "floor": 0.001
+        },
+        "accuracy": 0.4861111111111111,
+        "log_loss": 4.4553121453061175
+      },
+      {
+        "parameters": {
+          "temperature": 0.2,
+          "sigma": 0.2,
+          "floor": 0.05
+        },
+        "accuracy": 0.4861111111111111,
+        "log_loss": 2.9633689747671443
+      }
+    ],
+    "selected": {
+      "parameters": {
+        "temperature": 0.05,
+        "sigma": 0.08,
+        "floor": 0.05
+      },
+      "accuracy": 0.4861111111111111,
+      "log_loss": 2.963365252480253
+    }
+  },
+  {
+    "model": "retrieval_absolute",
+    "grid": [
+      {
+        "parameters": {
+          "temperature": 0.05,
+          "sigma": 0.08,
+          "floor": 0.001
+        },
+        "accuracy": 0.4861111111111111,
+        "log_loss": 4.45530841874896
+      },
+      {
+        "parameters": {
+          "temperature": 0.05,
+          "sigma": 0.08,
+          "floor": 0.05
+        },
+        "accuracy": 0.4861111111111111,
+        "log_loss": 2.963365252480253
+      },
+      {
+        "parameters": {
+          "temperature": 0.05,
+          "sigma": 0.2,
+          "floor": 0.001
+        },
+        "accuracy": 0.4861111111111111,
+        "log_loss": 4.4553121453061175
+      },
+      {
+        "parameters": {
+          "temperature": 0.05,
+          "sigma": 0.2,
+          "floor": 0.05
+        },
+        "accuracy": 0.4861111111111111,
+        "log_loss": 2.9633689747671443
+      },
+      {
+        "parameters": {
+          "temperature": 0.2,
+          "sigma": 0.08,
+          "floor": 0.001
+        },
+        "accuracy": 0.4861111111111111,
+        "log_loss": 4.45530841874896
+      },
+      {
+        "parameters": {
+          "temperature": 0.2,
+          "sigma": 0.08,
+          "floor": 0.05
+        },
+        "accuracy": 0.4861111111111111,
+        "log_loss": 2.963365252480253
+      },
+      {
+        "parameters": {
+          "temperature": 0.2,
+          "sigma": 0.2,
+          "floor": 0.001
+        },
+        "accuracy": 0.4861111111111111,
+        "log_loss": 4.4553121453061175
+      },
+      {
+        "parameters": {
+          "temperature": 0.2,
+          "sigma": 0.2,
+          "floor": 0.05
+        },
+        "accuracy": 0.4861111111111111,
+        "log_loss": 2.9633689747671443
+      }
+    ],
+    "selected": {
+      "parameters": {
+        "temperature": 0.05,
+        "sigma": 0.08,
+        "floor": 0.05
+      },
+      "accuracy": 0.4861111111111111,
+      "log_loss": 2.963365252480253
+    }
+  },
+  {
+    "model": "retrieval_transposed",
+    "grid": [
+      {
+        "parameters": {
+          "temperature": 0.05,
+          "sigma": 0.08,
+          "floor": 0.001
+        },
+        "accuracy": 0.4861111111111111,
+        "log_loss": 4.45530841874896
+      },
+      {
+        "parameters": {
+          "temperature": 0.05,
+          "sigma": 0.08,
+          "floor": 0.05
+        },
+        "accuracy": 0.4861111111111111,
+        "log_loss": 2.963365252480253
+      },
+      {
+        "parameters": {
+          "temperature": 0.05,
+          "sigma": 0.2,
+          "floor": 0.001
+        },
+        "accuracy": 0.4861111111111111,
+        "log_loss": 4.455312145305814
+      },
+      {
+        "parameters": {
+          "temperature": 0.05,
+          "sigma": 0.2,
+          "floor": 0.05
+        },
+        "accuracy": 0.4861111111111111,
+        "log_loss": 2.96336897476684
+      },
+      {
+        "parameters": {
+          "temperature": 0.2,
+          "sigma": 0.08,
+          "floor": 0.001
+        },
+        "accuracy": 0.4861111111111111,
+        "log_loss": 4.45530841874896
+      },
+      {
+        "parameters": {
+          "temperature": 0.2,
+          "sigma": 0.08,
+          "floor": 0.05
+        },
+        "accuracy": 0.4861111111111111,
+        "log_loss": 2.963365252480253
+      },
+      {
+        "parameters": {
+          "temperature": 0.2,
+          "sigma": 0.2,
+          "floor": 0.001
+        },
+        "accuracy": 0.4861111111111111,
+        "log_loss": 4.455312145305814
+      },
+      {
+        "parameters": {
+          "temperature": 0.2,
+          "sigma": 0.2,
+          "floor": 0.05
+        },
+        "accuracy": 0.4861111111111111,
+        "log_loss": 2.96336897476684
+      }
+    ],
+    "selected": {
+      "parameters": {
+        "temperature": 0.05,
+        "sigma": 0.08,
+        "floor": 0.05
+      },
+      "accuracy": 0.4861111111111111,
+      "log_loss": 2.963365252480253
+    }
+  }
+]

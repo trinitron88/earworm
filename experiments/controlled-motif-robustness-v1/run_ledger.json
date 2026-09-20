@@ -1,0 +1,12 @@
+[
+  {
+    "split": "development",
+    "allocated_streams": 176,
+    "started_ns": 1789882685940364000
+  },
+  {
+    "split": "calibration",
+    "allocated_streams": 176,
+    "started_ns": 1789882694365354000
+  }
+]

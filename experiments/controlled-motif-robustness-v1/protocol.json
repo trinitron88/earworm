@@ -1,0 +1,47 @@
+{
+  "assignment_id": "earworm-controlled-motif-robustness-v1",
+  "base": "429389909f1c6119b13fac3d8247b03f9524571c",
+  "authoritative_requirements": "assignment.json complete body; all acceptance criteria implemented in analyze.py",
+  "streams": {
+    "development": 176,
+    "calibration": 176,
+    "heldout": 528,
+    "total": 880,
+    "repeat_runs": 0,
+    "cap": 1000
+  },
+  "local_compute_limit_seconds": 7200,
+  "retained_bytes_limit": 2147483648,
+  "capacity": 32,
+  "prefix_blocks": 14,
+  "note_boundaries": "supplied",
+  "target": "generator-defined fundamental relative to A220; no perceptual identity assertion",
+  "vocabulary": "integer -24..24 semitones relative to observed final pitch, plus unknown; truth offsets \u00b13/4/5 all covered",
+  "point_tolerance": 0.35,
+  "cells": [
+    "matched",
+    "timbre",
+    "duration",
+    "joint"
+  ],
+  "rendering": "stimuli.py concrete formulas; short=.10+.0007*i, long=.22+.0013*i; i=0..39 disjoint tuples; eval long >=.2408 unseen. fundamental always nonzero; rich amplitudes [.32,1,.30]; moderate [1,.40,.22]; normalized RMS .08/.12; direction and level balanced across binding labels",
+  "structural_rule": "Two silence blocks immediately before cue and one between 4-note demo chunks prohibit accidentalcross-boundary matches. Distinct Q/R middle notes, opposite-sign Q successive intervals relative to preceding study; no evaluation rejection.",
+  "controls": "reset before current 3-note cue; removal replaces both demo successors by same-duration zero samples; swap inverts binding and target; shuffle reverses whole chunks; ambiguous repeats Q with both outcomes, identical prefixes and balanced targets",
+  "prior": "new-model prior from development outcomes, frozen reference prior unchanged",
+  "selection": "fit.py finite grid; same observe/candidates/distribution functions; candidate fixed order3 only cutoff .1/.3/.7 selected by dev accuracy then logloss then cutoff; transition orders1/2/3; absolute order3; recency order1. Calibration only temp .05/.2 sigma .08/.2 floor .001/.05 by logloss. No further tuning.",
+  "uncertainty": "unavailable pitch propagates as None; no filling with metadata",
+  "bootstrap": {
+    "resamples": 5000,
+    "seed": 2026092007,
+    "unit": "24 equally weighted groups, paired across models/cells",
+    "ordinary": "percentile two-sided 95%",
+    "familywise": "Bonferroni percentile intervals for each of three changed-minus-matched contrasts: quantiles .05/6 and 1-.05/6; simultaneous coverage by union bound, approximate bootstrap"
+  },
+  "proper_scores": "logloss cross entropy on stipulated target distribution without clipping, zero positive-target mass => infinity. Brier expected realized categorical squared error = sum((p-y)^2)+1-sum(y^2); ambiguous adds .5.",
+  "oracle": "Only after saved acoustic forecasts: substitute arrived generator fundamental for pitched blocks; masked/pause None; preserve reset and history ordering, same frozen code/config. No oracle data enters subprocess. Evaluate all six models but diagnostic only; C observation requires both acoustic fail, candidate oracle pass, joint gain>=.10 and lower95>0. If oracle fails, only saved lookup/availability inspection can localize, else inconclusive.",
+  "branches": "A reference passes first; B candidate passes and joint gain>=.1 lower95>0 proper scores no worse; C specified diagnostic; else inconclusive. Conditions in assignment.json; no next study automatically.",
+  "probability_target": "For each predictor, bin the generator fundamental minus its observed anchor to nearest semitone; outside vocabulary or no anchor -> unknown. Thus octave errors affect proper scores as well as absolute point accuracy. Oracle uses its own true anchor. Quantization error separately reported. Scores do not assert within-bin perceptual equivalence.",
+  "pre_evaluation_revision": "Development/calibration streams each run once; saved observations reused for finite-grid selection after fixing scoring coordinates before evaluation. Original per-event diagnostic scores retain their earlier relative-coordinate definition; fit selection and final analyzer use explicit observed-anchor coordinates.",
+  "evaluation_counterbalance": "Before evaluation: independently cross rich/moderate family with both renderer directions in evaluation (6 groups per combination); training direction and rich family were confounded. Rich demonstration\u2192simple cue is a predefined withheld combination; no evaluation outcomes inspected. Order alternates by four-group block. Every binding pair shares renderer/RMS so these never predict binding label.",
+  "compute_accounting": "Record whole work wall interval as conservative upper bound on aggregate single-worker compute, plus split runtimes; all commands sequential, no parallel pipelines."
+}

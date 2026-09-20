@@ -1,0 +1,18 @@
+{
+  "split": "calibration",
+  "episodes": 144,
+  "additional_future_invariance_probes": 32,
+  "elapsed_seconds": 0.537321834010072,
+  "prior_elapsed_seconds": 0.701113749993965,
+  "execution_revision": "429389909f1c6119b13fac3d8247b03f9524571c",
+  "dirty_at_start": true,
+  "dirty_paths_at_start": [
+    "?? experiments/controlled-motif-robustness-v1/"
+  ],
+  "execution_inputs_match_commit": null,
+  "execution_code_sha256": "e839861629507fc713083dc29f43cb6740a589fcea2bd584ab83a59a5a7a0abe",
+  "model_sha256": "024e08170902eaba347a59ce14932cc6d3e70904412c2fb36edc9096a57bfbdf",
+  "python": "3.12.14",
+  "numpy": "2.5.3",
+  "end_utc_ns": 1789882694891883000
+}
