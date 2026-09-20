@@ -1,0 +1,63 @@
+{
+  "assignment_id": "earworm-causal-event-aggregation-v1",
+  "base": "704d59d604d34a51c3c0f64ebc971b0346ce0aef",
+  "authoritative_assignment": "assignment.json",
+  "decision": "Adopt causal within-event aggregator, restrict next decision to uncertainty/readout, or end within-event micro-repairs.",
+  "candidates": [
+    {
+      "id": "a32_48",
+      "window_ms": [
+        32,
+        48
+      ]
+    },
+    {
+      "id": "a48_64",
+      "window_ms": [
+        48,
+        64
+      ]
+    }
+  ],
+  "rules": "Both use start/end inset8ms;8ms hop. Only complete windows inside inferred event. Frozen NSDF per window; >=4 cycles valid; invalid windows contribute unknown weight1. Valid weight=max(.01,selected periodicity). Sort pitches; clusters span<=.35 semitone from cluster minimum. No octave folding, pitch snapping or removed window evidence. Two highest-weight clusters retained; lower clusters enter unknown mass. Pitch representative is weighted mean. At least2 valid windows and pitched boundary state required; otherwise unknown1. Point requires highest cluster probability>=.5. Original spectral/whole observation and trim16 separately retained.",
+  "selection": "Feasible validity and group pitch availability>=.80; maximum group pitch accuracy; minimum intact MAP-reference Brier; declared a32_48 simpler tie-break.",
+  "calibration": "No fitted parameters. uncertainty_scale fixed1, singleton range[1]; calibration integrity/probability checks only. Does not select policies or alter frozen retrieval.",
+  "mixture": "Independent event-candidate product hypotheses; retain top16 after each event in stable probability order. Unknown or pruned probability remains unresolved final forecast mass; never renormalize. Unpitched boundary states preserve deterministic None in history. Each retained history uses exact frozen seven-model lookup. Mixture relative bins -24..24+unknown use integer acoustic anchor of highest-weight history final candidate; map candidate predictions to the same rounded absolute scoring bins, out-of-range unknown. This is bounded subprobability marginalization, not exhaustive inference; residual is exposed. MAP path separate.",
+  "comparisons": "MAP aggregator and uncertainty mixture, trim16 (repaired), whole-span streaming, fixed64ms, evaluator-only oracle; seven baselines each.",
+  "groups": "40 fresh normalized motifs8/8/24; all earlier exclusions, same four cells/aliases/families; seeds202609205500+i; raw silence may share zero bytes.",
+  "controls": "joint reset/removal/swap/whole-motif shuffle/ambiguity unchanged, paired current bytes and inventories; zero eviction.",
+  "scoring": "Frozen absolute bins -48..72+unknown, .35 semitone point accuracy; unavailability fails. Proper scores, entropy, unknown mass, confidence and fixed ten-bin reliability by every front/model/cell/control. Equal groups. Infinite log-loss explicit, no clipping.",
+  "bootstrap": {
+    "seed": 2026092060,
+    "resamples": 5000,
+    "unit": "paired equal groups",
+    "ordinary_quantiles": [
+      0.025,
+      0.975
+    ],
+    "familywise_quantiles": [
+      0.00625,
+      0.99375
+    ],
+    "method": "inverted_cdf"
+  },
+  "gates": "All assignment gates explicit analyze.py. Familywise four mixture/reference-minus-oracle cells. Event gates on MAP measurements. Safety per pure/fundamental/overtone group loss versus oracle. Compare joint mixture gain against unchanged trim16.",
+  "branch_precedence": "Validity first. C if oracle fails, measurement/event/latency/family gates fail, or material improvement over trim16 fails (joint gain lower95<=0). A only every gate passes. B if measurement/safety/latency and material-improvement gates pass but proper-score or control/ambiguity gates fail. Otherwise inconclusive. No nonsignificance=equivalence claim.",
+  "latency": "<=160ms arrived-sample time; every per-window and aggregate actual computation timestamp recorded after event completion; dispatch separate.",
+  "resources": {
+    "streams": {
+      "development": 176,
+      "calibration": 176,
+      "heldout": 528,
+      "total": 880,
+      "cap": 1000
+    },
+    "compute_seconds": 7200,
+    "storage_bytes": 2147483648,
+    "chunks": 32,
+    "unit_seconds": 2,
+    "hypothesis_cap": 16
+  },
+  "integrity": "Frozen PR11 b2/frames, PR10 NSDF, PR8 lookup, PR12 trim16. Full raw PCM and window/original/trim records. Strict chunk API and filesystem guard. Prereveal fsync. No heldout before exact frozen commit/preregistration. Independent scalar saved-output validation tolerance1e-12, exact immutable hashes.",
+  "stop": "One frozen evaluation, complete reproducible successor, PROJECT_STATE, await review; no further micro-repair or musical complexity without explicit PM decision."
+}
