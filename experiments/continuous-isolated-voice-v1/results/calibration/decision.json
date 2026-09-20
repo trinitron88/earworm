@@ -1,0 +1,24 @@
+{
+  "branch": "B",
+  "validity_passed": true,
+  "oracle_ceiling_pass": true,
+  "streaming_paired_success_pass": false,
+  "noninferiority": false,
+  "joint_over_present_lower95": 0.0,
+  "joint_proper_score_increases": {
+    "log_loss": 3.8522359391115364,
+    "brier": 0.9372493125
+  },
+  "event_gates": false,
+  "latency_pass": true,
+  "control_pass": false,
+  "safety_pass": false,
+  "boundary_localization": {
+    "localized": true,
+    "wrong_matched_events": 379,
+    "fraction_with_different_bounds": 1.0,
+    "oracle_pitch_accuracy": 1.0,
+    "stream_pitch_accuracy": 0.69760101010101
+  },
+  "next": "Do not advance complexity; after review PM may assign targeted event-formation repair with fresh groups."
+}

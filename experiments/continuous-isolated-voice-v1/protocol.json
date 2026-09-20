@@ -1,0 +1,57 @@
+{
+  "assignment_id": "earworm-continuous-isolated-voice-v1",
+  "base": "199143f6c590cda68f1acfc1829adcabf0d57ae8",
+  "finish_line_capability": "Unblock continuous audio event organization without supplied note boundaries; not long-term retention or transformation recognition yet.",
+  "requirements": "assignment.json complete text",
+  "streams": {
+    "development": 176,
+    "calibration": 176,
+    "heldout": 528,
+    "total": 880,
+    "cap": 1000,
+    "no_acoustic_reruns": true
+  },
+  "resources": {
+    "seconds": 7200,
+    "bytes": 2147483648,
+    "max_chunks": 32,
+    "max_completed_unit_seconds": 2,
+    "raw_buffer_samples": 32000,
+    "max_events_per_front": 32,
+    "prefix_total_seconds": "Recorded per trial, below2 seconds; recent buffer never evicted."
+  },
+  "chunk": "64ms/1024samples contiguous PCM, one fixed candidate chosen before development; no boundary alignment. No duration/onset labels in API.",
+  "front_end": "32ms NSDF frames every4ms, accepted frozen algorithm/config. Finite pitch-change .75/1.25 semitone \u00d72/3 confirmations; unavailable change requires8 confirmations. Split estimate at midpoint of first changed frame, never available before confirming chunk arrival. Min emitted segment16ms. One selected on devF1 then pitch accuracy then min split+merge.",
+  "latency": "160ms maximum from true event end for matched-event scoring; also report inferred-end decision delay, chunk-completion availability and actual UTC/monotonic pre-reveal commitments. No future finalization on forecast call.",
+  "fixed_window": "One completed64ms chunk per event; retain None internally, trim trailing unavailable events for forecasts identically acrossfronts. No inferred note boundaries.",
+  "oracle": "Evaluator-only true-boundary ceiling, same arrived PCM; computed and fsynced after operational forecast and before reveal. Receives true starts/ends, never available to worker. Not an acoustic capability.",
+  "primary": "Accepted PR10 periodicity and exact PR8 relative retrieval config unchanged. Only boundary front selected.",
+  "baselines": "All front ends: present/marginal, recency, transition orders1\u20133, full absolute order3 and relative order3 reference; same event history within front. Present/marginal is one baseline, not inflated evidence.",
+  "stimuli": "Continuous concatenation of mono tone segments; no silence at legato pitch transitions, but phase reset at joins remains a cue. Detached has8ms tail gaps; long inter-motif separators and trailing evidence silence supplied as actual waveform. No naturalperformance/overlap. Source-unit byte multisets balance; chunk multisets need not, because edges span reordered units.",
+  "controls": "Reset onfixed chunk insidepreprobe silence, clearing buffers/events; remove both demo successors asdurationmatched silence; swapbindings+targets; reversewholechunks; ambiguous identicalQboth futures. Reference future substitutions never cross API.",
+  "factor_design": "split_manifest.json declares fractional-factorial aliases; direction/register/rich independently crossed, order aliases3wayinteraction, pitchdirection tiedrenderer direction. No causal factor effect estimates beyond these cells.",
+  "event_scoring": "Time-only greedy max-IoU>=.5 one-to-one matching, then correctevent requires onset/end within25ms. F1 includes missingextra events. Split/merge counts if overlap>=20%truthduration withmorethanone counterpart. Pitch correctness matched estimates / all truepitched events; unavailable or unmatched incorrect.\u00b112 octaveerror within.35; reportavailability separately. Silence markers excluded from pitched event metrics. Resettruth restricts toevents afterreset.",
+  "probabilities": "Exact PR10 common absolute semitone bins -48..72 plus unknown, expected realized Brier, +Infinity sentinel, no knownpitch unknown credit. No calibration fitting.",
+  "bootstrap": {
+    "seed": 2026092030,
+    "resamples": 5000,
+    "unit": "equally weighted phrasegroups paired",
+    "quantile_method": "inverted_cdf",
+    "ordinary": [
+      0.025,
+      0.975
+    ],
+    "familywise": [
+      0.00625,
+      0.99375
+    ],
+    "contrasts": "4 streaming-minus-oracle cells, Bonferroni percentile intervals"
+  },
+  "safety": "Pure/fundamental/overtone predeclared families each: mean intact prediction loss across4cells vsoracle<=.10. Stream event group-weighted octaveerror<=.01.",
+  "branch": "Validity first. C if oracle reference pairedsuccess<.8 anycell. A ifall assignment thresholds. B iforacle passes,A fails,and either direct time-only F1<.9 orsplit/merge>.05, OR oracle eventpitchaccuracy>=.95 while streaming<.95 with>=90% wrong matched estimates having a nonzero inferred-vs-true bound difference. The latter localizes failed pitch extraction to event-window formation under identical frozen observation code, not a diagnosis of which boundary algorithm repair will work. Otherwiseinconclusive.",
+  "event_aggregation": "For each group average all18 episodes/control streams, then averagegroups; maximumdecisionlatency notaveraged. Intact safety bysubfamily across4cells.",
+  "storage": "Operational full arrived rawbuffer, framecache, event/candidate records, pendingstates and config counted/declared. No evaluation archive available to worker. These tests do not establish retention beyond recent-buffer eviction.",
+  "stop": "One complete snapshot + PROJECT_STATE including finite finish-line checklist, thenstopforreview; no newstage.",
+  "diagnostic_selection": "Boundary-window localization rule finalized before evaluation after development revealed high timing F1 but low inferred-span pitch accuracy. No operational front or observation retuning on calibration/evaluation.",
+  "availability_instrumentation": "Before heldout freeze add per-frame/event computed UTC+monotonic timestamps; chunk dispatch/response bounds independently verified. Availability sample means full containing chunk; actual timestamps distinguish retrospective boundary estimates from computation. Historical dev/cal source snapshots predate extra timestamp instrumentation; no algorithm/config change."
+}

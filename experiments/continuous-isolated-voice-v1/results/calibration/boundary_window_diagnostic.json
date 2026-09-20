@@ -1,0 +1,3792 @@
+[
+  {
+    "episode": "civ-08/legato/intact/0",
+    "true_start": 15194,
+    "true_end": 16619,
+    "inferred_start": 15168,
+    "inferred_end": 16832,
+    "true_pitch": 6,
+    "estimated_pitch": -13.003908510114297,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/legato/intact/0",
+    "true_start": 384,
+    "true_end": 1809,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -12.989131464401467,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/legato/intact/0",
+    "true_start": 7213,
+    "true_end": 8638,
+    "inferred_start": 7168,
+    "inferred_end": 8896,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/legato/intact/0",
+    "true_start": 8638,
+    "true_end": 10176,
+    "inferred_start": 8896,
+    "inferred_end": 10432,
+    "true_pitch": 2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/legato/intact/1",
+    "true_start": 15194,
+    "true_end": 16619,
+    "inferred_start": 15168,
+    "inferred_end": 16832,
+    "true_pitch": 6,
+    "estimated_pitch": -13.003908510114297,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/legato/intact/1",
+    "true_start": 384,
+    "true_end": 1809,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -12.989131464401467,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/legato/intact/1",
+    "true_start": 7213,
+    "true_end": 8638,
+    "inferred_start": 7168,
+    "inferred_end": 8896,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/legato/intact/1",
+    "true_start": 8638,
+    "true_end": 10176,
+    "inferred_start": 8896,
+    "inferred_end": 10432,
+    "true_pitch": 2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/duration/intact/0",
+    "true_start": 384,
+    "true_end": 1846,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -12.989518802611009,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/duration/intact/0",
+    "true_start": 7274,
+    "true_end": 8736,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/duration/intact/0",
+    "true_start": 8736,
+    "true_end": 10382,
+    "inferred_start": 8960,
+    "inferred_end": 10624,
+    "true_pitch": 2,
+    "estimated_pitch": -16.98413327827522,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/duration/intact/0",
+    "true_start": 3492,
+    "true_end": 4810,
+    "inferred_start": 3712,
+    "inferred_end": 5056,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/duration/intact/0",
+    "true_start": 10382,
+    "true_end": 11700,
+    "inferred_start": 10624,
+    "inferred_end": 11968,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/duration/intact/1",
+    "true_start": 384,
+    "true_end": 1846,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -12.989518802611009,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/duration/intact/1",
+    "true_start": 7274,
+    "true_end": 8736,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/duration/intact/1",
+    "true_start": 8736,
+    "true_end": 10382,
+    "inferred_start": 8960,
+    "inferred_end": 10624,
+    "true_pitch": 2,
+    "estimated_pitch": -16.98413327827522,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/duration/intact/1",
+    "true_start": 3492,
+    "true_end": 4810,
+    "inferred_start": 3712,
+    "inferred_end": 5056,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/duration/intact/1",
+    "true_start": 10382,
+    "true_end": 11700,
+    "inferred_start": 10624,
+    "inferred_end": 11968,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/intact/0",
+    "true_start": 384,
+    "true_end": 1846,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -12.989518802611009,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/intact/0",
+    "true_start": 15316,
+    "true_end": 16861,
+    "inferred_start": 15296,
+    "inferred_end": 17088,
+    "true_pitch": 6,
+    "estimated_pitch": -12.993550344640088,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/intact/0",
+    "true_start": 7274,
+    "true_end": 8736,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/intact/0",
+    "true_start": 8736,
+    "true_end": 10382,
+    "inferred_start": 8960,
+    "inferred_end": 10624,
+    "true_pitch": 2,
+    "estimated_pitch": -16.98413327827522,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/intact/0",
+    "true_start": 3492,
+    "true_end": 4810,
+    "inferred_start": 3712,
+    "inferred_end": 5056,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/intact/0",
+    "true_start": 10382,
+    "true_end": 11700,
+    "inferred_start": 10624,
+    "inferred_end": 11968,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/intact/1",
+    "true_start": 384,
+    "true_end": 1846,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -12.989518802611009,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/intact/1",
+    "true_start": 15316,
+    "true_end": 16861,
+    "inferred_start": 15296,
+    "inferred_end": 17088,
+    "true_pitch": 6,
+    "estimated_pitch": -12.993550344640088,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/intact/1",
+    "true_start": 7274,
+    "true_end": 8736,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/intact/1",
+    "true_start": 8736,
+    "true_end": 10382,
+    "inferred_start": 8960,
+    "inferred_end": 10624,
+    "true_pitch": 2,
+    "estimated_pitch": -16.98413327827522,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/intact/1",
+    "true_start": 3492,
+    "true_end": 4810,
+    "inferred_start": 3712,
+    "inferred_end": 5056,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/intact/1",
+    "true_start": 10382,
+    "true_end": 11700,
+    "inferred_start": 10624,
+    "inferred_end": 11968,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/reset/0",
+    "true_start": 15316,
+    "true_end": 16861,
+    "inferred_start": 15296,
+    "inferred_end": 17088,
+    "true_pitch": 6,
+    "estimated_pitch": -12.993550344640088,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/reset/1",
+    "true_start": 15316,
+    "true_end": 16861,
+    "inferred_start": 15296,
+    "inferred_end": 17088,
+    "true_pitch": 6,
+    "estimated_pitch": -12.993550344640088,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/removal/0",
+    "true_start": 384,
+    "true_end": 1846,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -12.989518802611009,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/removal/0",
+    "true_start": 15316,
+    "true_end": 16861,
+    "inferred_start": 15296,
+    "inferred_end": 17088,
+    "true_pitch": 6,
+    "estimated_pitch": -12.993550344640088,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/removal/0",
+    "true_start": 7274,
+    "true_end": 8736,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/removal/0",
+    "true_start": 8736,
+    "true_end": 10382,
+    "inferred_start": 8960,
+    "inferred_end": 10624,
+    "true_pitch": 2,
+    "estimated_pitch": -16.98413327827522,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/removal/1",
+    "true_start": 384,
+    "true_end": 1846,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -12.989518802611009,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/removal/1",
+    "true_start": 15316,
+    "true_end": 16861,
+    "inferred_start": 15296,
+    "inferred_end": 17088,
+    "true_pitch": 6,
+    "estimated_pitch": -12.993550344640088,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/removal/1",
+    "true_start": 7274,
+    "true_end": 8736,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/removal/1",
+    "true_start": 8736,
+    "true_end": 10382,
+    "inferred_start": 8960,
+    "inferred_end": 10624,
+    "true_pitch": 2,
+    "estimated_pitch": -16.98413327827522,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/swap/0",
+    "true_start": 384,
+    "true_end": 1846,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -12.989518802611009,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/swap/0",
+    "true_start": 15316,
+    "true_end": 16861,
+    "inferred_start": 15296,
+    "inferred_end": 17088,
+    "true_pitch": 6,
+    "estimated_pitch": -12.993550344640088,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/swap/0",
+    "true_start": 7274,
+    "true_end": 8736,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/swap/0",
+    "true_start": 8736,
+    "true_end": 10382,
+    "inferred_start": 8960,
+    "inferred_end": 10624,
+    "true_pitch": 2,
+    "estimated_pitch": -16.98413327827522,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/swap/0",
+    "true_start": 3492,
+    "true_end": 4810,
+    "inferred_start": 3712,
+    "inferred_end": 5056,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/swap/0",
+    "true_start": 10382,
+    "true_end": 11700,
+    "inferred_start": 10624,
+    "inferred_end": 11968,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/swap/1",
+    "true_start": 384,
+    "true_end": 1846,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -12.989518802611009,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/swap/1",
+    "true_start": 15316,
+    "true_end": 16861,
+    "inferred_start": 15296,
+    "inferred_end": 17088,
+    "true_pitch": 6,
+    "estimated_pitch": -12.993550344640088,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/swap/1",
+    "true_start": 7274,
+    "true_end": 8736,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/swap/1",
+    "true_start": 8736,
+    "true_end": 10382,
+    "inferred_start": 8960,
+    "inferred_end": 10624,
+    "true_pitch": 2,
+    "estimated_pitch": -16.98413327827522,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/swap/1",
+    "true_start": 3492,
+    "true_end": 4810,
+    "inferred_start": 3712,
+    "inferred_end": 5056,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/swap/1",
+    "true_start": 10382,
+    "true_end": 11700,
+    "inferred_start": 10624,
+    "inferred_end": 11968,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/shuffle/0",
+    "true_start": 15316,
+    "true_end": 16861,
+    "inferred_start": 15296,
+    "inferred_end": 17088,
+    "true_pitch": 6,
+    "estimated_pitch": -12.993550344640088,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/shuffle/0",
+    "true_start": 7274,
+    "true_end": 8736,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": -12.98363269086071,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/shuffle/0",
+    "true_start": 1846,
+    "true_end": 3492,
+    "inferred_start": 2048,
+    "inferred_end": 3712,
+    "true_pitch": 2,
+    "estimated_pitch": -16.990667021417554,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/shuffle/0",
+    "true_start": 8736,
+    "true_end": 10382,
+    "inferred_start": 8960,
+    "inferred_end": 10624,
+    "true_pitch": 0,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/shuffle/0",
+    "true_start": 3492,
+    "true_end": 4810,
+    "inferred_start": 3712,
+    "inferred_end": 5056,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/shuffle/0",
+    "true_start": 10382,
+    "true_end": 11700,
+    "inferred_start": 10624,
+    "inferred_end": 11968,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/shuffle/1",
+    "true_start": 15316,
+    "true_end": 16861,
+    "inferred_start": 15296,
+    "inferred_end": 17088,
+    "true_pitch": 6,
+    "estimated_pitch": -12.993550344640088,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/shuffle/1",
+    "true_start": 7274,
+    "true_end": 8736,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": -12.98363269086071,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/shuffle/1",
+    "true_start": 1846,
+    "true_end": 3492,
+    "inferred_start": 2048,
+    "inferred_end": 3712,
+    "true_pitch": 2,
+    "estimated_pitch": -16.990667021417554,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/shuffle/1",
+    "true_start": 8736,
+    "true_end": 10382,
+    "inferred_start": 8960,
+    "inferred_end": 10624,
+    "true_pitch": 0,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/shuffle/1",
+    "true_start": 3492,
+    "true_end": 4810,
+    "inferred_start": 3712,
+    "inferred_end": 5056,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/shuffle/1",
+    "true_start": 10382,
+    "true_end": 11700,
+    "inferred_start": 10624,
+    "inferred_end": 11968,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/ambiguous/0",
+    "true_start": 384,
+    "true_end": 1846,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -12.989518802611009,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/ambiguous/0",
+    "true_start": 15316,
+    "true_end": 16861,
+    "inferred_start": 15296,
+    "inferred_end": 17088,
+    "true_pitch": 6,
+    "estimated_pitch": -12.993550344640088,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/ambiguous/0",
+    "true_start": 7274,
+    "true_end": 8736,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": -12.98363269086071,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/ambiguous/0",
+    "true_start": 8736,
+    "true_end": 10382,
+    "inferred_start": 8960,
+    "inferred_end": 10624,
+    "true_pitch": 0,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/ambiguous/0",
+    "true_start": 3492,
+    "true_end": 4810,
+    "inferred_start": 3712,
+    "inferred_end": 5056,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/ambiguous/0",
+    "true_start": 10382,
+    "true_end": 11700,
+    "inferred_start": 10624,
+    "inferred_end": 11968,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/ambiguous/1",
+    "true_start": 384,
+    "true_end": 1846,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -12.989518802611009,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/ambiguous/1",
+    "true_start": 15316,
+    "true_end": 16861,
+    "inferred_start": 15296,
+    "inferred_end": 17088,
+    "true_pitch": 6,
+    "estimated_pitch": -12.993550344640088,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/ambiguous/1",
+    "true_start": 7274,
+    "true_end": 8736,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": -12.98363269086071,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/ambiguous/1",
+    "true_start": 8736,
+    "true_end": 10382,
+    "inferred_start": 8960,
+    "inferred_end": 10624,
+    "true_pitch": 0,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/ambiguous/1",
+    "true_start": 3492,
+    "true_end": 4810,
+    "inferred_start": 3712,
+    "inferred_end": 5056,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-08/joint/ambiguous/1",
+    "true_start": 10382,
+    "true_end": 11700,
+    "inferred_start": 10624,
+    "inferred_end": 11968,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/legato/intact/0",
+    "true_start": 7225,
+    "true_end": 8653,
+    "inferred_start": 7232,
+    "inferred_end": 8832,
+    "true_pitch": 6,
+    "estimated_pitch": -6.127524414512456,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/legato/intact/0",
+    "true_start": 15218,
+    "true_end": 16646,
+    "inferred_start": 15168,
+    "inferred_end": 16832,
+    "true_pitch": 6,
+    "estimated_pitch": -6.138775476059099,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/legato/intact/0",
+    "true_start": 1812,
+    "true_end": 3353,
+    "inferred_start": 1920,
+    "inferred_end": 3520,
+    "true_pitch": 10,
+    "estimated_pitch": 10.468780608481033,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/legato/intact/0",
+    "true_start": 10194,
+    "true_end": 11663,
+    "inferred_start": 10304,
+    "inferred_end": 11840,
+    "true_pitch": 14,
+    "estimated_pitch": -4.939741110402464,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/legato/intact/0",
+    "true_start": 3353,
+    "true_end": 4822,
+    "inferred_start": 3520,
+    "inferred_end": 5056,
+    "true_pitch": 14,
+    "estimated_pitch": -5.006052858346462,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/legato/intact/1",
+    "true_start": 7225,
+    "true_end": 8653,
+    "inferred_start": 7232,
+    "inferred_end": 8832,
+    "true_pitch": 6,
+    "estimated_pitch": -6.127524414512456,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/legato/intact/1",
+    "true_start": 15218,
+    "true_end": 16646,
+    "inferred_start": 15168,
+    "inferred_end": 16832,
+    "true_pitch": 6,
+    "estimated_pitch": -6.138775476059099,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/legato/intact/1",
+    "true_start": 1812,
+    "true_end": 3353,
+    "inferred_start": 1920,
+    "inferred_end": 3520,
+    "true_pitch": 10,
+    "estimated_pitch": 10.468780608481033,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/legato/intact/1",
+    "true_start": 10194,
+    "true_end": 11663,
+    "inferred_start": 10304,
+    "inferred_end": 11840,
+    "true_pitch": 14,
+    "estimated_pitch": -5.006938615072037,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/legato/intact/1",
+    "true_start": 3353,
+    "true_end": 4822,
+    "inferred_start": 3520,
+    "inferred_end": 4992,
+    "true_pitch": 14,
+    "estimated_pitch": -9.991031722537059,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/duration/intact/0",
+    "true_start": 384,
+    "true_end": 1849,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -13.067308713397555,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/duration/intact/0",
+    "true_start": 15340,
+    "true_end": 16888,
+    "inferred_start": 15296,
+    "inferred_end": 17088,
+    "true_pitch": 6,
+    "estimated_pitch": -6.105298199308992,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/duration/intact/0",
+    "true_start": 7286,
+    "true_end": 8751,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": -6.140023180873335,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/duration/intact/0",
+    "true_start": 10400,
+    "true_end": 11721,
+    "inferred_start": 10496,
+    "inferred_end": 11968,
+    "true_pitch": 14,
+    "estimated_pitch": -9.998906202842804,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/duration/intact/0",
+    "true_start": 1849,
+    "true_end": 3498,
+    "inferred_start": 2048,
+    "inferred_end": 3712,
+    "true_pitch": 10,
+    "estimated_pitch": -9.109958685800743,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/duration/intact/0",
+    "true_start": 3498,
+    "true_end": 4819,
+    "inferred_start": 3712,
+    "inferred_end": 4992,
+    "true_pitch": 14,
+    "estimated_pitch": -5.013313542851981,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/duration/intact/1",
+    "true_start": 384,
+    "true_end": 1849,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -13.067308713397555,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/duration/intact/1",
+    "true_start": 15340,
+    "true_end": 16888,
+    "inferred_start": 15296,
+    "inferred_end": 17088,
+    "true_pitch": 6,
+    "estimated_pitch": -6.105298199308992,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/duration/intact/1",
+    "true_start": 7286,
+    "true_end": 8751,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": -6.140023180873335,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/duration/intact/1",
+    "true_start": 10400,
+    "true_end": 11721,
+    "inferred_start": 10496,
+    "inferred_end": 11904,
+    "true_pitch": 14,
+    "estimated_pitch": -5.013194574067617,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/duration/intact/1",
+    "true_start": 1849,
+    "true_end": 3498,
+    "inferred_start": 2048,
+    "inferred_end": 3712,
+    "true_pitch": 10,
+    "estimated_pitch": -9.109958685800743,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/duration/intact/1",
+    "true_start": 3498,
+    "true_end": 4819,
+    "inferred_start": 3712,
+    "inferred_end": 5056,
+    "true_pitch": 14,
+    "estimated_pitch": -9.998415812210457,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/intact/0",
+    "true_start": 384,
+    "true_end": 1849,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -13.067308713397555,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/intact/0",
+    "true_start": 15340,
+    "true_end": 16888,
+    "inferred_start": 15296,
+    "inferred_end": 17088,
+    "true_pitch": 6,
+    "estimated_pitch": -6.105298199308992,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/intact/0",
+    "true_start": 7286,
+    "true_end": 8751,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": -6.140023180873335,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/intact/0",
+    "true_start": 10400,
+    "true_end": 11721,
+    "inferred_start": 10496,
+    "inferred_end": 11968,
+    "true_pitch": 14,
+    "estimated_pitch": -9.998906202842804,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/intact/0",
+    "true_start": 1849,
+    "true_end": 3498,
+    "inferred_start": 2048,
+    "inferred_end": 3712,
+    "true_pitch": 10,
+    "estimated_pitch": -9.109958685800743,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/intact/0",
+    "true_start": 3498,
+    "true_end": 4819,
+    "inferred_start": 3712,
+    "inferred_end": 4992,
+    "true_pitch": 14,
+    "estimated_pitch": -5.013313542851981,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/intact/1",
+    "true_start": 384,
+    "true_end": 1849,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -13.067308713397555,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/intact/1",
+    "true_start": 15340,
+    "true_end": 16888,
+    "inferred_start": 15296,
+    "inferred_end": 17088,
+    "true_pitch": 6,
+    "estimated_pitch": -6.105298199308992,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/intact/1",
+    "true_start": 7286,
+    "true_end": 8751,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": -6.140023180873335,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/intact/1",
+    "true_start": 10400,
+    "true_end": 11721,
+    "inferred_start": 10496,
+    "inferred_end": 11904,
+    "true_pitch": 14,
+    "estimated_pitch": -5.013194574067617,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/intact/1",
+    "true_start": 1849,
+    "true_end": 3498,
+    "inferred_start": 2048,
+    "inferred_end": 3712,
+    "true_pitch": 10,
+    "estimated_pitch": -9.109958685800743,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/intact/1",
+    "true_start": 3498,
+    "true_end": 4819,
+    "inferred_start": 3712,
+    "inferred_end": 5056,
+    "true_pitch": 14,
+    "estimated_pitch": -9.998415812210457,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/reset/0",
+    "true_start": 15340,
+    "true_end": 16888,
+    "inferred_start": 15296,
+    "inferred_end": 17088,
+    "true_pitch": 6,
+    "estimated_pitch": -6.105298199308992,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/reset/1",
+    "true_start": 15340,
+    "true_end": 16888,
+    "inferred_start": 15296,
+    "inferred_end": 17088,
+    "true_pitch": 6,
+    "estimated_pitch": -6.105298199308992,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/removal/0",
+    "true_start": 384,
+    "true_end": 1849,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -13.067308713397555,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/removal/0",
+    "true_start": 15340,
+    "true_end": 16888,
+    "inferred_start": 15296,
+    "inferred_end": 17088,
+    "true_pitch": 6,
+    "estimated_pitch": -6.105298199308992,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/removal/0",
+    "true_start": 7286,
+    "true_end": 8751,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": -6.140023180873335,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/removal/0",
+    "true_start": 1849,
+    "true_end": 3498,
+    "inferred_start": 2048,
+    "inferred_end": 3712,
+    "true_pitch": 10,
+    "estimated_pitch": -9.109958685800743,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/removal/1",
+    "true_start": 384,
+    "true_end": 1849,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -13.067308713397555,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/removal/1",
+    "true_start": 15340,
+    "true_end": 16888,
+    "inferred_start": 15296,
+    "inferred_end": 17088,
+    "true_pitch": 6,
+    "estimated_pitch": -6.105298199308992,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/removal/1",
+    "true_start": 7286,
+    "true_end": 8751,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": -6.140023180873335,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/removal/1",
+    "true_start": 1849,
+    "true_end": 3498,
+    "inferred_start": 2048,
+    "inferred_end": 3712,
+    "true_pitch": 10,
+    "estimated_pitch": -9.109958685800743,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/swap/0",
+    "true_start": 384,
+    "true_end": 1849,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -13.067308713397555,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/swap/0",
+    "true_start": 15340,
+    "true_end": 16888,
+    "inferred_start": 15296,
+    "inferred_end": 17088,
+    "true_pitch": 6,
+    "estimated_pitch": -6.105298199308992,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/swap/0",
+    "true_start": 7286,
+    "true_end": 8751,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": -6.140023180873335,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/swap/0",
+    "true_start": 10400,
+    "true_end": 11721,
+    "inferred_start": 10496,
+    "inferred_end": 11904,
+    "true_pitch": 14,
+    "estimated_pitch": -5.013194574067617,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/swap/0",
+    "true_start": 1849,
+    "true_end": 3498,
+    "inferred_start": 2048,
+    "inferred_end": 3712,
+    "true_pitch": 10,
+    "estimated_pitch": -9.109958685800743,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/swap/0",
+    "true_start": 3498,
+    "true_end": 4819,
+    "inferred_start": 3712,
+    "inferred_end": 5056,
+    "true_pitch": 14,
+    "estimated_pitch": -9.998415812210457,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/swap/1",
+    "true_start": 384,
+    "true_end": 1849,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -13.067308713397555,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/swap/1",
+    "true_start": 15340,
+    "true_end": 16888,
+    "inferred_start": 15296,
+    "inferred_end": 17088,
+    "true_pitch": 6,
+    "estimated_pitch": -6.105298199308992,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/swap/1",
+    "true_start": 7286,
+    "true_end": 8751,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": -6.140023180873335,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/swap/1",
+    "true_start": 10400,
+    "true_end": 11721,
+    "inferred_start": 10496,
+    "inferred_end": 11968,
+    "true_pitch": 14,
+    "estimated_pitch": -9.998906202842804,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/swap/1",
+    "true_start": 1849,
+    "true_end": 3498,
+    "inferred_start": 2048,
+    "inferred_end": 3712,
+    "true_pitch": 10,
+    "estimated_pitch": -9.109958685800743,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/swap/1",
+    "true_start": 3498,
+    "true_end": 4819,
+    "inferred_start": 3712,
+    "inferred_end": 4992,
+    "true_pitch": 14,
+    "estimated_pitch": -5.013313542851981,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/shuffle/0",
+    "true_start": 384,
+    "true_end": 1849,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -6.119223426168152,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/shuffle/0",
+    "true_start": 15340,
+    "true_end": 16888,
+    "inferred_start": 15296,
+    "inferred_end": 17088,
+    "true_pitch": 6,
+    "estimated_pitch": -6.105298199308992,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/shuffle/0",
+    "true_start": 7286,
+    "true_end": 8751,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": -13.08361601872729,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/shuffle/0",
+    "true_start": 3498,
+    "true_end": 4819,
+    "inferred_start": 3584,
+    "inferred_end": 5056,
+    "true_pitch": 14,
+    "estimated_pitch": -9.998822180621177,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/shuffle/0",
+    "true_start": 8751,
+    "true_end": 10400,
+    "inferred_start": 8960,
+    "inferred_end": 10624,
+    "true_pitch": 10,
+    "estimated_pitch": -9.11615931862335,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/shuffle/0",
+    "true_start": 10400,
+    "true_end": 11721,
+    "inferred_start": 10624,
+    "inferred_end": 11904,
+    "true_pitch": 14,
+    "estimated_pitch": -5.012295174963408,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/shuffle/1",
+    "true_start": 384,
+    "true_end": 1849,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -6.119223426168152,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/shuffle/1",
+    "true_start": 15340,
+    "true_end": 16888,
+    "inferred_start": 15296,
+    "inferred_end": 17088,
+    "true_pitch": 6,
+    "estimated_pitch": -6.105298199308992,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/shuffle/1",
+    "true_start": 7286,
+    "true_end": 8751,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": -13.08361601872729,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/shuffle/1",
+    "true_start": 3498,
+    "true_end": 4819,
+    "inferred_start": 3584,
+    "inferred_end": 4992,
+    "true_pitch": 14,
+    "estimated_pitch": -5.014241155425052,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/shuffle/1",
+    "true_start": 8751,
+    "true_end": 10400,
+    "inferred_start": 8960,
+    "inferred_end": 10624,
+    "true_pitch": 10,
+    "estimated_pitch": -9.11615931862335,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/shuffle/1",
+    "true_start": 10400,
+    "true_end": 11721,
+    "inferred_start": 10624,
+    "inferred_end": 11968,
+    "true_pitch": 14,
+    "estimated_pitch": -9.998738899537354,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/ambiguous/0",
+    "true_start": 384,
+    "true_end": 1849,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -6.119223426168152,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/ambiguous/0",
+    "true_start": 15340,
+    "true_end": 16888,
+    "inferred_start": 15296,
+    "inferred_end": 17088,
+    "true_pitch": 6,
+    "estimated_pitch": -6.105298199308992,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/ambiguous/0",
+    "true_start": 7286,
+    "true_end": 8751,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": -6.140023180873335,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/ambiguous/0",
+    "true_start": 3498,
+    "true_end": 4819,
+    "inferred_start": 3584,
+    "inferred_end": 4992,
+    "true_pitch": 14,
+    "estimated_pitch": -5.014241155425052,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/ambiguous/0",
+    "true_start": 10400,
+    "true_end": 11721,
+    "inferred_start": 10496,
+    "inferred_end": 11968,
+    "true_pitch": 14,
+    "estimated_pitch": -9.998906202842804,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/ambiguous/1",
+    "true_start": 384,
+    "true_end": 1849,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -6.119223426168152,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/ambiguous/1",
+    "true_start": 15340,
+    "true_end": 16888,
+    "inferred_start": 15296,
+    "inferred_end": 17088,
+    "true_pitch": 6,
+    "estimated_pitch": -6.105298199308992,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/ambiguous/1",
+    "true_start": 7286,
+    "true_end": 8751,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": -6.140023180873335,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/ambiguous/1",
+    "true_start": 3498,
+    "true_end": 4819,
+    "inferred_start": 3584,
+    "inferred_end": 4992,
+    "true_pitch": 14,
+    "estimated_pitch": -5.014241155425052,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-09/joint/ambiguous/1",
+    "true_start": 10400,
+    "true_end": 11721,
+    "inferred_start": 10496,
+    "inferred_end": 11968,
+    "true_pitch": 14,
+    "estimated_pitch": -9.998906202842804,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-10/legato/intact/0",
+    "true_start": 3359,
+    "true_end": 4831,
+    "inferred_start": 3584,
+    "inferred_end": 4992,
+    "true_pitch": 12,
+    "estimated_pitch": 12.361526889533856,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-10/duration/intact/0",
+    "true_start": 10418,
+    "true_end": 11742,
+    "inferred_start": 10560,
+    "inferred_end": 11968,
+    "true_pitch": 12,
+    "estimated_pitch": 11.641113189825521,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-10/duration/intact/1",
+    "true_start": 10418,
+    "true_end": 11742,
+    "inferred_start": 10560,
+    "inferred_end": 11904,
+    "true_pitch": 12,
+    "estimated_pitch": 12.360117564835587,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-10/joint/intact/0",
+    "true_start": 10418,
+    "true_end": 11742,
+    "inferred_start": 10560,
+    "inferred_end": 11968,
+    "true_pitch": 12,
+    "estimated_pitch": 11.641113189825521,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-10/joint/intact/1",
+    "true_start": 10418,
+    "true_end": 11742,
+    "inferred_start": 10560,
+    "inferred_end": 11904,
+    "true_pitch": 12,
+    "estimated_pitch": 12.360117564835587,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-10/joint/swap/0",
+    "true_start": 10418,
+    "true_end": 11742,
+    "inferred_start": 10560,
+    "inferred_end": 11904,
+    "true_pitch": 12,
+    "estimated_pitch": 12.360117564835587,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-10/joint/swap/1",
+    "true_start": 10418,
+    "true_end": 11742,
+    "inferred_start": 10560,
+    "inferred_end": 11968,
+    "true_pitch": 12,
+    "estimated_pitch": 11.641113189825521,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-10/joint/shuffle/0",
+    "true_start": 3504,
+    "true_end": 4828,
+    "inferred_start": 3648,
+    "inferred_end": 5056,
+    "true_pitch": 12,
+    "estimated_pitch": 11.640137154420604,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-10/joint/shuffle/1",
+    "true_start": 3504,
+    "true_end": 4828,
+    "inferred_start": 3648,
+    "inferred_end": 4992,
+    "true_pitch": 12,
+    "estimated_pitch": 12.372845290690208,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-10/joint/ambiguous/0",
+    "true_start": 3504,
+    "true_end": 4828,
+    "inferred_start": 3648,
+    "inferred_end": 4992,
+    "true_pitch": 12,
+    "estimated_pitch": 12.372845290690208,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-10/joint/ambiguous/0",
+    "true_start": 10418,
+    "true_end": 11742,
+    "inferred_start": 10560,
+    "inferred_end": 11968,
+    "true_pitch": 12,
+    "estimated_pitch": 11.641113189825521,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-10/joint/ambiguous/1",
+    "true_start": 3504,
+    "true_end": 4828,
+    "inferred_start": 3648,
+    "inferred_end": 4992,
+    "true_pitch": 12,
+    "estimated_pitch": 12.372845290690208,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-10/joint/ambiguous/1",
+    "true_start": 10418,
+    "true_end": 11742,
+    "inferred_start": 10560,
+    "inferred_end": 11968,
+    "true_pitch": 12,
+    "estimated_pitch": 11.641113189825521,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-11/legato/intact/1",
+    "true_start": 3365,
+    "true_end": 4840,
+    "inferred_start": 3392,
+    "inferred_end": 4992,
+    "true_pitch": 22,
+    "estimated_pitch": 22.365166371090517,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-11/duration/intact/0",
+    "true_start": 10436,
+    "true_end": 11763,
+    "inferred_start": 10624,
+    "inferred_end": 11904,
+    "true_pitch": 22,
+    "estimated_pitch": 22.49967220481851,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/legato/intact/0",
+    "true_start": 3371,
+    "true_end": 4849,
+    "inferred_start": 3520,
+    "inferred_end": 5056,
+    "true_pitch": -2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/legato/intact/0",
+    "true_start": 8698,
+    "true_end": 10248,
+    "inferred_start": 8960,
+    "inferred_end": 10432,
+    "true_pitch": 3,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/legato/intact/1",
+    "true_start": 10248,
+    "true_end": 11726,
+    "inferred_start": 10432,
+    "inferred_end": 11904,
+    "true_pitch": -2,
+    "estimated_pitch": -1.6489042148125224,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/legato/intact/1",
+    "true_start": 8698,
+    "true_end": 10248,
+    "inferred_start": 8960,
+    "inferred_end": 10432,
+    "true_pitch": 3,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/duration/intact/0",
+    "true_start": 16969,
+    "true_end": 18710,
+    "inferred_start": 17088,
+    "inferred_end": 18944,
+    "true_pitch": 3,
+    "estimated_pitch": -15.965170384749864,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/duration/intact/0",
+    "true_start": 10454,
+    "true_end": 11784,
+    "inferred_start": 10624,
+    "inferred_end": 11904,
+    "true_pitch": -2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/duration/intact/0",
+    "true_start": 1858,
+    "true_end": 3516,
+    "inferred_start": 2112,
+    "inferred_end": 3776,
+    "true_pitch": 2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/duration/intact/0",
+    "true_start": 3516,
+    "true_end": 4846,
+    "inferred_start": 3776,
+    "inferred_end": 5056,
+    "true_pitch": -2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/duration/intact/1",
+    "true_start": 16969,
+    "true_end": 18710,
+    "inferred_start": 17088,
+    "inferred_end": 18944,
+    "true_pitch": 3,
+    "estimated_pitch": -15.965170384749864,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/duration/intact/1",
+    "true_start": 10454,
+    "true_end": 11784,
+    "inferred_start": 10624,
+    "inferred_end": 12032,
+    "true_pitch": -2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/duration/intact/1",
+    "true_start": 1858,
+    "true_end": 3516,
+    "inferred_start": 2112,
+    "inferred_end": 3776,
+    "true_pitch": 2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/duration/intact/1",
+    "true_start": 3516,
+    "true_end": 4846,
+    "inferred_start": 3776,
+    "inferred_end": 4992,
+    "true_pitch": -2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/intact/0",
+    "true_start": 15412,
+    "true_end": 16969,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": -13.01085128378865,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/intact/0",
+    "true_start": 10454,
+    "true_end": 11784,
+    "inferred_start": 10624,
+    "inferred_end": 11904,
+    "true_pitch": -2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/intact/0",
+    "true_start": 16969,
+    "true_end": 18710,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 3,
+    "estimated_pitch": -8.99253168164347,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/intact/0",
+    "true_start": 1858,
+    "true_end": 3516,
+    "inferred_start": 2112,
+    "inferred_end": 3776,
+    "true_pitch": 2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/intact/0",
+    "true_start": 3516,
+    "true_end": 4846,
+    "inferred_start": 3776,
+    "inferred_end": 5056,
+    "true_pitch": -2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/intact/1",
+    "true_start": 15412,
+    "true_end": 16969,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": -13.01085128378865,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/intact/1",
+    "true_start": 16969,
+    "true_end": 18710,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 3,
+    "estimated_pitch": -8.99253168164347,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/intact/1",
+    "true_start": 10454,
+    "true_end": 11784,
+    "inferred_start": 10624,
+    "inferred_end": 12032,
+    "true_pitch": -2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/intact/1",
+    "true_start": 1858,
+    "true_end": 3516,
+    "inferred_start": 2112,
+    "inferred_end": 3776,
+    "true_pitch": 2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/intact/1",
+    "true_start": 3516,
+    "true_end": 4846,
+    "inferred_start": 3776,
+    "inferred_end": 4992,
+    "true_pitch": -2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/reset/0",
+    "true_start": 15412,
+    "true_end": 16969,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": -13.01085128378865,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/reset/0",
+    "true_start": 16969,
+    "true_end": 18710,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 3,
+    "estimated_pitch": -8.99253168164347,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/reset/1",
+    "true_start": 15412,
+    "true_end": 16969,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": -13.01085128378865,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/reset/1",
+    "true_start": 16969,
+    "true_end": 18710,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 3,
+    "estimated_pitch": -8.99253168164347,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/removal/0",
+    "true_start": 15412,
+    "true_end": 16969,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": -13.01085128378865,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/removal/0",
+    "true_start": 16969,
+    "true_end": 18710,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 3,
+    "estimated_pitch": -8.99253168164347,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/removal/0",
+    "true_start": 1858,
+    "true_end": 3516,
+    "inferred_start": 2112,
+    "inferred_end": 3776,
+    "true_pitch": 2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/removal/1",
+    "true_start": 15412,
+    "true_end": 16969,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": -13.01085128378865,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/removal/1",
+    "true_start": 16969,
+    "true_end": 18710,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 3,
+    "estimated_pitch": -8.99253168164347,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/removal/1",
+    "true_start": 1858,
+    "true_end": 3516,
+    "inferred_start": 2112,
+    "inferred_end": 3776,
+    "true_pitch": 2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/swap/0",
+    "true_start": 15412,
+    "true_end": 16969,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": -13.01085128378865,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/swap/0",
+    "true_start": 16969,
+    "true_end": 18710,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 3,
+    "estimated_pitch": -8.99253168164347,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/swap/0",
+    "true_start": 10454,
+    "true_end": 11784,
+    "inferred_start": 10624,
+    "inferred_end": 12032,
+    "true_pitch": -2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/swap/0",
+    "true_start": 1858,
+    "true_end": 3516,
+    "inferred_start": 2112,
+    "inferred_end": 3776,
+    "true_pitch": 2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/swap/0",
+    "true_start": 3516,
+    "true_end": 4846,
+    "inferred_start": 3776,
+    "inferred_end": 4992,
+    "true_pitch": -2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/swap/1",
+    "true_start": 15412,
+    "true_end": 16969,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": -13.01085128378865,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/swap/1",
+    "true_start": 10454,
+    "true_end": 11784,
+    "inferred_start": 10624,
+    "inferred_end": 11904,
+    "true_pitch": -2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/swap/1",
+    "true_start": 16969,
+    "true_end": 18710,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 3,
+    "estimated_pitch": -8.99253168164347,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/swap/1",
+    "true_start": 1858,
+    "true_end": 3516,
+    "inferred_start": 2112,
+    "inferred_end": 3776,
+    "true_pitch": 2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/swap/1",
+    "true_start": 3516,
+    "true_end": 4846,
+    "inferred_start": 3776,
+    "inferred_end": 5056,
+    "true_pitch": -2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/shuffle/0",
+    "true_start": 15412,
+    "true_end": 16969,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": -13.01085128378865,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/shuffle/0",
+    "true_start": 3516,
+    "true_end": 4846,
+    "inferred_start": 3648,
+    "inferred_end": 4992,
+    "true_pitch": -2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/shuffle/0",
+    "true_start": 16969,
+    "true_end": 18710,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 3,
+    "estimated_pitch": -8.99253168164347,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/shuffle/0",
+    "true_start": 10454,
+    "true_end": 11784,
+    "inferred_start": 10688,
+    "inferred_end": 12032,
+    "true_pitch": -2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/shuffle/1",
+    "true_start": 15412,
+    "true_end": 16969,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": -13.01085128378865,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/shuffle/1",
+    "true_start": 3516,
+    "true_end": 4846,
+    "inferred_start": 3648,
+    "inferred_end": 5056,
+    "true_pitch": -2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/shuffle/1",
+    "true_start": 16969,
+    "true_end": 18710,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 3,
+    "estimated_pitch": -8.99253168164347,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/shuffle/1",
+    "true_start": 10454,
+    "true_end": 11784,
+    "inferred_start": 10688,
+    "inferred_end": 11904,
+    "true_pitch": -2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/ambiguous/0",
+    "true_start": 15412,
+    "true_end": 16969,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": -13.01085128378865,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/ambiguous/0",
+    "true_start": 10454,
+    "true_end": 11784,
+    "inferred_start": 10624,
+    "inferred_end": 11904,
+    "true_pitch": -2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/ambiguous/0",
+    "true_start": 3516,
+    "true_end": 4846,
+    "inferred_start": 3648,
+    "inferred_end": 5056,
+    "true_pitch": -2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/ambiguous/0",
+    "true_start": 16969,
+    "true_end": 18710,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 3,
+    "estimated_pitch": -8.99253168164347,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/ambiguous/1",
+    "true_start": 15412,
+    "true_end": 16969,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": -13.01085128378865,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/ambiguous/1",
+    "true_start": 10454,
+    "true_end": 11784,
+    "inferred_start": 10624,
+    "inferred_end": 11904,
+    "true_pitch": -2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/ambiguous/1",
+    "true_start": 3516,
+    "true_end": 4846,
+    "inferred_start": 3648,
+    "inferred_end": 5056,
+    "true_pitch": -2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-12/joint/ambiguous/1",
+    "true_start": 16969,
+    "true_end": 18710,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 3,
+    "estimated_pitch": -8.99253168164347,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/duration/intact/0",
+    "true_start": 7334,
+    "true_end": 8811,
+    "inferred_start": 7296,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": 6.4012029685120275,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/duration/intact/0",
+    "true_start": 15436,
+    "true_end": 16996,
+    "inferred_start": 15424,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": 6.350948866030977,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/duration/intact/0",
+    "true_start": 3522,
+    "true_end": 4855,
+    "inferred_start": 3712,
+    "inferred_end": 5120,
+    "true_pitch": 11,
+    "estimated_pitch": 10.614977964144778,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/duration/intact/1",
+    "true_start": 7334,
+    "true_end": 8811,
+    "inferred_start": 7296,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": 6.4012029685120275,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/duration/intact/1",
+    "true_start": 15436,
+    "true_end": 16996,
+    "inferred_start": 15424,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": 6.350948866030977,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/duration/intact/1",
+    "true_start": 3522,
+    "true_end": 4855,
+    "inferred_start": 3712,
+    "inferred_end": 4992,
+    "true_pitch": 11,
+    "estimated_pitch": 11.392311912666862,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/joint/intact/0",
+    "true_start": 384,
+    "true_end": 1861,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -6.054033278434565,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/joint/intact/0",
+    "true_start": 15436,
+    "true_end": 16996,
+    "inferred_start": 15424,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": 6.350948866030977,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/joint/intact/0",
+    "true_start": 7334,
+    "true_end": 8811,
+    "inferred_start": 7296,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": -5.979636424251817,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/joint/intact/0",
+    "true_start": 3522,
+    "true_end": 4855,
+    "inferred_start": 3648,
+    "inferred_end": 5056,
+    "true_pitch": 11,
+    "estimated_pitch": -8.008677106311799,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/joint/intact/1",
+    "true_start": 384,
+    "true_end": 1861,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -6.054033278434565,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/joint/intact/1",
+    "true_start": 15436,
+    "true_end": 16996,
+    "inferred_start": 15424,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": 6.350948866030977,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/joint/intact/1",
+    "true_start": 7334,
+    "true_end": 8811,
+    "inferred_start": 7296,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": -5.979636424251817,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/joint/intact/1",
+    "true_start": 3522,
+    "true_end": 4855,
+    "inferred_start": 3648,
+    "inferred_end": 5056,
+    "true_pitch": 11,
+    "estimated_pitch": -7.995776261073314,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/joint/reset/0",
+    "true_start": 15436,
+    "true_end": 16996,
+    "inferred_start": 15424,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": 6.350948866030977,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/joint/reset/1",
+    "true_start": 15436,
+    "true_end": 16996,
+    "inferred_start": 15424,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": 6.350948866030977,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/joint/removal/0",
+    "true_start": 384,
+    "true_end": 1861,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -6.054033278434565,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/joint/removal/0",
+    "true_start": 15436,
+    "true_end": 16996,
+    "inferred_start": 15424,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": 6.350948866030977,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/joint/removal/0",
+    "true_start": 7334,
+    "true_end": 8811,
+    "inferred_start": 7296,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": -5.979636424251817,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/joint/removal/1",
+    "true_start": 384,
+    "true_end": 1861,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -6.054033278434565,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/joint/removal/1",
+    "true_start": 15436,
+    "true_end": 16996,
+    "inferred_start": 15424,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": 6.350948866030977,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/joint/removal/1",
+    "true_start": 7334,
+    "true_end": 8811,
+    "inferred_start": 7296,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": -5.979636424251817,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/joint/swap/0",
+    "true_start": 384,
+    "true_end": 1861,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -6.054033278434565,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/joint/swap/0",
+    "true_start": 15436,
+    "true_end": 16996,
+    "inferred_start": 15424,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": 6.350948866030977,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/joint/swap/0",
+    "true_start": 7334,
+    "true_end": 8811,
+    "inferred_start": 7296,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": -5.979636424251817,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/joint/swap/0",
+    "true_start": 3522,
+    "true_end": 4855,
+    "inferred_start": 3648,
+    "inferred_end": 5056,
+    "true_pitch": 11,
+    "estimated_pitch": -7.995776261073314,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/joint/swap/1",
+    "true_start": 384,
+    "true_end": 1861,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -6.054033278434565,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/joint/swap/1",
+    "true_start": 15436,
+    "true_end": 16996,
+    "inferred_start": 15424,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": 6.350948866030977,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/joint/swap/1",
+    "true_start": 7334,
+    "true_end": 8811,
+    "inferred_start": 7296,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": -5.979636424251817,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/joint/swap/1",
+    "true_start": 3522,
+    "true_end": 4855,
+    "inferred_start": 3648,
+    "inferred_end": 5056,
+    "true_pitch": 11,
+    "estimated_pitch": -8.008677106311799,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/joint/shuffle/0",
+    "true_start": 384,
+    "true_end": 1861,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -5.98647475703831,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/joint/shuffle/0",
+    "true_start": 15436,
+    "true_end": 16996,
+    "inferred_start": 15424,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": 6.350948866030977,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/joint/shuffle/0",
+    "true_start": 7334,
+    "true_end": 8811,
+    "inferred_start": 7296,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": -6.061379174420315,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/joint/shuffle/0",
+    "true_start": 10472,
+    "true_end": 11805,
+    "inferred_start": 10624,
+    "inferred_end": 11968,
+    "true_pitch": 11,
+    "estimated_pitch": -8.013854697011736,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/joint/shuffle/1",
+    "true_start": 384,
+    "true_end": 1861,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -5.98647475703831,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/joint/shuffle/1",
+    "true_start": 15436,
+    "true_end": 16996,
+    "inferred_start": 15424,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": 6.350948866030977,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/joint/shuffle/1",
+    "true_start": 7334,
+    "true_end": 8811,
+    "inferred_start": 7296,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": -6.061379174420315,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/joint/shuffle/1",
+    "true_start": 10472,
+    "true_end": 11805,
+    "inferred_start": 10624,
+    "inferred_end": 12032,
+    "true_pitch": 11,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/joint/ambiguous/0",
+    "true_start": 384,
+    "true_end": 1861,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -6.054033278434565,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/joint/ambiguous/0",
+    "true_start": 15436,
+    "true_end": 16996,
+    "inferred_start": 15424,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": 6.350948866030977,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/joint/ambiguous/0",
+    "true_start": 7334,
+    "true_end": 8811,
+    "inferred_start": 7296,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": -6.061379174420315,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/joint/ambiguous/0",
+    "true_start": 3522,
+    "true_end": 4855,
+    "inferred_start": 3648,
+    "inferred_end": 5056,
+    "true_pitch": 11,
+    "estimated_pitch": -8.008677106311799,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/joint/ambiguous/0",
+    "true_start": 10472,
+    "true_end": 11805,
+    "inferred_start": 10624,
+    "inferred_end": 12032,
+    "true_pitch": 11,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/joint/ambiguous/1",
+    "true_start": 384,
+    "true_end": 1861,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -6.054033278434565,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/joint/ambiguous/1",
+    "true_start": 15436,
+    "true_end": 16996,
+    "inferred_start": 15424,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": 6.350948866030977,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/joint/ambiguous/1",
+    "true_start": 7334,
+    "true_end": 8811,
+    "inferred_start": 7296,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": -6.061379174420315,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/joint/ambiguous/1",
+    "true_start": 3522,
+    "true_end": 4855,
+    "inferred_start": 3648,
+    "inferred_end": 5056,
+    "true_pitch": 11,
+    "estimated_pitch": -8.008677106311799,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-13/joint/ambiguous/1",
+    "true_start": 10472,
+    "true_end": 11805,
+    "inferred_start": 10624,
+    "inferred_end": 12032,
+    "true_pitch": 11,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/legato/intact/0",
+    "true_start": 1827,
+    "true_end": 3383,
+    "inferred_start": 1984,
+    "inferred_end": 3584,
+    "true_pitch": 14,
+    "estimated_pitch": 13.630109954507404,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/legato/intact/0",
+    "true_start": 10284,
+    "true_end": 11768,
+    "inferred_start": 10496,
+    "inferred_end": 11968,
+    "true_pitch": 9,
+    "estimated_pitch": -10.080973645320512,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/legato/intact/1",
+    "true_start": 1827,
+    "true_end": 3383,
+    "inferred_start": 1984,
+    "inferred_end": 3584,
+    "true_pitch": 14,
+    "estimated_pitch": 13.630109954507404,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/legato/intact/1",
+    "true_start": 3383,
+    "true_end": 4867,
+    "inferred_start": 3584,
+    "inferred_end": 5056,
+    "true_pitch": 9,
+    "estimated_pitch": -10.068852480153202,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/legato/intact/1",
+    "true_start": 10284,
+    "true_end": 11768,
+    "inferred_start": 10496,
+    "inferred_end": 11968,
+    "true_pitch": 9,
+    "estimated_pitch": 8.64426111254427,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/duration/intact/0",
+    "true_start": 7346,
+    "true_end": 8826,
+    "inferred_start": 7232,
+    "inferred_end": 9088,
+    "true_pitch": 18,
+    "estimated_pitch": -5.9931437040085465,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/duration/intact/0",
+    "true_start": 1864,
+    "true_end": 3528,
+    "inferred_start": 2112,
+    "inferred_end": 3712,
+    "true_pitch": 14,
+    "estimated_pitch": -4.947923991774541,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/duration/intact/1",
+    "true_start": 7346,
+    "true_end": 8826,
+    "inferred_start": 7232,
+    "inferred_end": 9088,
+    "true_pitch": 18,
+    "estimated_pitch": -5.9931437040085465,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/duration/intact/1",
+    "true_start": 3528,
+    "true_end": 4864,
+    "inferred_start": 3712,
+    "inferred_end": 4992,
+    "true_pitch": 9,
+    "estimated_pitch": 9.425006620802701,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/duration/intact/1",
+    "true_start": 1864,
+    "true_end": 3528,
+    "inferred_start": 2112,
+    "inferred_end": 3712,
+    "true_pitch": 14,
+    "estimated_pitch": -4.947923991774541,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/duration/intact/1",
+    "true_start": 10490,
+    "true_end": 11826,
+    "inferred_start": 10688,
+    "inferred_end": 12032,
+    "true_pitch": 9,
+    "estimated_pitch": 8.622599140669518,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/intact/0",
+    "true_start": 15460,
+    "true_end": 17023,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 18,
+    "estimated_pitch": 6.049568587376385,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/intact/0",
+    "true_start": 7346,
+    "true_end": 8826,
+    "inferred_start": 7232,
+    "inferred_end": 9088,
+    "true_pitch": 18,
+    "estimated_pitch": -5.9931437040085465,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/intact/0",
+    "true_start": 17023,
+    "true_end": 18770,
+    "inferred_start": 17216,
+    "inferred_end": 19008,
+    "true_pitch": 14,
+    "estimated_pitch": 1.998548068870087,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/intact/0",
+    "true_start": 1864,
+    "true_end": 3528,
+    "inferred_start": 2112,
+    "inferred_end": 3712,
+    "true_pitch": 14,
+    "estimated_pitch": -4.947923991774541,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/intact/1",
+    "true_start": 15460,
+    "true_end": 17023,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 18,
+    "estimated_pitch": 6.049568587376385,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/intact/1",
+    "true_start": 7346,
+    "true_end": 8826,
+    "inferred_start": 7232,
+    "inferred_end": 9088,
+    "true_pitch": 18,
+    "estimated_pitch": -5.9931437040085465,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/intact/1",
+    "true_start": 3528,
+    "true_end": 4864,
+    "inferred_start": 3712,
+    "inferred_end": 4992,
+    "true_pitch": 9,
+    "estimated_pitch": 9.425006620802701,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/intact/1",
+    "true_start": 17023,
+    "true_end": 18770,
+    "inferred_start": 17216,
+    "inferred_end": 19008,
+    "true_pitch": 14,
+    "estimated_pitch": 1.998548068870087,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/intact/1",
+    "true_start": 1864,
+    "true_end": 3528,
+    "inferred_start": 2112,
+    "inferred_end": 3712,
+    "true_pitch": 14,
+    "estimated_pitch": -4.947923991774541,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/intact/1",
+    "true_start": 10490,
+    "true_end": 11826,
+    "inferred_start": 10688,
+    "inferred_end": 12032,
+    "true_pitch": 9,
+    "estimated_pitch": 8.622599140669518,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/reset/0",
+    "true_start": 15460,
+    "true_end": 17023,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 18,
+    "estimated_pitch": 6.049568587376385,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/reset/0",
+    "true_start": 17023,
+    "true_end": 18770,
+    "inferred_start": 17216,
+    "inferred_end": 19008,
+    "true_pitch": 14,
+    "estimated_pitch": 1.998548068870087,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/reset/1",
+    "true_start": 15460,
+    "true_end": 17023,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 18,
+    "estimated_pitch": 6.049568587376385,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/reset/1",
+    "true_start": 17023,
+    "true_end": 18770,
+    "inferred_start": 17216,
+    "inferred_end": 19008,
+    "true_pitch": 14,
+    "estimated_pitch": 1.998548068870087,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/removal/0",
+    "true_start": 15460,
+    "true_end": 17023,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 18,
+    "estimated_pitch": 6.049568587376385,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/removal/0",
+    "true_start": 7346,
+    "true_end": 8826,
+    "inferred_start": 7232,
+    "inferred_end": 9088,
+    "true_pitch": 18,
+    "estimated_pitch": -5.9931437040085465,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/removal/0",
+    "true_start": 17023,
+    "true_end": 18770,
+    "inferred_start": 17216,
+    "inferred_end": 19008,
+    "true_pitch": 14,
+    "estimated_pitch": 1.998548068870087,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/removal/0",
+    "true_start": 1864,
+    "true_end": 3528,
+    "inferred_start": 2112,
+    "inferred_end": 3712,
+    "true_pitch": 14,
+    "estimated_pitch": -4.947923991774541,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/removal/1",
+    "true_start": 15460,
+    "true_end": 17023,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 18,
+    "estimated_pitch": 6.049568587376385,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/removal/1",
+    "true_start": 7346,
+    "true_end": 8826,
+    "inferred_start": 7232,
+    "inferred_end": 9088,
+    "true_pitch": 18,
+    "estimated_pitch": -5.9931437040085465,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/removal/1",
+    "true_start": 17023,
+    "true_end": 18770,
+    "inferred_start": 17216,
+    "inferred_end": 19008,
+    "true_pitch": 14,
+    "estimated_pitch": 1.998548068870087,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/removal/1",
+    "true_start": 1864,
+    "true_end": 3528,
+    "inferred_start": 2112,
+    "inferred_end": 3712,
+    "true_pitch": 14,
+    "estimated_pitch": -4.947923991774541,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/swap/0",
+    "true_start": 15460,
+    "true_end": 17023,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 18,
+    "estimated_pitch": 6.049568587376385,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/swap/0",
+    "true_start": 7346,
+    "true_end": 8826,
+    "inferred_start": 7232,
+    "inferred_end": 9088,
+    "true_pitch": 18,
+    "estimated_pitch": -5.9931437040085465,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/swap/0",
+    "true_start": 3528,
+    "true_end": 4864,
+    "inferred_start": 3712,
+    "inferred_end": 4992,
+    "true_pitch": 9,
+    "estimated_pitch": 9.425006620802701,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/swap/0",
+    "true_start": 17023,
+    "true_end": 18770,
+    "inferred_start": 17216,
+    "inferred_end": 19008,
+    "true_pitch": 14,
+    "estimated_pitch": 1.998548068870087,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/swap/0",
+    "true_start": 1864,
+    "true_end": 3528,
+    "inferred_start": 2112,
+    "inferred_end": 3712,
+    "true_pitch": 14,
+    "estimated_pitch": -4.947923991774541,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/swap/0",
+    "true_start": 10490,
+    "true_end": 11826,
+    "inferred_start": 10688,
+    "inferred_end": 12032,
+    "true_pitch": 9,
+    "estimated_pitch": 8.622599140669518,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/swap/1",
+    "true_start": 15460,
+    "true_end": 17023,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 18,
+    "estimated_pitch": 6.049568587376385,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/swap/1",
+    "true_start": 7346,
+    "true_end": 8826,
+    "inferred_start": 7232,
+    "inferred_end": 9088,
+    "true_pitch": 18,
+    "estimated_pitch": -5.9931437040085465,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/swap/1",
+    "true_start": 17023,
+    "true_end": 18770,
+    "inferred_start": 17216,
+    "inferred_end": 19008,
+    "true_pitch": 14,
+    "estimated_pitch": 1.998548068870087,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/swap/1",
+    "true_start": 1864,
+    "true_end": 3528,
+    "inferred_start": 2112,
+    "inferred_end": 3712,
+    "true_pitch": 14,
+    "estimated_pitch": -4.947923991774541,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/shuffle/0",
+    "true_start": 15460,
+    "true_end": 17023,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 18,
+    "estimated_pitch": 6.049568587376385,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/shuffle/0",
+    "true_start": 384,
+    "true_end": 1864,
+    "inferred_start": 256,
+    "inferred_end": 2112,
+    "true_pitch": 18,
+    "estimated_pitch": -5.993049961062745,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/shuffle/0",
+    "true_start": 8826,
+    "true_end": 10490,
+    "inferred_start": 9024,
+    "inferred_end": 10688,
+    "true_pitch": 14,
+    "estimated_pitch": -4.937065128154044,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/shuffle/0",
+    "true_start": 17023,
+    "true_end": 18770,
+    "inferred_start": 17216,
+    "inferred_end": 19008,
+    "true_pitch": 14,
+    "estimated_pitch": 1.998548068870087,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/shuffle/0",
+    "true_start": 3528,
+    "true_end": 4864,
+    "inferred_start": 3776,
+    "inferred_end": 4992,
+    "true_pitch": 9,
+    "estimated_pitch": 9.455535955589607,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/shuffle/0",
+    "true_start": 1864,
+    "true_end": 3528,
+    "inferred_start": 2112,
+    "inferred_end": 3776,
+    "true_pitch": 13,
+    "estimated_pitch": 12.634000918741627,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/shuffle/0",
+    "true_start": 10490,
+    "true_end": 11826,
+    "inferred_start": 10688,
+    "inferred_end": 12032,
+    "true_pitch": 9,
+    "estimated_pitch": 8.622599140669518,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/shuffle/1",
+    "true_start": 15460,
+    "true_end": 17023,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 18,
+    "estimated_pitch": 6.049568587376385,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/shuffle/1",
+    "true_start": 384,
+    "true_end": 1864,
+    "inferred_start": 256,
+    "inferred_end": 2112,
+    "true_pitch": 18,
+    "estimated_pitch": -5.993049961062745,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/shuffle/1",
+    "true_start": 8826,
+    "true_end": 10490,
+    "inferred_start": 9024,
+    "inferred_end": 10688,
+    "true_pitch": 14,
+    "estimated_pitch": -4.937065128154044,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/shuffle/1",
+    "true_start": 17023,
+    "true_end": 18770,
+    "inferred_start": 17216,
+    "inferred_end": 19008,
+    "true_pitch": 14,
+    "estimated_pitch": 1.998548068870087,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/shuffle/1",
+    "true_start": 1864,
+    "true_end": 3528,
+    "inferred_start": 2112,
+    "inferred_end": 3776,
+    "true_pitch": 13,
+    "estimated_pitch": 12.634000918741627,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/shuffle/1",
+    "true_start": 3528,
+    "true_end": 4864,
+    "inferred_start": 3776,
+    "inferred_end": 5056,
+    "true_pitch": 9,
+    "estimated_pitch": 8.637750667551275,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/ambiguous/0",
+    "true_start": 15460,
+    "true_end": 17023,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 18,
+    "estimated_pitch": 6.049568587376385,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/ambiguous/0",
+    "true_start": 8826,
+    "true_end": 10490,
+    "inferred_start": 9024,
+    "inferred_end": 10688,
+    "true_pitch": 14,
+    "estimated_pitch": -4.937065128154044,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/ambiguous/0",
+    "true_start": 17023,
+    "true_end": 18770,
+    "inferred_start": 17216,
+    "inferred_end": 19008,
+    "true_pitch": 14,
+    "estimated_pitch": 1.998548068870087,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/ambiguous/0",
+    "true_start": 1864,
+    "true_end": 3528,
+    "inferred_start": 2112,
+    "inferred_end": 3712,
+    "true_pitch": 14,
+    "estimated_pitch": -4.947923991774541,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/ambiguous/1",
+    "true_start": 15460,
+    "true_end": 17023,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 18,
+    "estimated_pitch": 6.049568587376385,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/ambiguous/1",
+    "true_start": 8826,
+    "true_end": 10490,
+    "inferred_start": 9024,
+    "inferred_end": 10688,
+    "true_pitch": 14,
+    "estimated_pitch": -4.937065128154044,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/ambiguous/1",
+    "true_start": 17023,
+    "true_end": 18770,
+    "inferred_start": 17216,
+    "inferred_end": 19008,
+    "true_pitch": 14,
+    "estimated_pitch": 1.998548068870087,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-14/joint/ambiguous/1",
+    "true_start": 1864,
+    "true_end": 3528,
+    "inferred_start": 2112,
+    "inferred_end": 3712,
+    "true_pitch": 14,
+    "estimated_pitch": -4.947923991774541,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-15/legato/intact/0",
+    "true_start": 15362,
+    "true_end": 16808,
+    "inferred_start": 15232,
+    "inferred_end": 16960,
+    "true_pitch": 18,
+    "estimated_pitch": 18.362411697660267,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-15/legato/intact/0",
+    "true_start": 7297,
+    "true_end": 8743,
+    "inferred_start": 7168,
+    "inferred_end": 8896,
+    "true_pitch": 18,
+    "estimated_pitch": 18.364856139251625,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-15/legato/intact/0",
+    "true_start": 384,
+    "true_end": 1830,
+    "inferred_start": 256,
+    "inferred_end": 2048,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0081683779341892,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-15/legato/intact/1",
+    "true_start": 15362,
+    "true_end": 16808,
+    "inferred_start": 15232,
+    "inferred_end": 16960,
+    "true_pitch": 18,
+    "estimated_pitch": 18.362411697660267,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-15/legato/intact/1",
+    "true_start": 7297,
+    "true_end": 8743,
+    "inferred_start": 7168,
+    "inferred_end": 8896,
+    "true_pitch": 18,
+    "estimated_pitch": 18.364856139251625,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-15/legato/intact/1",
+    "true_start": 384,
+    "true_end": 1830,
+    "inferred_start": 256,
+    "inferred_end": 2048,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0081683779341892,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-15/duration/intact/0",
+    "true_start": 384,
+    "true_end": 1867,
+    "inferred_start": 256,
+    "inferred_end": 2048,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0110384706592912,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-15/duration/intact/1",
+    "true_start": 384,
+    "true_end": 1867,
+    "inferred_start": 256,
+    "inferred_end": 2048,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0110384706592912,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-15/joint/intact/0",
+    "true_start": 7358,
+    "true_end": 8841,
+    "inferred_start": 7232,
+    "inferred_end": 9088,
+    "true_pitch": 18,
+    "estimated_pitch": 6.02607479487638,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-15/joint/intact/0",
+    "true_start": 8841,
+    "true_end": 10508,
+    "inferred_start": 9088,
+    "inferred_end": 10752,
+    "true_pitch": 22,
+    "estimated_pitch": 3.027672750196567,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-15/joint/intact/0",
+    "true_start": 10508,
+    "true_end": 11847,
+    "inferred_start": 10752,
+    "inferred_end": 12032,
+    "true_pitch": 25,
+    "estimated_pitch": 13.004314925625797,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-15/joint/intact/1",
+    "true_start": 7358,
+    "true_end": 8841,
+    "inferred_start": 7232,
+    "inferred_end": 9088,
+    "true_pitch": 18,
+    "estimated_pitch": 6.02607479487638,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-15/joint/intact/1",
+    "true_start": 3534,
+    "true_end": 4873,
+    "inferred_start": 3712,
+    "inferred_end": 5056,
+    "true_pitch": 25,
+    "estimated_pitch": 13.004572634210552,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-15/joint/intact/1",
+    "true_start": 8841,
+    "true_end": 10508,
+    "inferred_start": 9088,
+    "inferred_end": 10752,
+    "true_pitch": 22,
+    "estimated_pitch": 3.027672750196567,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-15/joint/removal/0",
+    "true_start": 7358,
+    "true_end": 8841,
+    "inferred_start": 7232,
+    "inferred_end": 9088,
+    "true_pitch": 18,
+    "estimated_pitch": 6.02607479487638,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-15/joint/removal/0",
+    "true_start": 8841,
+    "true_end": 10508,
+    "inferred_start": 9088,
+    "inferred_end": 10752,
+    "true_pitch": 22,
+    "estimated_pitch": 3.027672750196567,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-15/joint/removal/1",
+    "true_start": 7358,
+    "true_end": 8841,
+    "inferred_start": 7232,
+    "inferred_end": 9088,
+    "true_pitch": 18,
+    "estimated_pitch": 6.02607479487638,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-15/joint/removal/1",
+    "true_start": 8841,
+    "true_end": 10508,
+    "inferred_start": 9088,
+    "inferred_end": 10752,
+    "true_pitch": 22,
+    "estimated_pitch": 3.027672750196567,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-15/joint/swap/0",
+    "true_start": 7358,
+    "true_end": 8841,
+    "inferred_start": 7232,
+    "inferred_end": 9088,
+    "true_pitch": 18,
+    "estimated_pitch": 6.02607479487638,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-15/joint/swap/0",
+    "true_start": 3534,
+    "true_end": 4873,
+    "inferred_start": 3712,
+    "inferred_end": 5056,
+    "true_pitch": 25,
+    "estimated_pitch": 13.004572634210552,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-15/joint/swap/0",
+    "true_start": 8841,
+    "true_end": 10508,
+    "inferred_start": 9088,
+    "inferred_end": 10752,
+    "true_pitch": 22,
+    "estimated_pitch": 3.027672750196567,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-15/joint/swap/1",
+    "true_start": 7358,
+    "true_end": 8841,
+    "inferred_start": 7232,
+    "inferred_end": 9088,
+    "true_pitch": 18,
+    "estimated_pitch": 6.02607479487638,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-15/joint/swap/1",
+    "true_start": 8841,
+    "true_end": 10508,
+    "inferred_start": 9088,
+    "inferred_end": 10752,
+    "true_pitch": 22,
+    "estimated_pitch": 3.027672750196567,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-15/joint/swap/1",
+    "true_start": 10508,
+    "true_end": 11847,
+    "inferred_start": 10752,
+    "inferred_end": 12032,
+    "true_pitch": 25,
+    "estimated_pitch": 13.004314925625797,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-15/joint/shuffle/0",
+    "true_start": 384,
+    "true_end": 1867,
+    "inferred_start": 256,
+    "inferred_end": 2112,
+    "true_pitch": 18,
+    "estimated_pitch": 6.026432343235118,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-15/joint/shuffle/0",
+    "true_start": 1867,
+    "true_end": 3534,
+    "inferred_start": 2112,
+    "inferred_end": 3776,
+    "true_pitch": 22,
+    "estimated_pitch": 3.027346227889982,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-15/joint/shuffle/0",
+    "true_start": 3534,
+    "true_end": 4873,
+    "inferred_start": 3776,
+    "inferred_end": 5056,
+    "true_pitch": 25,
+    "estimated_pitch": 13.004303612769654,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-15/joint/shuffle/1",
+    "true_start": 384,
+    "true_end": 1867,
+    "inferred_start": 256,
+    "inferred_end": 2112,
+    "true_pitch": 18,
+    "estimated_pitch": 6.026432343235118,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-15/joint/shuffle/1",
+    "true_start": 10508,
+    "true_end": 11847,
+    "inferred_start": 10688,
+    "inferred_end": 12032,
+    "true_pitch": 25,
+    "estimated_pitch": 13.004142188051667,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-15/joint/shuffle/1",
+    "true_start": 1867,
+    "true_end": 3534,
+    "inferred_start": 2112,
+    "inferred_end": 3776,
+    "true_pitch": 22,
+    "estimated_pitch": 3.027346227889982,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-15/joint/ambiguous/0",
+    "true_start": 7358,
+    "true_end": 8841,
+    "inferred_start": 7232,
+    "inferred_end": 9088,
+    "true_pitch": 18,
+    "estimated_pitch": 6.02607479487638,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-15/joint/ambiguous/0",
+    "true_start": 384,
+    "true_end": 1867,
+    "inferred_start": 256,
+    "inferred_end": 2112,
+    "true_pitch": 18,
+    "estimated_pitch": 6.026432343235118,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-15/joint/ambiguous/0",
+    "true_start": 1867,
+    "true_end": 3534,
+    "inferred_start": 2112,
+    "inferred_end": 3776,
+    "true_pitch": 22,
+    "estimated_pitch": 3.027346227889982,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-15/joint/ambiguous/0",
+    "true_start": 8841,
+    "true_end": 10508,
+    "inferred_start": 9088,
+    "inferred_end": 10752,
+    "true_pitch": 22,
+    "estimated_pitch": 3.027672750196567,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-15/joint/ambiguous/0",
+    "true_start": 10508,
+    "true_end": 11847,
+    "inferred_start": 10752,
+    "inferred_end": 12032,
+    "true_pitch": 25,
+    "estimated_pitch": 13.004314925625797,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-15/joint/ambiguous/1",
+    "true_start": 7358,
+    "true_end": 8841,
+    "inferred_start": 7232,
+    "inferred_end": 9088,
+    "true_pitch": 18,
+    "estimated_pitch": 6.02607479487638,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-15/joint/ambiguous/1",
+    "true_start": 384,
+    "true_end": 1867,
+    "inferred_start": 256,
+    "inferred_end": 2112,
+    "true_pitch": 18,
+    "estimated_pitch": 6.026432343235118,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-15/joint/ambiguous/1",
+    "true_start": 1867,
+    "true_end": 3534,
+    "inferred_start": 2112,
+    "inferred_end": 3776,
+    "true_pitch": 22,
+    "estimated_pitch": 3.027346227889982,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-15/joint/ambiguous/1",
+    "true_start": 8841,
+    "true_end": 10508,
+    "inferred_start": 9088,
+    "inferred_end": 10752,
+    "true_pitch": 22,
+    "estimated_pitch": 3.027672750196567,
+    "bound_difference": true
+  },
+  {
+    "episode": "civ-15/joint/ambiguous/1",
+    "true_start": 10508,
+    "true_end": 11847,
+    "inferred_start": 10752,
+    "inferred_end": 12032,
+    "true_pitch": 25,
+    "estimated_pitch": 13.004314925625797,
+    "bound_difference": true
+  }
+]

@@ -1,0 +1,3362 @@
+[
+  {
+    "model": "fixed/absolute",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.1875,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.1875,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "civ-08",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-08",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-09",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-09",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-10",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-10",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-11",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-11",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-12",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-12",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-13",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-13",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-14",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-14",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-15",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-15",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "fixed/present",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.1875,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.1875,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "civ-08",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-08",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-09",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-09",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-10",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-10",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-11",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-11",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-12",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-12",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-13",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-13",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-14",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-14",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-15",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-15",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "fixed/recency",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "civ-08",
+            "variant": 0,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-08",
+            "variant": 1,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-09",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-09",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-10",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-10",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-11",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-11",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-12",
+            "variant": 0,
+            "mass": 0.7144999999999999,
+            "max_deviation": 0.14275000000000004,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-12",
+            "variant": 1,
+            "mass": 0.7144999999999999,
+            "max_deviation": 0.14275000000000004,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-13",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-13",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-14",
+            "variant": 0,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-14",
+            "variant": 1,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-15",
+            "variant": 0,
+            "mass": 0.7144999999999999,
+            "max_deviation": 0.14275000000000004,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-15",
+            "variant": 1,
+            "mass": 0.7144999999999999,
+            "max_deviation": 0.14275000000000004,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "fixed/reference",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.1875,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.1875,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "civ-08",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-08",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-09",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-09",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-10",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-10",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-11",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-11",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-12",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-12",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-13",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-13",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-14",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-14",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-15",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-15",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "fixed/transition1",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "civ-08",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-08",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-09",
+            "variant": 0,
+            "mass": 4e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.99902,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-09",
+            "variant": 1,
+            "mass": 4e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.99902,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-10",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-10",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-11",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-11",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-12",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-12",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-13",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-13",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-14",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-14",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-15",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-15",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "fixed/transition2",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.1875,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.1875,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "civ-08",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-08",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-09",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-09",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-10",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-10",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-11",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-11",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-12",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-12",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-13",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-13",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-14",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-14",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-15",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-15",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "fixed/transition3",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.1875,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.1875,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "civ-08",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-08",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-09",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-09",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-10",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-10",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-11",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-11",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-12",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-12",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-13",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-13",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-14",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-14",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-15",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-15",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "oracle-boundary/absolute",
+    "pass_gate": true,
+    "details": {
+      "reset": {
+        "accuracy": 0.1875,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.1875,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 1.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": true
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": true,
+        "records": [
+          {
+            "group": "civ-08",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-08",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-09",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-09",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-10",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-10",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-11",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-11",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-12",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-12",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-13",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-13",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-14",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-14",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-15",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-15",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "oracle-boundary/present",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.1875,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.1875,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "civ-08",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-08",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-09",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-09",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-10",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-10",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-11",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-11",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-12",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-12",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-13",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-13",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-14",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-14",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-15",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-15",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "oracle-boundary/recency",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.1875,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.1875,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.5,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "civ-08",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-08",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-09",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-09",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-10",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-10",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-11",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-11",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-12",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-12",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-13",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-13",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-14",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-14",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-15",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-15",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "oracle-boundary/reference",
+    "pass_gate": true,
+    "details": {
+      "reset": {
+        "accuracy": 0.1875,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.1875,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 1.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": true
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": true,
+        "records": [
+          {
+            "group": "civ-08",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-08",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-09",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-09",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-10",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-10",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-11",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-11",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-12",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-12",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-13",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-13",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-14",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-14",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-15",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-15",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "oracle-boundary/transition1",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.1875,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.1875,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": true,
+        "records": [
+          {
+            "group": "civ-08",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-08",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-09",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-09",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-10",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-10",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-11",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-11",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-12",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-12",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-13",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-13",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-14",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-14",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-15",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-15",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "oracle-boundary/transition2",
+    "pass_gate": true,
+    "details": {
+      "reset": {
+        "accuracy": 0.1875,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.1875,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 1.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": true
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": true,
+        "records": [
+          {
+            "group": "civ-08",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-08",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-09",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-09",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-10",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-10",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-11",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-11",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-12",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-12",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-13",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-13",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-14",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-14",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-15",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-15",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "oracle-boundary/transition3",
+    "pass_gate": true,
+    "details": {
+      "reset": {
+        "accuracy": 0.1875,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.1875,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 1.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": true
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": true,
+        "records": [
+          {
+            "group": "civ-08",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-08",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-09",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-09",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-10",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-10",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-11",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-11",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-12",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-12",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-13",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-13",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-14",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-14",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-15",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "civ-15",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "streaming/absolute",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.1875,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.1875,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "civ-08",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-08",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-09",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-09",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-10",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-10",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-11",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-11",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-12",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-12",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-13",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-13",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-14",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-14",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-15",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-15",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "streaming/present",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.1875,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.1875,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "civ-08",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-08",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-09",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-09",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-10",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-10",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-11",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-11",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-12",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-12",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-13",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-13",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-14",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-14",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-15",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-15",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "streaming/recency",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.1875,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.1875,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.125,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": -0.0625,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "civ-08",
+            "variant": 0,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-08",
+            "variant": 1,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-09",
+            "variant": 0,
+            "mass": 0.7144999999999999,
+            "max_deviation": 0.14275000000000004,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-09",
+            "variant": 1,
+            "mass": 0.7144999999999999,
+            "max_deviation": 0.14275000000000004,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-10",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-10",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-11",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-11",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-12",
+            "variant": 0,
+            "mass": 0.7144999999999999,
+            "max_deviation": 0.14275000000000004,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-12",
+            "variant": 1,
+            "mass": 0.7144999999999999,
+            "max_deviation": 0.14275000000000004,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-13",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-13",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-14",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-14",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-15",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-15",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "streaming/reference",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.1875,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.1875,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "civ-08",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-08",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-09",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-09",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-10",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-10",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-11",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-11",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-12",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-12",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-13",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-13",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-14",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-14",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-15",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-15",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "streaming/transition1",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.1875,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.1875,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "civ-08",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-08",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-09",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-09",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-10",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-10",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-11",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-11",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-12",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-12",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-13",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-13",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-14",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-14",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-15",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.49998,
+            "max_probability": 0.99902,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-15",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.49998,
+            "max_probability": 0.99902,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "streaming/transition2",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.1875,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.1875,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "civ-08",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-08",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-09",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-09",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-10",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-10",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-11",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-11",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-12",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-12",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-13",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-13",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-14",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-14",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-15",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-15",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "streaming/transition3",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.1875,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.1875,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "civ-08",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-08",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-09",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-09",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-10",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-10",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-11",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-11",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-12",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-12",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-13",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-13",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-14",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-14",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-15",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "civ-15",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  }
+]
