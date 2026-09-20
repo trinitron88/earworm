@@ -1,0 +1,51 @@
+{
+  "assignment_id": "earworm-event-window-repair-v1",
+  "base": "95ab026b65ea9b85fce89c4698a1b9092ada5876",
+  "finish_line_capability": "Reliable causal event-derived measurements without supplied boundaries; prerequisite for transformed recognition, not a retention test.",
+  "requirements": "assignment.json authoritative complete text",
+  "streams": {
+    "development": 176,
+    "calibration": 176,
+    "heldout": 528,
+    "total": 880,
+    "cap": 1000
+  },
+  "resource_limits": {
+    "seconds": 7200,
+    "bytes": 2147483648,
+    "chunks": 32,
+    "complete_unit_seconds": 2
+  },
+  "frozen_components": "historical_front.py exact PR11 model.py, b2 only,64ms chunks,32ms/4ms frames,state/confirmationrules unchanged; accepted_adapter.py/NSDF config and PR8 reference unchanged.",
+  "support_grid": "Exactly five symmetric trims8/12/16/20/24ms declared before development; no stable-interior or other repair family.",
+  "support_rules": "Contiguous interval strictly inside inferred completed event, duration>=32ms and>=4 cycles at candidate reported fundamental. Insufficient support/evidence remains unavailable; no true-boundary fallback or expected-pitch snapping. Unpitched boundary state remains unavailable. Full waveform, whole-event bounds/duration and original observation retained, crop appends measurement with indices/hash/timestamps and immutable original-observation link.",
+  "selection": "Development only: policy feasible if group-weighted event pitch availability>=.80; maximize pitched-event accuracy, then intact primary prediction accuracy, then smallest trim. If none feasible do not evaluate.",
+  "calibration": "Integrity checks only, no parameter fitting; primary prediction probabilities fixed.",
+  "comparisons": "Selected support vs exact whole-span b2, fixed64ms windows, evaluator-only oracle boundaries; same seven baseline models within eachfront. All five policies computed on same development streams only; count support calls separately in runtime.",
+  "freshness": "40 new normalized identities excluding previous4studies; family/range/cell design unchanged, allvariants stayinsplit. New seeds. Silence can share zero bytes; pitched sounds usefresh phase seeds.",
+  "factors": "Same declared PR11 fractional aliases and rendered limitations, no removal ofdifficultcells. Direction/register/rich crossed, orderaliases threeway, pure/fund subtypealiasesdirection/register, pitchdirectiontiedrendererdirection.",
+  "controls": "Same reset/removal/swap/shuffle/ambiguity task; chunk-only operational API, trueboundaries only in separately labeled ceiling. Source-unit multiset balance; currentprobeidentical; chunkedges notnotebounds.",
+  "scoring": "Exact PR10 common absolute bins -48..72+unknown; .35semitone tolerance; unavailable knownpitch never correct. Infinite logloss serialized+Infinity, no clipping. Event matching exact same time-only IoU>=.5 then25ms tolerance, split/merge overlap20%.",
+  "numerical_tolerance": 1e-12,
+  "bootstrap": {
+    "seed": 2026092050,
+    "resamples": 5000,
+    "unit": "equal phrase groups paired",
+    "quantile_method": "inverted_cdf",
+    "ordinary": [
+      0.025,
+      0.975
+    ],
+    "familywise": [
+      0.00625,
+      0.99375
+    ],
+    "contrasts": "4 repaired-minus-oracle accuracycells"
+  },
+  "latency": "160ms max fromtrueeventend; inferred-end and actualcomputation/dispatchreported separately. New support available onlywhen computedfromarrivedcompletedspan.",
+  "adoption": "All assignment gates, explicitin analyze.py: oracle and repaired pairedsuccess>=.8 eachcell, familywise noninferiority-.1,positive joint lower95 overpresent and whole, proper-scoreincrease<=.1/.02,eventF1>=.9,pitch>=.95,split/merge<=.05,octave<=.01,latency<=.16,allcontrols,eachsafetyfamilyloss<=.1.",
+  "branch": "Validity first; C iforacleceilingfails; A ifalladoption; otherwise B. No retest or weakening.",
+  "artifacts": "Gzip lossless JSONL fornew package to avoid oversizedindividual files; originalsource records/hashes immutable; all historical artifacts byte-preserved.",
+  "storage": "Rawbuffers,frames,old/new/fixed events and all activepolicy caches counted; evalarchive inaccessible. No recent-buffer eviction/long-term retention tested.",
+  "stop": "One complete successor + ordinaryPROJECT_STATE update preservingfinishline checklist; awaitingreview; nofollow-on."
+}

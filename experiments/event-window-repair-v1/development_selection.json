@@ -1,0 +1,54 @@
+{
+  "grid": [
+    {
+      "id": "trim8",
+      "trim_samples": 128,
+      "pitch": 0.9424102132435466,
+      "available": 0.96415544332211,
+      "prediction": 0.859375,
+      "feasible": true
+    },
+    {
+      "id": "trim12",
+      "trim_samples": 192,
+      "pitch": 0.9635241301907969,
+      "available": 0.96415544332211,
+      "prediction": 0.984375,
+      "feasible": true
+    },
+    {
+      "id": "trim16",
+      "trim_samples": 256,
+      "pitch": 0.9635241301907969,
+      "available": 0.96415544332211,
+      "prediction": 1.0,
+      "feasible": true
+    },
+    {
+      "id": "trim20",
+      "trim_samples": 320,
+      "pitch": 0.9471801346801347,
+      "available": 0.9478114478114479,
+      "prediction": 0.921875,
+      "feasible": true
+    },
+    {
+      "id": "trim24",
+      "trim_samples": 384,
+      "pitch": 0.8838383838383839,
+      "available": 0.884469696969697,
+      "prediction": 0.640625,
+      "feasible": true
+    }
+  ],
+  "selected": {
+    "id": "trim16",
+    "trim_samples": 256,
+    "pitch": 0.9635241301907969,
+    "available": 0.96415544332211,
+    "prediction": 1.0,
+    "feasible": true
+  },
+  "objective": "feasible availability>=.80; max group pitch accuracy, max intact prediction accuracy, smallest trim",
+  "no_other_policy_family": true
+}

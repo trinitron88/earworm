@@ -1,0 +1,24 @@
+{
+  "families": [
+    {
+      "family": "pure",
+      "groups": 2,
+      "accuracy_loss_vs_oracle": 0.0,
+      "pass_gate": true
+    },
+    {
+      "family": "fundamental",
+      "groups": 2,
+      "accuracy_loss_vs_oracle": 0.0,
+      "pass_gate": true
+    },
+    {
+      "family": "overtone",
+      "groups": 4,
+      "accuracy_loss_vs_oracle": 0.0625,
+      "pass_gate": true
+    }
+  ],
+  "octave_error_rate": 0.0,
+  "pass_gate": true
+}
