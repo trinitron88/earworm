@@ -1,0 +1,9 @@
+{
+  "assignment_id": "earworm-event-window-repair-v1",
+  "status": "complete_pending_publication_review",
+  "branch": "B",
+  "execution_revision": "5bb5cd23d2ed55144dde7a84dc5f4bbd4500ff00",
+  "heldout_executions": 1,
+  "streams": 880,
+  "next": "Publish once; await review. No follow-on experiment."
+}
