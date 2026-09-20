@@ -1,0 +1,25 @@
+{
+  "branch": "B",
+  "validity_passed": true,
+  "oracle_ceiling_pass": true,
+  "repaired_paired_success_pass": true,
+  "noninferiority": false,
+  "joint_over_present_lower95": 0.5625,
+  "joint_proper_score_increases": {
+    "log_loss": 0.08173299062802626,
+    "brier": 0.04688535937499999
+  },
+  "event_gates": true,
+  "latency_pass": true,
+  "control_pass": false,
+  "safety_pass": false,
+  "support_comparison": {
+    "joint_gain_over_whole": 0.6458333333333334,
+    "lower95": 0.5,
+    "upper95": 0.7708333333333334,
+    "whole_pitch_accuracy": 0.7276468387579499,
+    "repaired_pitch_accuracy": 0.9695800598578378,
+    "oracle_pitch_accuracy": 1.0
+  },
+  "next": "Do not adopt; PM may choose another measurement approach only with a concrete discriminating decision."
+}

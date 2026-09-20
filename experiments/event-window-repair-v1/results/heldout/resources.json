@@ -1,0 +1,16 @@
+{
+  "total_streams": 880,
+  "episodes": 720,
+  "additional_future_probes": 160,
+  "support_observation_calls": 14971,
+  "acoustic_split_seconds": 37.66785216704011,
+  "max_heldout_chunk_dispatch_response_seconds": 0.002368208,
+  "mean_heldout_chunk_dispatch_response_seconds": 0.0011369084961089493,
+  "max_chunks": 23,
+  "max_arrived_audio_seconds": 1.472,
+  "max_raw_bytes": 94208,
+  "max_heldout_serialized_payload_bytes": 308892,
+  "max_development_serialized_payload_bytes": 496992,
+  "memory_limit_note": "Serialized persistent listener records and raw buffers measured; not Python heap/RSS. Evaluator archive excluded from operational access. No eviction or long-term retention test.",
+  "paid_compute": 0
+}

@@ -1,0 +1,14 @@
+{
+  "split": "calibration",
+  "episodes": 144,
+  "support_observation_calls": 1705,
+  "additional_future_probes": 32,
+  "elapsed_seconds": 6.724060417036526,
+  "execution_revision": "95ab026b65ea9b85fce89c4698a1b9092ada5876",
+  "execution_code_sha256": "d09539fc0ea16dec2291d93122917287cc7d2ad735932b28f1444d3afbf46688",
+  "model_sha256": "36e46a6cd81e99fad810d5bfbec6d95114adb1eccbc8e441d05d1bdf2f56f7f1",
+  "retained_bytes": 48649354,
+  "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "numpy": "2.5.3",
+  "end_utc_ns": 1789893400208076000
+}

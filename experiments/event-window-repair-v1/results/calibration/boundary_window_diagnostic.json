@@ -1,0 +1,5132 @@
+[
+  {
+    "episode": "ewr-08/legato/intact/0",
+    "true_start": 15194,
+    "true_end": 16619,
+    "inferred_start": 15168,
+    "inferred_end": 16832,
+    "true_pitch": 6,
+    "estimated_pitch": -12.982384242189987,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/legato/intact/0",
+    "true_start": 7213,
+    "true_end": 8638,
+    "inferred_start": 7168,
+    "inferred_end": 8896,
+    "true_pitch": 6,
+    "estimated_pitch": -12.969579619828707,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/legato/intact/0",
+    "true_start": 384,
+    "true_end": 1809,
+    "inferred_start": 320,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/legato/intact/0",
+    "true_start": 1809,
+    "true_end": 3347,
+    "inferred_start": 2048,
+    "inferred_end": 3520,
+    "true_pitch": 1,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/legato/intact/0",
+    "true_start": 16619,
+    "true_end": 18157,
+    "inferred_start": 16832,
+    "inferred_end": 18368,
+    "true_pitch": 1,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/legato/intact/1",
+    "true_start": 15194,
+    "true_end": 16619,
+    "inferred_start": 15168,
+    "inferred_end": 16832,
+    "true_pitch": 6,
+    "estimated_pitch": -12.982384242189987,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/legato/intact/1",
+    "true_start": 7213,
+    "true_end": 8638,
+    "inferred_start": 7168,
+    "inferred_end": 8896,
+    "true_pitch": 6,
+    "estimated_pitch": -12.969579619828707,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/legato/intact/1",
+    "true_start": 384,
+    "true_end": 1809,
+    "inferred_start": 320,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/legato/intact/1",
+    "true_start": 3347,
+    "true_end": 4813,
+    "inferred_start": 3520,
+    "inferred_end": 4992,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/legato/intact/1",
+    "true_start": 1809,
+    "true_end": 3347,
+    "inferred_start": 2048,
+    "inferred_end": 3520,
+    "true_pitch": 1,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/legato/intact/1",
+    "true_start": 16619,
+    "true_end": 18157,
+    "inferred_start": 16832,
+    "inferred_end": 18368,
+    "true_pitch": 1,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/duration/intact/0",
+    "true_start": 7274,
+    "true_end": 8736,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": -12.97655645044603,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/duration/intact/0",
+    "true_start": 384,
+    "true_end": 1846,
+    "inferred_start": 320,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -12.970054416903984,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/duration/intact/0",
+    "true_start": 1846,
+    "true_end": 3492,
+    "inferred_start": 2048,
+    "inferred_end": 3712,
+    "true_pitch": 1,
+    "estimated_pitch": 0.6394729393415084,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/duration/intact/0",
+    "true_start": 8736,
+    "true_end": 10382,
+    "inferred_start": 8960,
+    "inferred_end": 10624,
+    "true_pitch": 0,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/duration/intact/0",
+    "true_start": 3492,
+    "true_end": 4810,
+    "inferred_start": 3712,
+    "inferred_end": 5056,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/duration/intact/0",
+    "true_start": 10382,
+    "true_end": 11700,
+    "inferred_start": 10624,
+    "inferred_end": 11968,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/duration/intact/1",
+    "true_start": 7274,
+    "true_end": 8736,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": -12.97655645044603,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/duration/intact/1",
+    "true_start": 384,
+    "true_end": 1846,
+    "inferred_start": 320,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -12.970054416903984,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/duration/intact/1",
+    "true_start": 1846,
+    "true_end": 3492,
+    "inferred_start": 2048,
+    "inferred_end": 3712,
+    "true_pitch": 1,
+    "estimated_pitch": 0.6394729393415084,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/duration/intact/1",
+    "true_start": 8736,
+    "true_end": 10382,
+    "inferred_start": 8960,
+    "inferred_end": 10624,
+    "true_pitch": 0,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/duration/intact/1",
+    "true_start": 10382,
+    "true_end": 11700,
+    "inferred_start": 10624,
+    "inferred_end": 11904,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/duration/intact/1",
+    "true_start": 3492,
+    "true_end": 4810,
+    "inferred_start": 3712,
+    "inferred_end": 5056,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/intact/0",
+    "true_start": 7274,
+    "true_end": 8736,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": -12.97655645044603,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/intact/0",
+    "true_start": 384,
+    "true_end": 1846,
+    "inferred_start": 320,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -12.970054416903984,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/intact/0",
+    "true_start": 1846,
+    "true_end": 3492,
+    "inferred_start": 2048,
+    "inferred_end": 3712,
+    "true_pitch": 1,
+    "estimated_pitch": 0.6394729393415084,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/intact/0",
+    "true_start": 8736,
+    "true_end": 10382,
+    "inferred_start": 8960,
+    "inferred_end": 10624,
+    "true_pitch": 0,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/intact/0",
+    "true_start": 3492,
+    "true_end": 4810,
+    "inferred_start": 3712,
+    "inferred_end": 5056,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/intact/0",
+    "true_start": 10382,
+    "true_end": 11700,
+    "inferred_start": 10624,
+    "inferred_end": 11968,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/intact/1",
+    "true_start": 7274,
+    "true_end": 8736,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": -12.97655645044603,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/intact/1",
+    "true_start": 384,
+    "true_end": 1846,
+    "inferred_start": 320,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -12.970054416903984,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/intact/1",
+    "true_start": 1846,
+    "true_end": 3492,
+    "inferred_start": 2048,
+    "inferred_end": 3712,
+    "true_pitch": 1,
+    "estimated_pitch": 0.6394729393415084,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/intact/1",
+    "true_start": 8736,
+    "true_end": 10382,
+    "inferred_start": 8960,
+    "inferred_end": 10624,
+    "true_pitch": 0,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/intact/1",
+    "true_start": 10382,
+    "true_end": 11700,
+    "inferred_start": 10624,
+    "inferred_end": 11904,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/intact/1",
+    "true_start": 3492,
+    "true_end": 4810,
+    "inferred_start": 3712,
+    "inferred_end": 5056,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/removal/0",
+    "true_start": 7274,
+    "true_end": 8736,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": -12.97655645044603,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/removal/0",
+    "true_start": 384,
+    "true_end": 1846,
+    "inferred_start": 320,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -12.970054416903984,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/removal/0",
+    "true_start": 1846,
+    "true_end": 3492,
+    "inferred_start": 2048,
+    "inferred_end": 3712,
+    "true_pitch": 1,
+    "estimated_pitch": 0.6394729393415084,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/removal/0",
+    "true_start": 8736,
+    "true_end": 10382,
+    "inferred_start": 8960,
+    "inferred_end": 10624,
+    "true_pitch": 0,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/removal/1",
+    "true_start": 7274,
+    "true_end": 8736,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": -12.97655645044603,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/removal/1",
+    "true_start": 384,
+    "true_end": 1846,
+    "inferred_start": 320,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -12.970054416903984,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/removal/1",
+    "true_start": 1846,
+    "true_end": 3492,
+    "inferred_start": 2048,
+    "inferred_end": 3712,
+    "true_pitch": 1,
+    "estimated_pitch": 0.6394729393415084,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/removal/1",
+    "true_start": 8736,
+    "true_end": 10382,
+    "inferred_start": 8960,
+    "inferred_end": 10624,
+    "true_pitch": 0,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/swap/0",
+    "true_start": 7274,
+    "true_end": 8736,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": -12.97655645044603,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/swap/0",
+    "true_start": 384,
+    "true_end": 1846,
+    "inferred_start": 320,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -12.970054416903984,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/swap/0",
+    "true_start": 1846,
+    "true_end": 3492,
+    "inferred_start": 2048,
+    "inferred_end": 3712,
+    "true_pitch": 1,
+    "estimated_pitch": 0.6394729393415084,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/swap/0",
+    "true_start": 8736,
+    "true_end": 10382,
+    "inferred_start": 8960,
+    "inferred_end": 10624,
+    "true_pitch": 0,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/swap/0",
+    "true_start": 10382,
+    "true_end": 11700,
+    "inferred_start": 10624,
+    "inferred_end": 11904,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/swap/0",
+    "true_start": 3492,
+    "true_end": 4810,
+    "inferred_start": 3712,
+    "inferred_end": 5056,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/swap/1",
+    "true_start": 7274,
+    "true_end": 8736,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": -12.97655645044603,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/swap/1",
+    "true_start": 384,
+    "true_end": 1846,
+    "inferred_start": 320,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -12.970054416903984,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/swap/1",
+    "true_start": 1846,
+    "true_end": 3492,
+    "inferred_start": 2048,
+    "inferred_end": 3712,
+    "true_pitch": 1,
+    "estimated_pitch": 0.6394729393415084,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/swap/1",
+    "true_start": 8736,
+    "true_end": 10382,
+    "inferred_start": 8960,
+    "inferred_end": 10624,
+    "true_pitch": 0,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/swap/1",
+    "true_start": 3492,
+    "true_end": 4810,
+    "inferred_start": 3712,
+    "inferred_end": 5056,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/swap/1",
+    "true_start": 10382,
+    "true_end": 11700,
+    "inferred_start": 10624,
+    "inferred_end": 11968,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/shuffle/0",
+    "true_start": 7274,
+    "true_end": 8736,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/shuffle/0",
+    "true_start": 384,
+    "true_end": 1846,
+    "inferred_start": 320,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -12.98796045769058,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/shuffle/0",
+    "true_start": 10382,
+    "true_end": 11700,
+    "inferred_start": 10560,
+    "inferred_end": 11904,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/shuffle/0",
+    "true_start": 3492,
+    "true_end": 4810,
+    "inferred_start": 3712,
+    "inferred_end": 5056,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/shuffle/1",
+    "true_start": 7274,
+    "true_end": 8736,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/shuffle/1",
+    "true_start": 384,
+    "true_end": 1846,
+    "inferred_start": 320,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -12.98796045769058,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/shuffle/1",
+    "true_start": 10382,
+    "true_end": 11700,
+    "inferred_start": 10560,
+    "inferred_end": 11968,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/shuffle/1",
+    "true_start": 3492,
+    "true_end": 4810,
+    "inferred_start": 3712,
+    "inferred_end": 5056,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/ambiguous/0",
+    "true_start": 7274,
+    "true_end": 8736,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/ambiguous/0",
+    "true_start": 384,
+    "true_end": 1846,
+    "inferred_start": 320,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -12.970054416903984,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/ambiguous/0",
+    "true_start": 1846,
+    "true_end": 3492,
+    "inferred_start": 2048,
+    "inferred_end": 3712,
+    "true_pitch": 1,
+    "estimated_pitch": 0.6394729393415084,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/ambiguous/0",
+    "true_start": 10382,
+    "true_end": 11700,
+    "inferred_start": 10560,
+    "inferred_end": 11968,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/ambiguous/0",
+    "true_start": 3492,
+    "true_end": 4810,
+    "inferred_start": 3712,
+    "inferred_end": 5056,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/ambiguous/1",
+    "true_start": 7274,
+    "true_end": 8736,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/ambiguous/1",
+    "true_start": 384,
+    "true_end": 1846,
+    "inferred_start": 320,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -12.970054416903984,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/ambiguous/1",
+    "true_start": 1846,
+    "true_end": 3492,
+    "inferred_start": 2048,
+    "inferred_end": 3712,
+    "true_pitch": 1,
+    "estimated_pitch": 0.6394729393415084,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/ambiguous/1",
+    "true_start": 10382,
+    "true_end": 11700,
+    "inferred_start": 10560,
+    "inferred_end": 11968,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-08/joint/ambiguous/1",
+    "true_start": 3492,
+    "true_end": 4810,
+    "inferred_start": 3712,
+    "inferred_end": 5056,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/legato/intact/0",
+    "true_start": 15218,
+    "true_end": 16646,
+    "inferred_start": 15168,
+    "inferred_end": 16832,
+    "true_pitch": 6,
+    "estimated_pitch": -6.142298782039678,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/legato/intact/0",
+    "true_start": 7225,
+    "true_end": 8653,
+    "inferred_start": 7168,
+    "inferred_end": 8832,
+    "true_pitch": 6,
+    "estimated_pitch": -6.1360533443847665,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/legato/intact/0",
+    "true_start": 1812,
+    "true_end": 3353,
+    "inferred_start": 1920,
+    "inferred_end": 3584,
+    "true_pitch": 10,
+    "estimated_pitch": -1.743362126189043,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/legato/intact/0",
+    "true_start": 8653,
+    "true_end": 10194,
+    "inferred_start": 8832,
+    "inferred_end": 10432,
+    "true_pitch": 12,
+    "estimated_pitch": -0.23467956013288718,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/legato/intact/0",
+    "true_start": 16646,
+    "true_end": 18187,
+    "inferred_start": 16832,
+    "inferred_end": 18432,
+    "true_pitch": 12,
+    "estimated_pitch": -0.24691764039829295,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/legato/intact/0",
+    "true_start": 10194,
+    "true_end": 11663,
+    "inferred_start": 10432,
+    "inferred_end": 11840,
+    "true_pitch": 18,
+    "estimated_pitch": 17.611326894969846,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/legato/intact/1",
+    "true_start": 15218,
+    "true_end": 16646,
+    "inferred_start": 15168,
+    "inferred_end": 16832,
+    "true_pitch": 6,
+    "estimated_pitch": -6.142298782039678,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/legato/intact/1",
+    "true_start": 7225,
+    "true_end": 8653,
+    "inferred_start": 7168,
+    "inferred_end": 8832,
+    "true_pitch": 6,
+    "estimated_pitch": -6.1360533443847665,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/legato/intact/1",
+    "true_start": 1812,
+    "true_end": 3353,
+    "inferred_start": 1920,
+    "inferred_end": 3584,
+    "true_pitch": 10,
+    "estimated_pitch": -1.743362126189043,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/legato/intact/1",
+    "true_start": 8653,
+    "true_end": 10194,
+    "inferred_start": 8832,
+    "inferred_end": 10432,
+    "true_pitch": 12,
+    "estimated_pitch": -0.23467956013288718,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/legato/intact/1",
+    "true_start": 16646,
+    "true_end": 18187,
+    "inferred_start": 16832,
+    "inferred_end": 18432,
+    "true_pitch": 12,
+    "estimated_pitch": -0.24691764039829295,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/legato/intact/1",
+    "true_start": 3353,
+    "true_end": 4822,
+    "inferred_start": 3584,
+    "inferred_end": 4992,
+    "true_pitch": 18,
+    "estimated_pitch": 17.634005465012724,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/duration/intact/0",
+    "true_start": 384,
+    "true_end": 1849,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -13.091921404079379,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/duration/intact/0",
+    "true_start": 15340,
+    "true_end": 16888,
+    "inferred_start": 15296,
+    "inferred_end": 17088,
+    "true_pitch": 6,
+    "estimated_pitch": -6.122362292019314,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/duration/intact/0",
+    "true_start": 7286,
+    "true_end": 8751,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": -6.157772106768081,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/duration/intact/0",
+    "true_start": 16888,
+    "true_end": 18620,
+    "inferred_start": 17088,
+    "inferred_end": 18816,
+    "true_pitch": 12,
+    "estimated_pitch": -0.1807242935705104,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/duration/intact/0",
+    "true_start": 1849,
+    "true_end": 3498,
+    "inferred_start": 2048,
+    "inferred_end": 3712,
+    "true_pitch": 10,
+    "estimated_pitch": -1.7969542777641818,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/duration/intact/0",
+    "true_start": 8751,
+    "true_end": 10400,
+    "inferred_start": 8960,
+    "inferred_end": 10624,
+    "true_pitch": 12,
+    "estimated_pitch": -0.20323507644785016,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/duration/intact/0",
+    "true_start": 3498,
+    "true_end": 4819,
+    "inferred_start": 3712,
+    "inferred_end": 4992,
+    "true_pitch": 18,
+    "estimated_pitch": -1.1522612142730237,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/duration/intact/0",
+    "true_start": 10400,
+    "true_end": 11721,
+    "inferred_start": 10624,
+    "inferred_end": 11904,
+    "true_pitch": 18,
+    "estimated_pitch": -5.934027662893527,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/duration/intact/1",
+    "true_start": 384,
+    "true_end": 1849,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -13.091921404079379,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/duration/intact/1",
+    "true_start": 15340,
+    "true_end": 16888,
+    "inferred_start": 15296,
+    "inferred_end": 17088,
+    "true_pitch": 6,
+    "estimated_pitch": -6.122362292019314,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/duration/intact/1",
+    "true_start": 7286,
+    "true_end": 8751,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": -6.157772106768081,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/duration/intact/1",
+    "true_start": 16888,
+    "true_end": 18620,
+    "inferred_start": 17088,
+    "inferred_end": 18816,
+    "true_pitch": 12,
+    "estimated_pitch": -0.1807242935705104,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/duration/intact/1",
+    "true_start": 1849,
+    "true_end": 3498,
+    "inferred_start": 2048,
+    "inferred_end": 3712,
+    "true_pitch": 10,
+    "estimated_pitch": -1.7969542777641818,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/duration/intact/1",
+    "true_start": 8751,
+    "true_end": 10400,
+    "inferred_start": 8960,
+    "inferred_end": 10624,
+    "true_pitch": 12,
+    "estimated_pitch": -0.20323507644785016,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/duration/intact/1",
+    "true_start": 3498,
+    "true_end": 4819,
+    "inferred_start": 3712,
+    "inferred_end": 4992,
+    "true_pitch": 18,
+    "estimated_pitch": 17.60756389444968,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/duration/intact/1",
+    "true_start": 10400,
+    "true_end": 11721,
+    "inferred_start": 10624,
+    "inferred_end": 11904,
+    "true_pitch": 18,
+    "estimated_pitch": -1.1662444511850603,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/intact/0",
+    "true_start": 384,
+    "true_end": 1849,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -13.091921404079379,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/intact/0",
+    "true_start": 15340,
+    "true_end": 16888,
+    "inferred_start": 15296,
+    "inferred_end": 17088,
+    "true_pitch": 6,
+    "estimated_pitch": -6.122362292019314,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/intact/0",
+    "true_start": 7286,
+    "true_end": 8751,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": -6.157772106768081,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/intact/0",
+    "true_start": 16888,
+    "true_end": 18620,
+    "inferred_start": 17088,
+    "inferred_end": 18816,
+    "true_pitch": 12,
+    "estimated_pitch": -0.1807242935705104,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/intact/0",
+    "true_start": 1849,
+    "true_end": 3498,
+    "inferred_start": 2048,
+    "inferred_end": 3712,
+    "true_pitch": 10,
+    "estimated_pitch": -1.7969542777641818,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/intact/0",
+    "true_start": 8751,
+    "true_end": 10400,
+    "inferred_start": 8960,
+    "inferred_end": 10624,
+    "true_pitch": 12,
+    "estimated_pitch": -0.20323507644785016,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/intact/0",
+    "true_start": 3498,
+    "true_end": 4819,
+    "inferred_start": 3712,
+    "inferred_end": 4992,
+    "true_pitch": 18,
+    "estimated_pitch": -1.1522612142730237,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/intact/0",
+    "true_start": 10400,
+    "true_end": 11721,
+    "inferred_start": 10624,
+    "inferred_end": 11904,
+    "true_pitch": 18,
+    "estimated_pitch": -5.934027662893527,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/intact/1",
+    "true_start": 384,
+    "true_end": 1849,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -13.091921404079379,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/intact/1",
+    "true_start": 15340,
+    "true_end": 16888,
+    "inferred_start": 15296,
+    "inferred_end": 17088,
+    "true_pitch": 6,
+    "estimated_pitch": -6.122362292019314,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/intact/1",
+    "true_start": 7286,
+    "true_end": 8751,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": -6.157772106768081,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/intact/1",
+    "true_start": 16888,
+    "true_end": 18620,
+    "inferred_start": 17088,
+    "inferred_end": 18816,
+    "true_pitch": 12,
+    "estimated_pitch": -0.1807242935705104,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/intact/1",
+    "true_start": 1849,
+    "true_end": 3498,
+    "inferred_start": 2048,
+    "inferred_end": 3712,
+    "true_pitch": 10,
+    "estimated_pitch": -1.7969542777641818,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/intact/1",
+    "true_start": 8751,
+    "true_end": 10400,
+    "inferred_start": 8960,
+    "inferred_end": 10624,
+    "true_pitch": 12,
+    "estimated_pitch": -0.20323507644785016,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/intact/1",
+    "true_start": 3498,
+    "true_end": 4819,
+    "inferred_start": 3712,
+    "inferred_end": 4992,
+    "true_pitch": 18,
+    "estimated_pitch": 17.60756389444968,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/intact/1",
+    "true_start": 10400,
+    "true_end": 11721,
+    "inferred_start": 10624,
+    "inferred_end": 11904,
+    "true_pitch": 18,
+    "estimated_pitch": -1.1662444511850603,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/reset/0",
+    "true_start": 15340,
+    "true_end": 16888,
+    "inferred_start": 15296,
+    "inferred_end": 17088,
+    "true_pitch": 6,
+    "estimated_pitch": -6.122362292019314,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/reset/0",
+    "true_start": 16888,
+    "true_end": 18620,
+    "inferred_start": 17088,
+    "inferred_end": 18816,
+    "true_pitch": 12,
+    "estimated_pitch": -0.1807242935705104,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/reset/1",
+    "true_start": 15340,
+    "true_end": 16888,
+    "inferred_start": 15296,
+    "inferred_end": 17088,
+    "true_pitch": 6,
+    "estimated_pitch": -6.122362292019314,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/reset/1",
+    "true_start": 16888,
+    "true_end": 18620,
+    "inferred_start": 17088,
+    "inferred_end": 18816,
+    "true_pitch": 12,
+    "estimated_pitch": -0.1807242935705104,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/removal/0",
+    "true_start": 384,
+    "true_end": 1849,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -13.091921404079379,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/removal/0",
+    "true_start": 15340,
+    "true_end": 16888,
+    "inferred_start": 15296,
+    "inferred_end": 17088,
+    "true_pitch": 6,
+    "estimated_pitch": -6.122362292019314,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/removal/0",
+    "true_start": 7286,
+    "true_end": 8751,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": -6.157772106768081,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/removal/0",
+    "true_start": 16888,
+    "true_end": 18620,
+    "inferred_start": 17088,
+    "inferred_end": 18816,
+    "true_pitch": 12,
+    "estimated_pitch": -0.1807242935705104,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/removal/0",
+    "true_start": 1849,
+    "true_end": 3498,
+    "inferred_start": 2048,
+    "inferred_end": 3712,
+    "true_pitch": 10,
+    "estimated_pitch": -1.7969542777641818,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/removal/0",
+    "true_start": 8751,
+    "true_end": 10400,
+    "inferred_start": 8960,
+    "inferred_end": 10624,
+    "true_pitch": 12,
+    "estimated_pitch": -0.20323507644785016,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/removal/1",
+    "true_start": 384,
+    "true_end": 1849,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -13.091921404079379,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/removal/1",
+    "true_start": 15340,
+    "true_end": 16888,
+    "inferred_start": 15296,
+    "inferred_end": 17088,
+    "true_pitch": 6,
+    "estimated_pitch": -6.122362292019314,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/removal/1",
+    "true_start": 7286,
+    "true_end": 8751,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": -6.157772106768081,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/removal/1",
+    "true_start": 16888,
+    "true_end": 18620,
+    "inferred_start": 17088,
+    "inferred_end": 18816,
+    "true_pitch": 12,
+    "estimated_pitch": -0.1807242935705104,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/removal/1",
+    "true_start": 1849,
+    "true_end": 3498,
+    "inferred_start": 2048,
+    "inferred_end": 3712,
+    "true_pitch": 10,
+    "estimated_pitch": -1.7969542777641818,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/removal/1",
+    "true_start": 8751,
+    "true_end": 10400,
+    "inferred_start": 8960,
+    "inferred_end": 10624,
+    "true_pitch": 12,
+    "estimated_pitch": -0.20323507644785016,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/swap/0",
+    "true_start": 384,
+    "true_end": 1849,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -13.091921404079379,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/swap/0",
+    "true_start": 15340,
+    "true_end": 16888,
+    "inferred_start": 15296,
+    "inferred_end": 17088,
+    "true_pitch": 6,
+    "estimated_pitch": -6.122362292019314,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/swap/0",
+    "true_start": 7286,
+    "true_end": 8751,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": -6.157772106768081,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/swap/0",
+    "true_start": 16888,
+    "true_end": 18620,
+    "inferred_start": 17088,
+    "inferred_end": 18816,
+    "true_pitch": 12,
+    "estimated_pitch": -0.1807242935705104,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/swap/0",
+    "true_start": 1849,
+    "true_end": 3498,
+    "inferred_start": 2048,
+    "inferred_end": 3712,
+    "true_pitch": 10,
+    "estimated_pitch": -1.7969542777641818,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/swap/0",
+    "true_start": 8751,
+    "true_end": 10400,
+    "inferred_start": 8960,
+    "inferred_end": 10624,
+    "true_pitch": 12,
+    "estimated_pitch": -0.20323507644785016,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/swap/0",
+    "true_start": 3498,
+    "true_end": 4819,
+    "inferred_start": 3712,
+    "inferred_end": 4992,
+    "true_pitch": 18,
+    "estimated_pitch": 17.60756389444968,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/swap/0",
+    "true_start": 10400,
+    "true_end": 11721,
+    "inferred_start": 10624,
+    "inferred_end": 11904,
+    "true_pitch": 18,
+    "estimated_pitch": -1.1662444511850603,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/swap/1",
+    "true_start": 384,
+    "true_end": 1849,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -13.091921404079379,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/swap/1",
+    "true_start": 15340,
+    "true_end": 16888,
+    "inferred_start": 15296,
+    "inferred_end": 17088,
+    "true_pitch": 6,
+    "estimated_pitch": -6.122362292019314,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/swap/1",
+    "true_start": 7286,
+    "true_end": 8751,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": -6.157772106768081,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/swap/1",
+    "true_start": 16888,
+    "true_end": 18620,
+    "inferred_start": 17088,
+    "inferred_end": 18816,
+    "true_pitch": 12,
+    "estimated_pitch": -0.1807242935705104,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/swap/1",
+    "true_start": 1849,
+    "true_end": 3498,
+    "inferred_start": 2048,
+    "inferred_end": 3712,
+    "true_pitch": 10,
+    "estimated_pitch": -1.7969542777641818,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/swap/1",
+    "true_start": 8751,
+    "true_end": 10400,
+    "inferred_start": 8960,
+    "inferred_end": 10624,
+    "true_pitch": 12,
+    "estimated_pitch": -0.20323507644785016,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/swap/1",
+    "true_start": 3498,
+    "true_end": 4819,
+    "inferred_start": 3712,
+    "inferred_end": 4992,
+    "true_pitch": 18,
+    "estimated_pitch": -1.1522612142730237,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/swap/1",
+    "true_start": 10400,
+    "true_end": 11721,
+    "inferred_start": 10624,
+    "inferred_end": 11904,
+    "true_pitch": 18,
+    "estimated_pitch": -5.934027662893527,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/shuffle/0",
+    "true_start": 384,
+    "true_end": 1849,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -6.153577297344221,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/shuffle/0",
+    "true_start": 15340,
+    "true_end": 16888,
+    "inferred_start": 15296,
+    "inferred_end": 17088,
+    "true_pitch": 6,
+    "estimated_pitch": -6.122362292019314,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/shuffle/0",
+    "true_start": 7286,
+    "true_end": 8751,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": -13.093310961310667,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/shuffle/0",
+    "true_start": 16888,
+    "true_end": 18620,
+    "inferred_start": 17088,
+    "inferred_end": 18816,
+    "true_pitch": 12,
+    "estimated_pitch": -0.1807242935705104,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/shuffle/0",
+    "true_start": 1849,
+    "true_end": 3498,
+    "inferred_start": 2048,
+    "inferred_end": 3712,
+    "true_pitch": 12,
+    "estimated_pitch": -0.1934706257558737,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/shuffle/0",
+    "true_start": 8751,
+    "true_end": 10400,
+    "inferred_start": 8960,
+    "inferred_end": 10624,
+    "true_pitch": 10,
+    "estimated_pitch": -1.776895085763206,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/shuffle/0",
+    "true_start": 3498,
+    "true_end": 4819,
+    "inferred_start": 3712,
+    "inferred_end": 4992,
+    "true_pitch": 18,
+    "estimated_pitch": 17.60756389444968,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/shuffle/0",
+    "true_start": 10400,
+    "true_end": 11721,
+    "inferred_start": 10624,
+    "inferred_end": 11904,
+    "true_pitch": 18,
+    "estimated_pitch": -1.1662444511850603,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/shuffle/1",
+    "true_start": 384,
+    "true_end": 1849,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -6.153577297344221,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/shuffle/1",
+    "true_start": 15340,
+    "true_end": 16888,
+    "inferred_start": 15296,
+    "inferred_end": 17088,
+    "true_pitch": 6,
+    "estimated_pitch": -6.122362292019314,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/shuffle/1",
+    "true_start": 7286,
+    "true_end": 8751,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": -13.093310961310667,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/shuffle/1",
+    "true_start": 16888,
+    "true_end": 18620,
+    "inferred_start": 17088,
+    "inferred_end": 18816,
+    "true_pitch": 12,
+    "estimated_pitch": -0.1807242935705104,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/shuffle/1",
+    "true_start": 1849,
+    "true_end": 3498,
+    "inferred_start": 2048,
+    "inferred_end": 3712,
+    "true_pitch": 12,
+    "estimated_pitch": -0.1934706257558737,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/shuffle/1",
+    "true_start": 8751,
+    "true_end": 10400,
+    "inferred_start": 8960,
+    "inferred_end": 10624,
+    "true_pitch": 10,
+    "estimated_pitch": -1.776895085763206,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/shuffle/1",
+    "true_start": 3498,
+    "true_end": 4819,
+    "inferred_start": 3712,
+    "inferred_end": 4992,
+    "true_pitch": 18,
+    "estimated_pitch": -1.1522612142730237,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/shuffle/1",
+    "true_start": 10400,
+    "true_end": 11721,
+    "inferred_start": 10624,
+    "inferred_end": 11904,
+    "true_pitch": 18,
+    "estimated_pitch": -5.934027662893527,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/ambiguous/0",
+    "true_start": 384,
+    "true_end": 1849,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -6.153577297344221,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/ambiguous/0",
+    "true_start": 15340,
+    "true_end": 16888,
+    "inferred_start": 15296,
+    "inferred_end": 17088,
+    "true_pitch": 6,
+    "estimated_pitch": -6.122362292019314,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/ambiguous/0",
+    "true_start": 7286,
+    "true_end": 8751,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": -6.157772106768081,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/ambiguous/0",
+    "true_start": 16888,
+    "true_end": 18620,
+    "inferred_start": 17088,
+    "inferred_end": 18816,
+    "true_pitch": 12,
+    "estimated_pitch": -0.1807242935705104,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/ambiguous/0",
+    "true_start": 1849,
+    "true_end": 3498,
+    "inferred_start": 2048,
+    "inferred_end": 3712,
+    "true_pitch": 12,
+    "estimated_pitch": -0.1934706257558737,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/ambiguous/0",
+    "true_start": 8751,
+    "true_end": 10400,
+    "inferred_start": 8960,
+    "inferred_end": 10624,
+    "true_pitch": 12,
+    "estimated_pitch": -0.20323507644785016,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/ambiguous/0",
+    "true_start": 3498,
+    "true_end": 4819,
+    "inferred_start": 3712,
+    "inferred_end": 4992,
+    "true_pitch": 18,
+    "estimated_pitch": -1.1522612142730237,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/ambiguous/0",
+    "true_start": 10400,
+    "true_end": 11721,
+    "inferred_start": 10624,
+    "inferred_end": 11904,
+    "true_pitch": 18,
+    "estimated_pitch": -5.934027662893527,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/ambiguous/1",
+    "true_start": 384,
+    "true_end": 1849,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -6.153577297344221,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/ambiguous/1",
+    "true_start": 15340,
+    "true_end": 16888,
+    "inferred_start": 15296,
+    "inferred_end": 17088,
+    "true_pitch": 6,
+    "estimated_pitch": -6.122362292019314,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/ambiguous/1",
+    "true_start": 7286,
+    "true_end": 8751,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": -6.157772106768081,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/ambiguous/1",
+    "true_start": 16888,
+    "true_end": 18620,
+    "inferred_start": 17088,
+    "inferred_end": 18816,
+    "true_pitch": 12,
+    "estimated_pitch": -0.1807242935705104,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/ambiguous/1",
+    "true_start": 1849,
+    "true_end": 3498,
+    "inferred_start": 2048,
+    "inferred_end": 3712,
+    "true_pitch": 12,
+    "estimated_pitch": -0.1934706257558737,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/ambiguous/1",
+    "true_start": 8751,
+    "true_end": 10400,
+    "inferred_start": 8960,
+    "inferred_end": 10624,
+    "true_pitch": 12,
+    "estimated_pitch": -0.20323507644785016,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/ambiguous/1",
+    "true_start": 3498,
+    "true_end": 4819,
+    "inferred_start": 3712,
+    "inferred_end": 4992,
+    "true_pitch": 18,
+    "estimated_pitch": -1.1522612142730237,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-09/joint/ambiguous/1",
+    "true_start": 10400,
+    "true_end": 11721,
+    "inferred_start": 10624,
+    "inferred_end": 11904,
+    "true_pitch": 18,
+    "estimated_pitch": -5.934027662893527,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/legato/intact/0",
+    "true_start": 15242,
+    "true_end": 16673,
+    "inferred_start": 15104,
+    "inferred_end": 16896,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9641033287614433,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/legato/intact/0",
+    "true_start": 7237,
+    "true_end": 8668,
+    "inferred_start": 7104,
+    "inferred_end": 8896,
+    "true_pitch": 18,
+    "estimated_pitch": -0.960767998427332,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/legato/intact/0",
+    "true_start": 1815,
+    "true_end": 3359,
+    "inferred_start": 2048,
+    "inferred_end": 3584,
+    "true_pitch": 14,
+    "estimated_pitch": 13.64386633042265,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/legato/intact/1",
+    "true_start": 15242,
+    "true_end": 16673,
+    "inferred_start": 15104,
+    "inferred_end": 16896,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9641033287614433,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/legato/intact/1",
+    "true_start": 7237,
+    "true_end": 8668,
+    "inferred_start": 7104,
+    "inferred_end": 8896,
+    "true_pitch": 18,
+    "estimated_pitch": -0.960767998427332,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/legato/intact/1",
+    "true_start": 1815,
+    "true_end": 3359,
+    "inferred_start": 2048,
+    "inferred_end": 3584,
+    "true_pitch": 14,
+    "estimated_pitch": 13.64386633042265,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/duration/intact/0",
+    "true_start": 7298,
+    "true_end": 8766,
+    "inferred_start": 7168,
+    "inferred_end": 8960,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9710846090463379,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/duration/intact/0",
+    "true_start": 15364,
+    "true_end": 16915,
+    "inferred_start": 15232,
+    "inferred_end": 17152,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9541720434600396,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/duration/intact/0",
+    "true_start": 3504,
+    "true_end": 4828,
+    "inferred_start": 3648,
+    "inferred_end": 5056,
+    "true_pitch": 10,
+    "estimated_pitch": 10.515431896185879,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/duration/intact/0",
+    "true_start": 10418,
+    "true_end": 11742,
+    "inferred_start": 10624,
+    "inferred_end": 11968,
+    "true_pitch": 10,
+    "estimated_pitch": 9.612564544250334,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/duration/intact/1",
+    "true_start": 7298,
+    "true_end": 8766,
+    "inferred_start": 7168,
+    "inferred_end": 8960,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9710846090463379,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/duration/intact/1",
+    "true_start": 15364,
+    "true_end": 16915,
+    "inferred_start": 15232,
+    "inferred_end": 17152,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9541720434600396,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/duration/intact/1",
+    "true_start": 3504,
+    "true_end": 4828,
+    "inferred_start": 3648,
+    "inferred_end": 5056,
+    "true_pitch": 10,
+    "estimated_pitch": 9.638156112508947,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/duration/intact/1",
+    "true_start": 10418,
+    "true_end": 11742,
+    "inferred_start": 10624,
+    "inferred_end": 11968,
+    "true_pitch": 10,
+    "estimated_pitch": 10.54104388967255,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/joint/intact/0",
+    "true_start": 7298,
+    "true_end": 8766,
+    "inferred_start": 7168,
+    "inferred_end": 8960,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9710846090463379,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/joint/intact/0",
+    "true_start": 15364,
+    "true_end": 16915,
+    "inferred_start": 15232,
+    "inferred_end": 17152,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9541720434600396,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/joint/intact/0",
+    "true_start": 3504,
+    "true_end": 4828,
+    "inferred_start": 3648,
+    "inferred_end": 5056,
+    "true_pitch": 10,
+    "estimated_pitch": 10.515431896185879,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/joint/intact/0",
+    "true_start": 10418,
+    "true_end": 11742,
+    "inferred_start": 10624,
+    "inferred_end": 11968,
+    "true_pitch": 10,
+    "estimated_pitch": 9.612564544250334,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/joint/intact/1",
+    "true_start": 7298,
+    "true_end": 8766,
+    "inferred_start": 7168,
+    "inferred_end": 8960,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9710846090463379,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/joint/intact/1",
+    "true_start": 15364,
+    "true_end": 16915,
+    "inferred_start": 15232,
+    "inferred_end": 17152,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9541720434600396,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/joint/intact/1",
+    "true_start": 3504,
+    "true_end": 4828,
+    "inferred_start": 3648,
+    "inferred_end": 5056,
+    "true_pitch": 10,
+    "estimated_pitch": 9.638156112508947,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/joint/intact/1",
+    "true_start": 10418,
+    "true_end": 11742,
+    "inferred_start": 10624,
+    "inferred_end": 11968,
+    "true_pitch": 10,
+    "estimated_pitch": 10.54104388967255,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/joint/reset/0",
+    "true_start": 15364,
+    "true_end": 16915,
+    "inferred_start": 15232,
+    "inferred_end": 17152,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9541720434600396,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/joint/reset/1",
+    "true_start": 15364,
+    "true_end": 16915,
+    "inferred_start": 15232,
+    "inferred_end": 17152,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9541720434600396,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/joint/removal/0",
+    "true_start": 7298,
+    "true_end": 8766,
+    "inferred_start": 7168,
+    "inferred_end": 8960,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9710846090463379,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/joint/removal/0",
+    "true_start": 15364,
+    "true_end": 16915,
+    "inferred_start": 15232,
+    "inferred_end": 17152,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9541720434600396,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/joint/removal/1",
+    "true_start": 7298,
+    "true_end": 8766,
+    "inferred_start": 7168,
+    "inferred_end": 8960,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9710846090463379,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/joint/removal/1",
+    "true_start": 15364,
+    "true_end": 16915,
+    "inferred_start": 15232,
+    "inferred_end": 17152,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9541720434600396,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/joint/swap/0",
+    "true_start": 7298,
+    "true_end": 8766,
+    "inferred_start": 7168,
+    "inferred_end": 8960,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9710846090463379,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/joint/swap/0",
+    "true_start": 15364,
+    "true_end": 16915,
+    "inferred_start": 15232,
+    "inferred_end": 17152,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9541720434600396,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/joint/swap/0",
+    "true_start": 3504,
+    "true_end": 4828,
+    "inferred_start": 3648,
+    "inferred_end": 5056,
+    "true_pitch": 10,
+    "estimated_pitch": 9.638156112508947,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/joint/swap/0",
+    "true_start": 10418,
+    "true_end": 11742,
+    "inferred_start": 10624,
+    "inferred_end": 11968,
+    "true_pitch": 10,
+    "estimated_pitch": 10.54104388967255,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/joint/swap/1",
+    "true_start": 7298,
+    "true_end": 8766,
+    "inferred_start": 7168,
+    "inferred_end": 8960,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9710846090463379,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/joint/swap/1",
+    "true_start": 15364,
+    "true_end": 16915,
+    "inferred_start": 15232,
+    "inferred_end": 17152,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9541720434600396,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/joint/swap/1",
+    "true_start": 3504,
+    "true_end": 4828,
+    "inferred_start": 3648,
+    "inferred_end": 5056,
+    "true_pitch": 10,
+    "estimated_pitch": 10.515431896185879,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/joint/swap/1",
+    "true_start": 10418,
+    "true_end": 11742,
+    "inferred_start": 10624,
+    "inferred_end": 11968,
+    "true_pitch": 10,
+    "estimated_pitch": 9.612564544250334,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/joint/shuffle/0",
+    "true_start": 384,
+    "true_end": 1852,
+    "inferred_start": 256,
+    "inferred_end": 2048,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9709552249798474,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/joint/shuffle/0",
+    "true_start": 15364,
+    "true_end": 16915,
+    "inferred_start": 15232,
+    "inferred_end": 17152,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9541720434600396,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/joint/shuffle/0",
+    "true_start": 10418,
+    "true_end": 11742,
+    "inferred_start": 10560,
+    "inferred_end": 11968,
+    "true_pitch": 10,
+    "estimated_pitch": 10.504994135179412,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/joint/shuffle/0",
+    "true_start": 3504,
+    "true_end": 4828,
+    "inferred_start": 3712,
+    "inferred_end": 5056,
+    "true_pitch": 10,
+    "estimated_pitch": 9.611400788755029,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/joint/shuffle/1",
+    "true_start": 384,
+    "true_end": 1852,
+    "inferred_start": 256,
+    "inferred_end": 2048,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9709552249798474,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/joint/shuffle/1",
+    "true_start": 15364,
+    "true_end": 16915,
+    "inferred_start": 15232,
+    "inferred_end": 17152,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9541720434600396,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/joint/shuffle/1",
+    "true_start": 10418,
+    "true_end": 11742,
+    "inferred_start": 10560,
+    "inferred_end": 11968,
+    "true_pitch": 10,
+    "estimated_pitch": 9.639824030491027,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/joint/shuffle/1",
+    "true_start": 3504,
+    "true_end": 4828,
+    "inferred_start": 3712,
+    "inferred_end": 5056,
+    "true_pitch": 10,
+    "estimated_pitch": 10.553394003796356,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/joint/ambiguous/0",
+    "true_start": 7298,
+    "true_end": 8766,
+    "inferred_start": 7168,
+    "inferred_end": 8960,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9710846090463379,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/joint/ambiguous/0",
+    "true_start": 384,
+    "true_end": 1852,
+    "inferred_start": 256,
+    "inferred_end": 2048,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9709552249798474,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/joint/ambiguous/0",
+    "true_start": 15364,
+    "true_end": 16915,
+    "inferred_start": 15232,
+    "inferred_end": 17152,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9541720434600396,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/joint/ambiguous/0",
+    "true_start": 10418,
+    "true_end": 11742,
+    "inferred_start": 10624,
+    "inferred_end": 11968,
+    "true_pitch": 10,
+    "estimated_pitch": 9.612564544250334,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/joint/ambiguous/0",
+    "true_start": 3504,
+    "true_end": 4828,
+    "inferred_start": 3712,
+    "inferred_end": 5056,
+    "true_pitch": 10,
+    "estimated_pitch": 10.553394003796356,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/joint/ambiguous/1",
+    "true_start": 7298,
+    "true_end": 8766,
+    "inferred_start": 7168,
+    "inferred_end": 8960,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9710846090463379,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/joint/ambiguous/1",
+    "true_start": 384,
+    "true_end": 1852,
+    "inferred_start": 256,
+    "inferred_end": 2048,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9709552249798474,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/joint/ambiguous/1",
+    "true_start": 15364,
+    "true_end": 16915,
+    "inferred_start": 15232,
+    "inferred_end": 17152,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9541720434600396,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/joint/ambiguous/1",
+    "true_start": 10418,
+    "true_end": 11742,
+    "inferred_start": 10624,
+    "inferred_end": 11968,
+    "true_pitch": 10,
+    "estimated_pitch": 9.612564544250334,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-10/joint/ambiguous/1",
+    "true_start": 3504,
+    "true_end": 4828,
+    "inferred_start": 3712,
+    "inferred_end": 5056,
+    "true_pitch": 10,
+    "estimated_pitch": 10.553394003796356,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/legato/intact/0",
+    "true_start": 8698,
+    "true_end": 10248,
+    "inferred_start": 8960,
+    "inferred_end": 10432,
+    "true_pitch": 3,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/legato/intact/1",
+    "true_start": 8698,
+    "true_end": 10248,
+    "inferred_start": 8960,
+    "inferred_end": 10432,
+    "true_pitch": 3,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/duration/intact/0",
+    "true_start": 16969,
+    "true_end": 18710,
+    "inferred_start": 17088,
+    "inferred_end": 18944,
+    "true_pitch": 3,
+    "estimated_pitch": -15.966694681642856,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/duration/intact/0",
+    "true_start": 10454,
+    "true_end": 11784,
+    "inferred_start": 10624,
+    "inferred_end": 11968,
+    "true_pitch": -2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/duration/intact/0",
+    "true_start": 1858,
+    "true_end": 3516,
+    "inferred_start": 2112,
+    "inferred_end": 3776,
+    "true_pitch": 2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/duration/intact/0",
+    "true_start": 3516,
+    "true_end": 4846,
+    "inferred_start": 3776,
+    "inferred_end": 5056,
+    "true_pitch": -2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/duration/intact/1",
+    "true_start": 16969,
+    "true_end": 18710,
+    "inferred_start": 17088,
+    "inferred_end": 18944,
+    "true_pitch": 3,
+    "estimated_pitch": -15.966694681642856,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/duration/intact/1",
+    "true_start": 10454,
+    "true_end": 11784,
+    "inferred_start": 10624,
+    "inferred_end": 12032,
+    "true_pitch": -2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/duration/intact/1",
+    "true_start": 1858,
+    "true_end": 3516,
+    "inferred_start": 2112,
+    "inferred_end": 3776,
+    "true_pitch": 2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/duration/intact/1",
+    "true_start": 3516,
+    "true_end": 4846,
+    "inferred_start": 3776,
+    "inferred_end": 4992,
+    "true_pitch": -2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/joint/intact/0",
+    "true_start": 15412,
+    "true_end": 16969,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": -13.011733878531182,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/joint/intact/0",
+    "true_start": 10454,
+    "true_end": 11784,
+    "inferred_start": 10624,
+    "inferred_end": 11968,
+    "true_pitch": -2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/joint/intact/0",
+    "true_start": 16969,
+    "true_end": 18710,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 3,
+    "estimated_pitch": -8.99285666208533,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/joint/intact/0",
+    "true_start": 1858,
+    "true_end": 3516,
+    "inferred_start": 2112,
+    "inferred_end": 3776,
+    "true_pitch": 2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/joint/intact/0",
+    "true_start": 3516,
+    "true_end": 4846,
+    "inferred_start": 3776,
+    "inferred_end": 5056,
+    "true_pitch": -2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/joint/intact/1",
+    "true_start": 15412,
+    "true_end": 16969,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": -13.011733878531182,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/joint/intact/1",
+    "true_start": 16969,
+    "true_end": 18710,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 3,
+    "estimated_pitch": -8.99285666208533,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/joint/intact/1",
+    "true_start": 10454,
+    "true_end": 11784,
+    "inferred_start": 10624,
+    "inferred_end": 12032,
+    "true_pitch": -2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/joint/intact/1",
+    "true_start": 1858,
+    "true_end": 3516,
+    "inferred_start": 2112,
+    "inferred_end": 3776,
+    "true_pitch": 2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/joint/intact/1",
+    "true_start": 3516,
+    "true_end": 4846,
+    "inferred_start": 3776,
+    "inferred_end": 4992,
+    "true_pitch": -2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/joint/reset/0",
+    "true_start": 15412,
+    "true_end": 16969,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": -13.011733878531182,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/joint/reset/0",
+    "true_start": 16969,
+    "true_end": 18710,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 3,
+    "estimated_pitch": -8.99285666208533,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/joint/reset/1",
+    "true_start": 15412,
+    "true_end": 16969,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": -13.011733878531182,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/joint/reset/1",
+    "true_start": 16969,
+    "true_end": 18710,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 3,
+    "estimated_pitch": -8.99285666208533,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/joint/removal/0",
+    "true_start": 15412,
+    "true_end": 16969,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": -13.011733878531182,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/joint/removal/0",
+    "true_start": 16969,
+    "true_end": 18710,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 3,
+    "estimated_pitch": -8.99285666208533,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/joint/removal/0",
+    "true_start": 1858,
+    "true_end": 3516,
+    "inferred_start": 2112,
+    "inferred_end": 3776,
+    "true_pitch": 2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/joint/removal/1",
+    "true_start": 15412,
+    "true_end": 16969,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": -13.011733878531182,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/joint/removal/1",
+    "true_start": 16969,
+    "true_end": 18710,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 3,
+    "estimated_pitch": -8.99285666208533,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/joint/removal/1",
+    "true_start": 1858,
+    "true_end": 3516,
+    "inferred_start": 2112,
+    "inferred_end": 3776,
+    "true_pitch": 2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/joint/swap/0",
+    "true_start": 15412,
+    "true_end": 16969,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": -13.011733878531182,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/joint/swap/0",
+    "true_start": 16969,
+    "true_end": 18710,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 3,
+    "estimated_pitch": -8.99285666208533,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/joint/swap/0",
+    "true_start": 10454,
+    "true_end": 11784,
+    "inferred_start": 10624,
+    "inferred_end": 12032,
+    "true_pitch": -2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/joint/swap/0",
+    "true_start": 1858,
+    "true_end": 3516,
+    "inferred_start": 2112,
+    "inferred_end": 3776,
+    "true_pitch": 2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/joint/swap/0",
+    "true_start": 3516,
+    "true_end": 4846,
+    "inferred_start": 3776,
+    "inferred_end": 4992,
+    "true_pitch": -2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/joint/swap/1",
+    "true_start": 15412,
+    "true_end": 16969,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": -13.011733878531182,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/joint/swap/1",
+    "true_start": 10454,
+    "true_end": 11784,
+    "inferred_start": 10624,
+    "inferred_end": 11968,
+    "true_pitch": -2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/joint/swap/1",
+    "true_start": 16969,
+    "true_end": 18710,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 3,
+    "estimated_pitch": -8.99285666208533,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/joint/swap/1",
+    "true_start": 1858,
+    "true_end": 3516,
+    "inferred_start": 2112,
+    "inferred_end": 3776,
+    "true_pitch": 2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/joint/swap/1",
+    "true_start": 3516,
+    "true_end": 4846,
+    "inferred_start": 3776,
+    "inferred_end": 5056,
+    "true_pitch": -2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/joint/shuffle/0",
+    "true_start": 15412,
+    "true_end": 16969,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": -13.011733878531182,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/joint/shuffle/0",
+    "true_start": 16969,
+    "true_end": 18710,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 3,
+    "estimated_pitch": -8.99285666208533,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/joint/shuffle/0",
+    "true_start": 10454,
+    "true_end": 11784,
+    "inferred_start": 10688,
+    "inferred_end": 12032,
+    "true_pitch": -2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/joint/shuffle/1",
+    "true_start": 15412,
+    "true_end": 16969,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": -13.011733878531182,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/joint/shuffle/1",
+    "true_start": 3516,
+    "true_end": 4846,
+    "inferred_start": 3648,
+    "inferred_end": 5056,
+    "true_pitch": -2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/joint/shuffle/1",
+    "true_start": 16969,
+    "true_end": 18710,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 3,
+    "estimated_pitch": -8.99285666208533,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/joint/shuffle/1",
+    "true_start": 10454,
+    "true_end": 11784,
+    "inferred_start": 10688,
+    "inferred_end": 11968,
+    "true_pitch": -2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/joint/ambiguous/0",
+    "true_start": 15412,
+    "true_end": 16969,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": -13.011733878531182,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/joint/ambiguous/0",
+    "true_start": 3516,
+    "true_end": 4846,
+    "inferred_start": 3648,
+    "inferred_end": 5056,
+    "true_pitch": -2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/joint/ambiguous/0",
+    "true_start": 10454,
+    "true_end": 11784,
+    "inferred_start": 10624,
+    "inferred_end": 11968,
+    "true_pitch": -2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/joint/ambiguous/0",
+    "true_start": 16969,
+    "true_end": 18710,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 3,
+    "estimated_pitch": -8.99285666208533,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/joint/ambiguous/1",
+    "true_start": 15412,
+    "true_end": 16969,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": -13.011733878531182,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/joint/ambiguous/1",
+    "true_start": 3516,
+    "true_end": 4846,
+    "inferred_start": 3648,
+    "inferred_end": 5056,
+    "true_pitch": -2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/joint/ambiguous/1",
+    "true_start": 10454,
+    "true_end": 11784,
+    "inferred_start": 10624,
+    "inferred_end": 11968,
+    "true_pitch": -2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-12/joint/ambiguous/1",
+    "true_start": 16969,
+    "true_end": 18710,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 3,
+    "estimated_pitch": -8.99285666208533,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/legato/intact/0",
+    "true_start": 7273,
+    "true_end": 8713,
+    "inferred_start": 7232,
+    "inferred_end": 8896,
+    "true_pitch": 6,
+    "estimated_pitch": -13.010406597997843,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/legato/intact/0",
+    "true_start": 16754,
+    "true_end": 18307,
+    "inferred_start": 16832,
+    "inferred_end": 18496,
+    "true_pitch": 10,
+    "estimated_pitch": -2.1394653143943483,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/legato/intact/0",
+    "true_start": 1824,
+    "true_end": 3377,
+    "inferred_start": 1920,
+    "inferred_end": 3584,
+    "true_pitch": 10,
+    "estimated_pitch": -2.1712525338329676,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/legato/intact/0",
+    "true_start": 8713,
+    "true_end": 10266,
+    "inferred_start": 8896,
+    "inferred_end": 10496,
+    "true_pitch": 11,
+    "estimated_pitch": -8.007954885180009,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/legato/intact/1",
+    "true_start": 7273,
+    "true_end": 8713,
+    "inferred_start": 7232,
+    "inferred_end": 8896,
+    "true_pitch": 6,
+    "estimated_pitch": -13.010406597997843,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/legato/intact/1",
+    "true_start": 16754,
+    "true_end": 18307,
+    "inferred_start": 16832,
+    "inferred_end": 18496,
+    "true_pitch": 10,
+    "estimated_pitch": -2.1394653143943483,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/legato/intact/1",
+    "true_start": 1824,
+    "true_end": 3377,
+    "inferred_start": 1920,
+    "inferred_end": 3584,
+    "true_pitch": 10,
+    "estimated_pitch": -2.1712525338329676,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/legato/intact/1",
+    "true_start": 8713,
+    "true_end": 10266,
+    "inferred_start": 8896,
+    "inferred_end": 10496,
+    "true_pitch": 11,
+    "estimated_pitch": -8.007954885180009,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/duration/intact/0",
+    "true_start": 7334,
+    "true_end": 8811,
+    "inferred_start": 7296,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": -13.016350788511819,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/duration/intact/0",
+    "true_start": 15436,
+    "true_end": 16996,
+    "inferred_start": 15424,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": -13.064697664763003,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/duration/intact/0",
+    "true_start": 1861,
+    "true_end": 3522,
+    "inferred_start": 1984,
+    "inferred_end": 3712,
+    "true_pitch": 10,
+    "estimated_pitch": -2.153298662371547,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/duration/intact/0",
+    "true_start": 16996,
+    "true_end": 18740,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 10,
+    "estimated_pitch": -2.1781175945178335,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/duration/intact/1",
+    "true_start": 7334,
+    "true_end": 8811,
+    "inferred_start": 7296,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": -13.016350788511819,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/duration/intact/1",
+    "true_start": 15436,
+    "true_end": 16996,
+    "inferred_start": 15424,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": -13.064697664763003,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/duration/intact/1",
+    "true_start": 1861,
+    "true_end": 3522,
+    "inferred_start": 1984,
+    "inferred_end": 3712,
+    "true_pitch": 10,
+    "estimated_pitch": -2.153298662371547,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/duration/intact/1",
+    "true_start": 16996,
+    "true_end": 18740,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 10,
+    "estimated_pitch": -2.1781175945178335,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/intact/0",
+    "true_start": 384,
+    "true_end": 1861,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -5.985669506623147,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/intact/0",
+    "true_start": 15436,
+    "true_end": 16996,
+    "inferred_start": 15424,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": -13.064697664763003,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/intact/0",
+    "true_start": 7334,
+    "true_end": 8811,
+    "inferred_start": 7296,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": -13.009418979456292,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/intact/0",
+    "true_start": 16996,
+    "true_end": 18740,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 10,
+    "estimated_pitch": -2.1781175945178335,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/intact/0",
+    "true_start": 8811,
+    "true_end": 10472,
+    "inferred_start": 9024,
+    "inferred_end": 10688,
+    "true_pitch": 11,
+    "estimated_pitch": -8.015602303080694,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/intact/0",
+    "true_start": 3522,
+    "true_end": 4855,
+    "inferred_start": 3712,
+    "inferred_end": 5056,
+    "true_pitch": 16,
+    "estimated_pitch": -3.007019008467336,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/intact/0",
+    "true_start": 10472,
+    "true_end": 11805,
+    "inferred_start": 10688,
+    "inferred_end": 12032,
+    "true_pitch": 16,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/intact/1",
+    "true_start": 384,
+    "true_end": 1861,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -5.985669506623147,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/intact/1",
+    "true_start": 15436,
+    "true_end": 16996,
+    "inferred_start": 15424,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": -13.064697664763003,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/intact/1",
+    "true_start": 7334,
+    "true_end": 8811,
+    "inferred_start": 7296,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": -13.009418979456292,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/intact/1",
+    "true_start": 16996,
+    "true_end": 18740,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 10,
+    "estimated_pitch": -2.1781175945178335,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/intact/1",
+    "true_start": 8811,
+    "true_end": 10472,
+    "inferred_start": 9024,
+    "inferred_end": 10688,
+    "true_pitch": 11,
+    "estimated_pitch": -8.015602303080694,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/intact/1",
+    "true_start": 3522,
+    "true_end": 4855,
+    "inferred_start": 3712,
+    "inferred_end": 5056,
+    "true_pitch": 16,
+    "estimated_pitch": -2.9805966590809247,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/intact/1",
+    "true_start": 10472,
+    "true_end": 11805,
+    "inferred_start": 10688,
+    "inferred_end": 12032,
+    "true_pitch": 16,
+    "estimated_pitch": -3.0044317354436765,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/reset/0",
+    "true_start": 15436,
+    "true_end": 16996,
+    "inferred_start": 15424,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": -13.064697664763003,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/reset/0",
+    "true_start": 16996,
+    "true_end": 18740,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 10,
+    "estimated_pitch": -2.1781175945178335,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/reset/1",
+    "true_start": 15436,
+    "true_end": 16996,
+    "inferred_start": 15424,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": -13.064697664763003,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/reset/1",
+    "true_start": 16996,
+    "true_end": 18740,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 10,
+    "estimated_pitch": -2.1781175945178335,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/removal/0",
+    "true_start": 384,
+    "true_end": 1861,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -5.985669506623147,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/removal/0",
+    "true_start": 15436,
+    "true_end": 16996,
+    "inferred_start": 15424,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": -13.064697664763003,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/removal/0",
+    "true_start": 7334,
+    "true_end": 8811,
+    "inferred_start": 7296,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": -13.009418979456292,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/removal/0",
+    "true_start": 16996,
+    "true_end": 18740,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 10,
+    "estimated_pitch": -2.1781175945178335,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/removal/0",
+    "true_start": 8811,
+    "true_end": 10472,
+    "inferred_start": 9024,
+    "inferred_end": 10688,
+    "true_pitch": 11,
+    "estimated_pitch": -8.015602303080694,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/removal/1",
+    "true_start": 384,
+    "true_end": 1861,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -5.985669506623147,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/removal/1",
+    "true_start": 15436,
+    "true_end": 16996,
+    "inferred_start": 15424,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": -13.064697664763003,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/removal/1",
+    "true_start": 7334,
+    "true_end": 8811,
+    "inferred_start": 7296,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": -13.009418979456292,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/removal/1",
+    "true_start": 16996,
+    "true_end": 18740,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 10,
+    "estimated_pitch": -2.1781175945178335,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/removal/1",
+    "true_start": 8811,
+    "true_end": 10472,
+    "inferred_start": 9024,
+    "inferred_end": 10688,
+    "true_pitch": 11,
+    "estimated_pitch": -8.015602303080694,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/swap/0",
+    "true_start": 384,
+    "true_end": 1861,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -5.985669506623147,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/swap/0",
+    "true_start": 15436,
+    "true_end": 16996,
+    "inferred_start": 15424,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": -13.064697664763003,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/swap/0",
+    "true_start": 7334,
+    "true_end": 8811,
+    "inferred_start": 7296,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": -13.009418979456292,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/swap/0",
+    "true_start": 16996,
+    "true_end": 18740,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 10,
+    "estimated_pitch": -2.1781175945178335,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/swap/0",
+    "true_start": 8811,
+    "true_end": 10472,
+    "inferred_start": 9024,
+    "inferred_end": 10688,
+    "true_pitch": 11,
+    "estimated_pitch": -8.015602303080694,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/swap/0",
+    "true_start": 3522,
+    "true_end": 4855,
+    "inferred_start": 3712,
+    "inferred_end": 5056,
+    "true_pitch": 16,
+    "estimated_pitch": -2.9805966590809247,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/swap/0",
+    "true_start": 10472,
+    "true_end": 11805,
+    "inferred_start": 10688,
+    "inferred_end": 12032,
+    "true_pitch": 16,
+    "estimated_pitch": -3.0044317354436765,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/swap/1",
+    "true_start": 384,
+    "true_end": 1861,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -5.985669506623147,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/swap/1",
+    "true_start": 15436,
+    "true_end": 16996,
+    "inferred_start": 15424,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": -13.064697664763003,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/swap/1",
+    "true_start": 7334,
+    "true_end": 8811,
+    "inferred_start": 7296,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": -13.009418979456292,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/swap/1",
+    "true_start": 16996,
+    "true_end": 18740,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 10,
+    "estimated_pitch": -2.1781175945178335,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/swap/1",
+    "true_start": 8811,
+    "true_end": 10472,
+    "inferred_start": 9024,
+    "inferred_end": 10688,
+    "true_pitch": 11,
+    "estimated_pitch": -8.015602303080694,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/swap/1",
+    "true_start": 3522,
+    "true_end": 4855,
+    "inferred_start": 3712,
+    "inferred_end": 5056,
+    "true_pitch": 16,
+    "estimated_pitch": -3.007019008467336,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/swap/1",
+    "true_start": 10472,
+    "true_end": 11805,
+    "inferred_start": 10688,
+    "inferred_end": 12032,
+    "true_pitch": 16,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/shuffle/0",
+    "true_start": 384,
+    "true_end": 1861,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -13.011645536903883,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/shuffle/0",
+    "true_start": 15436,
+    "true_end": 16996,
+    "inferred_start": 15424,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": -13.064697664763003,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/shuffle/0",
+    "true_start": 7334,
+    "true_end": 8811,
+    "inferred_start": 7296,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": -5.978802606834039,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/shuffle/0",
+    "true_start": 16996,
+    "true_end": 18740,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 10,
+    "estimated_pitch": -2.1781175945178335,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/shuffle/0",
+    "true_start": 10472,
+    "true_end": 11805,
+    "inferred_start": 10688,
+    "inferred_end": 12032,
+    "true_pitch": 16,
+    "estimated_pitch": -3.0044317354436765,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/shuffle/0",
+    "true_start": 3522,
+    "true_end": 4855,
+    "inferred_start": 3776,
+    "inferred_end": 5056,
+    "true_pitch": 16,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/shuffle/1",
+    "true_start": 384,
+    "true_end": 1861,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -13.011645536903883,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/shuffle/1",
+    "true_start": 15436,
+    "true_end": 16996,
+    "inferred_start": 15424,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": -13.064697664763003,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/shuffle/1",
+    "true_start": 7334,
+    "true_end": 8811,
+    "inferred_start": 7296,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": -5.978802606834039,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/shuffle/1",
+    "true_start": 16996,
+    "true_end": 18740,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 10,
+    "estimated_pitch": -2.1781175945178335,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/shuffle/1",
+    "true_start": 10472,
+    "true_end": 11805,
+    "inferred_start": 10688,
+    "inferred_end": 12032,
+    "true_pitch": 16,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/shuffle/1",
+    "true_start": 3522,
+    "true_end": 4855,
+    "inferred_start": 3776,
+    "inferred_end": 5056,
+    "true_pitch": 16,
+    "estimated_pitch": -3.0058898295579652,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/ambiguous/0",
+    "true_start": 384,
+    "true_end": 1861,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -5.985669506623147,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/ambiguous/0",
+    "true_start": 15436,
+    "true_end": 16996,
+    "inferred_start": 15424,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": -13.064697664763003,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/ambiguous/0",
+    "true_start": 7334,
+    "true_end": 8811,
+    "inferred_start": 7296,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": -5.978802606834039,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/ambiguous/0",
+    "true_start": 16996,
+    "true_end": 18740,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 10,
+    "estimated_pitch": -2.1781175945178335,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/ambiguous/0",
+    "true_start": 3522,
+    "true_end": 4855,
+    "inferred_start": 3712,
+    "inferred_end": 5056,
+    "true_pitch": 16,
+    "estimated_pitch": -3.007019008467336,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/ambiguous/0",
+    "true_start": 10472,
+    "true_end": 11805,
+    "inferred_start": 10688,
+    "inferred_end": 12032,
+    "true_pitch": 16,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/ambiguous/1",
+    "true_start": 384,
+    "true_end": 1861,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -5.985669506623147,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/ambiguous/1",
+    "true_start": 15436,
+    "true_end": 16996,
+    "inferred_start": 15424,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": -13.064697664763003,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/ambiguous/1",
+    "true_start": 7334,
+    "true_end": 8811,
+    "inferred_start": 7296,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": -5.978802606834039,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/ambiguous/1",
+    "true_start": 16996,
+    "true_end": 18740,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 10,
+    "estimated_pitch": -2.1781175945178335,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/ambiguous/1",
+    "true_start": 3522,
+    "true_end": 4855,
+    "inferred_start": 3712,
+    "inferred_end": 5056,
+    "true_pitch": 16,
+    "estimated_pitch": -3.007019008467336,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-13/joint/ambiguous/1",
+    "true_start": 10472,
+    "true_end": 11805,
+    "inferred_start": 10688,
+    "inferred_end": 12032,
+    "true_pitch": 16,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/legato/intact/0",
+    "true_start": 10284,
+    "true_end": 11768,
+    "inferred_start": 10368,
+    "inferred_end": 11968,
+    "true_pitch": 11,
+    "estimated_pitch": -8.016285732879252,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/legato/intact/0",
+    "true_start": 3383,
+    "true_end": 4867,
+    "inferred_start": 3328,
+    "inferred_end": 5120,
+    "true_pitch": 11,
+    "estimated_pitch": -12.985959818883416,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/legato/intact/1",
+    "true_start": 3383,
+    "true_end": 4867,
+    "inferred_start": 3328,
+    "inferred_end": 5056,
+    "true_pitch": 11,
+    "estimated_pitch": -7.999616444886451,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/legato/intact/1",
+    "true_start": 10284,
+    "true_end": 11768,
+    "inferred_start": 10368,
+    "inferred_end": 11968,
+    "true_pitch": 11,
+    "estimated_pitch": -7.953321084027609,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/duration/intact/0",
+    "true_start": 7346,
+    "true_end": 8826,
+    "inferred_start": 7232,
+    "inferred_end": 9024,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9436909149349444,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/duration/intact/0",
+    "true_start": 384,
+    "true_end": 1864,
+    "inferred_start": 256,
+    "inferred_end": 2112,
+    "true_pitch": 18,
+    "estimated_pitch": 17.644179780547795,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/duration/intact/0",
+    "true_start": 10490,
+    "true_end": 11826,
+    "inferred_start": 10688,
+    "inferred_end": 11968,
+    "true_pitch": 11,
+    "estimated_pitch": -8.016767519150378,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/duration/intact/0",
+    "true_start": 3528,
+    "true_end": 4864,
+    "inferred_start": 3712,
+    "inferred_end": 5120,
+    "true_pitch": 11,
+    "estimated_pitch": -12.999684085566571,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/duration/intact/1",
+    "true_start": 7346,
+    "true_end": 8826,
+    "inferred_start": 7232,
+    "inferred_end": 9024,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9436909149349444,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/duration/intact/1",
+    "true_start": 384,
+    "true_end": 1864,
+    "inferred_start": 256,
+    "inferred_end": 2112,
+    "true_pitch": 18,
+    "estimated_pitch": 17.644179780547795,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/duration/intact/1",
+    "true_start": 3528,
+    "true_end": 4864,
+    "inferred_start": 3712,
+    "inferred_end": 5056,
+    "true_pitch": 11,
+    "estimated_pitch": -8.014928247412275,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/duration/intact/1",
+    "true_start": 10490,
+    "true_end": 11826,
+    "inferred_start": 10688,
+    "inferred_end": 12032,
+    "true_pitch": 11,
+    "estimated_pitch": -12.999444397079461,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/intact/0",
+    "true_start": 15460,
+    "true_end": 17023,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 18,
+    "estimated_pitch": 6.045577426862627,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/intact/0",
+    "true_start": 7346,
+    "true_end": 8826,
+    "inferred_start": 7232,
+    "inferred_end": 9024,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9436909149349444,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/intact/0",
+    "true_start": 384,
+    "true_end": 1864,
+    "inferred_start": 256,
+    "inferred_end": 2112,
+    "true_pitch": 18,
+    "estimated_pitch": 17.644179780547795,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/intact/0",
+    "true_start": 17023,
+    "true_end": 18770,
+    "inferred_start": 17216,
+    "inferred_end": 19008,
+    "true_pitch": 14,
+    "estimated_pitch": -5.010115040933127,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/intact/0",
+    "true_start": 10490,
+    "true_end": 11826,
+    "inferred_start": 10688,
+    "inferred_end": 11968,
+    "true_pitch": 11,
+    "estimated_pitch": -8.016767519150378,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/intact/0",
+    "true_start": 3528,
+    "true_end": 4864,
+    "inferred_start": 3712,
+    "inferred_end": 5120,
+    "true_pitch": 11,
+    "estimated_pitch": -12.999684085566571,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/intact/1",
+    "true_start": 15460,
+    "true_end": 17023,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 18,
+    "estimated_pitch": 6.045577426862627,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/intact/1",
+    "true_start": 7346,
+    "true_end": 8826,
+    "inferred_start": 7232,
+    "inferred_end": 9024,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9436909149349444,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/intact/1",
+    "true_start": 384,
+    "true_end": 1864,
+    "inferred_start": 256,
+    "inferred_end": 2112,
+    "true_pitch": 18,
+    "estimated_pitch": 17.644179780547795,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/intact/1",
+    "true_start": 17023,
+    "true_end": 18770,
+    "inferred_start": 17216,
+    "inferred_end": 19008,
+    "true_pitch": 14,
+    "estimated_pitch": -5.010115040933127,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/intact/1",
+    "true_start": 3528,
+    "true_end": 4864,
+    "inferred_start": 3712,
+    "inferred_end": 5056,
+    "true_pitch": 11,
+    "estimated_pitch": -8.014928247412275,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/intact/1",
+    "true_start": 10490,
+    "true_end": 11826,
+    "inferred_start": 10688,
+    "inferred_end": 12032,
+    "true_pitch": 11,
+    "estimated_pitch": -12.999444397079461,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/reset/0",
+    "true_start": 15460,
+    "true_end": 17023,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 18,
+    "estimated_pitch": 6.045577426862627,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/reset/0",
+    "true_start": 17023,
+    "true_end": 18770,
+    "inferred_start": 17216,
+    "inferred_end": 19008,
+    "true_pitch": 14,
+    "estimated_pitch": -5.010115040933127,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/reset/1",
+    "true_start": 15460,
+    "true_end": 17023,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 18,
+    "estimated_pitch": 6.045577426862627,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/reset/1",
+    "true_start": 17023,
+    "true_end": 18770,
+    "inferred_start": 17216,
+    "inferred_end": 19008,
+    "true_pitch": 14,
+    "estimated_pitch": -5.010115040933127,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/removal/0",
+    "true_start": 15460,
+    "true_end": 17023,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 18,
+    "estimated_pitch": 6.045577426862627,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/removal/0",
+    "true_start": 7346,
+    "true_end": 8826,
+    "inferred_start": 7232,
+    "inferred_end": 9024,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9436909149349444,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/removal/0",
+    "true_start": 384,
+    "true_end": 1864,
+    "inferred_start": 256,
+    "inferred_end": 2112,
+    "true_pitch": 18,
+    "estimated_pitch": 17.644179780547795,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/removal/0",
+    "true_start": 17023,
+    "true_end": 18770,
+    "inferred_start": 17216,
+    "inferred_end": 19008,
+    "true_pitch": 14,
+    "estimated_pitch": -5.010115040933127,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/removal/1",
+    "true_start": 15460,
+    "true_end": 17023,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 18,
+    "estimated_pitch": 6.045577426862627,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/removal/1",
+    "true_start": 7346,
+    "true_end": 8826,
+    "inferred_start": 7232,
+    "inferred_end": 9024,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9436909149349444,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/removal/1",
+    "true_start": 384,
+    "true_end": 1864,
+    "inferred_start": 256,
+    "inferred_end": 2112,
+    "true_pitch": 18,
+    "estimated_pitch": 17.644179780547795,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/removal/1",
+    "true_start": 17023,
+    "true_end": 18770,
+    "inferred_start": 17216,
+    "inferred_end": 19008,
+    "true_pitch": 14,
+    "estimated_pitch": -5.010115040933127,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/swap/0",
+    "true_start": 15460,
+    "true_end": 17023,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 18,
+    "estimated_pitch": 6.045577426862627,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/swap/0",
+    "true_start": 7346,
+    "true_end": 8826,
+    "inferred_start": 7232,
+    "inferred_end": 9024,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9436909149349444,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/swap/0",
+    "true_start": 384,
+    "true_end": 1864,
+    "inferred_start": 256,
+    "inferred_end": 2112,
+    "true_pitch": 18,
+    "estimated_pitch": 17.644179780547795,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/swap/0",
+    "true_start": 17023,
+    "true_end": 18770,
+    "inferred_start": 17216,
+    "inferred_end": 19008,
+    "true_pitch": 14,
+    "estimated_pitch": -5.010115040933127,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/swap/0",
+    "true_start": 3528,
+    "true_end": 4864,
+    "inferred_start": 3712,
+    "inferred_end": 5056,
+    "true_pitch": 11,
+    "estimated_pitch": -8.014928247412275,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/swap/0",
+    "true_start": 10490,
+    "true_end": 11826,
+    "inferred_start": 10688,
+    "inferred_end": 12032,
+    "true_pitch": 11,
+    "estimated_pitch": -12.999444397079461,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/swap/1",
+    "true_start": 15460,
+    "true_end": 17023,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 18,
+    "estimated_pitch": 6.045577426862627,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/swap/1",
+    "true_start": 7346,
+    "true_end": 8826,
+    "inferred_start": 7232,
+    "inferred_end": 9024,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9436909149349444,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/swap/1",
+    "true_start": 384,
+    "true_end": 1864,
+    "inferred_start": 256,
+    "inferred_end": 2112,
+    "true_pitch": 18,
+    "estimated_pitch": 17.644179780547795,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/swap/1",
+    "true_start": 17023,
+    "true_end": 18770,
+    "inferred_start": 17216,
+    "inferred_end": 19008,
+    "true_pitch": 14,
+    "estimated_pitch": -5.010115040933127,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/swap/1",
+    "true_start": 10490,
+    "true_end": 11826,
+    "inferred_start": 10688,
+    "inferred_end": 11968,
+    "true_pitch": 11,
+    "estimated_pitch": -8.016767519150378,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/swap/1",
+    "true_start": 3528,
+    "true_end": 4864,
+    "inferred_start": 3712,
+    "inferred_end": 5120,
+    "true_pitch": 11,
+    "estimated_pitch": -12.999684085566571,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/shuffle/0",
+    "true_start": 15460,
+    "true_end": 17023,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 18,
+    "estimated_pitch": 6.045577426862627,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/shuffle/0",
+    "true_start": 384,
+    "true_end": 1864,
+    "inferred_start": 256,
+    "inferred_end": 2112,
+    "true_pitch": 18,
+    "estimated_pitch": -6.001076872914355,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/shuffle/0",
+    "true_start": 17023,
+    "true_end": 18770,
+    "inferred_start": 17216,
+    "inferred_end": 19008,
+    "true_pitch": 14,
+    "estimated_pitch": -5.010115040933127,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/shuffle/0",
+    "true_start": 3528,
+    "true_end": 4864,
+    "inferred_start": 3712,
+    "inferred_end": 5056,
+    "true_pitch": 11,
+    "estimated_pitch": -8.014928247412275,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/shuffle/0",
+    "true_start": 10490,
+    "true_end": 11826,
+    "inferred_start": 10688,
+    "inferred_end": 12032,
+    "true_pitch": 11,
+    "estimated_pitch": -12.999444397079461,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/shuffle/1",
+    "true_start": 15460,
+    "true_end": 17023,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 18,
+    "estimated_pitch": 6.045577426862627,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/shuffle/1",
+    "true_start": 384,
+    "true_end": 1864,
+    "inferred_start": 256,
+    "inferred_end": 2112,
+    "true_pitch": 18,
+    "estimated_pitch": -6.001076872914355,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/shuffle/1",
+    "true_start": 17023,
+    "true_end": 18770,
+    "inferred_start": 17216,
+    "inferred_end": 19008,
+    "true_pitch": 14,
+    "estimated_pitch": -5.010115040933127,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/shuffle/1",
+    "true_start": 10490,
+    "true_end": 11826,
+    "inferred_start": 10688,
+    "inferred_end": 11968,
+    "true_pitch": 11,
+    "estimated_pitch": -8.016767519150378,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/shuffle/1",
+    "true_start": 3528,
+    "true_end": 4864,
+    "inferred_start": 3712,
+    "inferred_end": 5120,
+    "true_pitch": 11,
+    "estimated_pitch": -12.999684085566571,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/ambiguous/0",
+    "true_start": 15460,
+    "true_end": 17023,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 18,
+    "estimated_pitch": 6.045577426862627,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/ambiguous/0",
+    "true_start": 384,
+    "true_end": 1864,
+    "inferred_start": 256,
+    "inferred_end": 2112,
+    "true_pitch": 18,
+    "estimated_pitch": 17.644179780547795,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/ambiguous/0",
+    "true_start": 17023,
+    "true_end": 18770,
+    "inferred_start": 17216,
+    "inferred_end": 19008,
+    "true_pitch": 14,
+    "estimated_pitch": -5.010115040933127,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/ambiguous/0",
+    "true_start": 10490,
+    "true_end": 11826,
+    "inferred_start": 10688,
+    "inferred_end": 11968,
+    "true_pitch": 11,
+    "estimated_pitch": -8.016767519150378,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/ambiguous/0",
+    "true_start": 3528,
+    "true_end": 4864,
+    "inferred_start": 3712,
+    "inferred_end": 5120,
+    "true_pitch": 11,
+    "estimated_pitch": -12.999684085566571,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/ambiguous/1",
+    "true_start": 15460,
+    "true_end": 17023,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 18,
+    "estimated_pitch": 6.045577426862627,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/ambiguous/1",
+    "true_start": 384,
+    "true_end": 1864,
+    "inferred_start": 256,
+    "inferred_end": 2112,
+    "true_pitch": 18,
+    "estimated_pitch": 17.644179780547795,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/ambiguous/1",
+    "true_start": 17023,
+    "true_end": 18770,
+    "inferred_start": 17216,
+    "inferred_end": 19008,
+    "true_pitch": 14,
+    "estimated_pitch": -5.010115040933127,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/ambiguous/1",
+    "true_start": 10490,
+    "true_end": 11826,
+    "inferred_start": 10688,
+    "inferred_end": 11968,
+    "true_pitch": 11,
+    "estimated_pitch": -8.016767519150378,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-14/joint/ambiguous/1",
+    "true_start": 3528,
+    "true_end": 4864,
+    "inferred_start": 3712,
+    "inferred_end": 5120,
+    "true_pitch": 11,
+    "estimated_pitch": -12.999684085566571,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/legato/intact/0",
+    "true_start": 15362,
+    "true_end": 16808,
+    "inferred_start": 15232,
+    "inferred_end": 17024,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0103962522940653,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/legato/intact/0",
+    "true_start": 7297,
+    "true_end": 8743,
+    "inferred_start": 7168,
+    "inferred_end": 8960,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0103898928613988,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/legato/intact/0",
+    "true_start": 384,
+    "true_end": 1830,
+    "inferred_start": 256,
+    "inferred_end": 2048,
+    "true_pitch": 18,
+    "estimated_pitch": 5.797689853309585,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/legato/intact/0",
+    "true_start": 16808,
+    "true_end": 18367,
+    "inferred_start": 17024,
+    "inferred_end": 18496,
+    "true_pitch": 23,
+    "estimated_pitch": 23.4008699442641,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/legato/intact/0",
+    "true_start": 8743,
+    "true_end": 10302,
+    "inferred_start": 8960,
+    "inferred_end": 10432,
+    "true_pitch": 23,
+    "estimated_pitch": 23.40850553187682,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/legato/intact/1",
+    "true_start": 15362,
+    "true_end": 16808,
+    "inferred_start": 15232,
+    "inferred_end": 17024,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0103962522940653,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/legato/intact/1",
+    "true_start": 7297,
+    "true_end": 8743,
+    "inferred_start": 7168,
+    "inferred_end": 8960,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0103898928613988,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/legato/intact/1",
+    "true_start": 384,
+    "true_end": 1830,
+    "inferred_start": 256,
+    "inferred_end": 2048,
+    "true_pitch": 18,
+    "estimated_pitch": 5.797689853309585,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/legato/intact/1",
+    "true_start": 16808,
+    "true_end": 18367,
+    "inferred_start": 17024,
+    "inferred_end": 18496,
+    "true_pitch": 23,
+    "estimated_pitch": 23.4008699442641,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/legato/intact/1",
+    "true_start": 8743,
+    "true_end": 10302,
+    "inferred_start": 8960,
+    "inferred_end": 10432,
+    "true_pitch": 23,
+    "estimated_pitch": 23.40850553187682,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/duration/intact/0",
+    "true_start": 15484,
+    "true_end": 17050,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0128507735805647,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/duration/intact/0",
+    "true_start": 17050,
+    "true_end": 18800,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 23,
+    "estimated_pitch": 23.381302132285754,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/duration/intact/0",
+    "true_start": 7358,
+    "true_end": 8841,
+    "inferred_start": 7232,
+    "inferred_end": 9024,
+    "true_pitch": 18,
+    "estimated_pitch": -1.006378514005516,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/duration/intact/0",
+    "true_start": 384,
+    "true_end": 1867,
+    "inferred_start": 256,
+    "inferred_end": 2048,
+    "true_pitch": 18,
+    "estimated_pitch": 5.8285926293804735,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/duration/intact/0",
+    "true_start": 8841,
+    "true_end": 10508,
+    "inferred_start": 9024,
+    "inferred_end": 10688,
+    "true_pitch": 23,
+    "estimated_pitch": 23.483001916445346,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/duration/intact/0",
+    "true_start": 10508,
+    "true_end": 11847,
+    "inferred_start": 10688,
+    "inferred_end": 12032,
+    "true_pitch": 27,
+    "estimated_pitch": 26.639341643198946,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/duration/intact/1",
+    "true_start": 15484,
+    "true_end": 17050,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0128507735805647,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/duration/intact/1",
+    "true_start": 17050,
+    "true_end": 18800,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 23,
+    "estimated_pitch": 23.381302132285754,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/duration/intact/1",
+    "true_start": 7358,
+    "true_end": 8841,
+    "inferred_start": 7232,
+    "inferred_end": 9024,
+    "true_pitch": 18,
+    "estimated_pitch": -1.006378514005516,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/duration/intact/1",
+    "true_start": 384,
+    "true_end": 1867,
+    "inferred_start": 256,
+    "inferred_end": 2048,
+    "true_pitch": 18,
+    "estimated_pitch": 5.8285926293804735,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/duration/intact/1",
+    "true_start": 8841,
+    "true_end": 10508,
+    "inferred_start": 9024,
+    "inferred_end": 10688,
+    "true_pitch": 23,
+    "estimated_pitch": 23.483001916445346,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/intact/0",
+    "true_start": 15484,
+    "true_end": 17050,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0128507735805647,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/intact/0",
+    "true_start": 17050,
+    "true_end": 18800,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 23,
+    "estimated_pitch": 23.381302132285754,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/intact/0",
+    "true_start": 8841,
+    "true_end": 10508,
+    "inferred_start": 9088,
+    "inferred_end": 10752,
+    "true_pitch": 23,
+    "estimated_pitch": 11.024451077519165,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/intact/0",
+    "true_start": 3534,
+    "true_end": 4873,
+    "inferred_start": 3776,
+    "inferred_end": 5120,
+    "true_pitch": 27,
+    "estimated_pitch": 3.035908136465797,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/intact/0",
+    "true_start": 10508,
+    "true_end": 11847,
+    "inferred_start": 10752,
+    "inferred_end": 12096,
+    "true_pitch": 27,
+    "estimated_pitch": -0.8808354511463584,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/intact/1",
+    "true_start": 15484,
+    "true_end": 17050,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0128507735805647,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/intact/1",
+    "true_start": 17050,
+    "true_end": 18800,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 23,
+    "estimated_pitch": 23.381302132285754,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/intact/1",
+    "true_start": 8841,
+    "true_end": 10508,
+    "inferred_start": 9088,
+    "inferred_end": 10752,
+    "true_pitch": 23,
+    "estimated_pitch": 11.024451077519165,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/intact/1",
+    "true_start": 3534,
+    "true_end": 4873,
+    "inferred_start": 3776,
+    "inferred_end": 5120,
+    "true_pitch": 27,
+    "estimated_pitch": -0.8801435906286592,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/intact/1",
+    "true_start": 10508,
+    "true_end": 11847,
+    "inferred_start": 10752,
+    "inferred_end": 12096,
+    "true_pitch": 27,
+    "estimated_pitch": 3.0359723691168052,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/reset/0",
+    "true_start": 15484,
+    "true_end": 17050,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0128507735805647,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/reset/0",
+    "true_start": 17050,
+    "true_end": 18800,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 23,
+    "estimated_pitch": 23.381302132285754,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/reset/1",
+    "true_start": 15484,
+    "true_end": 17050,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0128507735805647,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/reset/1",
+    "true_start": 17050,
+    "true_end": 18800,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 23,
+    "estimated_pitch": 23.381302132285754,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/removal/0",
+    "true_start": 15484,
+    "true_end": 17050,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0128507735805647,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/removal/0",
+    "true_start": 17050,
+    "true_end": 18800,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 23,
+    "estimated_pitch": 23.381302132285754,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/removal/0",
+    "true_start": 8841,
+    "true_end": 10508,
+    "inferred_start": 9088,
+    "inferred_end": 10752,
+    "true_pitch": 23,
+    "estimated_pitch": 11.024451077519165,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/removal/1",
+    "true_start": 15484,
+    "true_end": 17050,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0128507735805647,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/removal/1",
+    "true_start": 17050,
+    "true_end": 18800,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 23,
+    "estimated_pitch": 23.381302132285754,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/removal/1",
+    "true_start": 8841,
+    "true_end": 10508,
+    "inferred_start": 9088,
+    "inferred_end": 10752,
+    "true_pitch": 23,
+    "estimated_pitch": 11.024451077519165,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/swap/0",
+    "true_start": 15484,
+    "true_end": 17050,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0128507735805647,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/swap/0",
+    "true_start": 17050,
+    "true_end": 18800,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 23,
+    "estimated_pitch": 23.381302132285754,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/swap/0",
+    "true_start": 8841,
+    "true_end": 10508,
+    "inferred_start": 9088,
+    "inferred_end": 10752,
+    "true_pitch": 23,
+    "estimated_pitch": 11.024451077519165,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/swap/0",
+    "true_start": 3534,
+    "true_end": 4873,
+    "inferred_start": 3776,
+    "inferred_end": 5120,
+    "true_pitch": 27,
+    "estimated_pitch": -0.8801435906286592,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/swap/0",
+    "true_start": 10508,
+    "true_end": 11847,
+    "inferred_start": 10752,
+    "inferred_end": 12096,
+    "true_pitch": 27,
+    "estimated_pitch": 3.0359723691168052,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/swap/1",
+    "true_start": 15484,
+    "true_end": 17050,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0128507735805647,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/swap/1",
+    "true_start": 17050,
+    "true_end": 18800,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 23,
+    "estimated_pitch": 23.381302132285754,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/swap/1",
+    "true_start": 8841,
+    "true_end": 10508,
+    "inferred_start": 9088,
+    "inferred_end": 10752,
+    "true_pitch": 23,
+    "estimated_pitch": 11.024451077519165,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/swap/1",
+    "true_start": 3534,
+    "true_end": 4873,
+    "inferred_start": 3776,
+    "inferred_end": 5120,
+    "true_pitch": 27,
+    "estimated_pitch": 3.035908136465797,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/swap/1",
+    "true_start": 10508,
+    "true_end": 11847,
+    "inferred_start": 10752,
+    "inferred_end": 12096,
+    "true_pitch": 27,
+    "estimated_pitch": -0.8808354511463584,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/shuffle/0",
+    "true_start": 15484,
+    "true_end": 17050,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0128507735805647,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/shuffle/0",
+    "true_start": 17050,
+    "true_end": 18800,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 23,
+    "estimated_pitch": 23.381302132285754,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/shuffle/0",
+    "true_start": 1867,
+    "true_end": 3534,
+    "inferred_start": 2112,
+    "inferred_end": 3776,
+    "true_pitch": 23,
+    "estimated_pitch": 11.024215249303921,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/shuffle/0",
+    "true_start": 3534,
+    "true_end": 4873,
+    "inferred_start": 3776,
+    "inferred_end": 5120,
+    "true_pitch": 27,
+    "estimated_pitch": -0.8801435906286592,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/shuffle/0",
+    "true_start": 10508,
+    "true_end": 11847,
+    "inferred_start": 10752,
+    "inferred_end": 12096,
+    "true_pitch": 27,
+    "estimated_pitch": 3.0359723691168052,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/shuffle/1",
+    "true_start": 15484,
+    "true_end": 17050,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0128507735805647,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/shuffle/1",
+    "true_start": 17050,
+    "true_end": 18800,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 23,
+    "estimated_pitch": 23.381302132285754,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/shuffle/1",
+    "true_start": 1867,
+    "true_end": 3534,
+    "inferred_start": 2112,
+    "inferred_end": 3776,
+    "true_pitch": 23,
+    "estimated_pitch": 11.024215249303921,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/shuffle/1",
+    "true_start": 3534,
+    "true_end": 4873,
+    "inferred_start": 3776,
+    "inferred_end": 5120,
+    "true_pitch": 27,
+    "estimated_pitch": 3.035908136465797,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/shuffle/1",
+    "true_start": 10508,
+    "true_end": 11847,
+    "inferred_start": 10752,
+    "inferred_end": 12096,
+    "true_pitch": 27,
+    "estimated_pitch": -0.8808354511463584,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/ambiguous/0",
+    "true_start": 15484,
+    "true_end": 17050,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0128507735805647,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/ambiguous/0",
+    "true_start": 17050,
+    "true_end": 18800,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 23,
+    "estimated_pitch": 23.381302132285754,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/ambiguous/0",
+    "true_start": 1867,
+    "true_end": 3534,
+    "inferred_start": 2112,
+    "inferred_end": 3776,
+    "true_pitch": 23,
+    "estimated_pitch": 11.024215249303921,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/ambiguous/0",
+    "true_start": 8841,
+    "true_end": 10508,
+    "inferred_start": 9088,
+    "inferred_end": 10752,
+    "true_pitch": 23,
+    "estimated_pitch": 11.024451077519165,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/ambiguous/0",
+    "true_start": 3534,
+    "true_end": 4873,
+    "inferred_start": 3776,
+    "inferred_end": 5120,
+    "true_pitch": 27,
+    "estimated_pitch": 3.035908136465797,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/ambiguous/0",
+    "true_start": 10508,
+    "true_end": 11847,
+    "inferred_start": 10752,
+    "inferred_end": 12096,
+    "true_pitch": 27,
+    "estimated_pitch": -0.8808354511463584,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/ambiguous/1",
+    "true_start": 15484,
+    "true_end": 17050,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0128507735805647,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/ambiguous/1",
+    "true_start": 17050,
+    "true_end": 18800,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 23,
+    "estimated_pitch": 23.381302132285754,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/ambiguous/1",
+    "true_start": 1867,
+    "true_end": 3534,
+    "inferred_start": 2112,
+    "inferred_end": 3776,
+    "true_pitch": 23,
+    "estimated_pitch": 11.024215249303921,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/ambiguous/1",
+    "true_start": 8841,
+    "true_end": 10508,
+    "inferred_start": 9088,
+    "inferred_end": 10752,
+    "true_pitch": 23,
+    "estimated_pitch": 11.024451077519165,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/ambiguous/1",
+    "true_start": 3534,
+    "true_end": 4873,
+    "inferred_start": 3776,
+    "inferred_end": 5120,
+    "true_pitch": 27,
+    "estimated_pitch": 3.035908136465797,
+    "bound_difference": true
+  },
+  {
+    "episode": "ewr-15/joint/ambiguous/1",
+    "true_start": 10508,
+    "true_end": 11847,
+    "inferred_start": 10752,
+    "inferred_end": 12096,
+    "true_pitch": 27,
+    "estimated_pitch": -0.8808354511463584,
+    "bound_difference": true
+  }
+]

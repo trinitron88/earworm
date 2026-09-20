@@ -1,0 +1,30 @@
+{
+  "all_pass": true,
+  "checks": {
+    "hash_chain": true,
+    "scorer_edge_cases": true,
+    "prefix_only_guard": true,
+    "pre_reveal_commitment": true,
+    "independent_event_replay": true,
+    "independent_retrieval_and_saved_scores": true,
+    "future_invariance": true,
+    "paired_bytes_inventory_probe": true,
+    "control_semantics": true,
+    "fresh_groups": true,
+    "frozen_observation_and_reference": true,
+    "prior_artifacts": true,
+    "capacity_and_storage": true,
+    "full_original_observations_and_support_provenance": true,
+    "preregistered_inputs": true
+  },
+  "records": 22268,
+  "forecasts": 12096,
+  "maximum_reconstruction_error": 2.220446049250313e-16,
+  "future_probes": 96,
+  "historical_files": 446,
+  "maximum_chunks": 23,
+  "maximum_raw_prefix_bytes": 94208,
+  "maximum_serialized_listener_payload_bytes": 308892,
+  "maximum_inferred_event_decision_delay_s": 0.104,
+  "storage_note": "Payload counts serialized events/frame-cache/forecasts/hashes, not Python heap/RSS. Raw buffer separately bounded. Multiple dev-grid fronts are counted together; evaluator archive is inaccessible."
+}

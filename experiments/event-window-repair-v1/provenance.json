@@ -1,0 +1,20 @@
+{
+  "assignment_id": "earworm-event-window-repair-v1",
+  "base": "95ab026b65ea9b85fce89c4698a1b9092ada5876",
+  "execution_revision": "5bb5cd23d2ed55144dde7a84dc5f4bbd4500ff00",
+  "publication_revision": "Final PR head and completion receipt identify publication separately",
+  "validation_finished_at": "2026-09-20T23:01:14.148499+00:00",
+  "conservative_active_wall_seconds_through_validation": 2943.713703,
+  "active_segments_note": "Initial invocation through safe checkpoint plus resumed invocation through validation; blocked interval excluded. Acoustic execution clocks independently recorded. No rerun or paid fallback.",
+  "blocked_interval_start": "2026-09-20T09:09:47.644204+00:00",
+  "resumed_invocation": "2026-09-20T22:53:14.141+00:00",
+  "preregistration": "https://github.com/trinitron88/earworm/pull/2#issuecomment-5753283659",
+  "streams": 880,
+  "acoustic_split_seconds": 37.66785216704011,
+  "historical_files_preserved": 446,
+  "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "numpy": "2.5.3",
+  "platform": "macOS-26.6.2-arm64-arm-64bit",
+  "pre_evaluation_harness_note": "Development/calibration execution source snapshots preserved. Gzip-reading parser repair and numerical tolerance were fixed before heldout freeze; no acoustic reruns or post-evaluation policy changes. Independent stdlib score validator added after evaluation, operates only on saved outputs.",
+  "scope": "Fresh synthetic monophonic controlled streams, phase-reset joins, long separators and short zero-eviction memory. No perceptual identity or natural-music/long-term listening claim."
+}

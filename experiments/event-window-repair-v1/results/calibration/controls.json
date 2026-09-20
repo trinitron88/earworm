@@ -1,0 +1,4482 @@
+[
+  {
+    "model": "fixed/absolute",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "ewr-08",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-08",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-09",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-09",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-10",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-10",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-11",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-11",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-12",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-12",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-13",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-13",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-14",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-14",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-15",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-15",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "fixed/present",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "ewr-08",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-08",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-09",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-09",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-10",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-10",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-11",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-11",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-12",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-12",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-13",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-13",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-14",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-14",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-15",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-15",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "fixed/recency",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.0625,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.0625,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "ewr-08",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-08",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-09",
+            "variant": 0,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-09",
+            "variant": 1,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-10",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-10",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-11",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-11",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-12",
+            "variant": 0,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-12",
+            "variant": 1,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-13",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-13",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-14",
+            "variant": 0,
+            "mass": 0.7144999999999999,
+            "max_deviation": 0.14275000000000004,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-14",
+            "variant": 1,
+            "mass": 0.7144999999999999,
+            "max_deviation": 0.14275000000000004,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-15",
+            "variant": 0,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-15",
+            "variant": 1,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "fixed/reference",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "ewr-08",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-08",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-09",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-09",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-10",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-10",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-11",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-11",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-12",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-12",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-13",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-13",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-14",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-14",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-15",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-15",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "fixed/transition1",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.0625,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.0625,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "ewr-08",
+            "variant": 0,
+            "mass": 4e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.99902,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-08",
+            "variant": 1,
+            "mass": 4e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.99902,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-09",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-09",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-10",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-10",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-11",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-11",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-12",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-12",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-13",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-13",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-14",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-14",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-15",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-15",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "fixed/transition2",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "ewr-08",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-08",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-09",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-09",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-10",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-10",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-11",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-11",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-12",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-12",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-13",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-13",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-14",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-14",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-15",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-15",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "fixed/transition3",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "ewr-08",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-08",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-09",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-09",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-10",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-10",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-11",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-11",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-12",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-12",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-13",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-13",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-14",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-14",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-15",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-15",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "oracle-boundary/absolute",
+    "pass_gate": true,
+    "details": {
+      "reset": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 1.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": true
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": true,
+        "records": [
+          {
+            "group": "ewr-08",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-08",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-09",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-09",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-10",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-10",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-11",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-11",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-12",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-12",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-13",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-13",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-14",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-14",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-15",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-15",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "oracle-boundary/present",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "ewr-08",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-08",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-09",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-09",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-10",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-10",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-11",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-11",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-12",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-12",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-13",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-13",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-14",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-14",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-15",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-15",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "oracle-boundary/recency",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.5,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "ewr-08",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-08",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-09",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-09",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-10",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-10",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-11",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-11",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-12",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-12",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-13",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-13",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-14",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-14",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-15",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-15",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "oracle-boundary/reference",
+    "pass_gate": true,
+    "details": {
+      "reset": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 1.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": true
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": true,
+        "records": [
+          {
+            "group": "ewr-08",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-08",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-09",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-09",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-10",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-10",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-11",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-11",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-12",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-12",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-13",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-13",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-14",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-14",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-15",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-15",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "oracle-boundary/transition1",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": true,
+        "records": [
+          {
+            "group": "ewr-08",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-08",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-09",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-09",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-10",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-10",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-11",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-11",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-12",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-12",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-13",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-13",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-14",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-14",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-15",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-15",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "oracle-boundary/transition2",
+    "pass_gate": true,
+    "details": {
+      "reset": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 1.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": true
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": true,
+        "records": [
+          {
+            "group": "ewr-08",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-08",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-09",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-09",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-10",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-10",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-11",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-11",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-12",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-12",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-13",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-13",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-14",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-14",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-15",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-15",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "oracle-boundary/transition3",
+    "pass_gate": true,
+    "details": {
+      "reset": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 1.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": true
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": true,
+        "records": [
+          {
+            "group": "ewr-08",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-08",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-09",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-09",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-10",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-10",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-11",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-11",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-12",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-12",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-13",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-13",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-14",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-14",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-15",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-15",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "repaired/absolute",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 1.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": true
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "ewr-08",
+            "variant": 0,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.3452277820355785,
+            "max_probability": 0.8442677820355785,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-08",
+            "variant": 1,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.3452277820355785,
+            "max_probability": 0.8442677820355785,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-09",
+            "variant": 0,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.0006572959385442445,
+            "max_probability": 0.49969729593854423,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-09",
+            "variant": 1,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.0006572959385442445,
+            "max_probability": 0.49969729593854423,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-10",
+            "variant": 0,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.0010403116239245391,
+            "max_probability": 0.5000803116239244,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-10",
+            "variant": 1,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.0010403116239245391,
+            "max_probability": 0.5000803116239244,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-11",
+            "variant": 0,
+            "mass": 0.9990399999999997,
+            "max_deviation": 0.0022499995968260356,
+            "max_probability": 0.5012899995968257,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-11",
+            "variant": 1,
+            "mass": 0.9990399999999997,
+            "max_deviation": 0.0022499995968260356,
+            "max_probability": 0.5012899995968257,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-12",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.0014393731080956096,
+            "max_probability": 0.5004793731080956,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-12",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.0014393731080956096,
+            "max_probability": 0.5004793731080956,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-13",
+            "variant": 0,
+            "mass": 0.9990399999999997,
+            "max_deviation": 0.003460952683580709,
+            "max_probability": 0.5025009526835804,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-13",
+            "variant": 1,
+            "mass": 0.9990399999999997,
+            "max_deviation": 0.003460952683580709,
+            "max_probability": 0.5025009526835804,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-14",
+            "variant": 0,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.0007718416728969002,
+            "max_probability": 0.4998118416728968,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-14",
+            "variant": 1,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.0007718416728969002,
+            "max_probability": 0.4998118416728968,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-15",
+            "variant": 0,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.007296083169145373,
+            "max_probability": 0.5063360831691452,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-15",
+            "variant": 1,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.007296083169145373,
+            "max_probability": 0.5063360831691452,
+            "pass_gate": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "repaired/present",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "ewr-08",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-08",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-09",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-09",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-10",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-10",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-11",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-11",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-12",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-12",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-13",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-13",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-14",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-14",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-15",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-15",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "repaired/recency",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.5,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "ewr-08",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-08",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-09",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-09",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-10",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-10",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-11",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-11",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-12",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-12",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-13",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-13",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-14",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-14",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-15",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-15",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "repaired/reference",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 1.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": true
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "ewr-08",
+            "variant": 0,
+            "mass": 0.9990399999999997,
+            "max_deviation": 0.25560748982797094,
+            "max_probability": 0.7546474898279707,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-08",
+            "variant": 1,
+            "mass": 0.9990399999999997,
+            "max_deviation": 0.25560748982797094,
+            "max_probability": 0.7546474898279707,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-09",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.0006864161627999632,
+            "max_probability": 0.4997264161628,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-09",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.0006864161627999632,
+            "max_probability": 0.4997264161628,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-10",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.0005990333180069252,
+            "max_probability": 0.49963903331800674,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-10",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.0005990333180069252,
+            "max_probability": 0.49963903331800674,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-11",
+            "variant": 0,
+            "mass": 0.9990399999999997,
+            "max_deviation": 0.0010327155165767432,
+            "max_probability": 0.5000727155165765,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-11",
+            "variant": 1,
+            "mass": 0.9990399999999997,
+            "max_deviation": 0.0010327155165767432,
+            "max_probability": 0.5000727155165765,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-12",
+            "variant": 0,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.001395399725605706,
+            "max_probability": 0.5004353997256056,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-12",
+            "variant": 1,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.001395399725605706,
+            "max_probability": 0.5004353997256056,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-13",
+            "variant": 0,
+            "mass": 0.9990399999999997,
+            "max_deviation": 0.0016963423574891112,
+            "max_probability": 0.5007363423574889,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-13",
+            "variant": 1,
+            "mass": 0.9990399999999997,
+            "max_deviation": 0.0016963423574891112,
+            "max_probability": 0.5007363423574889,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-14",
+            "variant": 0,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.0005491943679996614,
+            "max_probability": 0.4995891943679996,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-14",
+            "variant": 1,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.0005491943679996614,
+            "max_probability": 0.4995891943679996,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-15",
+            "variant": 0,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.004281841341330084,
+            "max_probability": 0.50332184134133,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-15",
+            "variant": 1,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.004281841341330084,
+            "max_probability": 0.50332184134133,
+            "pass_gate": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "repaired/transition1",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.75,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.5,
+        "pass_gate": false
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "ewr-08",
+            "variant": 0,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.3452277820355785,
+            "max_probability": 0.8442677820355785,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-08",
+            "variant": 1,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.3452277820355785,
+            "max_probability": 0.8442677820355785,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-09",
+            "variant": 0,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.0006572959385442445,
+            "max_probability": 0.49969729593854423,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-09",
+            "variant": 1,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.0006572959385442445,
+            "max_probability": 0.49969729593854423,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-10",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.0005975840121568154,
+            "max_probability": 0.49963758401215663,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-10",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.0005975840121568154,
+            "max_probability": 0.49963758401215663,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-11",
+            "variant": 0,
+            "mass": 0.9990399999999997,
+            "max_deviation": 0.0022499995968260356,
+            "max_probability": 0.5012899995968257,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-11",
+            "variant": 1,
+            "mass": 0.9990399999999997,
+            "max_deviation": 0.0022499995968260356,
+            "max_probability": 0.5012899995968257,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-12",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.0014393731080956096,
+            "max_probability": 0.5004793731080956,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-12",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.0014393731080956096,
+            "max_probability": 0.5004793731080956,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-13",
+            "variant": 0,
+            "mass": 0.9990399999999997,
+            "max_deviation": 0.003460952683580709,
+            "max_probability": 0.5025009526835804,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-13",
+            "variant": 1,
+            "mass": 0.9990399999999997,
+            "max_deviation": 0.003460952683580709,
+            "max_probability": 0.5025009526835804,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-14",
+            "variant": 0,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.002127968427602045,
+            "max_probability": 0.5011679684276019,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-14",
+            "variant": 1,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.002127968427602045,
+            "max_probability": 0.5011679684276019,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-15",
+            "variant": 0,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.007296083169145373,
+            "max_probability": 0.5063360831691452,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-15",
+            "variant": 1,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.007296083169145373,
+            "max_probability": 0.5063360831691452,
+            "pass_gate": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "repaired/transition2",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 1.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": true
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "ewr-08",
+            "variant": 0,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.3452277820355785,
+            "max_probability": 0.8442677820355785,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-08",
+            "variant": 1,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.3452277820355785,
+            "max_probability": 0.8442677820355785,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-09",
+            "variant": 0,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.0006572959385442445,
+            "max_probability": 0.49969729593854423,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-09",
+            "variant": 1,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.0006572959385442445,
+            "max_probability": 0.49969729593854423,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-10",
+            "variant": 0,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.0010403116239245391,
+            "max_probability": 0.5000803116239244,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-10",
+            "variant": 1,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.0010403116239245391,
+            "max_probability": 0.5000803116239244,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-11",
+            "variant": 0,
+            "mass": 0.9990399999999997,
+            "max_deviation": 0.0022499995968260356,
+            "max_probability": 0.5012899995968257,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-11",
+            "variant": 1,
+            "mass": 0.9990399999999997,
+            "max_deviation": 0.0022499995968260356,
+            "max_probability": 0.5012899995968257,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-12",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.0014393731080956096,
+            "max_probability": 0.5004793731080956,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-12",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.0014393731080956096,
+            "max_probability": 0.5004793731080956,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-13",
+            "variant": 0,
+            "mass": 0.9990399999999997,
+            "max_deviation": 0.003460952683580709,
+            "max_probability": 0.5025009526835804,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-13",
+            "variant": 1,
+            "mass": 0.9990399999999997,
+            "max_deviation": 0.003460952683580709,
+            "max_probability": 0.5025009526835804,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-14",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.001254834967674645,
+            "max_probability": 0.5002948349676745,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-14",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.001254834967674645,
+            "max_probability": 0.5002948349676745,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-15",
+            "variant": 0,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.007296083169145373,
+            "max_probability": 0.5063360831691452,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-15",
+            "variant": 1,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.007296083169145373,
+            "max_probability": 0.5063360831691452,
+            "pass_gate": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "repaired/transition3",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 1.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": true
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "ewr-08",
+            "variant": 0,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.3452277820355785,
+            "max_probability": 0.8442677820355785,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-08",
+            "variant": 1,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.3452277820355785,
+            "max_probability": 0.8442677820355785,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-09",
+            "variant": 0,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.0006572959385442445,
+            "max_probability": 0.49969729593854423,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-09",
+            "variant": 1,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.0006572959385442445,
+            "max_probability": 0.49969729593854423,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-10",
+            "variant": 0,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.0010403116239245391,
+            "max_probability": 0.5000803116239244,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-10",
+            "variant": 1,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.0010403116239245391,
+            "max_probability": 0.5000803116239244,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-11",
+            "variant": 0,
+            "mass": 0.9990399999999997,
+            "max_deviation": 0.0022499995968260356,
+            "max_probability": 0.5012899995968257,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-11",
+            "variant": 1,
+            "mass": 0.9990399999999997,
+            "max_deviation": 0.0022499995968260356,
+            "max_probability": 0.5012899995968257,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-12",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.0014393731080956096,
+            "max_probability": 0.5004793731080956,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-12",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.0014393731080956096,
+            "max_probability": 0.5004793731080956,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-13",
+            "variant": 0,
+            "mass": 0.9990399999999997,
+            "max_deviation": 0.003460952683580709,
+            "max_probability": 0.5025009526835804,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-13",
+            "variant": 1,
+            "mass": 0.9990399999999997,
+            "max_deviation": 0.003460952683580709,
+            "max_probability": 0.5025009526835804,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-14",
+            "variant": 0,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.0007718416728969002,
+            "max_probability": 0.4998118416728968,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-14",
+            "variant": 1,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.0007718416728969002,
+            "max_probability": 0.4998118416728968,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-15",
+            "variant": 0,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.007296083169145373,
+            "max_probability": 0.5063360831691452,
+            "pass_gate": true
+          },
+          {
+            "group": "ewr-15",
+            "variant": 1,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.007296083169145373,
+            "max_probability": 0.5063360831691452,
+            "pass_gate": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "streaming/absolute",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "ewr-08",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-08",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-09",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-09",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-10",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-10",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-11",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-11",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-12",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-12",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-13",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-13",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-14",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-14",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-15",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-15",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "streaming/present",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "ewr-08",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-08",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-09",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-09",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-10",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-10",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-11",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-11",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-12",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-12",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-13",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-13",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-14",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-14",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-15",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-15",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "streaming/recency",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": -0.1875,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "ewr-08",
+            "variant": 0,
+            "mass": 0.7144999999999999,
+            "max_deviation": 0.14275000000000004,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-08",
+            "variant": 1,
+            "mass": 0.7144999999999999,
+            "max_deviation": 0.14275000000000004,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-09",
+            "variant": 0,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-09",
+            "variant": 1,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-10",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-10",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-11",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-11",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-12",
+            "variant": 0,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-12",
+            "variant": 1,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-13",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-13",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-14",
+            "variant": 0,
+            "mass": 0.7144999999999999,
+            "max_deviation": 0.14275000000000004,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-14",
+            "variant": 1,
+            "mass": 0.7144999999999999,
+            "max_deviation": 0.14275000000000004,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-15",
+            "variant": 0,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-15",
+            "variant": 1,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "streaming/reference",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "ewr-08",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-08",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-09",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-09",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-10",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-10",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-11",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.49998,
+            "max_probability": 0.99902,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-11",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.49998,
+            "max_probability": 0.99902,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-12",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-12",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-13",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-13",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-14",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-14",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-15",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-15",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "streaming/transition1",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "ewr-08",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-08",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-09",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-09",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-10",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-10",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-11",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-11",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-12",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-12",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-13",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-13",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-14",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-14",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-15",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-15",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "streaming/transition2",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "ewr-08",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-08",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-09",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-09",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-10",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-10",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-11",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-11",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-12",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-12",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-13",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-13",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-14",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-14",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-15",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-15",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "streaming/transition3",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "ewr-08",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-08",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-09",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-09",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-10",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-10",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-11",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-11",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-12",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-12",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-13",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-13",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-14",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-14",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-15",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "ewr-15",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,456 @@
+{
+  "all_pass": true,
+  "forecasts": 12096,
+  "max_score_error": 4.440892098500626e-16,
+  "intact_correct_total": {
+    "repaired/absolute/detached": [
+      45,
+      48
+    ],
+    "repaired/present/detached": [
+      11,
+      48
+    ],
+    "repaired/recency/detached": [
+      29,
+      48
+    ],
+    "repaired/reference/detached": [
+      45,
+      48
+    ],
+    "repaired/transition1/detached": [
+      29,
+      48
+    ],
+    "repaired/transition2/detached": [
+      45,
+      48
+    ],
+    "repaired/transition3/detached": [
+      45,
+      48
+    ],
+    "streaming/absolute/detached": [
+      29,
+      48
+    ],
+    "streaming/present/detached": [
+      11,
+      48
+    ],
+    "streaming/recency/detached": [
+      28,
+      48
+    ],
+    "streaming/reference/detached": [
+      36,
+      48
+    ],
+    "streaming/transition1/detached": [
+      17,
+      48
+    ],
+    "streaming/transition2/detached": [
+      30,
+      48
+    ],
+    "streaming/transition3/detached": [
+      29,
+      48
+    ],
+    "fixed/absolute/detached": [
+      13,
+      48
+    ],
+    "fixed/present/detached": [
+      11,
+      48
+    ],
+    "fixed/recency/detached": [
+      13,
+      48
+    ],
+    "fixed/reference/detached": [
+      12,
+      48
+    ],
+    "fixed/transition1/detached": [
+      11,
+      48
+    ],
+    "fixed/transition2/detached": [
+      13,
+      48
+    ],
+    "fixed/transition3/detached": [
+      13,
+      48
+    ],
+    "oracle-boundary/absolute/detached": [
+      48,
+      48
+    ],
+    "oracle-boundary/present/detached": [
+      11,
+      48
+    ],
+    "oracle-boundary/recency/detached": [
+      24,
+      48
+    ],
+    "oracle-boundary/reference/detached": [
+      48,
+      48
+    ],
+    "oracle-boundary/transition1/detached": [
+      24,
+      48
+    ],
+    "oracle-boundary/transition2/detached": [
+      48,
+      48
+    ],
+    "oracle-boundary/transition3/detached": [
+      48,
+      48
+    ],
+    "repaired/absolute/legato": [
+      44,
+      48
+    ],
+    "repaired/present/legato": [
+      11,
+      48
+    ],
+    "repaired/recency/legato": [
+      29,
+      48
+    ],
+    "repaired/reference/legato": [
+      44,
+      48
+    ],
+    "repaired/transition1/legato": [
+      29,
+      48
+    ],
+    "repaired/transition2/legato": [
+      44,
+      48
+    ],
+    "repaired/transition3/legato": [
+      44,
+      48
+    ],
+    "streaming/absolute/legato": [
+      17,
+      48
+    ],
+    "streaming/present/legato": [
+      11,
+      48
+    ],
+    "streaming/recency/legato": [
+      20,
+      48
+    ],
+    "streaming/reference/legato": [
+      19,
+      48
+    ],
+    "streaming/transition1/legato": [
+      14,
+      48
+    ],
+    "streaming/transition2/legato": [
+      17,
+      48
+    ],
+    "streaming/transition3/legato": [
+      17,
+      48
+    ],
+    "fixed/absolute/legato": [
+      11,
+      48
+    ],
+    "fixed/present/legato": [
+      11,
+      48
+    ],
+    "fixed/recency/legato": [
+      10,
+      48
+    ],
+    "fixed/reference/legato": [
+      11,
+      48
+    ],
+    "fixed/transition1/legato": [
+      13,
+      48
+    ],
+    "fixed/transition2/legato": [
+      11,
+      48
+    ],
+    "fixed/transition3/legato": [
+      11,
+      48
+    ],
+    "oracle-boundary/absolute/legato": [
+      48,
+      48
+    ],
+    "oracle-boundary/present/legato": [
+      11,
+      48
+    ],
+    "oracle-boundary/recency/legato": [
+      24,
+      48
+    ],
+    "oracle-boundary/reference/legato": [
+      48,
+      48
+    ],
+    "oracle-boundary/transition1/legato": [
+      24,
+      48
+    ],
+    "oracle-boundary/transition2/legato": [
+      48,
+      48
+    ],
+    "oracle-boundary/transition3/legato": [
+      48,
+      48
+    ],
+    "repaired/absolute/duration": [
+      45,
+      48
+    ],
+    "repaired/present/duration": [
+      11,
+      48
+    ],
+    "repaired/recency/duration": [
+      29,
+      48
+    ],
+    "repaired/reference/duration": [
+      45,
+      48
+    ],
+    "repaired/transition1/duration": [
+      31,
+      48
+    ],
+    "repaired/transition2/duration": [
+      45,
+      48
+    ],
+    "repaired/transition3/duration": [
+      45,
+      48
+    ],
+    "streaming/absolute/duration": [
+      11,
+      48
+    ],
+    "streaming/present/duration": [
+      11,
+      48
+    ],
+    "streaming/recency/duration": [
+      18,
+      48
+    ],
+    "streaming/reference/duration": [
+      13,
+      48
+    ],
+    "streaming/transition1/duration": [
+      11,
+      48
+    ],
+    "streaming/transition2/duration": [
+      12,
+      48
+    ],
+    "streaming/transition3/duration": [
+      11,
+      48
+    ],
+    "fixed/absolute/duration": [
+      11,
+      48
+    ],
+    "fixed/present/duration": [
+      11,
+      48
+    ],
+    "fixed/recency/duration": [
+      6,
+      48
+    ],
+    "fixed/reference/duration": [
+      10,
+      48
+    ],
+    "fixed/transition1/duration": [
+      11,
+      48
+    ],
+    "fixed/transition2/duration": [
+      11,
+      48
+    ],
+    "fixed/transition3/duration": [
+      11,
+      48
+    ],
+    "oracle-boundary/absolute/duration": [
+      48,
+      48
+    ],
+    "oracle-boundary/present/duration": [
+      11,
+      48
+    ],
+    "oracle-boundary/recency/duration": [
+      24,
+      48
+    ],
+    "oracle-boundary/reference/duration": [
+      48,
+      48
+    ],
+    "oracle-boundary/transition1/duration": [
+      24,
+      48
+    ],
+    "oracle-boundary/transition2/duration": [
+      48,
+      48
+    ],
+    "oracle-boundary/transition3/duration": [
+      48,
+      48
+    ],
+    "repaired/absolute/joint": [
+      45,
+      48
+    ],
+    "repaired/present/joint": [
+      11,
+      48
+    ],
+    "repaired/recency/joint": [
+      29,
+      48
+    ],
+    "repaired/reference/joint": [
+      45,
+      48
+    ],
+    "repaired/transition1/joint": [
+      24,
+      48
+    ],
+    "repaired/transition2/joint": [
+      45,
+      48
+    ],
+    "repaired/transition3/joint": [
+      45,
+      48
+    ],
+    "streaming/absolute/joint": [
+      11,
+      48
+    ],
+    "streaming/present/joint": [
+      11,
+      48
+    ],
+    "streaming/recency/joint": [
+      15,
+      48
+    ],
+    "streaming/reference/joint": [
+      14,
+      48
+    ],
+    "streaming/transition1/joint": [
+      9,
+      48
+    ],
+    "streaming/transition2/joint": [
+      10,
+      48
+    ],
+    "streaming/transition3/joint": [
+      11,
+      48
+    ],
+    "fixed/absolute/joint": [
+      11,
+      48
+    ],
+    "fixed/present/joint": [
+      11,
+      48
+    ],
+    "fixed/recency/joint": [
+      6,
+      48
+    ],
+    "fixed/reference/joint": [
+      10,
+      48
+    ],
+    "fixed/transition1/joint": [
+      8,
+      48
+    ],
+    "fixed/transition2/joint": [
+      11,
+      48
+    ],
+    "fixed/transition3/joint": [
+      11,
+      48
+    ],
+    "oracle-boundary/absolute/joint": [
+      48,
+      48
+    ],
+    "oracle-boundary/present/joint": [
+      11,
+      48
+    ],
+    "oracle-boundary/recency/joint": [
+      24,
+      48
+    ],
+    "oracle-boundary/reference/joint": [
+      48,
+      48
+    ],
+    "oracle-boundary/transition1/joint": [
+      24,
+      48
+    ],
+    "oracle-boundary/transition2/joint": [
+      48,
+      48
+    ],
+    "oracle-boundary/transition3/joint": [
+      48,
+      48
+    ]
+  },
+  "audio_or_model_calls": 0
+}

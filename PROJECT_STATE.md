@@ -6,20 +6,20 @@ Earworm's finish line is a reusable, stateful listener for continuous musical au
 
 ## Current evidence and decision
 
-The continuous isolated-voice experiment is complete and awaiting exact-head review. **Branch B: event-window formation remains a prerequisite.** With only fixed64ms PCM chunks, streaming retrieval scored 36/48 detached, 12/48 legato, 9/48 duration-jitter and 8/48 joint. The evaluator-only true-boundary ceiling scored48/48 in every cell. Event F1 was0.972 but pitched-event accuracy0.675: approximately correct timing was insufficient to provide reliable spans to the frozen observation algorithm.
+The event-window repair is complete and awaiting exact-head review. **Branch B: measurements improved, adoption withheld.** A frozen 16 ms interior trim improved pitched-event accuracy from72.8% to97.0% and joint reference prediction from14/48 to45/48 on fresh held-out groups. The evaluator-only supplied-boundary ceiling remained48/48 in every cell.
 
-The accepted NSDF observation and simple retrieval parameters remain unchanged. The new boundary front failed prediction, pitch, uncertainty and safety gates; actual arrival/computation timing and resource gates passed. These are synthetic monophonic signals with phase-reset joins, long separators, short history and no eviction—not natural-music listening.
+The repair passed event and latency gates but failed noninferiority, joint Brier-score tolerance, ambiguity controls and the fundamental-rendering safety family. Better pitch measurements did not fully recover reliable uncertainty or forecasting. Original captured audio, observations and whole-event bounds remain separately preserved. This is synthetic monophonic, short-buffer evidence with no eviction; no natural-music or long-term-memory capability is established.
 
-- [Current report](experiments/continuous-isolated-voice-v1/REPORT.md)
-- [Decision](experiments/continuous-isolated-voice-v1/results/heldout/decision.json)
-- [Event measurements](experiments/continuous-isolated-voice-v1/results/heldout/event_summary.csv)
-- [Validation](experiments/continuous-isolated-voice-v1/validation/heldout.json)
+- [Current report](experiments/event-window-repair-v1/REPORT.md)
+- [Decision and adoption gates](experiments/event-window-repair-v1/results/heldout/decision.json)
+- [All model/control results](experiments/event-window-repair-v1/results/heldout/summary.csv)
+- [Validation](experiments/event-window-repair-v1/validation/heldout.json)
 
 ## Finite capability checklist
 
 | Capability | Evidence status | Remaining acceptance requirement |
 |---|---|---|
-| Continuous input and causal event/voice organization | Chunk-only API/timing validated; event windows inadequate | Pass frozen prediction, event, uncertainty and safety gates without supplied boundaries |
+| Continuous input and causal event/voice organization | Chunk-only API/timing validated; interior support improves pitch, adoption gates still fail | Pass frozen prediction, event, uncertainty and safety gates without supplied boundaries |
 | History-improved calibrated forecasts at multiple meaningful horizons | Single-step synthetic supplied-boundary prediction demonstrated | Fresh non-overlapping horizon tests against strong present/transition/retrieval baselines |
 | Long-term transformed recognition | Early short-history transformation evidence only | Separate transformations, actual recent-buffer eviction, all accessible storage counted, unfamiliar motifs and relevant-memory removal |
 | Retain realization details and detect change | Early controlled edit/representation evidence | Report recognition and retained pitch/timbre/rhythm detail separately for declared interference delays |
@@ -35,11 +35,11 @@ The PM must freeze concrete thresholds, datasets, horizons and delays in bounded
 
 ## Preserved history and next action
 
-PR #10's supplied-boundary observation repair passed its scoped test; PR #9 identified the octave-anchor prerequisite; PR #8 selected the simpler transformation-aware retrieval reference. E08 ranking and acceptance remain distinct results. All358 prior artifacts are preserved.
+PR #10's supplied-boundary observation repair passed its scoped test; PR #9 identified the octave-anchor prerequisite; PR #8 selected the simpler transformation-aware retrieval reference. E08 ranking and acceptance remain distinct results. PR #11 established the event-window prerequisite; all446 prior artifacts are preserved.
 
 - [Observation repair](experiments/fundamental-observation-repair-v1/REPORT.md)
 - [Controlled robustness](experiments/controlled-motif-robustness-v1/REPORT.md)
 - [History prediction](experiments/history-prediction-v1/REPORT.md)
 - [Original E08 state](review/experiment08/original-snapshot-PROJECT_STATE.md)
 
-Publish this one complete snapshot and stop for review. The continuously authorized PM may then assign a targeted event-window repair on fresh groups. No transformation/recombination study, natural-performance jump, old estimator audit, spending, MERT change, historical rewrite or worker merge is started here.
+Publish this one complete snapshot and stop for review. No further experiment is assigned here. The continuously authorized PM may choose a different localized event/measurement approach only if evidence supports a concrete discriminating decision, through an explicit bounded assignment. No adoption, complexity increase, old estimator audit, spending, MERT change, historical rewrite or worker merge is authorized by this result.
