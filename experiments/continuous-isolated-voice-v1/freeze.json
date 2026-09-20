@@ -1,0 +1,23 @@
+{
+  "files": {
+    "accepted_adapter.py": "fd7e8f88f29e2fa4bb71c14e6ca02c3f209595118f47971ba255ef06cf778747",
+    "analyze.py": "bc85cb4dc7eb37ed4aac8f89bb70bec171a86b410224bd4787771ec26afaf33d",
+    "assignment.json": "1ce525803258ff030c98d49874a57f33fc83181ecae136eb3fb16fd3d176cb71",
+    "events.py": "0c15fd73847c5133d7b5a86b9c9ee005cc34a69592cdb57d35bda5b2cc363489",
+    "excluded_prior_motifs.json": "d0f3e394e09a282f1b71bb9bfcd3136ac77dc747eaa10242c252930dcc3596ea",
+    "frozen_model.json": "de93e84686db8dd38504dc937dd313e3900b607a32ba855fdc109def4c7acd63",
+    "model.py": "433c0b89b184bb5d74da1bd307d45616f54e6da1d5dff8851e076bbfbc9ac483",
+    "protocol.json": "a258be4b360a865fd963f5c488b36e1af112e699fcc781b2d3cf7a00ae214681",
+    "reference_config.json": "2a8e2115572b25c75786b01eac5a6779e4fdd22e26a4a68c8313a4e4af1e80d6",
+    "reference_model.py": "930d3ecc758704ad27941f1fe6b29041d7350814d27198437deedc422f1ddd70",
+    "run.py": "b72816e928430340f57bd2922c5c9df4beddb4591f964f16463e0c163c918919",
+    "scoring.py": "dc694c0cd3fe3bab74fb9fddb7fb6d1518ccf5ef09c01f0494b1672c2f63dbd8",
+    "select.py": "e791c1e8acd6672b945b7c245db80ee4d84e61123b00a10585fa468eda5e32d7",
+    "split_manifest.json": "efcc6a2156bd671bb4512289651bdec20aea8405680285e216e4601d9f5a28df",
+    "stimuli.py": "c22157df2e3bb4b55319ca08af079aeadd74088c620c89a53763478b34b149b9",
+    "verify.py": "83f1b6fd33d29c55d358cfcf45f2458c8bd807becf47792ef278702247636a81",
+    "worker.py": "703fbbaf8d8b1f3fdc4ffc4f8ab92724bcd4070e1c0dcd7e12b4130e4c0be5f3"
+  },
+  "execution_code_sha256": "ddc336a6f9185d43cd20e40be1b9fcfbf39c0d3aea317cdc2235373248562515",
+  "stage": "Final pre-evaluation freeze; no heldout audio generated"
+}

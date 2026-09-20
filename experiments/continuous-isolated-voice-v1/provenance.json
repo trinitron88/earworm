@@ -1,0 +1,19 @@
+{
+  "assignment_id": "earworm-continuous-isolated-voice-v1",
+  "base": "199143f6c590cda68f1acfc1829adcabf0d57ae8",
+  "execution_revision": "d50e24a6e0e847b4099a1ac05971dea7a5d6bbba",
+  "publication_sha": "Final PR head and instruction-channel receipt identify publication separately",
+  "validation_finished_at": "2026-09-20T07:52:59.217343+00:00",
+  "conservative_wall_seconds": 1065.476343,
+  "acoustic_split_seconds": 28.46753320802236,
+  "streams": 880,
+  "episodes": 720,
+  "extra_future_probes": 160,
+  "paid_compute": 0,
+  "historical_files_preserved": 358,
+  "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "numpy": "2.5.3",
+  "platform": "macOS-26.6.2-arm64-arm-64bit",
+  "development_instrumentation": "Original development/calibration sources retained; final pre-evaluation code adds per-event/frame computation timestamps and chunk dispatch records without algorithm/config changes",
+  "claimed_scope": "Synthetic continuous monophonic signal with no supplied operational note boundaries; true-boundary ceiling evaluator-only, no long-term retention tested"
+}

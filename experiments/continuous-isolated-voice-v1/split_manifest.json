@@ -1,0 +1,927 @@
+{
+  "groups": [
+    {
+      "group_id": "civ-00",
+      "split": "development",
+      "seed": 202609203000,
+      "motif": [
+        2,
+        -3,
+        3,
+        5
+      ],
+      "order": 0,
+      "direction": 0,
+      "register": 6,
+      "rich": false,
+      "family": "fundamental",
+      "index": 0,
+      "normalized_identity": [
+        -2,
+        -5,
+        -3,
+        5
+      ]
+    },
+    {
+      "group_id": "civ-01",
+      "split": "development",
+      "seed": 202609203001,
+      "motif": [
+        3,
+        -5,
+        4,
+        3
+      ],
+      "order": 1,
+      "direction": 1,
+      "register": 6,
+      "rich": false,
+      "family": "pure",
+      "index": 1,
+      "normalized_identity": [
+        3,
+        8,
+        4,
+        3
+      ]
+    },
+    {
+      "group_id": "civ-02",
+      "split": "development",
+      "seed": 202609203002,
+      "motif": [
+        3,
+        -3,
+        4,
+        4
+      ],
+      "order": 1,
+      "direction": 0,
+      "register": 18,
+      "rich": false,
+      "family": "pure",
+      "index": 2,
+      "normalized_identity": [
+        -3,
+        -6,
+        -4,
+        4
+      ]
+    },
+    {
+      "group_id": "civ-03",
+      "split": "development",
+      "seed": 202609203003,
+      "motif": [
+        4,
+        -6,
+        5,
+        5
+      ],
+      "order": 0,
+      "direction": 1,
+      "register": 18,
+      "rich": false,
+      "family": "fundamental",
+      "index": 3,
+      "normalized_identity": [
+        4,
+        10,
+        5,
+        5
+      ]
+    },
+    {
+      "group_id": "civ-04",
+      "split": "development",
+      "seed": 202609203004,
+      "motif": [
+        4,
+        -3,
+        5,
+        3
+      ],
+      "order": 1,
+      "direction": 0,
+      "register": 6,
+      "rich": true,
+      "family": "overtone",
+      "index": 4,
+      "normalized_identity": [
+        -4,
+        -7,
+        -5,
+        3
+      ]
+    },
+    {
+      "group_id": "civ-05",
+      "split": "development",
+      "seed": 202609203005,
+      "motif": [
+        5,
+        -6,
+        6,
+        4
+      ],
+      "order": 0,
+      "direction": 1,
+      "register": 6,
+      "rich": true,
+      "family": "overtone",
+      "index": 5,
+      "normalized_identity": [
+        5,
+        11,
+        6,
+        4
+      ]
+    },
+    {
+      "group_id": "civ-06",
+      "split": "development",
+      "seed": 202609203006,
+      "motif": [
+        5,
+        -4,
+        6,
+        5
+      ],
+      "order": 0,
+      "direction": 0,
+      "register": 18,
+      "rich": true,
+      "family": "overtone",
+      "index": 6,
+      "normalized_identity": [
+        -5,
+        -9,
+        -6,
+        5
+      ]
+    },
+    {
+      "group_id": "civ-07",
+      "split": "development",
+      "seed": 202609203007,
+      "motif": [
+        6,
+        -6,
+        4,
+        3
+      ],
+      "order": 1,
+      "direction": 1,
+      "register": 18,
+      "rich": true,
+      "family": "overtone",
+      "index": 7,
+      "normalized_identity": [
+        6,
+        12,
+        4,
+        3
+      ]
+    },
+    {
+      "group_id": "civ-08",
+      "split": "calibration",
+      "seed": 202609203008,
+      "motif": [
+        6,
+        -4,
+        4,
+        4
+      ],
+      "order": 0,
+      "direction": 0,
+      "register": 6,
+      "rich": false,
+      "family": "fundamental",
+      "index": 8,
+      "normalized_identity": [
+        -6,
+        -10,
+        -4,
+        4
+      ]
+    },
+    {
+      "group_id": "civ-09",
+      "split": "calibration",
+      "seed": 202609203009,
+      "motif": [
+        6,
+        -2,
+        4,
+        5
+      ],
+      "order": 1,
+      "direction": 1,
+      "register": 6,
+      "rich": false,
+      "family": "pure",
+      "index": 9,
+      "normalized_identity": [
+        6,
+        8,
+        4,
+        5
+      ]
+    },
+    {
+      "group_id": "civ-10",
+      "split": "calibration",
+      "seed": 202609203010,
+      "motif": [
+        2,
+        -4,
+        3,
+        3
+      ],
+      "order": 1,
+      "direction": 0,
+      "register": 18,
+      "rich": false,
+      "family": "pure",
+      "index": 10,
+      "normalized_identity": [
+        -2,
+        -6,
+        -3,
+        3
+      ]
+    },
+    {
+      "group_id": "civ-11",
+      "split": "calibration",
+      "seed": 202609203011,
+      "motif": [
+        2,
+        -2,
+        3,
+        4
+      ],
+      "order": 0,
+      "direction": 1,
+      "register": 18,
+      "rich": false,
+      "family": "fundamental",
+      "index": 11,
+      "normalized_identity": [
+        2,
+        4,
+        3,
+        4
+      ]
+    },
+    {
+      "group_id": "civ-12",
+      "split": "calibration",
+      "seed": 202609203012,
+      "motif": [
+        3,
+        -5,
+        4,
+        5
+      ],
+      "order": 1,
+      "direction": 0,
+      "register": 6,
+      "rich": true,
+      "family": "overtone",
+      "index": 12,
+      "normalized_identity": [
+        -3,
+        -8,
+        -4,
+        5
+      ]
+    },
+    {
+      "group_id": "civ-13",
+      "split": "calibration",
+      "seed": 202609203013,
+      "motif": [
+        3,
+        -2,
+        4,
+        3
+      ],
+      "order": 0,
+      "direction": 1,
+      "register": 6,
+      "rich": true,
+      "family": "overtone",
+      "index": 13,
+      "normalized_identity": [
+        3,
+        5,
+        4,
+        3
+      ]
+    },
+    {
+      "group_id": "civ-14",
+      "split": "calibration",
+      "seed": 202609203014,
+      "motif": [
+        4,
+        -5,
+        5,
+        4
+      ],
+      "order": 0,
+      "direction": 0,
+      "register": 18,
+      "rich": true,
+      "family": "overtone",
+      "index": 14,
+      "normalized_identity": [
+        -4,
+        -9,
+        -5,
+        4
+      ]
+    },
+    {
+      "group_id": "civ-15",
+      "split": "calibration",
+      "seed": 202609203015,
+      "motif": [
+        4,
+        -3,
+        5,
+        5
+      ],
+      "order": 1,
+      "direction": 1,
+      "register": 18,
+      "rich": true,
+      "family": "overtone",
+      "index": 15,
+      "normalized_identity": [
+        4,
+        7,
+        5,
+        5
+      ]
+    },
+    {
+      "group_id": "civ-16",
+      "split": "heldout",
+      "seed": 202609203016,
+      "motif": [
+        5,
+        -5,
+        6,
+        3
+      ],
+      "order": 0,
+      "direction": 0,
+      "register": 6,
+      "rich": false,
+      "family": "fundamental",
+      "index": 16,
+      "normalized_identity": [
+        -5,
+        -10,
+        -6,
+        3
+      ]
+    },
+    {
+      "group_id": "civ-17",
+      "split": "heldout",
+      "seed": 202609203017,
+      "motif": [
+        5,
+        -3,
+        6,
+        4
+      ],
+      "order": 1,
+      "direction": 1,
+      "register": 6,
+      "rich": false,
+      "family": "pure",
+      "index": 17,
+      "normalized_identity": [
+        5,
+        8,
+        6,
+        4
+      ]
+    },
+    {
+      "group_id": "civ-18",
+      "split": "heldout",
+      "seed": 202609203018,
+      "motif": [
+        6,
+        -6,
+        4,
+        5
+      ],
+      "order": 1,
+      "direction": 0,
+      "register": 18,
+      "rich": false,
+      "family": "pure",
+      "index": 18,
+      "normalized_identity": [
+        -6,
+        -12,
+        -4,
+        5
+      ]
+    },
+    {
+      "group_id": "civ-19",
+      "split": "heldout",
+      "seed": 202609203019,
+      "motif": [
+        6,
+        -3,
+        4,
+        3
+      ],
+      "order": 0,
+      "direction": 1,
+      "register": 18,
+      "rich": false,
+      "family": "fundamental",
+      "index": 19,
+      "normalized_identity": [
+        6,
+        9,
+        4,
+        3
+      ]
+    },
+    {
+      "group_id": "civ-20",
+      "split": "heldout",
+      "seed": 202609203020,
+      "motif": [
+        2,
+        -6,
+        3,
+        4
+      ],
+      "order": 1,
+      "direction": 0,
+      "register": 6,
+      "rich": true,
+      "family": "overtone",
+      "index": 20,
+      "normalized_identity": [
+        -2,
+        -8,
+        -3,
+        4
+      ]
+    },
+    {
+      "group_id": "civ-21",
+      "split": "heldout",
+      "seed": 202609203021,
+      "motif": [
+        2,
+        -4,
+        3,
+        5
+      ],
+      "order": 0,
+      "direction": 1,
+      "register": 6,
+      "rich": true,
+      "family": "overtone",
+      "index": 21,
+      "normalized_identity": [
+        2,
+        6,
+        3,
+        5
+      ]
+    },
+    {
+      "group_id": "civ-22",
+      "split": "heldout",
+      "seed": 202609203022,
+      "motif": [
+        3,
+        -6,
+        4,
+        3
+      ],
+      "order": 0,
+      "direction": 0,
+      "register": 18,
+      "rich": true,
+      "family": "overtone",
+      "index": 22,
+      "normalized_identity": [
+        -3,
+        -9,
+        -4,
+        3
+      ]
+    },
+    {
+      "group_id": "civ-23",
+      "split": "heldout",
+      "seed": 202609203023,
+      "motif": [
+        3,
+        -4,
+        4,
+        4
+      ],
+      "order": 1,
+      "direction": 1,
+      "register": 18,
+      "rich": true,
+      "family": "overtone",
+      "index": 23,
+      "normalized_identity": [
+        3,
+        7,
+        4,
+        4
+      ]
+    },
+    {
+      "group_id": "civ-24",
+      "split": "heldout",
+      "seed": 202609203024,
+      "motif": [
+        3,
+        -2,
+        4,
+        5
+      ],
+      "order": 0,
+      "direction": 0,
+      "register": 6,
+      "rich": false,
+      "family": "fundamental",
+      "index": 24,
+      "normalized_identity": [
+        -3,
+        -5,
+        -4,
+        5
+      ]
+    },
+    {
+      "group_id": "civ-25",
+      "split": "heldout",
+      "seed": 202609203025,
+      "motif": [
+        4,
+        -4,
+        5,
+        3
+      ],
+      "order": 1,
+      "direction": 1,
+      "register": 6,
+      "rich": false,
+      "family": "pure",
+      "index": 25,
+      "normalized_identity": [
+        4,
+        8,
+        5,
+        3
+      ]
+    },
+    {
+      "group_id": "civ-26",
+      "split": "heldout",
+      "seed": 202609203026,
+      "motif": [
+        4,
+        -2,
+        5,
+        4
+      ],
+      "order": 1,
+      "direction": 0,
+      "register": 18,
+      "rich": false,
+      "family": "pure",
+      "index": 26,
+      "normalized_identity": [
+        -4,
+        -6,
+        -5,
+        4
+      ]
+    },
+    {
+      "group_id": "civ-27",
+      "split": "heldout",
+      "seed": 202609203027,
+      "motif": [
+        5,
+        -5,
+        6,
+        5
+      ],
+      "order": 0,
+      "direction": 1,
+      "register": 18,
+      "rich": false,
+      "family": "fundamental",
+      "index": 27,
+      "normalized_identity": [
+        5,
+        10,
+        6,
+        5
+      ]
+    },
+    {
+      "group_id": "civ-28",
+      "split": "heldout",
+      "seed": 202609203028,
+      "motif": [
+        5,
+        -2,
+        6,
+        3
+      ],
+      "order": 1,
+      "direction": 0,
+      "register": 6,
+      "rich": true,
+      "family": "overtone",
+      "index": 28,
+      "normalized_identity": [
+        -5,
+        -7,
+        -6,
+        3
+      ]
+    },
+    {
+      "group_id": "civ-29",
+      "split": "heldout",
+      "seed": 202609203029,
+      "motif": [
+        6,
+        -5,
+        4,
+        4
+      ],
+      "order": 0,
+      "direction": 1,
+      "register": 6,
+      "rich": true,
+      "family": "overtone",
+      "index": 29,
+      "normalized_identity": [
+        6,
+        11,
+        4,
+        4
+      ]
+    },
+    {
+      "group_id": "civ-30",
+      "split": "heldout",
+      "seed": 202609203030,
+      "motif": [
+        6,
+        -3,
+        4,
+        5
+      ],
+      "order": 0,
+      "direction": 0,
+      "register": 18,
+      "rich": true,
+      "family": "overtone",
+      "index": 30,
+      "normalized_identity": [
+        -6,
+        -9,
+        -4,
+        5
+      ]
+    },
+    {
+      "group_id": "civ-31",
+      "split": "heldout",
+      "seed": 202609203031,
+      "motif": [
+        2,
+        -5,
+        3,
+        3
+      ],
+      "order": 1,
+      "direction": 1,
+      "register": 18,
+      "rich": true,
+      "family": "overtone",
+      "index": 31,
+      "normalized_identity": [
+        2,
+        7,
+        3,
+        3
+      ]
+    },
+    {
+      "group_id": "civ-32",
+      "split": "heldout",
+      "seed": 202609203032,
+      "motif": [
+        2,
+        -3,
+        3,
+        4
+      ],
+      "order": 0,
+      "direction": 0,
+      "register": 6,
+      "rich": false,
+      "family": "fundamental",
+      "index": 32,
+      "normalized_identity": [
+        -2,
+        -5,
+        -3,
+        4
+      ]
+    },
+    {
+      "group_id": "civ-33",
+      "split": "heldout",
+      "seed": 202609203033,
+      "motif": [
+        3,
+        -6,
+        4,
+        5
+      ],
+      "order": 1,
+      "direction": 1,
+      "register": 6,
+      "rich": false,
+      "family": "pure",
+      "index": 33,
+      "normalized_identity": [
+        3,
+        9,
+        4,
+        5
+      ]
+    },
+    {
+      "group_id": "civ-34",
+      "split": "heldout",
+      "seed": 202609203034,
+      "motif": [
+        3,
+        -3,
+        4,
+        3
+      ],
+      "order": 1,
+      "direction": 0,
+      "register": 18,
+      "rich": false,
+      "family": "pure",
+      "index": 34,
+      "normalized_identity": [
+        -3,
+        -6,
+        -4,
+        3
+      ]
+    },
+    {
+      "group_id": "civ-35",
+      "split": "heldout",
+      "seed": 202609203035,
+      "motif": [
+        4,
+        -6,
+        5,
+        4
+      ],
+      "order": 0,
+      "direction": 1,
+      "register": 18,
+      "rich": false,
+      "family": "fundamental",
+      "index": 35,
+      "normalized_identity": [
+        4,
+        10,
+        5,
+        4
+      ]
+    },
+    {
+      "group_id": "civ-36",
+      "split": "heldout",
+      "seed": 202609203036,
+      "motif": [
+        4,
+        -4,
+        5,
+        5
+      ],
+      "order": 1,
+      "direction": 0,
+      "register": 6,
+      "rich": true,
+      "family": "overtone",
+      "index": 36,
+      "normalized_identity": [
+        -4,
+        -8,
+        -5,
+        5
+      ]
+    },
+    {
+      "group_id": "civ-37",
+      "split": "heldout",
+      "seed": 202609203037,
+      "motif": [
+        5,
+        -6,
+        6,
+        3
+      ],
+      "order": 0,
+      "direction": 1,
+      "register": 6,
+      "rich": true,
+      "family": "overtone",
+      "index": 37,
+      "normalized_identity": [
+        5,
+        11,
+        6,
+        3
+      ]
+    },
+    {
+      "group_id": "civ-38",
+      "split": "heldout",
+      "seed": 202609203038,
+      "motif": [
+        5,
+        -4,
+        6,
+        4
+      ],
+      "order": 0,
+      "direction": 0,
+      "register": 18,
+      "rich": true,
+      "family": "overtone",
+      "index": 38,
+      "normalized_identity": [
+        -5,
+        -9,
+        -6,
+        4
+      ]
+    },
+    {
+      "group_id": "civ-39",
+      "split": "heldout",
+      "seed": 202609203039,
+      "motif": [
+        5,
+        -2,
+        6,
+        5
+      ],
+      "order": 1,
+      "direction": 1,
+      "register": 18,
+      "rich": true,
+      "family": "overtone",
+      "index": 39,
+      "normalized_identity": [
+        5,
+        7,
+        6,
+        5
+      ]
+    }
+  ],
+  "freshness": "Exact normalized Q middle/final, R middle, continuation separation checked against saved recipes of all three preceding studies before generating any new stimuli; 40 unique disjoint identities. E08 six-event full phrase groups not reused.",
+  "factor_aliases": "direction/register/rich bits independent in blocks8; order XOR all3, aliases 3-way interaction; pure/fund subtype within low-rich half aliases direction-register. Four articulation cells within group. Pitch direction paired with renderer direction by design; declared alias, not independent effect estimate.",
+  "prior_normalized_identities_checked": 109
+}

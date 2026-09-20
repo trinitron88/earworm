@@ -1,0 +1,13 @@
+{
+  "split": "heldout",
+  "episodes": 432,
+  "additional_future_probes": 96,
+  "elapsed_seconds": 15.982175500015728,
+  "execution_revision": "d50e24a6e0e847b4099a1ac05971dea7a5d6bbba",
+  "execution_code_sha256": "ddc336a6f9185d43cd20e40be1b9fcfbf39c0d3aea317cdc2235373248562515",
+  "model_sha256": "de93e84686db8dd38504dc937dd313e3900b607a32ba855fdc109def4c7acd63",
+  "retained_bytes": 408278456,
+  "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "numpy": "2.5.3",
+  "end_utc_ns": 1789890714203446000
+}
