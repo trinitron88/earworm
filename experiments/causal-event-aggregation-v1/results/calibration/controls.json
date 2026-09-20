@@ -1,0 +1,6722 @@
+[
+  {
+    "model": "fixed/absolute",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "cea-08",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-08",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "fixed/present",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "cea-08",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-08",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "fixed/recency",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.25,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.1875,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "cea-08",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-08",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 0,
+            "mass": 0.7144999999999999,
+            "max_deviation": 0.14275000000000004,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 1,
+            "mass": 0.7144999999999999,
+            "max_deviation": 0.14275000000000004,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 0,
+            "mass": 0.7144999999999999,
+            "max_deviation": 0.14275000000000004,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 1,
+            "mass": 0.7144999999999999,
+            "max_deviation": 0.14275000000000004,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 0,
+            "mass": 0.7144999999999999,
+            "max_deviation": 0.14275000000000004,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 1,
+            "mass": 0.7144999999999999,
+            "max_deviation": 0.14275000000000004,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 0,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 1,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "fixed/reference",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "cea-08",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-08",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "fixed/transition1",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.25,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.25,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "cea-08",
+            "variant": 0,
+            "mass": 4e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.99902,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-08",
+            "variant": 1,
+            "mass": 4e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.99902,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "fixed/transition2",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "cea-08",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-08",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "fixed/transition3",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "cea-08",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-08",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "map/absolute",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.875,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": true
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "cea-08",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.0232688456110256,
+            "max_probability": 0.5223088456110254,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-08",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.0232688456110256,
+            "max_probability": 0.5223088456110254,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-09",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.08574851465834277,
+            "max_probability": 0.5847885146583426,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-09",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.08574851465834277,
+            "max_probability": 0.5847885146583426,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-10",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.0014575339379621077,
+            "max_probability": 0.5004975339379619,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-10",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.0014575339379621077,
+            "max_probability": 0.5004975339379619,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-11",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.49998,
+            "max_probability": 0.9990199999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.49998,
+            "max_probability": 0.9990199999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.49998,
+            "max_probability": 0.99902,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.49998,
+            "max_probability": 0.99902,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.011957984978951952,
+            "max_probability": 0.5109979849789518,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-13",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.011957984978951952,
+            "max_probability": 0.5109979849789518,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-14",
+            "variant": 0,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.017382681862270488,
+            "max_probability": 0.5164226818622704,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-14",
+            "variant": 1,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.017382681862270488,
+            "max_probability": 0.5164226818622704,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-15",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.003949785548971185,
+            "max_probability": 0.502989785548971,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-15",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.003949785548971185,
+            "max_probability": 0.502989785548971,
+            "pass_gate": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "map/present",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "cea-08",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-08",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "map/recency",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.375,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": -0.125,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "cea-08",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-08",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "map/reference",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.875,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": true
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "cea-08",
+            "variant": 0,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.014534927525535146,
+            "max_probability": 0.513574927525535,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-08",
+            "variant": 1,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.014534927525535146,
+            "max_probability": 0.513574927525535,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-09",
+            "variant": 0,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.06102821841316758,
+            "max_probability": 0.5600682184131675,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-09",
+            "variant": 1,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.06102821841316758,
+            "max_probability": 0.5600682184131675,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-10",
+            "variant": 0,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.0013681389814778622,
+            "max_probability": 0.5004081389814777,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-10",
+            "variant": 1,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.0013681389814778622,
+            "max_probability": 0.5004081389814777,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-11",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.49998,
+            "max_probability": 0.9990199999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.49998,
+            "max_probability": 0.9990199999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.49998,
+            "max_probability": 0.99902,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.49998,
+            "max_probability": 0.99902,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 0,
+            "mass": 0.9990399999999997,
+            "max_deviation": 0.003520591634343706,
+            "max_probability": 0.5025605916343434,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-13",
+            "variant": 1,
+            "mass": 0.9990399999999997,
+            "max_deviation": 0.003520591634343706,
+            "max_probability": 0.5025605916343434,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-14",
+            "variant": 0,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.011777896037156343,
+            "max_probability": 0.5108178960371563,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-14",
+            "variant": 1,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.011777896037156343,
+            "max_probability": 0.5108178960371563,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-15",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.004210313532370558,
+            "max_probability": 0.5032503135323704,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-15",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.004210313532370558,
+            "max_probability": 0.5032503135323704,
+            "pass_gate": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "map/transition1",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.5,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.1875,
+        "pass_gate": false
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "cea-08",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.02416249427910333,
+            "max_probability": 0.5232024942791031,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-08",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.02416249427910333,
+            "max_probability": 0.5232024942791031,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-09",
+            "variant": 0,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.0014237594710156398,
+            "max_probability": 0.5004637594710156,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-09",
+            "variant": 1,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.0014237594710156398,
+            "max_probability": 0.5004637594710156,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-10",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.000836364865603012,
+            "max_probability": 0.49987636486560283,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-10",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.000836364865603012,
+            "max_probability": 0.49987636486560283,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-11",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.49998,
+            "max_probability": 0.9990199999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.49998,
+            "max_probability": 0.9990199999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.49998,
+            "max_probability": 0.99902,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.49998,
+            "max_probability": 0.99902,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 0,
+            "mass": 0.9990399999999997,
+            "max_deviation": 0.0024819286918738026,
+            "max_probability": 0.5015219286918735,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-13",
+            "variant": 1,
+            "mass": 0.9990399999999997,
+            "max_deviation": 0.0024819286918738026,
+            "max_probability": 0.5015219286918735,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-14",
+            "variant": 0,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.06693454219851652,
+            "max_probability": 0.5659745421985164,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-14",
+            "variant": 1,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.06693454219851652,
+            "max_probability": 0.5659745421985164,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-15",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.004379303408058033,
+            "max_probability": 0.5034193034080578,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-15",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.004379303408058033,
+            "max_probability": 0.5034193034080578,
+            "pass_gate": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "map/transition2",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.875,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": true
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "cea-08",
+            "variant": 0,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.024155679790682505,
+            "max_probability": 0.5231956797906824,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-08",
+            "variant": 1,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.024155679790682505,
+            "max_probability": 0.5231956797906824,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-09",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.08574851465834277,
+            "max_probability": 0.5847885146583426,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-09",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.08574851465834277,
+            "max_probability": 0.5847885146583426,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-10",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.000836364865603012,
+            "max_probability": 0.49987636486560283,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-10",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.000836364865603012,
+            "max_probability": 0.49987636486560283,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-11",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.49998,
+            "max_probability": 0.9990199999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.49998,
+            "max_probability": 0.9990199999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.49998,
+            "max_probability": 0.99902,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.49998,
+            "max_probability": 0.99902,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 0,
+            "mass": 0.9990399999999997,
+            "max_deviation": 0.0024819286918738026,
+            "max_probability": 0.5015219286918735,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-13",
+            "variant": 1,
+            "mass": 0.9990399999999997,
+            "max_deviation": 0.0024819286918738026,
+            "max_probability": 0.5015219286918735,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-14",
+            "variant": 0,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.017382681862270488,
+            "max_probability": 0.5164226818622704,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-14",
+            "variant": 1,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.017382681862270488,
+            "max_probability": 0.5164226818622704,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-15",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.003949785548971185,
+            "max_probability": 0.502989785548971,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-15",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.003949785548971185,
+            "max_probability": 0.502989785548971,
+            "pass_gate": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "map/transition3",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.875,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": true
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "cea-08",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.0232688456110256,
+            "max_probability": 0.5223088456110254,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-08",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.0232688456110256,
+            "max_probability": 0.5223088456110254,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-09",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.08574851465834277,
+            "max_probability": 0.5847885146583426,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-09",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.08574851465834277,
+            "max_probability": 0.5847885146583426,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-10",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.0014575339379621077,
+            "max_probability": 0.5004975339379619,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-10",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.0014575339379621077,
+            "max_probability": 0.5004975339379619,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-11",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.49998,
+            "max_probability": 0.9990199999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.49998,
+            "max_probability": 0.9990199999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.49998,
+            "max_probability": 0.99902,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.49998,
+            "max_probability": 0.99902,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.011957984978951952,
+            "max_probability": 0.5109979849789518,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-13",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.011957984978951952,
+            "max_probability": 0.5109979849789518,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-14",
+            "variant": 0,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.017382681862270488,
+            "max_probability": 0.5164226818622704,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-14",
+            "variant": 1,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.017382681862270488,
+            "max_probability": 0.5164226818622704,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-15",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.003949785548971185,
+            "max_probability": 0.502989785548971,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-15",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.003949785548971185,
+            "max_probability": 0.502989785548971,
+            "pass_gate": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "mixture/absolute",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.25,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.75,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.125,
+        "pass_gate": false
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "cea-08",
+            "variant": 0,
+            "mass": 0.506358452261979,
+            "max_deviation": 0.25837118685791594,
+            "max_probability": 0.4931651134159455,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-08",
+            "variant": 1,
+            "mass": 0.506358452261979,
+            "max_deviation": 0.25837118685791594,
+            "max_probability": 0.4931651134159455,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 0,
+            "mass": 0.7483476232553359,
+            "max_deviation": 0.18969799559034484,
+            "max_probability": 0.4380456188456808,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 1,
+            "mass": 0.7483476232553359,
+            "max_deviation": 0.18969799559034484,
+            "max_probability": 0.4380456188456808,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 0,
+            "mass": 0.727480889283046,
+            "max_deviation": 0.1694797449102054,
+            "max_probability": 0.3969606341932514,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 1,
+            "mass": 0.727480889283046,
+            "max_deviation": 0.1694797449102054,
+            "max_probability": 0.3969606341932514,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 0,
+            "mass": 0.0,
+            "max_deviation": 0.5,
+            "max_probability": 1.0,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 1,
+            "mass": 0.0,
+            "max_deviation": 0.5,
+            "max_probability": 1.0,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 0,
+            "mass": 0.34744314434504486,
+            "max_deviation": 0.33874343933659284,
+            "max_probability": 0.6522299452652967,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 1,
+            "mass": 0.34744314434504486,
+            "max_deviation": 0.33874343933659284,
+            "max_probability": 0.6522299452652967,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 0,
+            "mass": 0.5560928162613368,
+            "max_deviation": 0.2515130529734054,
+            "max_probability": 0.4433839541910118,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 1,
+            "mass": 0.5560928162613368,
+            "max_deviation": 0.2515130529734054,
+            "max_probability": 0.4433839541910118,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 0,
+            "mass": 0.7643953512771886,
+            "max_deviation": 0.130735071238044,
+            "max_probability": 0.39513042251523267,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 1,
+            "mass": 0.7643953512771886,
+            "max_deviation": 0.130735071238044,
+            "max_probability": 0.39513042251523267,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 0,
+            "mass": 0.8917095512500299,
+            "max_deviation": 0.09835452934839584,
+            "max_probability": 0.4900640805984257,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 1,
+            "mass": 0.8917095512500299,
+            "max_deviation": 0.09835452934839584,
+            "max_probability": 0.4900640805984257,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "mixture/present",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.25,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "cea-08",
+            "variant": 0,
+            "mass": 0.3797739076467191,
+            "max_deviation": 0.3101130461766405,
+            "max_probability": 0.4931651134159455,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-08",
+            "variant": 1,
+            "mass": 0.3797739076467191,
+            "max_deviation": 0.3101130461766405,
+            "max_probability": 0.4931651134159455,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 0,
+            "mass": 2.996266909254228e-05,
+            "max_deviation": 0.49998501866545375,
+            "max_probability": 0.28063410405438755,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 1,
+            "mass": 2.996266909254228e-05,
+            "max_deviation": 0.49998501866545375,
+            "max_probability": 0.28063410405438755,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 0,
+            "mass": 0.5536693664691287,
+            "max_deviation": 0.22316531676543566,
+            "max_probability": 0.27683468323456434,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 1,
+            "mass": 0.5536693664691287,
+            "max_deviation": 0.22316531676543566,
+            "max_probability": 0.27683468323456434,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 0,
+            "mass": 0.0,
+            "max_deviation": 0.5,
+            "max_probability": 1.0,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 1,
+            "mass": 0.0,
+            "max_deviation": 0.5,
+            "max_probability": 1.0,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 0,
+            "mass": 0.2605858360288864,
+            "max_deviation": 0.3697070819855568,
+            "max_probability": 0.6522299452652967,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 1,
+            "mass": 0.2605858360288864,
+            "max_deviation": 0.3697070819855568,
+            "max_probability": 0.6522299452652967,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 0,
+            "mass": 0.41707517846778613,
+            "max_deviation": 0.2914624107661069,
+            "max_probability": 0.4433839541910118,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 1,
+            "mass": 0.41707517846778613,
+            "max_deviation": 0.2914624107661069,
+            "max_probability": 0.4433839541910118,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 0,
+            "mass": 3.060519503832434e-05,
+            "max_deviation": 0.49998469740248086,
+            "max_probability": 0.28665208237832557,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 1,
+            "mass": 3.060519503832434e-05,
+            "max_deviation": 0.49998469740248086,
+            "max_probability": 0.28665208237832557,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 0,
+            "mass": 0.22436531384777497,
+            "max_deviation": 0.3878173430761125,
+            "max_probability": 0.33651204214139735,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 1,
+            "mass": 0.22436531384777497,
+            "max_deviation": 0.3878173430761125,
+            "max_probability": 0.33651204214139735,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "mixture/recency",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.25,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.375,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.125,
+        "pass_gate": false
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "cea-08",
+            "variant": 0,
+            "mass": 0.48251646235726703,
+            "max_deviation": 0.4994931549765155,
+            "max_probability": 0.4936618215389603,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-08",
+            "variant": 1,
+            "mass": 0.48251646235726703,
+            "max_deviation": 0.4994931549765155,
+            "max_probability": 0.4936618215389603,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 0,
+            "mass": 0.7131115244025062,
+            "max_deviation": 0.49925093327268644,
+            "max_probability": 0.7123624576751927,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 1,
+            "mass": 0.7131115244025062,
+            "max_deviation": 0.49925093327268644,
+            "max_probability": 0.7123624576751927,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 0,
+            "mass": 0.703456921724046,
+            "max_deviation": 0.43093718725104174,
+            "max_probability": 0.6343941089750876,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 1,
+            "mass": 0.703456921724046,
+            "max_deviation": 0.43093718725104174,
+            "max_probability": 0.6343941089750876,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 0,
+            "mass": 0.0,
+            "max_deviation": 0.5,
+            "max_probability": 1.0,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 1,
+            "mass": 0.0,
+            "max_deviation": 0.5,
+            "max_probability": 1.0,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 0,
+            "mass": 0.33108371378171314,
+            "max_deviation": 0.4996522229897251,
+            "max_probability": 0.6525707667353661,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 1,
+            "mass": 0.33108371378171314,
+            "max_deviation": 0.4996522229897251,
+            "max_probability": 0.6525707667353661,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 0,
+            "mass": 0.5299090737916327,
+            "max_deviation": 0.49944337282164747,
+            "max_probability": 0.5293524466132801,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 1,
+            "mass": 0.5299090737916327,
+            "max_deviation": 0.49944337282164747,
+            "max_probability": 0.5293524466132801,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 0,
+            "mass": 0.7284036419121193,
+            "max_deviation": 0.4992348701240419,
+            "max_probability": 0.7276385120361611,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 1,
+            "mass": 0.7284036419121193,
+            "max_deviation": 0.4992348701240419,
+            "max_probability": 0.7276385120361611,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 0,
+            "mass": 0.8551014003085862,
+            "max_deviation": 0.4991017842433733,
+            "max_probability": 0.8542031845519595,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 1,
+            "mass": 0.8551014003085862,
+            "max_deviation": 0.4991017842433733,
+            "max_probability": 0.8542031845519595,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "mixture/reference",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.25,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.75,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.125,
+        "pass_gate": false
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "cea-08",
+            "variant": 0,
+            "mass": 0.506358452261979,
+            "max_deviation": 0.25394444394076365,
+            "max_probability": 0.4931651134159455,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-08",
+            "variant": 1,
+            "mass": 0.506358452261979,
+            "max_deviation": 0.25394444394076365,
+            "max_probability": 0.4931651134159455,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 0,
+            "mass": 0.748347623255336,
+            "max_deviation": 0.17118084418374985,
+            "max_probability": 0.41952846743908584,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 1,
+            "mass": 0.748347623255336,
+            "max_deviation": 0.17118084418374985,
+            "max_probability": 0.41952846743908584,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 0,
+            "mass": 0.727480889283046,
+            "max_deviation": 0.1695359033343734,
+            "max_probability": 0.3970167926174194,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 1,
+            "mass": 0.727480889283046,
+            "max_deviation": 0.1695359033343734,
+            "max_probability": 0.3970167926174194,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 0,
+            "mass": 0.0,
+            "max_deviation": 0.5,
+            "max_probability": 1.0,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 1,
+            "mass": 0.0,
+            "max_deviation": 0.5,
+            "max_probability": 1.0,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 0,
+            "mass": 0.34744314434504486,
+            "max_deviation": 0.3316326275601662,
+            "max_probability": 0.6522299452652967,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 1,
+            "mass": 0.34744314434504486,
+            "max_deviation": 0.3316326275601662,
+            "max_probability": 0.6522299452652967,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 0,
+            "mass": 0.5560928162613368,
+            "max_deviation": 0.25561594633680856,
+            "max_probability": 0.4433839541910118,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 1,
+            "mass": 0.5560928162613368,
+            "max_deviation": 0.25561594633680856,
+            "max_probability": 0.4433839541910118,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 0,
+            "mass": 0.7643953512771887,
+            "max_deviation": 0.12644668215490268,
+            "max_probability": 0.3908420334320914,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 1,
+            "mass": 0.7643953512771887,
+            "max_deviation": 0.12644668215490268,
+            "max_probability": 0.3908420334320914,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 0,
+            "mass": 0.8917095512500299,
+            "max_deviation": 0.09854243784645833,
+            "max_probability": 0.4902519890964882,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 1,
+            "mass": 0.8917095512500299,
+            "max_deviation": 0.09854243784645833,
+            "max_probability": 0.4902519890964882,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "mixture/transition1",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.25,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.125,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": -0.0625,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "cea-08",
+            "variant": 0,
+            "mass": 0.506358452261979,
+            "max_deviation": 0.2588241282380747,
+            "max_probability": 0.4931651134159455,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-08",
+            "variant": 1,
+            "mass": 0.506358452261979,
+            "max_deviation": 0.2588241282380747,
+            "max_probability": 0.4931651134159455,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 0,
+            "mass": 0.7483476232553361,
+            "max_deviation": 0.12653312719065685,
+            "max_probability": 0.3748807504459929,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 1,
+            "mass": 0.7483476232553361,
+            "max_deviation": 0.12653312719065685,
+            "max_probability": 0.3748807504459929,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 0,
+            "mass": 0.7382159696209989,
+            "max_deviation": 0.16705369330124414,
+            "max_probability": 0.405269662922243,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 1,
+            "mass": 0.7382159696209989,
+            "max_deviation": 0.16705369330124414,
+            "max_probability": 0.405269662922243,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 0,
+            "mass": 0.0,
+            "max_deviation": 0.5,
+            "max_probability": 1.0,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 1,
+            "mass": 0.0,
+            "max_deviation": 0.5,
+            "max_probability": 1.0,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 0,
+            "mass": 0.34744314434504486,
+            "max_deviation": 0.3507529556281709,
+            "max_probability": 0.6522299452652967,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 1,
+            "mass": 0.34744314434504486,
+            "max_deviation": 0.3507529556281709,
+            "max_probability": 0.6522299452652967,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 0,
+            "mass": 0.5560928162613367,
+            "max_deviation": 0.2561210221486641,
+            "max_probability": 0.4433839541910118,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 1,
+            "mass": 0.5560928162613367,
+            "max_deviation": 0.2561210221486641,
+            "max_probability": 0.4433839541910118,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 0,
+            "mass": 0.7643953512771886,
+            "max_deviation": 0.16864867999060945,
+            "max_probability": 0.4330440312677981,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 1,
+            "mass": 0.7643953512771886,
+            "max_deviation": 0.16864867999060945,
+            "max_probability": 0.4330440312677981,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 0,
+            "mass": 0.8973534695003047,
+            "max_deviation": 0.09927375411589268,
+            "max_probability": 0.4966272236161974,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 1,
+            "mass": 0.8973534695003047,
+            "max_deviation": 0.09927375411589268,
+            "max_probability": 0.4966272236161974,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "mixture/transition2",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.25,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.75,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.125,
+        "pass_gate": false
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "cea-08",
+            "variant": 0,
+            "mass": 0.5063584522619791,
+            "max_deviation": 0.258820674348531,
+            "max_probability": 0.4931651134159455,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-08",
+            "variant": 1,
+            "mass": 0.5063584522619791,
+            "max_deviation": 0.258820674348531,
+            "max_probability": 0.4931651134159455,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 0,
+            "mass": 0.7483476232553359,
+            "max_deviation": 0.18969799559034484,
+            "max_probability": 0.4380456188456808,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 1,
+            "mass": 0.7483476232553359,
+            "max_deviation": 0.18969799559034484,
+            "max_probability": 0.4380456188456808,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 0,
+            "mass": 0.727480889283046,
+            "max_deviation": 0.17031770778589628,
+            "max_probability": 0.3977985970689423,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 1,
+            "mass": 0.727480889283046,
+            "max_deviation": 0.17031770778589628,
+            "max_probability": 0.3977985970689423,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 0,
+            "mass": 0.0,
+            "max_deviation": 0.5,
+            "max_probability": 1.0,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 1,
+            "mass": 0.0,
+            "max_deviation": 0.5,
+            "max_probability": 1.0,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 0,
+            "mass": 0.34744314434504486,
+            "max_deviation": 0.3507529556281709,
+            "max_probability": 0.6522299452652967,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 1,
+            "mass": 0.34744314434504486,
+            "max_deviation": 0.3507529556281709,
+            "max_probability": 0.6522299452652967,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 0,
+            "mass": 0.5560928162613367,
+            "max_deviation": 0.2561210221486641,
+            "max_probability": 0.4433839541910118,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 1,
+            "mass": 0.5560928162613367,
+            "max_deviation": 0.2561210221486641,
+            "max_probability": 0.4433839541910118,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 0,
+            "mass": 0.7643953512771886,
+            "max_deviation": 0.130735071238044,
+            "max_probability": 0.39513042251523267,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 1,
+            "mass": 0.7643953512771886,
+            "max_deviation": 0.130735071238044,
+            "max_probability": 0.39513042251523267,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 0,
+            "mass": 0.8973534695003045,
+            "max_deviation": 0.09892647582431363,
+            "max_probability": 0.49627994532461817,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 1,
+            "mass": 0.8973534695003045,
+            "max_deviation": 0.09892647582431363,
+            "max_probability": 0.49627994532461817,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "mixture/transition3",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.25,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.75,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.125,
+        "pass_gate": false
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "cea-08",
+            "variant": 0,
+            "mass": 0.506358452261979,
+            "max_deviation": 0.25837118685791594,
+            "max_probability": 0.4931651134159455,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-08",
+            "variant": 1,
+            "mass": 0.506358452261979,
+            "max_deviation": 0.25837118685791594,
+            "max_probability": 0.4931651134159455,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 0,
+            "mass": 0.7483476232553359,
+            "max_deviation": 0.18969799559034484,
+            "max_probability": 0.4380456188456808,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 1,
+            "mass": 0.7483476232553359,
+            "max_deviation": 0.18969799559034484,
+            "max_probability": 0.4380456188456808,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 0,
+            "mass": 0.727480889283046,
+            "max_deviation": 0.1694797449102054,
+            "max_probability": 0.3969606341932514,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 1,
+            "mass": 0.727480889283046,
+            "max_deviation": 0.1694797449102054,
+            "max_probability": 0.3969606341932514,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 0,
+            "mass": 0.0,
+            "max_deviation": 0.5,
+            "max_probability": 1.0,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 1,
+            "mass": 0.0,
+            "max_deviation": 0.5,
+            "max_probability": 1.0,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 0,
+            "mass": 0.34744314434504486,
+            "max_deviation": 0.33874343933659284,
+            "max_probability": 0.6522299452652967,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 1,
+            "mass": 0.34744314434504486,
+            "max_deviation": 0.33874343933659284,
+            "max_probability": 0.6522299452652967,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 0,
+            "mass": 0.5560928162613368,
+            "max_deviation": 0.2515130529734054,
+            "max_probability": 0.4433839541910118,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 1,
+            "mass": 0.5560928162613368,
+            "max_deviation": 0.2515130529734054,
+            "max_probability": 0.4433839541910118,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 0,
+            "mass": 0.7643953512771886,
+            "max_deviation": 0.130735071238044,
+            "max_probability": 0.39513042251523267,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 1,
+            "mass": 0.7643953512771886,
+            "max_deviation": 0.130735071238044,
+            "max_probability": 0.39513042251523267,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 0,
+            "mass": 0.8917095512500299,
+            "max_deviation": 0.09835452934839584,
+            "max_probability": 0.4900640805984257,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 1,
+            "mass": 0.8917095512500299,
+            "max_deviation": 0.09835452934839584,
+            "max_probability": 0.4900640805984257,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "oracle-boundary/absolute",
+    "pass_gate": true,
+    "details": {
+      "reset": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 1.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": true
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": true,
+        "records": [
+          {
+            "group": "cea-08",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-08",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-09",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-09",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-10",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-10",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-11",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-11",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-12",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-12",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-13",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-13",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-14",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-14",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-15",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-15",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "oracle-boundary/present",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "cea-08",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-08",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "oracle-boundary/recency",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.5,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "cea-08",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-08",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "oracle-boundary/reference",
+    "pass_gate": true,
+    "details": {
+      "reset": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 1.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": true
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": true,
+        "records": [
+          {
+            "group": "cea-08",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-08",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-09",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-09",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-10",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-10",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-11",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-11",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-12",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-12",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-13",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-13",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-14",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-14",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-15",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-15",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "oracle-boundary/transition1",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": true,
+        "records": [
+          {
+            "group": "cea-08",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-08",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-09",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-09",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-10",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-10",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-11",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-11",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-12",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-12",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-13",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-13",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-14",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-14",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-15",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-15",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "oracle-boundary/transition2",
+    "pass_gate": true,
+    "details": {
+      "reset": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 1.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": true
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": true,
+        "records": [
+          {
+            "group": "cea-08",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-08",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-09",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-09",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-10",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-10",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-11",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-11",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-12",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-12",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-13",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-13",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-14",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-14",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-15",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-15",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "oracle-boundary/transition3",
+    "pass_gate": true,
+    "details": {
+      "reset": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 1.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": true
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": true,
+        "records": [
+          {
+            "group": "cea-08",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-08",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-09",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-09",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-10",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-10",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-11",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-11",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-12",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-12",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-13",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-13",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-14",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-14",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-15",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-15",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "repaired/absolute",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.875,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": true
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "cea-08",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.0778380691981394,
+            "max_probability": 0.5768780691981392,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-08",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.0778380691981394,
+            "max_probability": 0.5768780691981392,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-09",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.09187318781385756,
+            "max_probability": 0.5909131878138574,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-09",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.09187318781385756,
+            "max_probability": 0.5909131878138574,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-10",
+            "variant": 0,
+            "mass": 0.9990399999999997,
+            "max_deviation": 0.0010274693122476752,
+            "max_probability": 0.5000674693122474,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-10",
+            "variant": 1,
+            "mass": 0.9990399999999997,
+            "max_deviation": 0.0010274693122476752,
+            "max_probability": 0.5000674693122474,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-11",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.49998,
+            "max_probability": 0.9990199999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.49998,
+            "max_probability": 0.9990199999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.003013033047289726,
+            "max_probability": 0.5020530330472895,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-12",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.003013033047289726,
+            "max_probability": 0.5020530330472895,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-13",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.0031470733372308546,
+            "max_probability": 0.5021870733372307,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-13",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.0031470733372308546,
+            "max_probability": 0.5021870733372307,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-14",
+            "variant": 0,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.12913834892507514,
+            "max_probability": 0.6281783489250751,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 1,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.12913834892507514,
+            "max_probability": 0.6281783489250751,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 0,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.006774724220248662,
+            "max_probability": 0.5058147242202486,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-15",
+            "variant": 1,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.006774724220248662,
+            "max_probability": 0.5058147242202486,
+            "pass_gate": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "repaired/present",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "cea-08",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-08",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "repaired/recency",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.5,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "cea-08",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-08",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "repaired/reference",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.875,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": true
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "cea-08",
+            "variant": 0,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.053552735776928706,
+            "max_probability": 0.5525927357769286,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-08",
+            "variant": 1,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.053552735776928706,
+            "max_probability": 0.5525927357769286,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-09",
+            "variant": 0,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.060871079877605705,
+            "max_probability": 0.5599110798776056,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-09",
+            "variant": 1,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.060871079877605705,
+            "max_probability": 0.5599110798776056,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-10",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.0009220576672556713,
+            "max_probability": 0.4999620576672555,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-10",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.0009220576672556713,
+            "max_probability": 0.4999620576672555,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-11",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.49998,
+            "max_probability": 0.9990199999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.49998,
+            "max_probability": 0.9990199999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 0,
+            "mass": 0.9990399999999997,
+            "max_deviation": 0.002233316804013896,
+            "max_probability": 0.5012733168040137,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-12",
+            "variant": 1,
+            "mass": 0.9990399999999997,
+            "max_deviation": 0.002233316804013896,
+            "max_probability": 0.5012733168040137,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-13",
+            "variant": 0,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.002125761417816674,
+            "max_probability": 0.5011657614178167,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-13",
+            "variant": 1,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.002125761417816674,
+            "max_probability": 0.5011657614178167,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-14",
+            "variant": 0,
+            "mass": 0.9990399999999997,
+            "max_deviation": 0.0852868738302704,
+            "max_probability": 0.5843268738302702,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-14",
+            "variant": 1,
+            "mass": 0.9990399999999997,
+            "max_deviation": 0.0852868738302704,
+            "max_probability": 0.5843268738302702,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-15",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.003420764587758862,
+            "max_probability": 0.5024607645877587,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-15",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.003420764587758862,
+            "max_probability": 0.5024607645877587,
+            "pass_gate": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "repaired/transition1",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.625,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.125,
+        "pass_gate": false
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "cea-08",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.0778380691981394,
+            "max_probability": 0.5768780691981392,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-08",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.0778380691981394,
+            "max_probability": 0.5768780691981392,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-09",
+            "variant": 0,
+            "mass": 0.9990399999999997,
+            "max_deviation": 0.0005039781636263507,
+            "max_probability": 0.4995439781636261,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-09",
+            "variant": 1,
+            "mass": 0.9990399999999997,
+            "max_deviation": 0.0005039781636263507,
+            "max_probability": 0.4995439781636261,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-10",
+            "variant": 0,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.0007589671522112984,
+            "max_probability": 0.4997989671522113,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-10",
+            "variant": 1,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.0007589671522112984,
+            "max_probability": 0.4997989671522113,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-11",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.49998,
+            "max_probability": 0.9990199999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.49998,
+            "max_probability": 0.9990199999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 0,
+            "mass": 0.9990399999999997,
+            "max_deviation": 0.0041014040252127515,
+            "max_probability": 0.5031414040252125,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-12",
+            "variant": 1,
+            "mass": 0.9990399999999997,
+            "max_deviation": 0.0041014040252127515,
+            "max_probability": 0.5031414040252125,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-13",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.0031470733372308546,
+            "max_probability": 0.5021870733372307,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-13",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.0031470733372308546,
+            "max_probability": 0.5021870733372307,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-14",
+            "variant": 0,
+            "mass": 0.9990399999999997,
+            "max_deviation": 0.0018552622697881604,
+            "max_probability": 0.5008952622697879,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-14",
+            "variant": 1,
+            "mass": 0.9990399999999997,
+            "max_deviation": 0.0018552622697881604,
+            "max_probability": 0.5008952622697879,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-15",
+            "variant": 0,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.006774724220248662,
+            "max_probability": 0.5058147242202486,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-15",
+            "variant": 1,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.006774724220248662,
+            "max_probability": 0.5058147242202486,
+            "pass_gate": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "repaired/transition2",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.875,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": true
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "cea-08",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.0778380691981394,
+            "max_probability": 0.5768780691981392,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-08",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.0778380691981394,
+            "max_probability": 0.5768780691981392,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-09",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.0005602171634708775,
+            "max_probability": 0.4996002171634707,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-09",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.0005602171634708775,
+            "max_probability": 0.4996002171634707,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-10",
+            "variant": 0,
+            "mass": 0.9990399999999997,
+            "max_deviation": 0.0010274693122476752,
+            "max_probability": 0.5000674693122474,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-10",
+            "variant": 1,
+            "mass": 0.9990399999999997,
+            "max_deviation": 0.0010274693122476752,
+            "max_probability": 0.5000674693122474,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-11",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.49998,
+            "max_probability": 0.9990199999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.49998,
+            "max_probability": 0.9990199999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.003013033047289726,
+            "max_probability": 0.5020530330472895,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-12",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.003013033047289726,
+            "max_probability": 0.5020530330472895,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-13",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.0031470733372308546,
+            "max_probability": 0.5021870733372307,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-13",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.0031470733372308546,
+            "max_probability": 0.5021870733372307,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-14",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.131847032657203,
+            "max_probability": 0.6308870326572028,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.131847032657203,
+            "max_probability": 0.6308870326572028,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 0,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.006774724220248662,
+            "max_probability": 0.5058147242202486,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-15",
+            "variant": 1,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.006774724220248662,
+            "max_probability": 0.5058147242202486,
+            "pass_gate": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "repaired/transition3",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.875,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": true
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "cea-08",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.0778380691981394,
+            "max_probability": 0.5768780691981392,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-08",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.0778380691981394,
+            "max_probability": 0.5768780691981392,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-09",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.09187318781385756,
+            "max_probability": 0.5909131878138574,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-09",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.09187318781385756,
+            "max_probability": 0.5909131878138574,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-10",
+            "variant": 0,
+            "mass": 0.9990399999999997,
+            "max_deviation": 0.0010274693122476752,
+            "max_probability": 0.5000674693122474,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-10",
+            "variant": 1,
+            "mass": 0.9990399999999997,
+            "max_deviation": 0.0010274693122476752,
+            "max_probability": 0.5000674693122474,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-11",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.49998,
+            "max_probability": 0.9990199999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.49998,
+            "max_probability": 0.9990199999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.003013033047289726,
+            "max_probability": 0.5020530330472895,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-12",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.003013033047289726,
+            "max_probability": 0.5020530330472895,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-13",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.0031470733372308546,
+            "max_probability": 0.5021870733372307,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-13",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.0031470733372308546,
+            "max_probability": 0.5021870733372307,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-14",
+            "variant": 0,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.12913834892507514,
+            "max_probability": 0.6281783489250751,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 1,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.12913834892507514,
+            "max_probability": 0.6281783489250751,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 0,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.006774724220248662,
+            "max_probability": 0.5058147242202486,
+            "pass_gate": true
+          },
+          {
+            "group": "cea-15",
+            "variant": 1,
+            "mass": 0.9990399999999999,
+            "max_deviation": 0.006774724220248662,
+            "max_probability": 0.5058147242202486,
+            "pass_gate": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "streaming/absolute",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "cea-08",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-08",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.49998,
+            "max_probability": 0.9990199999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.49998,
+            "max_probability": 0.9990199999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "streaming/present",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "cea-08",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-08",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "streaming/recency",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.125,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": -0.125,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "cea-08",
+            "variant": 0,
+            "mass": 0.7144999999999999,
+            "max_deviation": 0.14275000000000004,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-08",
+            "variant": 1,
+            "mass": 0.7144999999999999,
+            "max_deviation": 0.14275000000000004,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 0,
+            "mass": 0.7144999999999999,
+            "max_deviation": 0.14275000000000004,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 1,
+            "mass": 0.7144999999999999,
+            "max_deviation": 0.14275000000000004,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 0,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 1,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.35724999999999996,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "streaming/reference",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "cea-08",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-08",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.49998,
+            "max_probability": 0.9990199999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.49998,
+            "max_probability": 0.9990199999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "streaming/transition1",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "cea-08",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-08",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.49998,
+            "max_probability": 0.9990199999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.49998,
+            "max_probability": 0.9990199999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "streaming/transition2",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "cea-08",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-08",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.49998,
+            "max_probability": 0.9990199999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.49998,
+            "max_probability": 0.9990199999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "model": "streaming/transition3",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.3125,
+        "paired_success": 0.0,
+        "max_tv": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "cea-08",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-08",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-09",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-10",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.49998,
+            "max_probability": 0.9990199999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-11",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.49998,
+            "max_probability": 0.9990199999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-12",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 0,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-13",
+            "variant": 1,
+            "mass": 0.7492899999999999,
+            "max_deviation": 0.12535500000000005,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-14",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 0,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          },
+          {
+            "group": "cea-15",
+            "variant": 1,
+            "mass": 0.24978999999999996,
+            "max_deviation": 0.375105,
+            "max_probability": 0.37464499999999995,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  }
+]

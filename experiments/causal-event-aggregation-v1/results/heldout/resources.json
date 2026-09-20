@@ -1,0 +1,19 @@
+{
+  "total_streams": 880,
+  "episodes": 720,
+  "additional_future_probes": 160,
+  "window_extractions": 124558,
+  "trim16_support_extractions": 8422,
+  "acoustic_split_seconds": 82.75230941805057,
+  "max_chunk_dispatch_response_seconds": 0.008628458,
+  "mean_chunk_dispatch_response_seconds": 0.002120845060311284,
+  "max_original_to_aggregate_seconds": 0.006666208,
+  "max_history_paths_retained": 8,
+  "mean_pitched_event_unknown_mass_pooled": 0.035754070328215225,
+  "maximum_chunks": 23,
+  "maximum_raw_bytes": 94208,
+  "maximum_heldout_serialized_listener_bytes": 1440628,
+  "maximum_development_serialized_listener_bytes": 1960418,
+  "paid_compute": 0,
+  "memory_note": "All accessible event/window/alternative-front records included in serialized payload, plus raw buffer separately. Not heap/RSS. Shared MAP/mixture records counted twice conservatively. Evaluator archive inaccessible."
+}
