@@ -1,0 +1,674 @@
+[
+  {
+    "episode": "civ-16/detached/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "28e752208509d23107ad8f52f7aeb47108d8b40cdb98d5193020e9a65e43fa1d",
+    "first_future_sha256": "9eea602bfd99d88f56d0f3dc85a93c3628e5b7ac8e3b9b333272f24abff38881",
+    "other_future_sha256": "c8399af915f7f6270e8d6d97df2317882abdc24f75c3464533c827e683aec87e"
+  },
+  {
+    "episode": "civ-16/legato/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "c587c9c86b25ef42e7b36482028fb3ce7e164ed202387523db31e55364c35542",
+    "first_future_sha256": "125b1fd7bc2b7ca79ca27bc4d3c4db3485de664490959aa659374fbcecf9a4d5",
+    "other_future_sha256": "82c5d3360f4f8f4c70a1e8ef0282058d5a01b8db5aa1ec9d9e0123263895efb5"
+  },
+  {
+    "episode": "civ-16/duration/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "b359a31a355d30bff062f1496a44d533004b4c7c7060d5aa5e79e04d9ab19c0d",
+    "first_future_sha256": "fc4a901e1259521ec699a32e24c118014f62b98b5e799820a1767ae6d454298f",
+    "other_future_sha256": "791bc25df2f7438b94ec368423f90136a5a9154c2637a4db56974499b910a63c"
+  },
+  {
+    "episode": "civ-16/joint/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "a119a039783bd32498f876dcf0248a4bf2ca2e61a186566de75360b6931426f9",
+    "first_future_sha256": "b6f7564bd4ed6c2dce9b9c8ea38aec526faa7df440c39085d9a802695973b5a5",
+    "other_future_sha256": "4a36fa9897a95da81a15f29ac05a8e7c18727bcf4b30e6c5f362b458092a0c9f"
+  },
+  {
+    "episode": "civ-17/detached/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "c7debbd973341c47b8ffda845d6414cfca8a04c1e3425dd405d43e260453bc55",
+    "first_future_sha256": "ff2b056367d3db522e2b42d90c4b0e553462471282af7f314804e83d780346e6",
+    "other_future_sha256": "a406d68b341f4cd2a530f862eed98170bb68c89f8cebec09b50a1936bcb689d2"
+  },
+  {
+    "episode": "civ-17/legato/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "787dd769682ad039bbc85d3595f3ea3f0c95aa142fb352cec3076099d54f5e02",
+    "first_future_sha256": "1390b0ce996889827d13114ee8ffd85e59cf395742626a32a142aec6dc410ddf",
+    "other_future_sha256": "d09475f19d0b4c6fc00af454363f0a7f21ed596f7e0b533a4d63f19a39fc40e1"
+  },
+  {
+    "episode": "civ-17/duration/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "82f48e6c6b9645fca83168e0921313f09783e4fa3a6f9fc2e58d60fa8a01e6b8",
+    "first_future_sha256": "a3438f7a43df04649542927204e0aea36b46a8afd9f3e9f5021e3f4853693261",
+    "other_future_sha256": "88d34269be6289dc80d3a2b6b629090e322ff049b0b16896ed69015772fbdd0c"
+  },
+  {
+    "episode": "civ-17/joint/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "e15ad4c8910a75dab5716db2c52a8d4e96bd06c60c8890d4a9935ddb4120a7d7",
+    "first_future_sha256": "a3438f7a43df04649542927204e0aea36b46a8afd9f3e9f5021e3f4853693261",
+    "other_future_sha256": "88d34269be6289dc80d3a2b6b629090e322ff049b0b16896ed69015772fbdd0c"
+  },
+  {
+    "episode": "civ-18/detached/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "921ec0c110c9a92f31093f7fcf922340844c0535a9a9ba9ddeda21d08eefbf6b",
+    "first_future_sha256": "e07fba14d14290528d6f1a8cf5dbc45a85727553eb3343a117816b902d0cada6",
+    "other_future_sha256": "3a59af5d87ea0a1912b71097128e3761e8b89cfbe386eaa08e4eb2774a86deda"
+  },
+  {
+    "episode": "civ-18/legato/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "eacae9f89403c47a0618bd4d33dc372cde3173162ba076b1231d9ab3164a8004",
+    "first_future_sha256": "e1d146fc086cf7f0519528e1720ccdd2ed29a8737ffde0bb16a8e6b663ff41db",
+    "other_future_sha256": "2d9484c67951e22092dc9ac72043dd7b4e60de303e8f4a674519128984826cca"
+  },
+  {
+    "episode": "civ-18/duration/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "a7a852ebad432eeb5874a78c59fa249d5061416fd57f15a2154b7fc67734e0eb",
+    "first_future_sha256": "e0df2450450d46ed8e743e0f6cbfebe40c07e18d52cfb235a8f747cdf09c1f76",
+    "other_future_sha256": "37807e367299b1192057f72528fe2c7aaf56c94859f1bc3b6d707904c4cc5bdb"
+  },
+  {
+    "episode": "civ-18/joint/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "9222353ed3d53ab77638a3a9f7065e091667d4905783da9cc4397fc62a49d3fa",
+    "first_future_sha256": "e0df2450450d46ed8e743e0f6cbfebe40c07e18d52cfb235a8f747cdf09c1f76",
+    "other_future_sha256": "37807e367299b1192057f72528fe2c7aaf56c94859f1bc3b6d707904c4cc5bdb"
+  },
+  {
+    "episode": "civ-19/detached/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "3a91ec952bc165471f6c7496277ba2d1553167af67b640e3b48f831535b2bad8",
+    "first_future_sha256": "f76d94c40067f47338371e039573894e365b44ee743f9aeb62c790338c0b7255",
+    "other_future_sha256": "7f8a60a97e5b73988b7e7fac014580a130297d2cc721ad8f4cc60c60ece78ce8"
+  },
+  {
+    "episode": "civ-19/legato/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "c547e2e4a88c70b53c86f9d2ba7c40065a2e31f39ab2c9170b3f6c0b2e56e9a4",
+    "first_future_sha256": "0a540795ad4b07ac69ddd80d30522575b45804bb90323cced9f89f96675ac13b",
+    "other_future_sha256": "808106ff94fcf3ec2ac72bfc974c9b4273fc357fe2dadbf5567f0fc52265e0d5"
+  },
+  {
+    "episode": "civ-19/duration/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "dd68c1581cba92497db1fed7597d59a9f12f1dedebcc1491310538fd2ab5eb8b",
+    "first_future_sha256": "e0359b22fba812086ae77e234ad1ee44a310b3fbf95c65033aa6fb7091fd25c8",
+    "other_future_sha256": "2ef642f5589906b8473876792c0c4e0b25a881c083a344ca3abd8780268eea41"
+  },
+  {
+    "episode": "civ-19/joint/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "cdd58b6329b6d8ef50519a2630ba786235915c54c3241148fa847312f1a72a3c",
+    "first_future_sha256": "e0359b22fba812086ae77e234ad1ee44a310b3fbf95c65033aa6fb7091fd25c8",
+    "other_future_sha256": "2ef642f5589906b8473876792c0c4e0b25a881c083a344ca3abd8780268eea41"
+  },
+  {
+    "episode": "civ-20/detached/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "89492398cad3ceadaddb35645b1b186b6825e2c3016df611aa1d05daf9f8c55f",
+    "first_future_sha256": "8242aaed35bcaf07645617e3fd966f711f2fdda6dd0e08da2a780b782b1d5c5c",
+    "other_future_sha256": "5f90ecf8a139d4c8f48cd59434cecb7f53179491fbecc2e6135b52d7356ff52a"
+  },
+  {
+    "episode": "civ-20/legato/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "f2f0748980f47a75ad024ae1d7ce00f117bda75e0e1f31707d63bb3ee31482ff",
+    "first_future_sha256": "f4d18af622763575a95d142b911f2fb80544492f2bb82aeb17d00dbaa99caebe",
+    "other_future_sha256": "afd72fdc318f56a2fc0d29e36652b0b66b16c526c72b9069dd6d4c9c24dd1857"
+  },
+  {
+    "episode": "civ-20/duration/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "c50b25312deec3e8ef72b90adfa7231aef4df4ba33804de1cff0f965d1877489",
+    "first_future_sha256": "414ba0f31a9bac663121f28acffd03aba0b8183084c0c0eb994298562716477c",
+    "other_future_sha256": "e9a7cddaf7de6fd57e6b43bd4305b6625e46916c88ed9afec5e5fc2bf16b0b69"
+  },
+  {
+    "episode": "civ-20/joint/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "b740d5fab593be6b27f4e4bc2c44e881313901ebc68edb5c35e882d741d5755a",
+    "first_future_sha256": "f49401fca0e57256130bb79aaa506a558dc86a0de06d380986a9f112b8809cba",
+    "other_future_sha256": "67a3db7d7fe725bed7d0a77ffe7a61fa744e8d75204c5e1d162e9fecd8faca91"
+  },
+  {
+    "episode": "civ-21/detached/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "fc65bbc89d55292bd4556e732cb17fdaab0a0f649effa6789272c930a91aaa67",
+    "first_future_sha256": "1754cf1e3f8725a5b1c90ccfd6167214c98c9fc6b15cc8ef231840277e52dd34",
+    "other_future_sha256": "1f91dfea8b6366b001f72c1ed058ac80bdd862a817700bc723a92853b3d7dab0"
+  },
+  {
+    "episode": "civ-21/legato/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "c69f77637f85721c26293120593d7efddcce6abe7b152a6d08d9a582cb13fb58",
+    "first_future_sha256": "8c908469e7e7bf1633c4ecf3f76cfc8802981e3855dee542ece7911467962347",
+    "other_future_sha256": "6d92dac226aaf907f3dcfaf2102c40408db293f648c8f70a0e6f64ab4be7830c"
+  },
+  {
+    "episode": "civ-21/duration/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "0804b353c5148ab9e036f824a83e61bf6f1e15d7d926dfe6222e183e3b2885f2",
+    "first_future_sha256": "a40cf6a0255fe15bae0cebcea8373c12b9446828ec0c292f98789ae906170982",
+    "other_future_sha256": "0d2bbae38acaecfd7326183f0289d603531b6d476b8b61996821a363b8f047f5"
+  },
+  {
+    "episode": "civ-21/joint/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "97894d2bb8c5e806baf46e89688a85190fde6c725f9447cc509206e875cc6f40",
+    "first_future_sha256": "a40cf6a0255fe15bae0cebcea8373c12b9446828ec0c292f98789ae906170982",
+    "other_future_sha256": "0d2bbae38acaecfd7326183f0289d603531b6d476b8b61996821a363b8f047f5"
+  },
+  {
+    "episode": "civ-22/detached/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "8a996919f2cd80b4a3dc7ff9a4a9860b8a44d2f2f096f6684881a9eaddd9a56a",
+    "first_future_sha256": "0eb50c54f8fabc362a7fffe703f7dc35ba08d39cfd4bcd892f7ae47b804bab3e",
+    "other_future_sha256": "065dc913870e996e4709e807e3a1d78ec19ef0e043af21837ff079679e4e7709"
+  },
+  {
+    "episode": "civ-22/legato/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "81eb7ed7a853893399f1b0a3e0b9e61a0b663f4ce5d206b4256b537302eaa5d4",
+    "first_future_sha256": "4bfc3107e12fe57d1f712bd0fb105a42e09a8756e762b1932d6dc0d86af07f4b",
+    "other_future_sha256": "1b664bd449a29ccbc1a03629dcbb2b615598f6dea945b33ea2f641a6587efbd7"
+  },
+  {
+    "episode": "civ-22/duration/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "a7c3d5c4302dcd2303a2088690f6701ac72a5629cc347d71075c604a806099a6",
+    "first_future_sha256": "cedd4c47639dc39d32d1ea0865e4b6bf90e7d22ff0e5c5d4d0cfe1dc627fac79",
+    "other_future_sha256": "1c211c02bd271e76bb0c814cb23d0970acca9244800b55eb834dc5eb824652ca"
+  },
+  {
+    "episode": "civ-22/joint/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "41b52f6ec05517c5b9c9cb2f4733a44b2f16a7184794de57a2fa1a6e051cadaa",
+    "first_future_sha256": "667ffa660f550f166c4bb706d65cc9e1757b8083ccdbf6e2dc700729cf057c6d",
+    "other_future_sha256": "8386eb0c98c09929daa48981f32724807974309bf4aab77a78f3838aa4d7dc50"
+  },
+  {
+    "episode": "civ-23/detached/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "25b7d5097748e02870b620b0eb61b0b7b0be9049c3ce595fdd3863445c8d1c66",
+    "first_future_sha256": "fbfd92f7c1cdb5baede899d7f0a3155cb399b37af85d6ba492217bccd3ff3fa8",
+    "other_future_sha256": "be8950fa49b0779713fecb28ea5a741db00a4e7af58d1db45d396a509fe08b9e"
+  },
+  {
+    "episode": "civ-23/legato/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "3ba54bd857e00e868ebd427f93c9075f11711cd3aec88be6ed0bbd7217bb5fd9",
+    "first_future_sha256": "4a52464e16f2bc7f84c9fe63bd0c85eb2034faaf6825afc659f79a1028da0bdb",
+    "other_future_sha256": "962919f3a227f72c18d0e80d07c6b8b6edc3221d9519098e5548dbb19bf96f7e"
+  },
+  {
+    "episode": "civ-23/duration/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "0163611f77f4c4e739cafc4d495f9d53547d8c5cac43bf17ad5e94037814e0c1",
+    "first_future_sha256": "6f8d95a51ec2cae20d5a88f02eae68c6106800ca7bbaee6e5c058a169470c0ac",
+    "other_future_sha256": "ab573db3c4c1a4a57fbd82117d1ac6b16ab5aa435fd4c8fa437b401b9356c74b"
+  },
+  {
+    "episode": "civ-23/joint/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "374b5b5792ee8252f36e1a3968edf76930b26d131b9c9a032d34e435151fc864",
+    "first_future_sha256": "6f8d95a51ec2cae20d5a88f02eae68c6106800ca7bbaee6e5c058a169470c0ac",
+    "other_future_sha256": "ab573db3c4c1a4a57fbd82117d1ac6b16ab5aa435fd4c8fa437b401b9356c74b"
+  },
+  {
+    "episode": "civ-24/detached/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "c375be7bb18972fcda76beacfe0300ad0278b54c2dd0312f162deb3034408d94",
+    "first_future_sha256": "43369f077cced2ee414a0185148b4cafd6bdf6460ed2596505ca7977742022c4",
+    "other_future_sha256": "100d988385aba745dcbda7c8bc388ff55fd90a3994e458ee36eb68821ceb4b16"
+  },
+  {
+    "episode": "civ-24/legato/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "c8d4dee41deaf7d7e92e22c70324876389690df4ee79829d5eb712cc507e0623",
+    "first_future_sha256": "be6d271e7de23c0916eb99b470fb8e4c9bb63bb9b14b460aca5af030da44d904",
+    "other_future_sha256": "8353e9121fb46afe7aee9604382be0fac4b37cc6935c7d964460dcb0e90acbbc"
+  },
+  {
+    "episode": "civ-24/duration/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "84f77b7f03c4530de50aa2d3c03a972de45562904c67f7df3a3b6050841c2066",
+    "first_future_sha256": "d7db517ca0e07096ba4b0009b0474bceb2c40bc48eaecb58088f66b6e53ce022",
+    "other_future_sha256": "5c1545a3b0ded2eec63f5970698fa8aef63dd183a7588e515c04ef4001f073a9"
+  },
+  {
+    "episode": "civ-24/joint/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "46945c52428cc61702542f163923b622f1fa1af5589a37dfb4de978b0c5995f9",
+    "first_future_sha256": "f912f611e088fb4ad7a3f4cfe55ab7fc899be93711926aae1ce61d13c612f371",
+    "other_future_sha256": "c3656ec9df12d4a75f720f133d0dcb477304d423882f604673de9acefeeb56e6"
+  },
+  {
+    "episode": "civ-25/detached/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "e557b6301be03c899644b137c1ca0374b12860b61c94df64d366494f67c1e2e7",
+    "first_future_sha256": "b16f43e54bb832faac3880e18d56dfba1488ed13cc39edb1a9ae3ee827d4537c",
+    "other_future_sha256": "3eb6fb6488700534c2b90c7b6563739ff36bd845a48b8cf8aceadf420c8270a7"
+  },
+  {
+    "episode": "civ-25/legato/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "5c1615a5d32bb81d09ff69246ffb69287ef50446ee789093bd00755a9cf4ff9f",
+    "first_future_sha256": "3d856a981735becb9df838ec28fa9243632677e281b4c776749aa030f04d1010",
+    "other_future_sha256": "a6b82cb71464e3f3d03a4d8b3543414e1b0eafa655bccd7511a5c782c2267f93"
+  },
+  {
+    "episode": "civ-25/duration/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "b834e98d597ccfcf807bd0d540bcfbf5df4e57f3285fd149ba61ecc1912b5bab",
+    "first_future_sha256": "58471cb1896f0895063cc01dad7f6df2b4e12c7bb31cdf7c9203e3584f42c777",
+    "other_future_sha256": "f7d7cacc646baf3c9b491cb96331203b09b6d4372520bc6a6ffcd00f520a17f5"
+  },
+  {
+    "episode": "civ-25/joint/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "6efdafeb112f80cc94dea0dd9020e4e16f46718aa83606cf5943eced5e1774e7",
+    "first_future_sha256": "58471cb1896f0895063cc01dad7f6df2b4e12c7bb31cdf7c9203e3584f42c777",
+    "other_future_sha256": "f7d7cacc646baf3c9b491cb96331203b09b6d4372520bc6a6ffcd00f520a17f5"
+  },
+  {
+    "episode": "civ-26/detached/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "35d3863d1886466ff669f2324fe9507b307b61dd234b9e92a47a132fe020d172",
+    "first_future_sha256": "c022f4dea491ec31ea9e5cdf56c5cd6675ae1d5403304abb213022eed103a416",
+    "other_future_sha256": "0229126cfd6bd1caf43bf1fbd7a2d665e3c1f5ceefeed9a877a2c397a0653411"
+  },
+  {
+    "episode": "civ-26/legato/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "1494b2540c5807d8b23b08e8eddb5120325bbf3500ecabab12eae3281570606b",
+    "first_future_sha256": "a77bda81d6ff449dce9e3eb075e232e2728ef23b153a7b5db4f23a1375e498af",
+    "other_future_sha256": "9f5afa9fbe6b51ff4dc637e6aa7420ef8238f513da95bcf4c97c36321f7a4147"
+  },
+  {
+    "episode": "civ-26/duration/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "efb05fe7eb2680a16acf9f8bc00e810b394231f5a7c82ed19bd668e4e9af27a8",
+    "first_future_sha256": "bd81a5d8eb84cfb29f9d44fb0dd53fe8871efa7d0a80df743fd80815f953943c",
+    "other_future_sha256": "5cbba392005cfbd384ef7a2e6d53bf7b43b90d8d335261043cb2b01e9653c3af"
+  },
+  {
+    "episode": "civ-26/joint/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "d957279b092270e2a40035bc81fb8e0d33932aecd1191465fc0b57939e68fd2f",
+    "first_future_sha256": "bd81a5d8eb84cfb29f9d44fb0dd53fe8871efa7d0a80df743fd80815f953943c",
+    "other_future_sha256": "5cbba392005cfbd384ef7a2e6d53bf7b43b90d8d335261043cb2b01e9653c3af"
+  },
+  {
+    "episode": "civ-27/detached/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "6f8cf5db3fca1caac68e3b4e615ada90e0cb00123dbacc574291190fdf6017bd",
+    "first_future_sha256": "f570653727579ebaa5b841b386c50ae0bde28665ef6c7022919850728ef2d059",
+    "other_future_sha256": "368bf31c82c5f9e47ce8ea2825e1c90c9f3eda781f9796bbe81f62a3c9ad53f3"
+  },
+  {
+    "episode": "civ-27/legato/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "903d22524805ba7aa726dde098f3b166b4d933dc48d6f4460811de1edccf4012",
+    "first_future_sha256": "3b33007f69bf1ee0d9852065620d7d7a26f8ef133fbdb7d53936029e985f2af0",
+    "other_future_sha256": "40292333b714026166f53435e08af164f80352bebc34a5efe120824d7638894c"
+  },
+  {
+    "episode": "civ-27/duration/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "5df6c100581523b6eb28178daf687375684336c7be1197fc4dad67bd22c57c24",
+    "first_future_sha256": "08a650d76252f7db04f212611b6c6aed75239d2a18a3138a6160129488356cf8",
+    "other_future_sha256": "15806a78b3d6a63b68f979908e1fafaa2aff64e58f7066e71c1615bb393e2c51"
+  },
+  {
+    "episode": "civ-27/joint/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "6c31ca844de603d2cdc50d58cd2ddb75789a6b2749d5c24f4b8a21448bc3bd15",
+    "first_future_sha256": "08a650d76252f7db04f212611b6c6aed75239d2a18a3138a6160129488356cf8",
+    "other_future_sha256": "15806a78b3d6a63b68f979908e1fafaa2aff64e58f7066e71c1615bb393e2c51"
+  },
+  {
+    "episode": "civ-28/detached/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "146a0f6c676a30d9e3fb823d3a487d1f36d01f64413b24ef381d3ecac9126bce",
+    "first_future_sha256": "c20e0299cd3a545f20b38f9920763de0139fa57f2e954343afc5519a23abe042",
+    "other_future_sha256": "dea6eac444afed3a9a76ba8c8792f4cbb6d6385fb77b3f5250575c897874d686"
+  },
+  {
+    "episode": "civ-28/legato/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "2dfcfc66f00241cb751f75831fe7b81993bec27ef443dcc98008db6060470fb5",
+    "first_future_sha256": "3d536c80e954d9d26439dc76a39f00549509f4e197542dcc1226c8292a10638e",
+    "other_future_sha256": "cab4b3861a0fd455856e79d0f3591f7fcfdeac9c08b90d4d52d29e7319ade021"
+  },
+  {
+    "episode": "civ-28/duration/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "b3e18253f425842586a3f1521e10226bd4981c02e175681d18ceb41a7422486b",
+    "first_future_sha256": "20a70ce442b28d0d8e73af9b1092463efe699a7727bebc1fa14f05761a0ee6a3",
+    "other_future_sha256": "fcb88da226a17d67fb320d21c8e435f693cea39e2ae8a46e0a37f8d620b39382"
+  },
+  {
+    "episode": "civ-28/joint/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "0b723887be4aa8bb7825ad74b289bb751bd50c3e58016406b2e11b98b63ea232",
+    "first_future_sha256": "5a156a350892609592ac9f1f67ae6547650ebb884efd851f1af8ee33ff332f59",
+    "other_future_sha256": "690bf8b0f2edcb91c470268e270aff081c7ffadbca1cb8c0b80f4108dece2d98"
+  },
+  {
+    "episode": "civ-29/detached/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "7f69a4eb1213dea2b963575f0a09cdf45bc1f5a1334e72063fac2b259c070753",
+    "first_future_sha256": "c171637ccaea87170d9bb7168ac6eef6865086d540d2abc3886ee8b663a44832",
+    "other_future_sha256": "7f918acbb0deea0a27c8d8a4f2dfaf3ddb3b96dc979c5536d352005e8104a60e"
+  },
+  {
+    "episode": "civ-29/legato/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "16f607b37fa048b6b34ce12d855122468bfe7d3b92c226fac2f657244ad6c295",
+    "first_future_sha256": "0883a4209eb3f99351732a2ef0a2b58bcb839dcacc05e8094706dac640f14fc4",
+    "other_future_sha256": "32f6d7600b7cd02e5780101d33414855b0027d9f50bd6ed128d21362a331bb21"
+  },
+  {
+    "episode": "civ-29/duration/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "aacdfb58b4d351c03d751eb03383c245604a2e1fc5fce5973449b7f892922c7e",
+    "first_future_sha256": "fcc6839d14a0c282bdce2177b2f43862248ca00f31db71b9c17d0d665219c981",
+    "other_future_sha256": "eb20a109553b9c9d314dc2121c22de3bc4567929868aed22fba484e83f1d4650"
+  },
+  {
+    "episode": "civ-29/joint/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "62e3eebbc255a766c5dd7f0c4a681fb5bd83fc78ba4445c0914797e0b04a8c32",
+    "first_future_sha256": "fcc6839d14a0c282bdce2177b2f43862248ca00f31db71b9c17d0d665219c981",
+    "other_future_sha256": "eb20a109553b9c9d314dc2121c22de3bc4567929868aed22fba484e83f1d4650"
+  },
+  {
+    "episode": "civ-30/detached/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "8235d591b881094a1cda9929d106c5650ee336fc3e470ea7319b5504e88dbe0f",
+    "first_future_sha256": "b4fcf06331005482776afdbeffc44b88d5040d7828ea3fc69f91336f18a445fe",
+    "other_future_sha256": "d8473cb7302778902fbf0a35d0ad0f89afebfafc1f2cbf6cacbd05217a875dd2"
+  },
+  {
+    "episode": "civ-30/legato/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "c4967bf4ff8665de5e5f7f35ebc087727442da3aee913b32a3d38049c2aeffa2",
+    "first_future_sha256": "6fceab11d1d95e4054fa07dca643a2f837f62ecde0656cfab8baa45566932f87",
+    "other_future_sha256": "dfd1ae74b27f6660db69580073b63984470b38b5f53cc42d915591d72bd92b83"
+  },
+  {
+    "episode": "civ-30/duration/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "9a4eb34d6b3d5e44eee97cc262d45e59d09206c44fdb6f3335da5f851516daa6",
+    "first_future_sha256": "adccd04b3a8c8379686452e063b1591b3791cf369ad71241b551ae728f34bc90",
+    "other_future_sha256": "49f5b3a1715d05b097be5bb73682bc514a08e4e3e24d111e4989d1b91239ab90"
+  },
+  {
+    "episode": "civ-30/joint/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "91a9ebcb761b2c655a15e13c4c4c85103b4a0a12353f1f1d48fabc46fe8cbb73",
+    "first_future_sha256": "c73f692668e4a74941ac13bedae58917a3df910ffae27292e899a1a670b752f3",
+    "other_future_sha256": "9d08be9acbd153b167f4c915694fc9ec59cf7041b539b498974df39520a7a46c"
+  },
+  {
+    "episode": "civ-31/detached/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "a82b23249a7693cd22da7a01478030c01c64a7de131ea346ed23f7561e687fe3",
+    "first_future_sha256": "c066289ab38de39ac3870e1743e037902ec2bc4b804d7fecb0fa5fc7b4c0623b",
+    "other_future_sha256": "8a0576066472128a9284f2170cf44a77c36a0568eef750a24f3a38630423d6e7"
+  },
+  {
+    "episode": "civ-31/legato/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "4439a9a1e6b86056af2cfc40201307df9706e83364cfea721365d83b7f18e9f1",
+    "first_future_sha256": "a79c0a4ac93aa8174be5240c88f9d692f9c80656314f1e938df4af8acb00acd1",
+    "other_future_sha256": "52ddf1d7db0e3ceb4d2a4a743cddd26e65865c6f12e2619471cce8d2a622f2e2"
+  },
+  {
+    "episode": "civ-31/duration/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "52053a01644987df3b5de6b0954c8ffb40f49d539c5216e91d8dde212490c058",
+    "first_future_sha256": "9532b2b56177b83891933b96953525283088a0fd4f03eaa17a9c1317be28ef5d",
+    "other_future_sha256": "dd746547ee207316822a69e9f20ccc13a6f472e3db4715576cdaff2c8b84f0e4"
+  },
+  {
+    "episode": "civ-31/joint/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "849b45d2af63964fd3a9082bbf985814fe97b90b2f841c6634293b568900b9fb",
+    "first_future_sha256": "9532b2b56177b83891933b96953525283088a0fd4f03eaa17a9c1317be28ef5d",
+    "other_future_sha256": "dd746547ee207316822a69e9f20ccc13a6f472e3db4715576cdaff2c8b84f0e4"
+  },
+  {
+    "episode": "civ-32/detached/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "3ca8a472402befd7e76e24ce19d8a8d4d1210585f0af6eda68dd0e714158da9e",
+    "first_future_sha256": "0e6f588b534f3a534e5789733b0ed24cca302f476aa4ae5356c4b2c02e0009fe",
+    "other_future_sha256": "e0b9b8eed11a39201cc3337bf587931591f7958b0eae5a527003ab9e3a6b9ebc"
+  },
+  {
+    "episode": "civ-32/legato/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "f9fbc6cf91b36ee155d59962c48152ec9c9d213ea1eb949a81c8144012499050",
+    "first_future_sha256": "eb00f78473b94bbd0b22877146a5dc6b345b7ee08f540a6024f8d5284e7ef4c5",
+    "other_future_sha256": "65993967627acd1cbacd1d215fd2f53809a6d936b9fe4fddbdab71074e2971bd"
+  },
+  {
+    "episode": "civ-32/duration/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "edf4332b328748518649a173fe972a3789a4bd42f99373bb7576b15b63aa8a5e",
+    "first_future_sha256": "b1a16cb8ee36e1ae68085b1808b1181c59c329756849ef729c12dd92613e5133",
+    "other_future_sha256": "67b790a911575eb6175f8bf267ae1c1bb1266708e23beb05eff345c2e0cd8de0"
+  },
+  {
+    "episode": "civ-32/joint/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "451274995cf6a8d3a58e3a539ea27f6e01fd2d774584c20a39b5af313bf84436",
+    "first_future_sha256": "ff4bfe182fa480a8add13b7ea33455039c3e203bb692481b65095b87936083be",
+    "other_future_sha256": "cfde7ed7a944c562ced0dc9fe9a45ab56bf9a7994d7e28548813c301fbfeb8aa"
+  },
+  {
+    "episode": "civ-33/detached/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "f6a2e13ea74219b13abcc297ed82b021d714d6cfe4f625127e3cbf974f675b20",
+    "first_future_sha256": "bdadbba9717083592df9f048dfab097276e1b38e71b3c05896dbaee378d72710",
+    "other_future_sha256": "728d43437e4dbd7c6de1c25c0e213dc8d704883c1b00b269dd3fa226f609a91b"
+  },
+  {
+    "episode": "civ-33/legato/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "ed46efd6c18ebffd639ded8edb8311e4fe503f75dc66f8ada2bf77907b5e15e3",
+    "first_future_sha256": "b1144128bae69f608815eb9af999d3d8f3955a285753a435895cf023bf4a0ac7",
+    "other_future_sha256": "50d27824b8850ae00bb682a7047b4530250565cc4f44a1f913cefddc067e5ca5"
+  },
+  {
+    "episode": "civ-33/duration/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "ddd506b331dd69edbe3bd0b9e20b36673fcd9470d4d617945368980a430347ef",
+    "first_future_sha256": "6836b947ac262ae80f7d5d984af274c71b488da6f07e9a20c2563a472ae53cc7",
+    "other_future_sha256": "452deb2ff014338f9e119a023f68499b4a6a49f6be8a28c03fed1e1fa8fe2b35"
+  },
+  {
+    "episode": "civ-33/joint/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "9d0f4b3e27dd8c42ebc687237f6a88cc0688208e4f9928846d49da1a1d9ffe0e",
+    "first_future_sha256": "6836b947ac262ae80f7d5d984af274c71b488da6f07e9a20c2563a472ae53cc7",
+    "other_future_sha256": "452deb2ff014338f9e119a023f68499b4a6a49f6be8a28c03fed1e1fa8fe2b35"
+  },
+  {
+    "episode": "civ-34/detached/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "fcb764665936531d4fe26f0e0403eeed95646a65071decefd8b21ee52a856acf",
+    "first_future_sha256": "2e3759406a6f3fdd679f2715ba30a657743dc8b3f8147eb0fbb22a6d616e1cfe",
+    "other_future_sha256": "8ca638db749330b2c42aea4da7593d968b83cc96aaccbcb3ec90cca6b656c7ab"
+  },
+  {
+    "episode": "civ-34/legato/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "2f9a05fea55930444f81bf6086b90de5d9a47fbeb4ac5faa35e8cf6baf9245cc",
+    "first_future_sha256": "680b6e378f1d298a333a0b35aa89919745e12d6f699509855bc51e76fdff913c",
+    "other_future_sha256": "8f016a2cb756b06861fce296b1dc539747ada9416a048e21158868d9e3cd6e15"
+  },
+  {
+    "episode": "civ-34/duration/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "47ce5950168e2dcbed06f874b99aa0af1b26e4c165a976cc952c626015390206",
+    "first_future_sha256": "524add1c4c023a697a41d2e869699626aac0ffa00bf3f8c48f05a7c954e81944",
+    "other_future_sha256": "923e9050bc35f0011eab15cab6a1671b9cca777745d2b537c146b9359a8d8a1b"
+  },
+  {
+    "episode": "civ-34/joint/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "afaf6a3a1f074a8eedc0885ecd99ec6a89fd0eaefa2965b30b6ec6f3a30dba45",
+    "first_future_sha256": "524add1c4c023a697a41d2e869699626aac0ffa00bf3f8c48f05a7c954e81944",
+    "other_future_sha256": "923e9050bc35f0011eab15cab6a1671b9cca777745d2b537c146b9359a8d8a1b"
+  },
+  {
+    "episode": "civ-35/detached/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "978a105e0da90c86b2b426b340470af02705c36e90da53744720ebd07ee148ba",
+    "first_future_sha256": "95a07a4c8b93bf65bcf43b501934a5873e339ff2dee27c0bb3f3612c90b1d056",
+    "other_future_sha256": "1afa6fda6ea6ea323f3f889f45053203c1b19a100c100178077ee55a34d6f9d8"
+  },
+  {
+    "episode": "civ-35/legato/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "3360f52022b91e00319a84dbe1069304b7ebb11e40c8c07d8007ddaa9e7ad11a",
+    "first_future_sha256": "4f921d5ecc90e78add2454783e4f7bb650bd69455c73bb8f78b43905af80cf26",
+    "other_future_sha256": "9dc18ba67d6edee794f8fecc0a617c92bbf784074585c63452a683f13ed28b09"
+  },
+  {
+    "episode": "civ-35/duration/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "bb731076405adee6496e67d85df10ecd4ffa0f6c3c790be2c367f41837c6fed9",
+    "first_future_sha256": "776f4700b0446e1053cac470d5ddca063cd93844bd48790478d065d0749c5ba5",
+    "other_future_sha256": "f00ce38e876d3212160c870dc318efde51d536c6dda63fff83b6315a613ba5e2"
+  },
+  {
+    "episode": "civ-35/joint/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "dca4c10a9fa51ffea59011b3f33f7f3809507ae4dcbe366e446ab207da6ec0ec",
+    "first_future_sha256": "776f4700b0446e1053cac470d5ddca063cd93844bd48790478d065d0749c5ba5",
+    "other_future_sha256": "f00ce38e876d3212160c870dc318efde51d536c6dda63fff83b6315a613ba5e2"
+  },
+  {
+    "episode": "civ-36/detached/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "5910de0ba8c772af1f45c3f771e378ea9787367105dcddf8c37522228872572b",
+    "first_future_sha256": "57961b11f325ca8e710d32c40aa45cce696287b1432713d7daba827c1d62967a",
+    "other_future_sha256": "bd7af22b29f260a5593701787a11667fdc3babcddbca4bc176de758b49660d85"
+  },
+  {
+    "episode": "civ-36/legato/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "9954ade1196ce34b2fade5ecc1265fbabc85e304b7b3afabeac27035a2294a70",
+    "first_future_sha256": "2f413675ad2299ab992de6277737f8ecda69d4a28aa28b39eb31e36fdb46a8ac",
+    "other_future_sha256": "7e89e3bce0ba280813ee5e67470ff271f1e6e4b9ee3fa67e4f182bb298ee666b"
+  },
+  {
+    "episode": "civ-36/duration/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "3b09194688be0750c003de5b7a0af7ec2a9402618fc458964200d578f2c79c75",
+    "first_future_sha256": "4c6e71df0a924c7ae1f7c0a0459beccfbf2196e7624e1cf96d7a1c233a7c49da",
+    "other_future_sha256": "a5276cc697452674e1d03469d61ff010af3f0e98d54ae01d2a77af493a108977"
+  },
+  {
+    "episode": "civ-36/joint/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "96bb565e7a84eff23a2f8dd0c649d1b3d68cc05d25c7b35728bdad0a412fa987",
+    "first_future_sha256": "2ceaecef358f39de2ad5e51243340570ef4a46623486f476908985b0b418f2e9",
+    "other_future_sha256": "7edc4a9a487eb7738850f7fdbe930864126cd94b30c21ff5ea2e7b061371b058"
+  },
+  {
+    "episode": "civ-37/detached/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "067e26b0a5b4fb24beaef206c2b58957eb3bc8bd754b76bdeffbf5b6ab59fac2",
+    "first_future_sha256": "81215cac8f3cafcbbf92eec771767f2b5c798010f53627112d67768a8127fc17",
+    "other_future_sha256": "e4da442ce3b636fcfc379a01569fcb9fd1ea106f4205420038dddfa19a917ab4"
+  },
+  {
+    "episode": "civ-37/legato/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "9333a5e9f3eeeb580998ac874d94adb779c7abb415c0e1eee2a526a0eba7ca5e",
+    "first_future_sha256": "0469c7b7a2ddc2e0b9d6754903998ffc409eacdb848b1ba6b1efe5ba941acdce",
+    "other_future_sha256": "c2a4c5aa6891a2053825f6f1903c52f263dcc43d1256105df6390c951eadd27c"
+  },
+  {
+    "episode": "civ-37/duration/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "c3e584ac7d086051f82a39fdee58846308b96e0a74fcfa7b256d8cfcd66d1c92",
+    "first_future_sha256": "bdad485ee4e52d1ab1211b3f1f04f87914bbb1eafdd85f990883b40bba9652aa",
+    "other_future_sha256": "4b4d5ead98b1864fea5991dae65ebc7cc2466dfc6873996683d30b43c8bfde92"
+  },
+  {
+    "episode": "civ-37/joint/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "2f8ecdbbd8c94462378c6ecb0e64107892d1daa7852a70f58f003d97c37049d9",
+    "first_future_sha256": "bdad485ee4e52d1ab1211b3f1f04f87914bbb1eafdd85f990883b40bba9652aa",
+    "other_future_sha256": "4b4d5ead98b1864fea5991dae65ebc7cc2466dfc6873996683d30b43c8bfde92"
+  },
+  {
+    "episode": "civ-38/detached/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "d6676f721c85c1968fc8de38d55ae9d87aae704827f717a14165c32123fa6872",
+    "first_future_sha256": "495a764008915d7f422806eae487d6e50c61355b2597ed2144c40c0881555a89",
+    "other_future_sha256": "86429038788733c1b05e602e6f194598368ba4c8e6464909073bb6ac602deb00"
+  },
+  {
+    "episode": "civ-38/legato/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "52eedcab585e5f99f3f17b333e4fc113e19279ad5576050498367c617d869a2e",
+    "first_future_sha256": "0f25e68c57e716d3e4821666046508f1f943266d6d2283f095dfe3ede43a63ec",
+    "other_future_sha256": "18c27be19f1beeaf9f475bd39138b9d76f502a0d300cc33b2fa046074ef115e2"
+  },
+  {
+    "episode": "civ-38/duration/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "ec3dfd8694f00ac3db0c90cd54ef429f89da706b335058edac467656a2305da6",
+    "first_future_sha256": "000f091c675d17e6dab404a282f9074c4d0d20f1e0d8151b12582ab4dbefa018",
+    "other_future_sha256": "496ab111ba56a868731dc7d5b6f40121b7806831b1e9fec46ee5bda72f74fd71"
+  },
+  {
+    "episode": "civ-38/joint/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "31a63807296703b5c8f5fb07928c30a0c1be2538b9d126ec166c08b7363bb044",
+    "first_future_sha256": "61978772df9d08c455d17c04409bec1f282da3a8e0ad11b9746f03e2cfc9ad87",
+    "other_future_sha256": "a2d1c35f71c005b69c26fb120dc6925d96ecd3767ff339cbbf32a965c51bdd1a"
+  },
+  {
+    "episode": "civ-39/detached/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "461383c90ebf7476898f8133fa94a6c861257ba33f3844b1fa9f68186999d368",
+    "first_future_sha256": "0e48acc6d2c3dc4e017a70e999d36b60233b841c13cc7ce16fe25fb79fe06de6",
+    "other_future_sha256": "280e7502ed22285f3ec0ade40a691c152671a48911f11de54928e94f686e0bfe"
+  },
+  {
+    "episode": "civ-39/legato/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "db7a9b48fb1195709a2b8f4d7225ec7d14aa423434fb26950a619bfc7c0b9f85",
+    "first_future_sha256": "f28842c57ed6af64fb5f007c3b55e9c058cbc75dbc05aac5cbe3782720488da4",
+    "other_future_sha256": "a3e0084327d566a37104a144be9e06f87efc265e0abda0a0c45d0fd579b17a56"
+  },
+  {
+    "episode": "civ-39/duration/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "98b71111e7640fa85522574332a18c875dcbb4572afd85620b4fb76b0ab74fe3",
+    "first_future_sha256": "8ba3e9c3d6043c0377c1d5c0edfb6fd50f9cf4410d8ad0fe64dbf646d3e0f089",
+    "other_future_sha256": "1ba6b7b96532411f92c34eb6b5f1531dfd9dad3ea2c32ce1b6ef5cde1b750a30"
+  },
+  {
+    "episode": "civ-39/joint/intact/0",
+    "same_forecast_bytes": true,
+    "forecast_sha256": "6837fe34f6d40e11e7be3f0362834f3f645bc522b27aa45884ac42406ce1f4e7",
+    "first_future_sha256": "8ba3e9c3d6043c0377c1d5c0edfb6fd50f9cf4410d8ad0fe64dbf646d3e0f089",
+    "other_future_sha256": "1ba6b7b96532411f92c34eb6b5f1531dfd9dad3ea2c32ce1b6ef5cde1b750a30"
+  }
+]

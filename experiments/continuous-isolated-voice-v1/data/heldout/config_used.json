@@ -1,0 +1,136 @@
+{
+  "reference": {
+    "prior": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.375,
+      0.125,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.125,
+      0.375,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "transition_order": 2,
+    "retrieval_absolute_order": 2,
+    "retrieval_transposed_order": 3,
+    "relational_order": 3,
+    "transition_cutoff": 0.1,
+    "retrieval_absolute_cutoff": 0.1,
+    "retrieval_transposed_cutoff": 0.1,
+    "relational_cutoff": 0.1,
+    "calibration": {
+      "present": {
+        "temperature": 0.05,
+        "sigma": 0.08,
+        "floor": 0.001
+      },
+      "recency": {
+        "temperature": 0.05,
+        "sigma": 0.08,
+        "floor": 0.05
+      },
+      "transition": {
+        "temperature": 0.05,
+        "sigma": 0.08,
+        "floor": 0.001
+      },
+      "retrieval_absolute": {
+        "temperature": 0.05,
+        "sigma": 0.08,
+        "floor": 0.001
+      },
+      "retrieval_transposed": {
+        "temperature": 0.05,
+        "sigma": 0.08,
+        "floor": 0.001
+      },
+      "relational": {
+        "temperature": 0.05,
+        "sigma": 0.08,
+        "floor": 0.001
+      }
+    }
+  },
+  "adapter": {
+    "periodicity_threshold": 0.85,
+    "threshold_grid": [
+      0.85,
+      0.9,
+      0.95
+    ],
+    "min_hz": 80,
+    "max_hz": 2000,
+    "rms_floor": 0.01
+  },
+  "chunk_samples": 1024,
+  "window_samples": 512,
+  "hop_samples": 64,
+  "latency_samples": 2560,
+  "capacity": 32,
+  "boundary_grid": [
+    {
+      "id": "b0",
+      "pitch_change": 0.75,
+      "confirm": 2
+    },
+    {
+      "id": "b1",
+      "pitch_change": 0.75,
+      "confirm": 3
+    },
+    {
+      "id": "b2",
+      "pitch_change": 1.25,
+      "confirm": 2
+    },
+    {
+      "id": "b3",
+      "pitch_change": 1.25,
+      "confirm": 3
+    }
+  ],
+  "selected": "b2",
+  "development_grid": false
+}
