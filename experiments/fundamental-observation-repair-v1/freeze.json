@@ -1,0 +1,21 @@
+{
+  "files": {
+    "analyze.py": "96cd4660e07f8d4b187e1eed28e4e37075ff752e408a96743a8377fad4d60ecd",
+    "assignment.json": "95030dda8af13d75830bb0881ecb006994b5df637e676d744e98cab4979c56ac",
+    "frozen_model.json": "2eded733c011ac586dda30432c551773bcf70a731e185176730d04b86ad429ec",
+    "model.py": "fd7e8f88f29e2fa4bb71c14e6ca02c3f209595118f47971ba255ef06cf778747",
+    "protocol.json": "adf31d13da28ff9cd05a50f8d2c57b7b70c917b3640e311a50f39663a1edea41",
+    "reference_config.json": "2a8e2115572b25c75786b01eac5a6779e4fdd22e26a4a68c8313a4e4af1e80d6",
+    "reference_model.py": "930d3ecc758704ad27941f1fe6b29041d7350814d27198437deedc422f1ddd70",
+    "run.py": "00064a748093969fa968720fedd71ba9550d7fa134b9c5fa319f87e1b82b6e72",
+    "scorer_tests.json": "a6fe9630d36dc8b3613aed7eeaedfd5f5f9567460f6b637e283424ecf4ca0d2a",
+    "scoring.py": "dc694c0cd3fe3bab74fb9fddb7fb6d1518ccf5ef09c01f0494b1672c2f63dbd8",
+    "select.py": "e21fc748a57cb2e879f07444b29cfc40e83b7193a8f38bf464472303a506a8f4",
+    "split_manifest.json": "20a999bf5e4edc77616398657a1b92ab07cf2a4be74e1feb782973851a076cf6",
+    "stimuli.py": "3d9a9f143c212d42b8611ca690fbad8d317f16a03872639c2603f7ba9ecffdae",
+    "verify.py": "3943954f3810f1dd6913bbb17e9a83e96432bc06c58c2f07d5b17cc6a13f5258",
+    "worker.py": "0d1d6a8c0f437bfbb4efdcb65ddbf9e003c98e02c163602c8b6f2b998edfcce7"
+  },
+  "execution_code_sha256": "ddcd47bebfb6475b89964cdaf040d5dfc72961bf353ca6df0cb8913f642ee2ab",
+  "stage": "Final pre-evaluation freeze; no evaluation stimuli generated"
+}

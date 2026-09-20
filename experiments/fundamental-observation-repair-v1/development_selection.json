@@ -1,0 +1,26 @@
+{
+  "grid": [
+    {
+      "threshold": 0.85,
+      "group_weighted_pitch_accuracy": 1.0,
+      "group_weighted_absolute_error": 0.004216588327959386
+    },
+    {
+      "threshold": 0.9,
+      "group_weighted_pitch_accuracy": 1.0,
+      "group_weighted_absolute_error": 0.004216588327959386
+    },
+    {
+      "threshold": 0.95,
+      "group_weighted_pitch_accuracy": 1.0,
+      "group_weighted_absolute_error": 0.004216588327959386
+    }
+  ],
+  "selected": {
+    "threshold": 0.85,
+    "group_weighted_pitch_accuracy": 1.0,
+    "group_weighted_absolute_error": 0.004216588327959386
+  },
+  "ties": "accuracy descending, error ascending, threshold ascending",
+  "no_primary_retrieval_parameters_changed": true
+}
