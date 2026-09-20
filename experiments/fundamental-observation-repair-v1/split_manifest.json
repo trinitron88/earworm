@@ -1,0 +1,726 @@
+{
+  "groups": [
+    {
+      "group_id": "for-00",
+      "split": "development",
+      "seed": 202609201000,
+      "motif": [
+        2,
+        3,
+        4,
+        3
+      ],
+      "order": 0,
+      "rich": false,
+      "direction": 0,
+      "register": 0,
+      "rms": 0.12,
+      "tuple_id": 0,
+      "family": "fundamental"
+    },
+    {
+      "group_id": "for-01",
+      "split": "development",
+      "seed": 202609201001,
+      "motif": [
+        2,
+        5,
+        4,
+        4
+      ],
+      "order": 1,
+      "rich": false,
+      "direction": 1,
+      "register": 0,
+      "rms": 0.12,
+      "tuple_id": 1,
+      "family": "pure"
+    },
+    {
+      "group_id": "for-02",
+      "split": "development",
+      "seed": 202609201002,
+      "motif": [
+        3,
+        2,
+        2,
+        5
+      ],
+      "order": 1,
+      "rich": false,
+      "direction": 0,
+      "register": 18,
+      "rms": 0.12,
+      "tuple_id": 2,
+      "family": "pure"
+    },
+    {
+      "group_id": "for-03",
+      "split": "development",
+      "seed": 202609201003,
+      "motif": [
+        3,
+        5,
+        2,
+        3
+      ],
+      "order": 0,
+      "rich": false,
+      "direction": 1,
+      "register": 18,
+      "rms": 0.12,
+      "tuple_id": 3,
+      "family": "fundamental"
+    },
+    {
+      "group_id": "for-04",
+      "split": "development",
+      "seed": 202609201004,
+      "motif": [
+        4,
+        2,
+        3,
+        4
+      ],
+      "order": 1,
+      "rich": true,
+      "direction": 0,
+      "register": 0,
+      "rms": 0.12,
+      "tuple_id": 4,
+      "family": "overtone"
+    },
+    {
+      "group_id": "for-05",
+      "split": "development",
+      "seed": 202609201005,
+      "motif": [
+        4,
+        4,
+        3,
+        5
+      ],
+      "order": 0,
+      "rich": true,
+      "direction": 1,
+      "register": 0,
+      "rms": 0.12,
+      "tuple_id": 5,
+      "family": "overtone"
+    },
+    {
+      "group_id": "for-06",
+      "split": "development",
+      "seed": 202609201006,
+      "motif": [
+        5,
+        2,
+        4,
+        3
+      ],
+      "order": 0,
+      "rich": true,
+      "direction": 0,
+      "register": 18,
+      "rms": 0.12,
+      "tuple_id": 6,
+      "family": "overtone"
+    },
+    {
+      "group_id": "for-07",
+      "split": "development",
+      "seed": 202609201007,
+      "motif": [
+        5,
+        4,
+        4,
+        4
+      ],
+      "order": 1,
+      "rich": true,
+      "direction": 1,
+      "register": 18,
+      "rms": 0.12,
+      "tuple_id": 7,
+      "family": "overtone"
+    },
+    {
+      "group_id": "for-08",
+      "split": "calibration",
+      "seed": 202609201008,
+      "motif": [
+        5,
+        6,
+        4,
+        5
+      ],
+      "order": 0,
+      "rich": false,
+      "direction": 0,
+      "register": 0,
+      "rms": 0.08,
+      "tuple_id": 8,
+      "family": "fundamental"
+    },
+    {
+      "group_id": "for-09",
+      "split": "calibration",
+      "seed": 202609201009,
+      "motif": [
+        6,
+        4,
+        5,
+        3
+      ],
+      "order": 1,
+      "rich": false,
+      "direction": 1,
+      "register": 0,
+      "rms": 0.08,
+      "tuple_id": 9,
+      "family": "pure"
+    },
+    {
+      "group_id": "for-10",
+      "split": "calibration",
+      "seed": 202609201010,
+      "motif": [
+        6,
+        6,
+        5,
+        4
+      ],
+      "order": 1,
+      "rich": false,
+      "direction": 0,
+      "register": 18,
+      "rms": 0.08,
+      "tuple_id": 10,
+      "family": "pure"
+    },
+    {
+      "group_id": "for-11",
+      "split": "calibration",
+      "seed": 202609201011,
+      "motif": [
+        7,
+        3,
+        6,
+        5
+      ],
+      "order": 0,
+      "rich": false,
+      "direction": 1,
+      "register": 18,
+      "rms": 0.08,
+      "tuple_id": 11,
+      "family": "fundamental"
+    },
+    {
+      "group_id": "for-12",
+      "split": "calibration",
+      "seed": 202609201012,
+      "motif": [
+        7,
+        6,
+        6,
+        3
+      ],
+      "order": 1,
+      "rich": true,
+      "direction": 0,
+      "register": 0,
+      "rms": 0.08,
+      "tuple_id": 12,
+      "family": "overtone"
+    },
+    {
+      "group_id": "for-13",
+      "split": "calibration",
+      "seed": 202609201013,
+      "motif": [
+        2,
+        3,
+        4,
+        4
+      ],
+      "order": 0,
+      "rich": true,
+      "direction": 1,
+      "register": 0,
+      "rms": 0.08,
+      "tuple_id": 13,
+      "family": "overtone"
+    },
+    {
+      "group_id": "for-14",
+      "split": "calibration",
+      "seed": 202609201014,
+      "motif": [
+        2,
+        5,
+        4,
+        5
+      ],
+      "order": 0,
+      "rich": true,
+      "direction": 0,
+      "register": 18,
+      "rms": 0.08,
+      "tuple_id": 14,
+      "family": "overtone"
+    },
+    {
+      "group_id": "for-15",
+      "split": "calibration",
+      "seed": 202609201015,
+      "motif": [
+        3,
+        3,
+        2,
+        3
+      ],
+      "order": 1,
+      "rich": true,
+      "direction": 1,
+      "register": 18,
+      "rms": 0.08,
+      "tuple_id": 15,
+      "family": "overtone"
+    },
+    {
+      "group_id": "for-16",
+      "split": "heldout",
+      "seed": 202609201016,
+      "motif": [
+        3,
+        5,
+        2,
+        4
+      ],
+      "order": 0,
+      "rich": false,
+      "direction": 0,
+      "register": 0,
+      "rms": 0.12,
+      "tuple_id": 16,
+      "family": "fundamental"
+    },
+    {
+      "group_id": "for-17",
+      "split": "heldout",
+      "seed": 202609201017,
+      "motif": [
+        4,
+        2,
+        3,
+        5
+      ],
+      "order": 1,
+      "rich": false,
+      "direction": 1,
+      "register": 0,
+      "rms": 0.12,
+      "tuple_id": 17,
+      "family": "pure"
+    },
+    {
+      "group_id": "for-18",
+      "split": "heldout",
+      "seed": 202609201018,
+      "motif": [
+        4,
+        5,
+        3,
+        3
+      ],
+      "order": 1,
+      "rich": false,
+      "direction": 0,
+      "register": 18,
+      "rms": 0.12,
+      "tuple_id": 18,
+      "family": "pure"
+    },
+    {
+      "group_id": "for-19",
+      "split": "heldout",
+      "seed": 202609201019,
+      "motif": [
+        5,
+        2,
+        4,
+        4
+      ],
+      "order": 0,
+      "rich": false,
+      "direction": 1,
+      "register": 18,
+      "rms": 0.12,
+      "tuple_id": 19,
+      "family": "fundamental"
+    },
+    {
+      "group_id": "for-20",
+      "split": "heldout",
+      "seed": 202609201020,
+      "motif": [
+        5,
+        4,
+        4,
+        5
+      ],
+      "order": 1,
+      "rich": true,
+      "direction": 0,
+      "register": 0,
+      "rms": 0.12,
+      "tuple_id": 20,
+      "family": "overtone"
+    },
+    {
+      "group_id": "for-21",
+      "split": "heldout",
+      "seed": 202609201021,
+      "motif": [
+        6,
+        2,
+        5,
+        3
+      ],
+      "order": 0,
+      "rich": true,
+      "direction": 1,
+      "register": 0,
+      "rms": 0.12,
+      "tuple_id": 21,
+      "family": "overtone"
+    },
+    {
+      "group_id": "for-22",
+      "split": "heldout",
+      "seed": 202609201022,
+      "motif": [
+        6,
+        4,
+        5,
+        4
+      ],
+      "order": 0,
+      "rich": true,
+      "direction": 0,
+      "register": 18,
+      "rms": 0.12,
+      "tuple_id": 22,
+      "family": "overtone"
+    },
+    {
+      "group_id": "for-23",
+      "split": "heldout",
+      "seed": 202609201023,
+      "motif": [
+        6,
+        6,
+        5,
+        5
+      ],
+      "order": 1,
+      "rich": true,
+      "direction": 1,
+      "register": 18,
+      "rms": 0.12,
+      "tuple_id": 23,
+      "family": "overtone"
+    },
+    {
+      "group_id": "for-24",
+      "split": "heldout",
+      "seed": 202609201024,
+      "motif": [
+        7,
+        4,
+        6,
+        3
+      ],
+      "order": 0,
+      "rich": false,
+      "direction": 0,
+      "register": 0,
+      "rms": 0.08,
+      "tuple_id": 24,
+      "family": "fundamental"
+    },
+    {
+      "group_id": "for-25",
+      "split": "heldout",
+      "seed": 202609201025,
+      "motif": [
+        7,
+        6,
+        6,
+        4
+      ],
+      "order": 1,
+      "rich": false,
+      "direction": 1,
+      "register": 0,
+      "rms": 0.08,
+      "tuple_id": 25,
+      "family": "pure"
+    },
+    {
+      "group_id": "for-26",
+      "split": "heldout",
+      "seed": 202609201026,
+      "motif": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "order": 1,
+      "rich": false,
+      "direction": 0,
+      "register": 18,
+      "rms": 0.08,
+      "tuple_id": 26,
+      "family": "pure"
+    },
+    {
+      "group_id": "for-27",
+      "split": "heldout",
+      "seed": 202609201027,
+      "motif": [
+        2,
+        6,
+        4,
+        3
+      ],
+      "order": 0,
+      "rich": false,
+      "direction": 1,
+      "register": 18,
+      "rms": 0.08,
+      "tuple_id": 27,
+      "family": "fundamental"
+    },
+    {
+      "group_id": "for-28",
+      "split": "heldout",
+      "seed": 202609201028,
+      "motif": [
+        3,
+        3,
+        2,
+        4
+      ],
+      "order": 1,
+      "rich": true,
+      "direction": 0,
+      "register": 0,
+      "rms": 0.08,
+      "tuple_id": 28,
+      "family": "overtone"
+    },
+    {
+      "group_id": "for-29",
+      "split": "heldout",
+      "seed": 202609201029,
+      "motif": [
+        3,
+        5,
+        2,
+        5
+      ],
+      "order": 0,
+      "rich": true,
+      "direction": 1,
+      "register": 0,
+      "rms": 0.08,
+      "tuple_id": 29,
+      "family": "overtone"
+    },
+    {
+      "group_id": "for-30",
+      "split": "heldout",
+      "seed": 202609201030,
+      "motif": [
+        4,
+        3,
+        3,
+        3
+      ],
+      "order": 0,
+      "rich": true,
+      "direction": 0,
+      "register": 18,
+      "rms": 0.08,
+      "tuple_id": 30,
+      "family": "overtone"
+    },
+    {
+      "group_id": "for-31",
+      "split": "heldout",
+      "seed": 202609201031,
+      "motif": [
+        4,
+        5,
+        3,
+        4
+      ],
+      "order": 1,
+      "rich": true,
+      "direction": 1,
+      "register": 18,
+      "rms": 0.08,
+      "tuple_id": 31,
+      "family": "overtone"
+    },
+    {
+      "group_id": "for-32",
+      "split": "heldout",
+      "seed": 202609201032,
+      "motif": [
+        5,
+        2,
+        4,
+        5
+      ],
+      "order": 0,
+      "rich": false,
+      "direction": 0,
+      "register": 0,
+      "rms": 0.12,
+      "tuple_id": 32,
+      "family": "fundamental"
+    },
+    {
+      "group_id": "for-33",
+      "split": "heldout",
+      "seed": 202609201033,
+      "motif": [
+        5,
+        5,
+        4,
+        3
+      ],
+      "order": 1,
+      "rich": false,
+      "direction": 1,
+      "register": 0,
+      "rms": 0.12,
+      "tuple_id": 33,
+      "family": "pure"
+    },
+    {
+      "group_id": "for-34",
+      "split": "heldout",
+      "seed": 202609201034,
+      "motif": [
+        6,
+        2,
+        5,
+        4
+      ],
+      "order": 1,
+      "rich": false,
+      "direction": 0,
+      "register": 18,
+      "rms": 0.12,
+      "tuple_id": 34,
+      "family": "pure"
+    },
+    {
+      "group_id": "for-35",
+      "split": "heldout",
+      "seed": 202609201035,
+      "motif": [
+        6,
+        4,
+        5,
+        5
+      ],
+      "order": 0,
+      "rich": false,
+      "direction": 1,
+      "register": 18,
+      "rms": 0.12,
+      "tuple_id": 35,
+      "family": "fundamental"
+    },
+    {
+      "group_id": "for-36",
+      "split": "heldout",
+      "seed": 202609201036,
+      "motif": [
+        7,
+        2,
+        6,
+        3
+      ],
+      "order": 1,
+      "rich": true,
+      "direction": 0,
+      "register": 0,
+      "rms": 0.12,
+      "tuple_id": 36,
+      "family": "overtone"
+    },
+    {
+      "group_id": "for-37",
+      "split": "heldout",
+      "seed": 202609201037,
+      "motif": [
+        7,
+        4,
+        6,
+        4
+      ],
+      "order": 0,
+      "rich": true,
+      "direction": 1,
+      "register": 0,
+      "rms": 0.12,
+      "tuple_id": 37,
+      "family": "overtone"
+    },
+    {
+      "group_id": "for-38",
+      "split": "heldout",
+      "seed": 202609201038,
+      "motif": [
+        7,
+        6,
+        6,
+        5
+      ],
+      "order": 0,
+      "rich": true,
+      "direction": 0,
+      "register": 18,
+      "rms": 0.12,
+      "tuple_id": 38,
+      "family": "overtone"
+    },
+    {
+      "group_id": "for-39",
+      "split": "heldout",
+      "seed": 202609201039,
+      "motif": [
+        2,
+        4,
+        4,
+        3
+      ],
+      "order": 1,
+      "rich": true,
+      "direction": 1,
+      "register": 18,
+      "rms": 0.12,
+      "tuple_id": 39,
+      "family": "overtone"
+    }
+  ],
+  "identity": "Q=(0,-a,+b), R=(0,-c,+b), successors b\u00b1d, unique 40 normalized tuples; previous CM cues had positive middle/negative final; PR8 positive middle/positive final; no prior normalized cue tuples reused",
+  "factor_design": "8-run fractional factorial per split block: direction bit0, register bit1, dominance bit2 independent, order XOR of three. Pure vs fundamental subdivides non-rich groups via bit0 XOR bit1. Evaluation repeats 3 blocks. No full 4-factor crossing in 8 groups; order confounded with three-factor interaction, pure/fund subtype with direction-register interaction. All nuisance values shared by binding pair; levels balanced by 8-group block, not independent within 8-group splits."
+}

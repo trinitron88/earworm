@@ -1,0 +1,117 @@
+{
+  "branch": "A",
+  "validity_passed": true,
+  "comparison": {
+    "joint_accuracy_gain": 0.25,
+    "lower95": 0.08333333333333333,
+    "upper95": 0.4166666666666667
+  },
+  "proper_scores_no_worse": true,
+  "octave_safety": {
+    "groups": [
+      "for-16",
+      "for-17",
+      "for-18",
+      "for-19",
+      "for-24",
+      "for-25",
+      "for-26",
+      "for-27",
+      "for-32",
+      "for-33",
+      "for-34",
+      "for-35"
+    ],
+    "pitch_correct": 1.0,
+    "octave_error_rate": 0.0,
+    "prediction_accuracy_loss": 0.0,
+    "pass_gate": true
+  },
+  "model_gates": {
+    "old_present": {
+      "all_cells_paired_success": false,
+      "joint_over_adapter_present_lower95": 0.0,
+      "simultaneous_noninferiority": false,
+      "controls": false
+    },
+    "old_recency": {
+      "all_cells_paired_success": false,
+      "joint_over_adapter_present_lower95": -0.020833333333333332,
+      "simultaneous_noninferiority": false,
+      "controls": false
+    },
+    "old_transition1": {
+      "all_cells_paired_success": false,
+      "joint_over_adapter_present_lower95": 0.041666666666666664,
+      "simultaneous_noninferiority": false,
+      "controls": false
+    },
+    "old_transition2": {
+      "all_cells_paired_success": false,
+      "joint_over_adapter_present_lower95": 0.25,
+      "simultaneous_noninferiority": false,
+      "controls": false
+    },
+    "old_transition3": {
+      "all_cells_paired_success": false,
+      "joint_over_adapter_present_lower95": 0.25,
+      "simultaneous_noninferiority": false,
+      "controls": false
+    },
+    "old_absolute": {
+      "all_cells_paired_success": false,
+      "joint_over_adapter_present_lower95": 0.25,
+      "simultaneous_noninferiority": false,
+      "controls": false
+    },
+    "old_reference": {
+      "all_cells_paired_success": false,
+      "joint_over_adapter_present_lower95": 0.4583333333333333,
+      "simultaneous_noninferiority": false,
+      "controls": false
+    },
+    "repaired_present": {
+      "all_cells_paired_success": false,
+      "joint_over_adapter_present_lower95": 0.0,
+      "simultaneous_noninferiority": true,
+      "controls": false
+    },
+    "repaired_recency": {
+      "all_cells_paired_success": false,
+      "joint_over_adapter_present_lower95": 0.10416666666666667,
+      "simultaneous_noninferiority": true,
+      "controls": false
+    },
+    "repaired_transition1": {
+      "all_cells_paired_success": false,
+      "joint_over_adapter_present_lower95": 0.25,
+      "simultaneous_noninferiority": true,
+      "controls": false
+    },
+    "repaired_transition2": {
+      "all_cells_paired_success": true,
+      "joint_over_adapter_present_lower95": 0.75,
+      "simultaneous_noninferiority": true,
+      "controls": true
+    },
+    "repaired_transition3": {
+      "all_cells_paired_success": true,
+      "joint_over_adapter_present_lower95": 0.75,
+      "simultaneous_noninferiority": true,
+      "controls": true
+    },
+    "repaired_absolute": {
+      "all_cells_paired_success": true,
+      "joint_over_adapter_present_lower95": 0.75,
+      "simultaneous_noninferiority": true,
+      "controls": true
+    },
+    "repaired_reference": {
+      "all_cells_paired_success": true,
+      "joint_over_adapter_present_lower95": 0.75,
+      "simultaneous_noninferiority": true,
+      "controls": true
+    }
+  },
+  "next_action": "After exact-head review, PM may assign isolated-voice boundary test with repaired version."
+}

@@ -1,0 +1,12 @@
+{
+  "groups": [
+    "for-08",
+    "for-09",
+    "for-10",
+    "for-11"
+  ],
+  "pitch_correct": 1.0,
+  "octave_error_rate": 0.0,
+  "prediction_accuracy_loss": 0.0,
+  "pass_gate": true
+}

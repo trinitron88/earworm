@@ -1,0 +1,50 @@
+{
+  "assignment_id": "earworm-fundamental-observation-repair-v1",
+  "base": "48c73715f43b2ff13cb8ca69c863636a69ee1c06",
+  "decision": "Adopt localized observation repair before isolated-voice boundary stage, or retain reference and choose another bounded observation approach after review. No automatic follow-on.",
+  "requirements": "assignment.json authoritative complete text",
+  "streams": {
+    "development": 176,
+    "calibration": 176,
+    "heldout": 528,
+    "total": 880,
+    "cap": 1000,
+    "repeat_audio_runs": 0
+  },
+  "caps": {
+    "compute_seconds": 7200,
+    "retained_bytes": 2147483648,
+    "capacity": 32,
+    "prefix_blocks": 14,
+    "block_seconds": 2
+  },
+  "primary": "Exact PR8 config/model with old observations vs exact same config/model with new observations. No primary parameter fitting.",
+  "adapter": "Earliest local NSDF periodicity peak above threshold, parabolic lag interpolation; range80..2000Hz selected before development, RMS>=.01. Report original spectral peak, all periodic candidates and uncertainty. Avoid unconditional divide-by-two. Finite threshold grid .85/.9/.95 selected on development only by group pitch accuracy then error then lowest threshold.",
+  "calibration": "8 fresh groups processed with frozen development-selected adapter and unchanged probability config; no fitting or parameter selection on calibration. Calibration used for pre-evaluation integrity checks.",
+  "baselines": "For each adapter separately: marginal, recency, transition orders1,2,3, full order3 absolute retrieval, full order3 relative retrieval (primary); same arrived blocks and capacity. Reference probability settings for corresponding algorithm kept fixed. No intentionally reduced history.",
+  "factors": "split_manifest.json documents fractional factorial and unavoidable aliases. Every split crosses direction/register/dominance independently; order balanced but aliases their three-factor interaction. Pure/fundamental subtype aliases direction-register interaction within non-rich half. Level changes by group block, never binding label.",
+  "renderers": "stimuli.py formulas; all unique parameter tuples/seeds; heldout durations beyond calibration. Fundamental nonzero; overtone-rich amplitudes .25+.001*i,1,.22+.001*i; pure sine and fundamental-dominant subfamilies. New normalized Q=(0,-a,b),R=(0,-c,b), b>0 unlike earlier studies.",
+  "controls": "same joint reset/removal/swap/chunk-shuffle/ambiguous semantics as PR9; byte-multiset paired histories and common current cue; unknown metadata never supplied to worker.",
+  "score_coordinates": "scoring.py maps 50 relative-bin probabilities to common absolute A220-semitone integer bins -48..72, plus unknown prediction. Unknown is never a correct known-pitch outcome. Out-of-range known truth has zero forecast mass and +Infinity logloss; no clipping. Quantization by nearest absolute semitone. Point tolerance .35 using continuous pitch. Brier expected realized categorical error. Positive infinity serialized string +Infinity. Tests include zero-probability, unavailable, out-of-range, ambiguous, octave mapping.",
+  "bootstrap": {
+    "seed": 2026092020,
+    "resamples": 5000,
+    "unit": "equally weighted heldout phrase groups paired across comparisons",
+    "ordinary_quantiles": [
+      0.025,
+      0.975
+    ],
+    "familywise_quantiles": [
+      0.008333333333333333,
+      0.9916666666666667
+    ],
+    "method": "Bonferroni percentile bootstrap three contrasts; no post-hoc cell selection",
+    "quantile_method": "inverted_cdf order statistic avoids interpolation of infinite log-loss bounds; observations use within-subfamily group resampling with same seed"
+  },
+  "octave_safety": "Predefined pure/fundamental groups only; count every pitched arrived prefix block across all 18 streams, not future blocks. Per-group correct fraction averaged equally >=.95, octave-error group rate <=.01. Octave error means available estimate within .35 semitones of truth\u00b112; unavailable counted incorrect, availability reported separately. Also report \u00b124 errors separately. Prediction loss averaged equally over these groups and four intact cells <=.05 versus old primary. Report pure/fundamental separately, same thresholds on combined predeclared guard.",
+  "adoption": "All assignment A conditions conjunctive, implemented analyze.py. Otherwise B if valid explicit failed criterion; invalid if validity fails; no forced adoption.",
+  "resources_accounting": "Stream reservation ledger, split runtimes, conservative single-worker wall-clock work interval <=2h; no parallel acoustic work.",
+  "oracle": "None planned; earlier oracle evidence remains historical. Only saved estimator/availability evidence used to explain observed failure.",
+  "stop": "Publish one complete successor with PROJECT_STATE update then await review; no repair retest.",
+  "metric_limits": "Mean absolute fundamental error conditional on availability, alongside unconditional pitch accuracy and availability. Unavailable blocks cannot meet octave-safety accuracy. Known out-of-range targets score infinite loss, not unknown success."
+}

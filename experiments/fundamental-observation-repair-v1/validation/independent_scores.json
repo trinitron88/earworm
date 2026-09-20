@@ -1,0 +1,232 @@
+{
+  "all_pass": true,
+  "forecasts_scored": 6048,
+  "maximum_score_error": 2.220446049250313e-16,
+  "intact_correct_total": {
+    "old_absolute/matched": [
+      48,
+      48
+    ],
+    "old_present/matched": [
+      8,
+      48
+    ],
+    "old_recency/matched": [
+      24,
+      48
+    ],
+    "old_reference/matched": [
+      48,
+      48
+    ],
+    "old_transition1/matched": [
+      24,
+      48
+    ],
+    "old_transition2/matched": [
+      48,
+      48
+    ],
+    "old_transition3/matched": [
+      48,
+      48
+    ],
+    "repaired_absolute/matched": [
+      48,
+      48
+    ],
+    "repaired_present/matched": [
+      8,
+      48
+    ],
+    "repaired_recency/matched": [
+      24,
+      48
+    ],
+    "repaired_reference/matched": [
+      48,
+      48
+    ],
+    "repaired_transition1/matched": [
+      24,
+      48
+    ],
+    "repaired_transition2/matched": [
+      48,
+      48
+    ],
+    "repaired_transition3/matched": [
+      48,
+      48
+    ],
+    "old_absolute/timbre": [
+      26,
+      48
+    ],
+    "old_present/timbre": [
+      6,
+      48
+    ],
+    "old_recency/timbre": [
+      13,
+      48
+    ],
+    "old_reference/timbre": [
+      36,
+      48
+    ],
+    "old_transition1/timbre": [
+      13,
+      48
+    ],
+    "old_transition2/timbre": [
+      26,
+      48
+    ],
+    "old_transition3/timbre": [
+      26,
+      48
+    ],
+    "repaired_absolute/timbre": [
+      48,
+      48
+    ],
+    "repaired_present/timbre": [
+      8,
+      48
+    ],
+    "repaired_recency/timbre": [
+      24,
+      48
+    ],
+    "repaired_reference/timbre": [
+      48,
+      48
+    ],
+    "repaired_transition1/timbre": [
+      24,
+      48
+    ],
+    "repaired_transition2/timbre": [
+      48,
+      48
+    ],
+    "repaired_transition3/timbre": [
+      48,
+      48
+    ],
+    "old_absolute/duration": [
+      48,
+      48
+    ],
+    "old_present/duration": [
+      8,
+      48
+    ],
+    "old_recency/duration": [
+      24,
+      48
+    ],
+    "old_reference/duration": [
+      48,
+      48
+    ],
+    "old_transition1/duration": [
+      24,
+      48
+    ],
+    "old_transition2/duration": [
+      48,
+      48
+    ],
+    "old_transition3/duration": [
+      48,
+      48
+    ],
+    "repaired_absolute/duration": [
+      48,
+      48
+    ],
+    "repaired_present/duration": [
+      8,
+      48
+    ],
+    "repaired_recency/duration": [
+      24,
+      48
+    ],
+    "repaired_reference/duration": [
+      48,
+      48
+    ],
+    "repaired_transition1/duration": [
+      24,
+      48
+    ],
+    "repaired_transition2/duration": [
+      48,
+      48
+    ],
+    "repaired_transition3/duration": [
+      48,
+      48
+    ],
+    "old_absolute/joint": [
+      26,
+      48
+    ],
+    "old_present/joint": [
+      6,
+      48
+    ],
+    "old_recency/joint": [
+      13,
+      48
+    ],
+    "old_reference/joint": [
+      36,
+      48
+    ],
+    "old_transition1/joint": [
+      13,
+      48
+    ],
+    "old_transition2/joint": [
+      26,
+      48
+    ],
+    "old_transition3/joint": [
+      26,
+      48
+    ],
+    "repaired_absolute/joint": [
+      48,
+      48
+    ],
+    "repaired_present/joint": [
+      8,
+      48
+    ],
+    "repaired_recency/joint": [
+      24,
+      48
+    ],
+    "repaired_reference/joint": [
+      48,
+      48
+    ],
+    "repaired_transition1/joint": [
+      24,
+      48
+    ],
+    "repaired_transition2/joint": [
+      48,
+      48
+    ],
+    "repaired_transition3/joint": [
+      48,
+      48
+    ]
+  },
+  "no_audio_or_model_execution": true
+}

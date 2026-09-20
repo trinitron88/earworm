@@ -1,0 +1,8 @@
+{
+  "zero_probability": true,
+  "unavailable_anchor": true,
+  "out_of_range": true,
+  "ambiguity": true,
+  "octave_mapping": true,
+  "positive_infinity_serialization": true
+}

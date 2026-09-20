@@ -1,0 +1,18 @@
+{
+  "split": "development",
+  "episodes": 144,
+  "additional_future_invariance_probes": 32,
+  "elapsed_seconds": 1.5468855829676613,
+  "prior_elapsed_seconds": 0,
+  "execution_revision": "48c73715f43b2ff13cb8ca69c863636a69ee1c06",
+  "dirty_at_start": true,
+  "dirty_paths_at_start": [
+    "?? experiments/fundamental-observation-repair-v1/"
+  ],
+  "execution_inputs_match_commit": null,
+  "execution_code_sha256": "e113f9bf408f2d1e609d3fd637fa8d3e5324588432bb166395f70793a267c239",
+  "model_sha256": "754ebf526089532be6b1e8beb3317c6464a4d607ca29b78378a232002e0dbd25",
+  "python": "3.12.14",
+  "numpy": "2.5.3",
+  "end_utc_ns": 1789885440377534000
+}

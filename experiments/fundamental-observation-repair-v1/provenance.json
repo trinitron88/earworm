@@ -1,0 +1,23 @@
+{
+  "assignment_id": "earworm-fundamental-observation-repair-v1",
+  "base": "48c73715f43b2ff13cb8ca69c863636a69ee1c06",
+  "execution_revision": "dd4fbea06485bd00117e9340a83a8844859869c5",
+  "publication_sha": "Recorded separately in final PR head and shared instruction-channel receipt",
+  "validation_finished_at": "2026-09-20T07:00:12.005435+00:00",
+  "conservative_work_wall_seconds": 2458.521435,
+  "acoustic_split_seconds": 6.367148456920404,
+  "streams": 880,
+  "episodes": 720,
+  "future_probes": 160,
+  "maximum_prefix_blocks": 14,
+  "capacity": 32,
+  "evictions": 0,
+  "bytes_before_final_report": 88366646,
+  "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "numpy": "2.5.3",
+  "platform": "macOS-26.6.2-arm64-arm-64bit",
+  "paid_compute": 0,
+  "prior_files_preserved": 277,
+  "source_difference": "New waveform periodicity observation plus explicit scorer/analysis/wrapper; primary reference model/config exact. Baselines separately labeled per adapter; transition orders fixed1\u20133, absolute order3. No baseline fitting.",
+  "calibration": "No parameter fitting; exploratory 8-group result has lower gain bound0 and is not the heldout decision."
+}

@@ -1,0 +1,26 @@
+{
+  "all_pass": true,
+  "checks": {
+    "split_groups_unique": true,
+    "exact_reference_code": true,
+    "exact_reference_config": true,
+    "hash_chain": true,
+    "prefix_only_api_and_guard": true,
+    "zero_eviction": true,
+    "availability_and_pre_reveal_commitment": true,
+    "independent_scalar_reconstruction": true,
+    "paired_byte_duration_energy_inventory_balance": true,
+    "identical_present": true,
+    "control_semantics": true,
+    "future_invariance": true,
+    "stream_and_storage_budgets": true,
+    "scorer_edge_cases": true,
+    "prior_artifacts_unchanged": true
+  },
+  "records": 2784,
+  "forecasts": 2016,
+  "maximum_reconstruction_error": 2.220446049250313e-16,
+  "future_invariance_probes": 32,
+  "prior_files_verified": 277,
+  "limitations": "Python audit guard is instrumented isolation, not an adversarial OS sandbox. Byte-multiset identity implies identical total energy/duration/inventory. Timestamps report processing availability, not real-time audio latency."
+}
