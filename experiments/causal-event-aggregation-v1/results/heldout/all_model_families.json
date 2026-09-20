@@ -1,0 +1,884 @@
+[
+  {
+    "model": "fixed/absolute",
+    "family": "pure",
+    "groups": 6,
+    "accuracy": 0.16666666666666666,
+    "oracle_accuracy_loss": 0.8333333333333334
+  },
+  {
+    "model": "fixed/absolute",
+    "family": "fundamental",
+    "groups": 6,
+    "accuracy": 0.16666666666666666,
+    "oracle_accuracy_loss": 0.8333333333333334
+  },
+  {
+    "model": "fixed/absolute",
+    "family": "overtone",
+    "groups": 12,
+    "accuracy": 0.2708333333333333,
+    "oracle_accuracy_loss": 0.7291666666666667
+  },
+  {
+    "model": "fixed/present",
+    "family": "pure",
+    "groups": 6,
+    "accuracy": 0.16666666666666666,
+    "oracle_accuracy_loss": 0.8333333333333334
+  },
+  {
+    "model": "fixed/present",
+    "family": "fundamental",
+    "groups": 6,
+    "accuracy": 0.16666666666666666,
+    "oracle_accuracy_loss": 0.8333333333333334
+  },
+  {
+    "model": "fixed/present",
+    "family": "overtone",
+    "groups": 12,
+    "accuracy": 0.25,
+    "oracle_accuracy_loss": 0.75
+  },
+  {
+    "model": "fixed/recency",
+    "family": "pure",
+    "groups": 6,
+    "accuracy": 0.1875,
+    "oracle_accuracy_loss": 0.8125
+  },
+  {
+    "model": "fixed/recency",
+    "family": "fundamental",
+    "groups": 6,
+    "accuracy": 0.14583333333333334,
+    "oracle_accuracy_loss": 0.8541666666666666
+  },
+  {
+    "model": "fixed/recency",
+    "family": "overtone",
+    "groups": 12,
+    "accuracy": 0.19791666666666666,
+    "oracle_accuracy_loss": 0.8020833333333334
+  },
+  {
+    "model": "fixed/reference",
+    "family": "pure",
+    "groups": 6,
+    "accuracy": 0.16666666666666666,
+    "oracle_accuracy_loss": 0.8333333333333334
+  },
+  {
+    "model": "fixed/reference",
+    "family": "fundamental",
+    "groups": 6,
+    "accuracy": 0.1875,
+    "oracle_accuracy_loss": 0.8125
+  },
+  {
+    "model": "fixed/reference",
+    "family": "overtone",
+    "groups": 12,
+    "accuracy": 0.25,
+    "oracle_accuracy_loss": 0.75
+  },
+  {
+    "model": "fixed/transition1",
+    "family": "pure",
+    "groups": 6,
+    "accuracy": 0.10416666666666667,
+    "oracle_accuracy_loss": 0.8958333333333334
+  },
+  {
+    "model": "fixed/transition1",
+    "family": "fundamental",
+    "groups": 6,
+    "accuracy": 0.14583333333333334,
+    "oracle_accuracy_loss": 0.8541666666666666
+  },
+  {
+    "model": "fixed/transition1",
+    "family": "overtone",
+    "groups": 12,
+    "accuracy": 0.2708333333333333,
+    "oracle_accuracy_loss": 0.7291666666666667
+  },
+  {
+    "model": "fixed/transition2",
+    "family": "pure",
+    "groups": 6,
+    "accuracy": 0.16666666666666666,
+    "oracle_accuracy_loss": 0.8333333333333334
+  },
+  {
+    "model": "fixed/transition2",
+    "family": "fundamental",
+    "groups": 6,
+    "accuracy": 0.16666666666666666,
+    "oracle_accuracy_loss": 0.8333333333333334
+  },
+  {
+    "model": "fixed/transition2",
+    "family": "overtone",
+    "groups": 12,
+    "accuracy": 0.2708333333333333,
+    "oracle_accuracy_loss": 0.7291666666666667
+  },
+  {
+    "model": "fixed/transition3",
+    "family": "pure",
+    "groups": 6,
+    "accuracy": 0.16666666666666666,
+    "oracle_accuracy_loss": 0.8333333333333334
+  },
+  {
+    "model": "fixed/transition3",
+    "family": "fundamental",
+    "groups": 6,
+    "accuracy": 0.16666666666666666,
+    "oracle_accuracy_loss": 0.8333333333333334
+  },
+  {
+    "model": "fixed/transition3",
+    "family": "overtone",
+    "groups": 12,
+    "accuracy": 0.2708333333333333,
+    "oracle_accuracy_loss": 0.7291666666666667
+  },
+  {
+    "model": "map/absolute",
+    "family": "pure",
+    "groups": 6,
+    "accuracy": 1.0,
+    "oracle_accuracy_loss": 0.0
+  },
+  {
+    "model": "map/absolute",
+    "family": "fundamental",
+    "groups": 6,
+    "accuracy": 0.8958333333333334,
+    "oracle_accuracy_loss": 0.10416666666666663
+  },
+  {
+    "model": "map/absolute",
+    "family": "overtone",
+    "groups": 12,
+    "accuracy": 0.9375,
+    "oracle_accuracy_loss": 0.0625
+  },
+  {
+    "model": "map/present",
+    "family": "pure",
+    "groups": 6,
+    "accuracy": 0.16666666666666666,
+    "oracle_accuracy_loss": 0.8333333333333334
+  },
+  {
+    "model": "map/present",
+    "family": "fundamental",
+    "groups": 6,
+    "accuracy": 0.16666666666666666,
+    "oracle_accuracy_loss": 0.8333333333333334
+  },
+  {
+    "model": "map/present",
+    "family": "overtone",
+    "groups": 12,
+    "accuracy": 0.25,
+    "oracle_accuracy_loss": 0.75
+  },
+  {
+    "model": "map/recency",
+    "family": "pure",
+    "groups": 6,
+    "accuracy": 1.0,
+    "oracle_accuracy_loss": 0.0
+  },
+  {
+    "model": "map/recency",
+    "family": "fundamental",
+    "groups": 6,
+    "accuracy": 0.08333333333333333,
+    "oracle_accuracy_loss": 0.9166666666666666
+  },
+  {
+    "model": "map/recency",
+    "family": "overtone",
+    "groups": 12,
+    "accuracy": 0.4375,
+    "oracle_accuracy_loss": 0.5625
+  },
+  {
+    "model": "map/reference",
+    "family": "pure",
+    "groups": 6,
+    "accuracy": 1.0,
+    "oracle_accuracy_loss": 0.0
+  },
+  {
+    "model": "map/reference",
+    "family": "fundamental",
+    "groups": 6,
+    "accuracy": 0.8958333333333334,
+    "oracle_accuracy_loss": 0.10416666666666663
+  },
+  {
+    "model": "map/reference",
+    "family": "overtone",
+    "groups": 12,
+    "accuracy": 0.9375,
+    "oracle_accuracy_loss": 0.0625
+  },
+  {
+    "model": "map/transition1",
+    "family": "pure",
+    "groups": 6,
+    "accuracy": 0.5625,
+    "oracle_accuracy_loss": 0.4375
+  },
+  {
+    "model": "map/transition1",
+    "family": "fundamental",
+    "groups": 6,
+    "accuracy": 0.5833333333333334,
+    "oracle_accuracy_loss": 0.41666666666666663
+  },
+  {
+    "model": "map/transition1",
+    "family": "overtone",
+    "groups": 12,
+    "accuracy": 0.5729166666666666,
+    "oracle_accuracy_loss": 0.42708333333333337
+  },
+  {
+    "model": "map/transition2",
+    "family": "pure",
+    "groups": 6,
+    "accuracy": 1.0,
+    "oracle_accuracy_loss": 0.0
+  },
+  {
+    "model": "map/transition2",
+    "family": "fundamental",
+    "groups": 6,
+    "accuracy": 0.8958333333333334,
+    "oracle_accuracy_loss": 0.10416666666666663
+  },
+  {
+    "model": "map/transition2",
+    "family": "overtone",
+    "groups": 12,
+    "accuracy": 0.9375,
+    "oracle_accuracy_loss": 0.0625
+  },
+  {
+    "model": "map/transition3",
+    "family": "pure",
+    "groups": 6,
+    "accuracy": 1.0,
+    "oracle_accuracy_loss": 0.0
+  },
+  {
+    "model": "map/transition3",
+    "family": "fundamental",
+    "groups": 6,
+    "accuracy": 0.8958333333333334,
+    "oracle_accuracy_loss": 0.10416666666666663
+  },
+  {
+    "model": "map/transition3",
+    "family": "overtone",
+    "groups": 12,
+    "accuracy": 0.9375,
+    "oracle_accuracy_loss": 0.0625
+  },
+  {
+    "model": "mixture/absolute",
+    "family": "pure",
+    "groups": 6,
+    "accuracy": 1.0,
+    "oracle_accuracy_loss": 0.0
+  },
+  {
+    "model": "mixture/absolute",
+    "family": "fundamental",
+    "groups": 6,
+    "accuracy": 0.6458333333333334,
+    "oracle_accuracy_loss": 0.35416666666666663
+  },
+  {
+    "model": "mixture/absolute",
+    "family": "overtone",
+    "groups": 12,
+    "accuracy": 0.8020833333333334,
+    "oracle_accuracy_loss": 0.19791666666666663
+  },
+  {
+    "model": "mixture/present",
+    "family": "pure",
+    "groups": 6,
+    "accuracy": 0.14583333333333334,
+    "oracle_accuracy_loss": 0.8541666666666666
+  },
+  {
+    "model": "mixture/present",
+    "family": "fundamental",
+    "groups": 6,
+    "accuracy": 0.0625,
+    "oracle_accuracy_loss": 0.9375
+  },
+  {
+    "model": "mixture/present",
+    "family": "overtone",
+    "groups": 12,
+    "accuracy": 0.15625,
+    "oracle_accuracy_loss": 0.84375
+  },
+  {
+    "model": "mixture/recency",
+    "family": "pure",
+    "groups": 6,
+    "accuracy": 1.0,
+    "oracle_accuracy_loss": 0.0
+  },
+  {
+    "model": "mixture/recency",
+    "family": "fundamental",
+    "groups": 6,
+    "accuracy": 0.0,
+    "oracle_accuracy_loss": 1.0
+  },
+  {
+    "model": "mixture/recency",
+    "family": "overtone",
+    "groups": 12,
+    "accuracy": 0.3229166666666667,
+    "oracle_accuracy_loss": 0.6770833333333333
+  },
+  {
+    "model": "mixture/reference",
+    "family": "pure",
+    "groups": 6,
+    "accuracy": 1.0,
+    "oracle_accuracy_loss": 0.0
+  },
+  {
+    "model": "mixture/reference",
+    "family": "fundamental",
+    "groups": 6,
+    "accuracy": 0.6458333333333334,
+    "oracle_accuracy_loss": 0.35416666666666663
+  },
+  {
+    "model": "mixture/reference",
+    "family": "overtone",
+    "groups": 12,
+    "accuracy": 0.8020833333333334,
+    "oracle_accuracy_loss": 0.19791666666666663
+  },
+  {
+    "model": "mixture/transition1",
+    "family": "pure",
+    "groups": 6,
+    "accuracy": 0.5625,
+    "oracle_accuracy_loss": 0.4375
+  },
+  {
+    "model": "mixture/transition1",
+    "family": "fundamental",
+    "groups": 6,
+    "accuracy": 0.3125,
+    "oracle_accuracy_loss": 0.6875
+  },
+  {
+    "model": "mixture/transition1",
+    "family": "overtone",
+    "groups": 12,
+    "accuracy": 0.3958333333333333,
+    "oracle_accuracy_loss": 0.6041666666666667
+  },
+  {
+    "model": "mixture/transition2",
+    "family": "pure",
+    "groups": 6,
+    "accuracy": 1.0,
+    "oracle_accuracy_loss": 0.0
+  },
+  {
+    "model": "mixture/transition2",
+    "family": "fundamental",
+    "groups": 6,
+    "accuracy": 0.6458333333333334,
+    "oracle_accuracy_loss": 0.35416666666666663
+  },
+  {
+    "model": "mixture/transition2",
+    "family": "overtone",
+    "groups": 12,
+    "accuracy": 0.8020833333333334,
+    "oracle_accuracy_loss": 0.19791666666666663
+  },
+  {
+    "model": "mixture/transition3",
+    "family": "pure",
+    "groups": 6,
+    "accuracy": 1.0,
+    "oracle_accuracy_loss": 0.0
+  },
+  {
+    "model": "mixture/transition3",
+    "family": "fundamental",
+    "groups": 6,
+    "accuracy": 0.6458333333333334,
+    "oracle_accuracy_loss": 0.35416666666666663
+  },
+  {
+    "model": "mixture/transition3",
+    "family": "overtone",
+    "groups": 12,
+    "accuracy": 0.8020833333333334,
+    "oracle_accuracy_loss": 0.19791666666666663
+  },
+  {
+    "model": "oracle-boundary/absolute",
+    "family": "pure",
+    "groups": 6,
+    "accuracy": 1.0,
+    "oracle_accuracy_loss": 0.0
+  },
+  {
+    "model": "oracle-boundary/absolute",
+    "family": "fundamental",
+    "groups": 6,
+    "accuracy": 1.0,
+    "oracle_accuracy_loss": 0.0
+  },
+  {
+    "model": "oracle-boundary/absolute",
+    "family": "overtone",
+    "groups": 12,
+    "accuracy": 1.0,
+    "oracle_accuracy_loss": 0.0
+  },
+  {
+    "model": "oracle-boundary/present",
+    "family": "pure",
+    "groups": 6,
+    "accuracy": 0.16666666666666666,
+    "oracle_accuracy_loss": 0.8333333333333334
+  },
+  {
+    "model": "oracle-boundary/present",
+    "family": "fundamental",
+    "groups": 6,
+    "accuracy": 0.16666666666666666,
+    "oracle_accuracy_loss": 0.8333333333333334
+  },
+  {
+    "model": "oracle-boundary/present",
+    "family": "overtone",
+    "groups": 12,
+    "accuracy": 0.25,
+    "oracle_accuracy_loss": 0.75
+  },
+  {
+    "model": "oracle-boundary/recency",
+    "family": "pure",
+    "groups": 6,
+    "accuracy": 1.0,
+    "oracle_accuracy_loss": 0.0
+  },
+  {
+    "model": "oracle-boundary/recency",
+    "family": "fundamental",
+    "groups": 6,
+    "accuracy": 0.0,
+    "oracle_accuracy_loss": 1.0
+  },
+  {
+    "model": "oracle-boundary/recency",
+    "family": "overtone",
+    "groups": 12,
+    "accuracy": 0.5,
+    "oracle_accuracy_loss": 0.5
+  },
+  {
+    "model": "oracle-boundary/reference",
+    "family": "pure",
+    "groups": 6,
+    "accuracy": 1.0,
+    "oracle_accuracy_loss": 0.0
+  },
+  {
+    "model": "oracle-boundary/reference",
+    "family": "fundamental",
+    "groups": 6,
+    "accuracy": 1.0,
+    "oracle_accuracy_loss": 0.0
+  },
+  {
+    "model": "oracle-boundary/reference",
+    "family": "overtone",
+    "groups": 12,
+    "accuracy": 1.0,
+    "oracle_accuracy_loss": 0.0
+  },
+  {
+    "model": "oracle-boundary/transition1",
+    "family": "pure",
+    "groups": 6,
+    "accuracy": 0.5,
+    "oracle_accuracy_loss": 0.5
+  },
+  {
+    "model": "oracle-boundary/transition1",
+    "family": "fundamental",
+    "groups": 6,
+    "accuracy": 0.5,
+    "oracle_accuracy_loss": 0.5
+  },
+  {
+    "model": "oracle-boundary/transition1",
+    "family": "overtone",
+    "groups": 12,
+    "accuracy": 0.4895833333333333,
+    "oracle_accuracy_loss": 0.5104166666666667
+  },
+  {
+    "model": "oracle-boundary/transition2",
+    "family": "pure",
+    "groups": 6,
+    "accuracy": 1.0,
+    "oracle_accuracy_loss": 0.0
+  },
+  {
+    "model": "oracle-boundary/transition2",
+    "family": "fundamental",
+    "groups": 6,
+    "accuracy": 1.0,
+    "oracle_accuracy_loss": 0.0
+  },
+  {
+    "model": "oracle-boundary/transition2",
+    "family": "overtone",
+    "groups": 12,
+    "accuracy": 1.0,
+    "oracle_accuracy_loss": 0.0
+  },
+  {
+    "model": "oracle-boundary/transition3",
+    "family": "pure",
+    "groups": 6,
+    "accuracy": 1.0,
+    "oracle_accuracy_loss": 0.0
+  },
+  {
+    "model": "oracle-boundary/transition3",
+    "family": "fundamental",
+    "groups": 6,
+    "accuracy": 1.0,
+    "oracle_accuracy_loss": 0.0
+  },
+  {
+    "model": "oracle-boundary/transition3",
+    "family": "overtone",
+    "groups": 12,
+    "accuracy": 1.0,
+    "oracle_accuracy_loss": 0.0
+  },
+  {
+    "model": "repaired/absolute",
+    "family": "pure",
+    "groups": 6,
+    "accuracy": 1.0,
+    "oracle_accuracy_loss": 0.0
+  },
+  {
+    "model": "repaired/absolute",
+    "family": "fundamental",
+    "groups": 6,
+    "accuracy": 0.8958333333333334,
+    "oracle_accuracy_loss": 0.10416666666666663
+  },
+  {
+    "model": "repaired/absolute",
+    "family": "overtone",
+    "groups": 12,
+    "accuracy": 0.9375,
+    "oracle_accuracy_loss": 0.0625
+  },
+  {
+    "model": "repaired/present",
+    "family": "pure",
+    "groups": 6,
+    "accuracy": 0.16666666666666666,
+    "oracle_accuracy_loss": 0.8333333333333334
+  },
+  {
+    "model": "repaired/present",
+    "family": "fundamental",
+    "groups": 6,
+    "accuracy": 0.16666666666666666,
+    "oracle_accuracy_loss": 0.8333333333333334
+  },
+  {
+    "model": "repaired/present",
+    "family": "overtone",
+    "groups": 12,
+    "accuracy": 0.25,
+    "oracle_accuracy_loss": 0.75
+  },
+  {
+    "model": "repaired/recency",
+    "family": "pure",
+    "groups": 6,
+    "accuracy": 1.0,
+    "oracle_accuracy_loss": 0.0
+  },
+  {
+    "model": "repaired/recency",
+    "family": "fundamental",
+    "groups": 6,
+    "accuracy": 0.08333333333333333,
+    "oracle_accuracy_loss": 0.9166666666666666
+  },
+  {
+    "model": "repaired/recency",
+    "family": "overtone",
+    "groups": 12,
+    "accuracy": 0.4375,
+    "oracle_accuracy_loss": 0.5625
+  },
+  {
+    "model": "repaired/reference",
+    "family": "pure",
+    "groups": 6,
+    "accuracy": 1.0,
+    "oracle_accuracy_loss": 0.0
+  },
+  {
+    "model": "repaired/reference",
+    "family": "fundamental",
+    "groups": 6,
+    "accuracy": 0.8958333333333334,
+    "oracle_accuracy_loss": 0.10416666666666663
+  },
+  {
+    "model": "repaired/reference",
+    "family": "overtone",
+    "groups": 12,
+    "accuracy": 0.9375,
+    "oracle_accuracy_loss": 0.0625
+  },
+  {
+    "model": "repaired/transition1",
+    "family": "pure",
+    "groups": 6,
+    "accuracy": 0.6666666666666666,
+    "oracle_accuracy_loss": 0.33333333333333337
+  },
+  {
+    "model": "repaired/transition1",
+    "family": "fundamental",
+    "groups": 6,
+    "accuracy": 0.4583333333333333,
+    "oracle_accuracy_loss": 0.5416666666666667
+  },
+  {
+    "model": "repaired/transition1",
+    "family": "overtone",
+    "groups": 12,
+    "accuracy": 0.5625,
+    "oracle_accuracy_loss": 0.4375
+  },
+  {
+    "model": "repaired/transition2",
+    "family": "pure",
+    "groups": 6,
+    "accuracy": 1.0,
+    "oracle_accuracy_loss": 0.0
+  },
+  {
+    "model": "repaired/transition2",
+    "family": "fundamental",
+    "groups": 6,
+    "accuracy": 0.8958333333333334,
+    "oracle_accuracy_loss": 0.10416666666666663
+  },
+  {
+    "model": "repaired/transition2",
+    "family": "overtone",
+    "groups": 12,
+    "accuracy": 0.9375,
+    "oracle_accuracy_loss": 0.0625
+  },
+  {
+    "model": "repaired/transition3",
+    "family": "pure",
+    "groups": 6,
+    "accuracy": 1.0,
+    "oracle_accuracy_loss": 0.0
+  },
+  {
+    "model": "repaired/transition3",
+    "family": "fundamental",
+    "groups": 6,
+    "accuracy": 0.8958333333333334,
+    "oracle_accuracy_loss": 0.10416666666666663
+  },
+  {
+    "model": "repaired/transition3",
+    "family": "overtone",
+    "groups": 12,
+    "accuracy": 0.9375,
+    "oracle_accuracy_loss": 0.0625
+  },
+  {
+    "model": "streaming/absolute",
+    "family": "pure",
+    "groups": 6,
+    "accuracy": 0.25,
+    "oracle_accuracy_loss": 0.75
+  },
+  {
+    "model": "streaming/absolute",
+    "family": "fundamental",
+    "groups": 6,
+    "accuracy": 0.3125,
+    "oracle_accuracy_loss": 0.6875
+  },
+  {
+    "model": "streaming/absolute",
+    "family": "overtone",
+    "groups": 12,
+    "accuracy": 0.3854166666666667,
+    "oracle_accuracy_loss": 0.6145833333333333
+  },
+  {
+    "model": "streaming/present",
+    "family": "pure",
+    "groups": 6,
+    "accuracy": 0.16666666666666666,
+    "oracle_accuracy_loss": 0.8333333333333334
+  },
+  {
+    "model": "streaming/present",
+    "family": "fundamental",
+    "groups": 6,
+    "accuracy": 0.16666666666666666,
+    "oracle_accuracy_loss": 0.8333333333333334
+  },
+  {
+    "model": "streaming/present",
+    "family": "overtone",
+    "groups": 12,
+    "accuracy": 0.25,
+    "oracle_accuracy_loss": 0.75
+  },
+  {
+    "model": "streaming/recency",
+    "family": "pure",
+    "groups": 6,
+    "accuracy": 0.5833333333333334,
+    "oracle_accuracy_loss": 0.41666666666666663
+  },
+  {
+    "model": "streaming/recency",
+    "family": "fundamental",
+    "groups": 6,
+    "accuracy": 0.10416666666666667,
+    "oracle_accuracy_loss": 0.8958333333333334
+  },
+  {
+    "model": "streaming/recency",
+    "family": "overtone",
+    "groups": 12,
+    "accuracy": 0.4583333333333333,
+    "oracle_accuracy_loss": 0.5416666666666667
+  },
+  {
+    "model": "streaming/reference",
+    "family": "pure",
+    "groups": 6,
+    "accuracy": 0.3125,
+    "oracle_accuracy_loss": 0.6875
+  },
+  {
+    "model": "streaming/reference",
+    "family": "fundamental",
+    "groups": 6,
+    "accuracy": 0.3541666666666667,
+    "oracle_accuracy_loss": 0.6458333333333333
+  },
+  {
+    "model": "streaming/reference",
+    "family": "overtone",
+    "groups": 12,
+    "accuracy": 0.4583333333333333,
+    "oracle_accuracy_loss": 0.5416666666666667
+  },
+  {
+    "model": "streaming/transition1",
+    "family": "pure",
+    "groups": 6,
+    "accuracy": 0.22916666666666666,
+    "oracle_accuracy_loss": 0.7708333333333334
+  },
+  {
+    "model": "streaming/transition1",
+    "family": "fundamental",
+    "groups": 6,
+    "accuracy": 0.20833333333333334,
+    "oracle_accuracy_loss": 0.7916666666666666
+  },
+  {
+    "model": "streaming/transition1",
+    "family": "overtone",
+    "groups": 12,
+    "accuracy": 0.375,
+    "oracle_accuracy_loss": 0.625
+  },
+  {
+    "model": "streaming/transition2",
+    "family": "pure",
+    "groups": 6,
+    "accuracy": 0.2708333333333333,
+    "oracle_accuracy_loss": 0.7291666666666667
+  },
+  {
+    "model": "streaming/transition2",
+    "family": "fundamental",
+    "groups": 6,
+    "accuracy": 0.3333333333333333,
+    "oracle_accuracy_loss": 0.6666666666666667
+  },
+  {
+    "model": "streaming/transition2",
+    "family": "overtone",
+    "groups": 12,
+    "accuracy": 0.40625,
+    "oracle_accuracy_loss": 0.59375
+  },
+  {
+    "model": "streaming/transition3",
+    "family": "pure",
+    "groups": 6,
+    "accuracy": 0.25,
+    "oracle_accuracy_loss": 0.75
+  },
+  {
+    "model": "streaming/transition3",
+    "family": "fundamental",
+    "groups": 6,
+    "accuracy": 0.3125,
+    "oracle_accuracy_loss": 0.6875
+  },
+  {
+    "model": "streaming/transition3",
+    "family": "overtone",
+    "groups": 12,
+    "accuracy": 0.3854166666666667,
+    "oracle_accuracy_loss": 0.6145833333333333
+  }
+]

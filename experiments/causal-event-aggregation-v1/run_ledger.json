@@ -8,5 +8,10 @@
     "split": "calibration",
     "allocated_streams": 176,
     "start_utc_ns": 1789947734724245000
+  },
+  {
+    "split": "heldout",
+    "allocated_streams": 528,
+    "start_utc_ns": 1789947844657047000
   }
 ]

@@ -1,0 +1,18 @@
+{
+  "assignment_id": "earworm-causal-event-aggregation-v1",
+  "base": "704d59d604d34a51c3c0f64ebc971b0346ce0aef",
+  "execution_revision": "623cb7012bebb35c699168dc5f0e4beda0750d1c",
+  "publication_revision": "Final PR head and instruction receipt identify publication separately",
+  "validation_finished_at": "2026-09-20T23:48:48.291691+00:00",
+  "conservative_wall_seconds_through_validation": 873.995691,
+  "acoustic_split_seconds": 82.75230941805057,
+  "streams": 880,
+  "historical_files_preserved": 540,
+  "python": "3.12.14",
+  "numpy": "2.5.3",
+  "platform": "macOS-26.6.2-arm64-arm-64bit",
+  "paid_compute": 0,
+  "no_reruns": true,
+  "pre_freeze_change": "Independent saved-point equality replaced by preregistered1e-12 tolerance; scientific algorithm/config unchanged. Per-split source snapshots preserved.",
+  "post_evaluation_additions": "Saved-only resource/family diagnostic script, schema note and publication/report documents; no frozen code/config/result edits."
+}

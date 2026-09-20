@@ -1,0 +1,13 @@
+{
+  "comparisons.csv": {
+    "repaired_minus_oracle": "Inherited column name; values are mixture/model minus oracle-boundary/model in this package."
+  },
+  "fronts": {
+    "map": "Selected aggregation MAP point",
+    "mixture": "Selected aggregation bounded uncertainty mixture",
+    "repaired": "Unchanged PR12 trim16",
+    "streaming": "Unchanged PR11 whole span",
+    "fixed": "64ms windows",
+    "oracle-boundary": "Evaluator-only ceiling"
+  }
+}

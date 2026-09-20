@@ -6,20 +6,21 @@ Earworm's finish line is a reusable, stateful listener for continuous musical au
 
 ## Current evidence and decision
 
-The event-window repair is complete and awaiting exact-head review. **Branch B: measurements improved, adoption withheld.** A frozen 16 ms interior trim improved pitched-event accuracy from72.8% to97.0% and joint reference prediction from14/48 to45/48 on fresh held-out groups. The evaluator-only supplied-boundary ceiling remained48/48 in every cell.
+The final within-event aggregation test is complete and awaiting exact-head review. **Branch C: reject this approach and end localized crop/within-event repairs.** Combining short-window pitch observations gave nearly the same measurement accuracy as trim16 and identical intact reference scores. Its separate uncertainty mixture regressed to40/48 joint predictions versus46/48 for trim16; oracle-boundary remained48/48 throughout. It also failed ambiguity and rendering-family safety gates.
 
-The repair passed event and latency gates but failed noninferiority, joint Brier-score tolerance, ambiguity controls and the fundamental-rendering safety family. Better pitch measurements did not fully recover reliable uncertainty or forecasting. Original captured audio, observations and whole-event bounds remain separately preserved. This is synthetic monophonic, short-buffer evidence with no eviction; no natural-music or long-term-memory capability is established.
+This result concerns the declared aggregation policies and conservative probability mixture, not every possible uncertainty-aware listener. Original PCM, all window evidence and historical observations remain separate from interpretation. No continuous-listening front is accepted. These remain synthetic short-buffer experiments without eviction or natural-music transfer.
 
-- [Current report](experiments/event-window-repair-v1/REPORT.md)
-- [Decision and adoption gates](experiments/event-window-repair-v1/results/heldout/decision.json)
-- [All model/control results](experiments/event-window-repair-v1/results/heldout/summary.csv)
-- [Validation](experiments/event-window-repair-v1/validation/heldout.json)
+- [Current report](experiments/causal-event-aggregation-v1/REPORT.md)
+- [Decision](experiments/causal-event-aggregation-v1/results/heldout/decision.json)
+- [All model/path/control results](experiments/causal-event-aggregation-v1/results/heldout/summary.csv)
+- [Validation](experiments/causal-event-aggregation-v1/validation/heldout.json)
+- [Prior trim16 evidence](experiments/event-window-repair-v1/REPORT.md)
 
 ## Finite capability checklist
 
 | Capability | Evidence status | Remaining acceptance requirement |
 |---|---|---|
-| Continuous input and causal event/voice organization | Chunk-only API/timing validated; interior support improves pitch, adoption gates still fail | Pass frozen prediction, event, uncertainty and safety gates without supplied boundaries |
+| Continuous input and causal event/voice organization | Chunk-only API/timing validated; trim/aggregation sequence ended without adoption | Pass frozen prediction, event, uncertainty and safety gates without supplied boundaries |
 | History-improved calibrated forecasts at multiple meaningful horizons | Single-step synthetic supplied-boundary prediction demonstrated | Fresh non-overlapping horizon tests against strong present/transition/retrieval baselines |
 | Long-term transformed recognition | Early short-history transformation evidence only | Separate transformations, actual recent-buffer eviction, all accessible storage counted, unfamiliar motifs and relevant-memory removal |
 | Retain realization details and detect change | Early controlled edit/representation evidence | Report recognition and retained pitch/timbre/rhythm detail separately for declared interference delays |
@@ -31,15 +32,15 @@ The repair passed event and latency gates but failed noninferiority, joint Brier
 
 A reusable listener release must expose a continuous PCM input and persistent listening-state interface, with explicit measured memory/compute/latency limits, immutable evidence references and separately labeled measurements/interpretations/forecasts. It must pass **all six functional rows above**, on fresh controlled interventions and independently reviewed held-out musical material appropriate to its declared scope. A combined score cannot hide lost detail, failed calibration or forgetting. The substantial Bach milestone additionally requires the seventh row's progression; success on isolated voices cannot be advertised as complete-fugue listening.
 
-The PM must freeze concrete thresholds, datasets, horizons and delays in bounded assignments before each acceptance test. This checklist is a finite release gate, not authorization for seven immediate experiments or an open-ended audit sequence. No release is currently accepted. The next unresolved prerequisite is event-window formation; subsequent stages require explicit PM assignments after review.
+The PM must freeze concrete thresholds, datasets, horizons and delays in bounded assignments before each acceptance test. This checklist is a finite release gate, not authorization for seven immediate experiments or an open-ended audit sequence. No release is currently accepted. The next unresolved prerequisite is a reliable event representation; subsequent stages require explicit PM assignments after review.
 
 ## Preserved history and next action
 
-PR #10's supplied-boundary observation repair passed its scoped test; PR #9 identified the octave-anchor prerequisite; PR #8 selected the simpler transformation-aware retrieval reference. E08 ranking and acceptance remain distinct results. PR #11 established the event-window prerequisite; all446 prior artifacts are preserved.
+PR #10's supplied-boundary observation repair passed its scoped test; PR #9 identified the octave-anchor prerequisite; PR #8 selected the simpler transformation-aware retrieval reference. E08 ranking and acceptance remain distinct results. PR #11 established the event-window prerequisite; all540 prior artifacts are preserved.
 
 - [Observation repair](experiments/fundamental-observation-repair-v1/REPORT.md)
 - [Controlled robustness](experiments/controlled-motif-robustness-v1/REPORT.md)
 - [History prediction](experiments/history-prediction-v1/REPORT.md)
 - [Original E08 state](review/experiment08/original-snapshot-PROJECT_STATE.md)
 
-Publish this one complete snapshot and stop for review. No further experiment is assigned here. The continuously authorized PM may choose a different localized event/measurement approach only if evidence supports a concrete discriminating decision, through an explicit bounded assignment. No adoption, complexity increase, old estimator audit, spending, MERT change, historical rewrite or worker merge is authorized by this result.
+Publish this complete snapshot and stop for review. Branch C ends further crop/within-event aggregation micro-repairs. After review the PM may explicitly assign a different event representation or checkpoint a concrete blocker under the decision filter. No follow-on study is assigned here; no adoption, complexity increase, spending, MERT changes, historical rewrite or worker merge.
