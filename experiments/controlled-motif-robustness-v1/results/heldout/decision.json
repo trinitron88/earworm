@@ -1,0 +1,127 @@
+{
+  "branch": "C",
+  "validity_passed": true,
+  "gates": {
+    "acoustic/present": {
+      "pass_gate": false,
+      "all_cell_paired_success": false,
+      "joint_over_present_lower95": 0.0,
+      "proper_scores": true,
+      "simultaneous_noninferiority": false,
+      "controls": false
+    },
+    "acoustic/recency": {
+      "pass_gate": false,
+      "all_cell_paired_success": false,
+      "joint_over_present_lower95": 0.0,
+      "proper_scores": false,
+      "simultaneous_noninferiority": false,
+      "controls": false
+    },
+    "acoustic/transition": {
+      "pass_gate": false,
+      "all_cell_paired_success": false,
+      "joint_over_present_lower95": 0.25,
+      "proper_scores": true,
+      "simultaneous_noninferiority": false,
+      "controls": false
+    },
+    "acoustic/retrieval_absolute": {
+      "pass_gate": false,
+      "all_cell_paired_success": false,
+      "joint_over_present_lower95": 0.25,
+      "proper_scores": true,
+      "simultaneous_noninferiority": false,
+      "controls": false
+    },
+    "acoustic/reference": {
+      "pass_gate": false,
+      "all_cell_paired_success": false,
+      "joint_over_present_lower95": 0.4583333333333333,
+      "proper_scores": true,
+      "simultaneous_noninferiority": false,
+      "controls": false
+    },
+    "acoustic/candidate": {
+      "pass_gate": false,
+      "all_cell_paired_success": false,
+      "joint_over_present_lower95": 0.4583333333333333,
+      "proper_scores": true,
+      "simultaneous_noninferiority": false,
+      "controls": false
+    },
+    "oracle/present": {
+      "pass_gate": false,
+      "all_cell_paired_success": false,
+      "joint_over_present_lower95": 0.0,
+      "proper_scores": true,
+      "simultaneous_noninferiority": true,
+      "controls": false
+    },
+    "oracle/recency": {
+      "pass_gate": false,
+      "all_cell_paired_success": false,
+      "joint_over_present_lower95": 0.10416666666666667,
+      "proper_scores": false,
+      "simultaneous_noninferiority": true,
+      "controls": false
+    },
+    "oracle/transition": {
+      "pass_gate": true,
+      "all_cell_paired_success": true,
+      "joint_over_present_lower95": 0.7291666666666666,
+      "proper_scores": true,
+      "simultaneous_noninferiority": true,
+      "controls": true
+    },
+    "oracle/retrieval_absolute": {
+      "pass_gate": true,
+      "all_cell_paired_success": true,
+      "joint_over_present_lower95": 0.7291666666666666,
+      "proper_scores": true,
+      "simultaneous_noninferiority": true,
+      "controls": true
+    },
+    "oracle/reference": {
+      "pass_gate": true,
+      "all_cell_paired_success": true,
+      "joint_over_present_lower95": 0.7291666666666666,
+      "proper_scores": true,
+      "simultaneous_noninferiority": true,
+      "controls": true
+    },
+    "oracle/candidate": {
+      "pass_gate": true,
+      "all_cell_paired_success": true,
+      "joint_over_present_lower95": 0.7291666666666666,
+      "proper_scores": true,
+      "simultaneous_noninferiority": true,
+      "controls": true
+    }
+  },
+  "comparisons": [
+    {
+      "left": "acoustic/candidate",
+      "right": "acoustic/reference",
+      "difference": 0.0,
+      "lower95": 0.0,
+      "upper95": 0.0
+    },
+    {
+      "left": "oracle/candidate",
+      "right": "acoustic/candidate",
+      "difference": 0.25,
+      "lower95": 0.08333333333333333,
+      "upper95": 0.4166666666666667
+    },
+    {
+      "left": "oracle/reference",
+      "right": "acoustic/reference",
+      "difference": 0.25,
+      "lower95": 0.08333333333333333,
+      "upper95": 0.4166666666666667
+    }
+  ],
+  "oracle": "Evaluator-only non-acoustic diagnostic, not a deployed capability.",
+  "next_action": "Withhold robustness claim; after review, PM may assign one observation repair with fresh confirmatory groups. No new run authorized here."
+}

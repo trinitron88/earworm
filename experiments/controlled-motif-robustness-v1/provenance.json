@@ -1,0 +1,20 @@
+{
+  "assignment_id": "earworm-controlled-motif-robustness-v1",
+  "base": "429389909f1c6119b13fac3d8247b03f9524571c",
+  "execution_revision": "e5211d4dfd01fb06abbbc452fd55264b0a8bf1e8",
+  "final_publication_sha": "Recorded by PR head and shared instruction-channel receipt; distinct from execution revision",
+  "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "numpy": "2.5.3",
+  "platform": "macOS-26.6.2-arm64-arm-64bit",
+  "wall_upper_bound_seconds_through_validation": 719.773937,
+  "completed_validation_at": "2026-09-20T05:44:39.773937+00:00",
+  "streams": 880,
+  "episodes": 720,
+  "additional_future_probes": 160,
+  "paid_compute": 0,
+  "new_retained_bytes_at_validation": 33792942,
+  "prior_files_preserved": 199,
+  "no_pipeline_reruns": true,
+  "development_scoring_revision": "Original per-event relative-coordinate scores preserved; final fit/analyzer score generator target relative to observed anchor. No additional streams generated.",
+  "calibration_report": "Saved initial calibration-stream forecasts, not the subsequently selected final calibration; exploratory only. Heldout is definitive frozen-model output."
+}
