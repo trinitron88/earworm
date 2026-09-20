@@ -1,0 +1,29 @@
+{
+  "grid": [
+    {
+      "pitch": 1.0,
+      "available": 1.0,
+      "brier": 0.017582989765625036,
+      "id": "a32_48",
+      "complexity": 0,
+      "feasible": true
+    },
+    {
+      "pitch": 0.962682379349046,
+      "available": 0.962682379349046,
+      "brier": 0.14057120656250002,
+      "id": "a48_64",
+      "complexity": 1,
+      "feasible": true
+    }
+  ],
+  "selected": {
+    "pitch": 1.0,
+    "available": 1.0,
+    "brier": 0.017582989765625036,
+    "id": "a32_48",
+    "complexity": 0,
+    "feasible": true
+  },
+  "objective": "availability>=.80 and valid evidence; maximize group pitch accuracy, minimize intact MAP-reference Brier, then declared simpler a32_48 before a48_64"
+}

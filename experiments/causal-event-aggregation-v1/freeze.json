@@ -1,0 +1,27 @@
+{
+  "files": {
+    "accepted_adapter.py": "fd7e8f88f29e2fa4bb71c14e6ca02c3f209595118f47971ba255ef06cf778747",
+    "analyze.py": "1000eadbe7c4dc31a02aa346b23878dfaef969a6e5034aa401c7eb9d6cc6137c",
+    "assignment.json": "e3201c8a7b9b007dfd55ab8a5c6d63cfe0879c400ec313774f8d64f8c3e1580e",
+    "events.py": "0c15fd73847c5133d7b5a86b9c9ee005cc34a69592cdb57d35bda5b2cc363489",
+    "excluded_prior_motifs.json": "af3e01a5f9567bab0b8d05f2c859177432bc1d32c2e9426e2e9f6df9c3a7e4d0",
+    "frozen_model.json": "b4c2d225116dc194df45c6d5fd083a4448e70f0f4f62fb4d012e19996cb6cf5a",
+    "historical_front.py": "433c0b89b184bb5d74da1bd307d45616f54e6da1d5dff8851e076bbfbc9ac483",
+    "model.py": "3a78d91624637f7ab7dd814f2455d9746b49dbc21b76c0aa4e16701c86ff7805",
+    "protocol.json": "8b94aee2c2f8c3d2c98acc7eab3c13d4db1f2bb8fccd2cea30a48469ea24a44e",
+    "records.py": "0b4d3b458b48ceec2578e0238d8f771abcbe5c3e872e0586e6a463023d68c5fb",
+    "reference_config.json": "2a8e2115572b25c75786b01eac5a6779e4fdd22e26a4a68c8313a4e4af1e80d6",
+    "reference_model.py": "930d3ecc758704ad27941f1fe6b29041d7350814d27198437deedc422f1ddd70",
+    "run.py": "a65d67648c04eaec1907cf2a227ac5dfc9cbe8b0f9c9cafb6879c2cb693cdb3a",
+    "scoring.py": "dc694c0cd3fe3bab74fb9fddb7fb6d1518ccf5ef09c01f0494b1672c2f63dbd8",
+    "select.py": "105badd16626f40d8176378ded8a066ea06f20ab76f868cd3846f830cd971fa2",
+    "split_manifest.json": "660a4a39989dad559288289ac2c4d10240c4c6454037a79ccdf664415135652f",
+    "stimuli.py": "c22157df2e3bb4b55319ca08af079aeadd74088c620c89a53763478b34b149b9",
+    "trim_front.py": "a9a054457b6277ce6badfffe709382302181ea21744198e61bf47b4993fc5e8f",
+    "validation_math.py": "a685fdacffe62131ee8d25ba2967372de50e36663f065fee9e166c9dbf6c7e2c",
+    "verify.py": "8a05d27151fca2fa21a853541b71641cb1cecda4b1ad042b574d6a572b7bdb71",
+    "worker.py": "703fbbaf8d8b1f3fdc4ffc4f8ab92724bcd4070e1c0dcd7e12b4130e4c0be5f3"
+  },
+  "execution_code_sha256": "bb7c3dd02c96c8a5d366b0bc67b8ddd0be844c0142e1b23117914ddf9886a0db",
+  "stage": "Frozen before heldout generation. No calibration fitting; fixed scalar1."
+}

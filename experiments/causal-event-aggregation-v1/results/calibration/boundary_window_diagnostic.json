@@ -1,0 +1,4432 @@
+[
+  {
+    "episode": "cea-08/detached/intact/0",
+    "true_start": 3347,
+    "true_end": 4813,
+    "inferred_start": 3520,
+    "inferred_end": 5056,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/legato/intact/0",
+    "true_start": 15194,
+    "true_end": 16619,
+    "inferred_start": 15168,
+    "inferred_end": 16896,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/legato/intact/0",
+    "true_start": 1809,
+    "true_end": 3347,
+    "inferred_start": 2048,
+    "inferred_end": 3584,
+    "true_pitch": 1,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/legato/intact/0",
+    "true_start": 16619,
+    "true_end": 18157,
+    "inferred_start": 16896,
+    "inferred_end": 18368,
+    "true_pitch": 1,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/legato/intact/0",
+    "true_start": 8638,
+    "true_end": 10176,
+    "inferred_start": 8896,
+    "inferred_end": 10432,
+    "true_pitch": 2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/legato/intact/1",
+    "true_start": 15194,
+    "true_end": 16619,
+    "inferred_start": 15168,
+    "inferred_end": 16896,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/legato/intact/1",
+    "true_start": 1809,
+    "true_end": 3347,
+    "inferred_start": 2048,
+    "inferred_end": 3584,
+    "true_pitch": 1,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/legato/intact/1",
+    "true_start": 16619,
+    "true_end": 18157,
+    "inferred_start": 16896,
+    "inferred_end": 18368,
+    "true_pitch": 1,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/legato/intact/1",
+    "true_start": 8638,
+    "true_end": 10176,
+    "inferred_start": 8896,
+    "inferred_end": 10432,
+    "true_pitch": 2,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/duration/intact/0",
+    "true_start": 384,
+    "true_end": 1846,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -12.961847534603017,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/duration/intact/0",
+    "true_start": 7274,
+    "true_end": 8736,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/duration/intact/0",
+    "true_start": 8736,
+    "true_end": 10382,
+    "inferred_start": 8960,
+    "inferred_end": 10560,
+    "true_pitch": 2,
+    "estimated_pitch": -16.981619959182954,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/duration/intact/0",
+    "true_start": 3492,
+    "true_end": 4810,
+    "inferred_start": 3648,
+    "inferred_end": 5056,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/duration/intact/0",
+    "true_start": 10382,
+    "true_end": 11700,
+    "inferred_start": 10560,
+    "inferred_end": 11968,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/duration/intact/1",
+    "true_start": 384,
+    "true_end": 1846,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -12.961847534603017,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/duration/intact/1",
+    "true_start": 7274,
+    "true_end": 8736,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/duration/intact/1",
+    "true_start": 8736,
+    "true_end": 10382,
+    "inferred_start": 8960,
+    "inferred_end": 10560,
+    "true_pitch": 2,
+    "estimated_pitch": -16.981619959182954,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/duration/intact/1",
+    "true_start": 3492,
+    "true_end": 4810,
+    "inferred_start": 3648,
+    "inferred_end": 5056,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/duration/intact/1",
+    "true_start": 10382,
+    "true_end": 11700,
+    "inferred_start": 10560,
+    "inferred_end": 11968,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/joint/intact/0",
+    "true_start": 384,
+    "true_end": 1846,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -12.961847534603017,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/joint/intact/0",
+    "true_start": 7274,
+    "true_end": 8736,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/joint/intact/0",
+    "true_start": 8736,
+    "true_end": 10382,
+    "inferred_start": 8960,
+    "inferred_end": 10560,
+    "true_pitch": 2,
+    "estimated_pitch": -16.981619959182954,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/joint/intact/0",
+    "true_start": 3492,
+    "true_end": 4810,
+    "inferred_start": 3648,
+    "inferred_end": 5056,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/joint/intact/0",
+    "true_start": 10382,
+    "true_end": 11700,
+    "inferred_start": 10560,
+    "inferred_end": 11968,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/joint/intact/1",
+    "true_start": 384,
+    "true_end": 1846,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -12.961847534603017,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/joint/intact/1",
+    "true_start": 7274,
+    "true_end": 8736,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/joint/intact/1",
+    "true_start": 8736,
+    "true_end": 10382,
+    "inferred_start": 8960,
+    "inferred_end": 10560,
+    "true_pitch": 2,
+    "estimated_pitch": -16.981619959182954,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/joint/intact/1",
+    "true_start": 3492,
+    "true_end": 4810,
+    "inferred_start": 3648,
+    "inferred_end": 5056,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/joint/intact/1",
+    "true_start": 10382,
+    "true_end": 11700,
+    "inferred_start": 10560,
+    "inferred_end": 11968,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/joint/removal/0",
+    "true_start": 384,
+    "true_end": 1846,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -12.961847534603017,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/joint/removal/0",
+    "true_start": 7274,
+    "true_end": 8736,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/joint/removal/0",
+    "true_start": 8736,
+    "true_end": 10382,
+    "inferred_start": 8960,
+    "inferred_end": 10560,
+    "true_pitch": 2,
+    "estimated_pitch": -16.981619959182954,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/joint/removal/1",
+    "true_start": 384,
+    "true_end": 1846,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -12.961847534603017,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/joint/removal/1",
+    "true_start": 7274,
+    "true_end": 8736,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/joint/removal/1",
+    "true_start": 8736,
+    "true_end": 10382,
+    "inferred_start": 8960,
+    "inferred_end": 10560,
+    "true_pitch": 2,
+    "estimated_pitch": -16.981619959182954,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/joint/swap/0",
+    "true_start": 384,
+    "true_end": 1846,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -12.961847534603017,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/joint/swap/0",
+    "true_start": 7274,
+    "true_end": 8736,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/joint/swap/0",
+    "true_start": 8736,
+    "true_end": 10382,
+    "inferred_start": 8960,
+    "inferred_end": 10560,
+    "true_pitch": 2,
+    "estimated_pitch": -16.981619959182954,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/joint/swap/0",
+    "true_start": 3492,
+    "true_end": 4810,
+    "inferred_start": 3648,
+    "inferred_end": 5056,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/joint/swap/0",
+    "true_start": 10382,
+    "true_end": 11700,
+    "inferred_start": 10560,
+    "inferred_end": 11968,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/joint/swap/1",
+    "true_start": 384,
+    "true_end": 1846,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -12.961847534603017,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/joint/swap/1",
+    "true_start": 7274,
+    "true_end": 8736,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/joint/swap/1",
+    "true_start": 8736,
+    "true_end": 10382,
+    "inferred_start": 8960,
+    "inferred_end": 10560,
+    "true_pitch": 2,
+    "estimated_pitch": -16.981619959182954,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/joint/swap/1",
+    "true_start": 3492,
+    "true_end": 4810,
+    "inferred_start": 3648,
+    "inferred_end": 5056,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/joint/swap/1",
+    "true_start": 10382,
+    "true_end": 11700,
+    "inferred_start": 10560,
+    "inferred_end": 11968,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/joint/shuffle/0",
+    "true_start": 7274,
+    "true_end": 8736,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/joint/shuffle/0",
+    "true_start": 1846,
+    "true_end": 3492,
+    "inferred_start": 2048,
+    "inferred_end": 3712,
+    "true_pitch": 2,
+    "estimated_pitch": -16.972284847177434,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/joint/shuffle/0",
+    "true_start": 10382,
+    "true_end": 11700,
+    "inferred_start": 10560,
+    "inferred_end": 11968,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/joint/shuffle/0",
+    "true_start": 3492,
+    "true_end": 4810,
+    "inferred_start": 3712,
+    "inferred_end": 5056,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/joint/shuffle/1",
+    "true_start": 7274,
+    "true_end": 8736,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/joint/shuffle/1",
+    "true_start": 1846,
+    "true_end": 3492,
+    "inferred_start": 2048,
+    "inferred_end": 3712,
+    "true_pitch": 2,
+    "estimated_pitch": -16.972284847177434,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/joint/shuffle/1",
+    "true_start": 10382,
+    "true_end": 11700,
+    "inferred_start": 10560,
+    "inferred_end": 11968,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/joint/shuffle/1",
+    "true_start": 3492,
+    "true_end": 4810,
+    "inferred_start": 3712,
+    "inferred_end": 5056,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/joint/ambiguous/0",
+    "true_start": 384,
+    "true_end": 1846,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -12.961847534603017,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/joint/ambiguous/0",
+    "true_start": 7274,
+    "true_end": 8736,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/joint/ambiguous/0",
+    "true_start": 3492,
+    "true_end": 4810,
+    "inferred_start": 3648,
+    "inferred_end": 5056,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/joint/ambiguous/0",
+    "true_start": 10382,
+    "true_end": 11700,
+    "inferred_start": 10560,
+    "inferred_end": 11968,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/joint/ambiguous/1",
+    "true_start": 384,
+    "true_end": 1846,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -12.961847534603017,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/joint/ambiguous/1",
+    "true_start": 7274,
+    "true_end": 8736,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/joint/ambiguous/1",
+    "true_start": 3492,
+    "true_end": 4810,
+    "inferred_start": 3648,
+    "inferred_end": 5056,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-08/joint/ambiguous/1",
+    "true_start": 10382,
+    "true_end": 11700,
+    "inferred_start": 10560,
+    "inferred_end": 11968,
+    "true_pitch": -4,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/legato/intact/0",
+    "true_start": 16646,
+    "true_end": 18187,
+    "inferred_start": 16640,
+    "inferred_end": 18368,
+    "true_pitch": 8,
+    "estimated_pitch": -4.133684237023162,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/legato/intact/0",
+    "true_start": 8653,
+    "true_end": 10194,
+    "inferred_start": 8640,
+    "inferred_end": 10368,
+    "true_pitch": 8,
+    "estimated_pitch": -4.110928891155318,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/legato/intact/1",
+    "true_start": 16646,
+    "true_end": 18187,
+    "inferred_start": 16640,
+    "inferred_end": 18368,
+    "true_pitch": 8,
+    "estimated_pitch": -4.133684237023162,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/legato/intact/1",
+    "true_start": 8653,
+    "true_end": 10194,
+    "inferred_start": 8640,
+    "inferred_end": 10368,
+    "true_pitch": 8,
+    "estimated_pitch": -4.110928891155318,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/legato/intact/1",
+    "true_start": 10194,
+    "true_end": 11663,
+    "inferred_start": 10368,
+    "inferred_end": 11840,
+    "true_pitch": 14,
+    "estimated_pitch": 14.380924733386221,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/duration/intact/0",
+    "true_start": 384,
+    "true_end": 1849,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -13.066024359341387,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/duration/intact/0",
+    "true_start": 16888,
+    "true_end": 18620,
+    "inferred_start": 16960,
+    "inferred_end": 18816,
+    "true_pitch": 8,
+    "estimated_pitch": -4.144370366072259,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/duration/intact/0",
+    "true_start": 7286,
+    "true_end": 8751,
+    "inferred_start": 7232,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": 6.382575334520434,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/duration/intact/0",
+    "true_start": 1849,
+    "true_end": 3498,
+    "inferred_start": 2048,
+    "inferred_end": 3712,
+    "true_pitch": 10,
+    "estimated_pitch": -9.108328799662988,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/duration/intact/0",
+    "true_start": 8751,
+    "true_end": 10400,
+    "inferred_start": 9024,
+    "inferred_end": 10560,
+    "true_pitch": 8,
+    "estimated_pitch": -4.100259423076823,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/duration/intact/1",
+    "true_start": 384,
+    "true_end": 1849,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -13.066024359341387,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/duration/intact/1",
+    "true_start": 16888,
+    "true_end": 18620,
+    "inferred_start": 16960,
+    "inferred_end": 18816,
+    "true_pitch": 8,
+    "estimated_pitch": -4.144370366072259,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/duration/intact/1",
+    "true_start": 7286,
+    "true_end": 8751,
+    "inferred_start": 7232,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": 6.382575334520434,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/duration/intact/1",
+    "true_start": 1849,
+    "true_end": 3498,
+    "inferred_start": 2048,
+    "inferred_end": 3712,
+    "true_pitch": 10,
+    "estimated_pitch": -9.108328799662988,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/duration/intact/1",
+    "true_start": 8751,
+    "true_end": 10400,
+    "inferred_start": 9024,
+    "inferred_end": 10560,
+    "true_pitch": 8,
+    "estimated_pitch": -4.100259423076823,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/intact/0",
+    "true_start": 384,
+    "true_end": 1849,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -13.066024359341387,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/intact/0",
+    "true_start": 16888,
+    "true_end": 18620,
+    "inferred_start": 16960,
+    "inferred_end": 18816,
+    "true_pitch": 8,
+    "estimated_pitch": -4.144370366072259,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/intact/0",
+    "true_start": 7286,
+    "true_end": 8751,
+    "inferred_start": 7232,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": 6.382575334520434,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/intact/0",
+    "true_start": 1849,
+    "true_end": 3498,
+    "inferred_start": 2048,
+    "inferred_end": 3712,
+    "true_pitch": 10,
+    "estimated_pitch": -9.108328799662988,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/intact/0",
+    "true_start": 8751,
+    "true_end": 10400,
+    "inferred_start": 9024,
+    "inferred_end": 10560,
+    "true_pitch": 8,
+    "estimated_pitch": -4.100259423076823,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/intact/1",
+    "true_start": 384,
+    "true_end": 1849,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -13.066024359341387,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/intact/1",
+    "true_start": 16888,
+    "true_end": 18620,
+    "inferred_start": 16960,
+    "inferred_end": 18816,
+    "true_pitch": 8,
+    "estimated_pitch": -4.144370366072259,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/intact/1",
+    "true_start": 7286,
+    "true_end": 8751,
+    "inferred_start": 7232,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": 6.382575334520434,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/intact/1",
+    "true_start": 1849,
+    "true_end": 3498,
+    "inferred_start": 2048,
+    "inferred_end": 3712,
+    "true_pitch": 10,
+    "estimated_pitch": -9.108328799662988,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/intact/1",
+    "true_start": 8751,
+    "true_end": 10400,
+    "inferred_start": 9024,
+    "inferred_end": 10560,
+    "true_pitch": 8,
+    "estimated_pitch": -4.100259423076823,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/reset/0",
+    "true_start": 16888,
+    "true_end": 18620,
+    "inferred_start": 16960,
+    "inferred_end": 18816,
+    "true_pitch": 8,
+    "estimated_pitch": -4.144370366072259,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/reset/1",
+    "true_start": 16888,
+    "true_end": 18620,
+    "inferred_start": 16960,
+    "inferred_end": 18816,
+    "true_pitch": 8,
+    "estimated_pitch": -4.144370366072259,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/removal/0",
+    "true_start": 384,
+    "true_end": 1849,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -13.066024359341387,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/removal/0",
+    "true_start": 16888,
+    "true_end": 18620,
+    "inferred_start": 16960,
+    "inferred_end": 18816,
+    "true_pitch": 8,
+    "estimated_pitch": -4.144370366072259,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/removal/0",
+    "true_start": 7286,
+    "true_end": 8751,
+    "inferred_start": 7232,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": 6.382575334520434,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/removal/0",
+    "true_start": 1849,
+    "true_end": 3498,
+    "inferred_start": 2048,
+    "inferred_end": 3712,
+    "true_pitch": 10,
+    "estimated_pitch": -9.108328799662988,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/removal/0",
+    "true_start": 8751,
+    "true_end": 10400,
+    "inferred_start": 9024,
+    "inferred_end": 10560,
+    "true_pitch": 8,
+    "estimated_pitch": -4.100259423076823,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/removal/1",
+    "true_start": 384,
+    "true_end": 1849,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -13.066024359341387,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/removal/1",
+    "true_start": 16888,
+    "true_end": 18620,
+    "inferred_start": 16960,
+    "inferred_end": 18816,
+    "true_pitch": 8,
+    "estimated_pitch": -4.144370366072259,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/removal/1",
+    "true_start": 7286,
+    "true_end": 8751,
+    "inferred_start": 7232,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": 6.382575334520434,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/removal/1",
+    "true_start": 1849,
+    "true_end": 3498,
+    "inferred_start": 2048,
+    "inferred_end": 3712,
+    "true_pitch": 10,
+    "estimated_pitch": -9.108328799662988,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/removal/1",
+    "true_start": 8751,
+    "true_end": 10400,
+    "inferred_start": 9024,
+    "inferred_end": 10560,
+    "true_pitch": 8,
+    "estimated_pitch": -4.100259423076823,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/swap/0",
+    "true_start": 384,
+    "true_end": 1849,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -13.066024359341387,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/swap/0",
+    "true_start": 16888,
+    "true_end": 18620,
+    "inferred_start": 16960,
+    "inferred_end": 18816,
+    "true_pitch": 8,
+    "estimated_pitch": -4.144370366072259,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/swap/0",
+    "true_start": 7286,
+    "true_end": 8751,
+    "inferred_start": 7232,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": 6.382575334520434,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/swap/0",
+    "true_start": 1849,
+    "true_end": 3498,
+    "inferred_start": 2048,
+    "inferred_end": 3712,
+    "true_pitch": 10,
+    "estimated_pitch": -9.108328799662988,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/swap/0",
+    "true_start": 8751,
+    "true_end": 10400,
+    "inferred_start": 9024,
+    "inferred_end": 10560,
+    "true_pitch": 8,
+    "estimated_pitch": -4.100259423076823,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/swap/1",
+    "true_start": 384,
+    "true_end": 1849,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -13.066024359341387,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/swap/1",
+    "true_start": 16888,
+    "true_end": 18620,
+    "inferred_start": 16960,
+    "inferred_end": 18816,
+    "true_pitch": 8,
+    "estimated_pitch": -4.144370366072259,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/swap/1",
+    "true_start": 7286,
+    "true_end": 8751,
+    "inferred_start": 7232,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": 6.382575334520434,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/swap/1",
+    "true_start": 1849,
+    "true_end": 3498,
+    "inferred_start": 2048,
+    "inferred_end": 3712,
+    "true_pitch": 10,
+    "estimated_pitch": -9.108328799662988,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/swap/1",
+    "true_start": 8751,
+    "true_end": 10400,
+    "inferred_start": 9024,
+    "inferred_end": 10560,
+    "true_pitch": 8,
+    "estimated_pitch": -4.100259423076823,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/shuffle/0",
+    "true_start": 16888,
+    "true_end": 18620,
+    "inferred_start": 16960,
+    "inferred_end": 18816,
+    "true_pitch": 8,
+    "estimated_pitch": -4.144370366072259,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/shuffle/0",
+    "true_start": 7286,
+    "true_end": 8751,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": -13.084832609640985,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/shuffle/0",
+    "true_start": 384,
+    "true_end": 1849,
+    "inferred_start": 384,
+    "inferred_end": 2112,
+    "true_pitch": 6,
+    "estimated_pitch": 6.350560816544597,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/shuffle/0",
+    "true_start": 8751,
+    "true_end": 10400,
+    "inferred_start": 8960,
+    "inferred_end": 10624,
+    "true_pitch": 10,
+    "estimated_pitch": -9.114009429428185,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/shuffle/0",
+    "true_start": 1849,
+    "true_end": 3498,
+    "inferred_start": 2112,
+    "inferred_end": 3712,
+    "true_pitch": 8,
+    "estimated_pitch": -4.185265158032769,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/shuffle/1",
+    "true_start": 16888,
+    "true_end": 18620,
+    "inferred_start": 16960,
+    "inferred_end": 18816,
+    "true_pitch": 8,
+    "estimated_pitch": -4.144370366072259,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/shuffle/1",
+    "true_start": 7286,
+    "true_end": 8751,
+    "inferred_start": 7232,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": -13.084832609640985,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/shuffle/1",
+    "true_start": 384,
+    "true_end": 1849,
+    "inferred_start": 384,
+    "inferred_end": 2112,
+    "true_pitch": 6,
+    "estimated_pitch": 6.350560816544597,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/shuffle/1",
+    "true_start": 8751,
+    "true_end": 10400,
+    "inferred_start": 8960,
+    "inferred_end": 10624,
+    "true_pitch": 10,
+    "estimated_pitch": -9.114009429428185,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/shuffle/1",
+    "true_start": 1849,
+    "true_end": 3498,
+    "inferred_start": 2112,
+    "inferred_end": 3712,
+    "true_pitch": 8,
+    "estimated_pitch": -4.185265158032769,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/ambiguous/0",
+    "true_start": 16888,
+    "true_end": 18620,
+    "inferred_start": 16960,
+    "inferred_end": 18816,
+    "true_pitch": 8,
+    "estimated_pitch": -4.144370366072259,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/ambiguous/0",
+    "true_start": 384,
+    "true_end": 1849,
+    "inferred_start": 384,
+    "inferred_end": 2112,
+    "true_pitch": 6,
+    "estimated_pitch": 6.350560816544597,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/ambiguous/0",
+    "true_start": 7286,
+    "true_end": 8751,
+    "inferred_start": 7232,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": 6.382575334520434,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/ambiguous/0",
+    "true_start": 8751,
+    "true_end": 10400,
+    "inferred_start": 9024,
+    "inferred_end": 10560,
+    "true_pitch": 8,
+    "estimated_pitch": -4.100259423076823,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/ambiguous/0",
+    "true_start": 1849,
+    "true_end": 3498,
+    "inferred_start": 2112,
+    "inferred_end": 3712,
+    "true_pitch": 8,
+    "estimated_pitch": -4.185265158032769,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/ambiguous/1",
+    "true_start": 16888,
+    "true_end": 18620,
+    "inferred_start": 16960,
+    "inferred_end": 18816,
+    "true_pitch": 8,
+    "estimated_pitch": -4.144370366072259,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/ambiguous/1",
+    "true_start": 384,
+    "true_end": 1849,
+    "inferred_start": 384,
+    "inferred_end": 2112,
+    "true_pitch": 6,
+    "estimated_pitch": 6.350560816544597,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/ambiguous/1",
+    "true_start": 7286,
+    "true_end": 8751,
+    "inferred_start": 7232,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": 6.382575334520434,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/ambiguous/1",
+    "true_start": 8751,
+    "true_end": 10400,
+    "inferred_start": 9024,
+    "inferred_end": 10560,
+    "true_pitch": 8,
+    "estimated_pitch": -4.100259423076823,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-09/joint/ambiguous/1",
+    "true_start": 1849,
+    "true_end": 3498,
+    "inferred_start": 2112,
+    "inferred_end": 3712,
+    "true_pitch": 8,
+    "estimated_pitch": -4.185265158032769,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-10/legato/intact/0",
+    "true_start": 15242,
+    "true_end": 16673,
+    "inferred_start": 15104,
+    "inferred_end": 16896,
+    "true_pitch": 18,
+    "estimated_pitch": -6.000408575653651,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-10/legato/intact/0",
+    "true_start": 7237,
+    "true_end": 8668,
+    "inferred_start": 7104,
+    "inferred_end": 8896,
+    "true_pitch": 18,
+    "estimated_pitch": -6.000274992149492,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-10/legato/intact/0",
+    "true_start": 1815,
+    "true_end": 3359,
+    "inferred_start": 1984,
+    "inferred_end": 3584,
+    "true_pitch": 15,
+    "estimated_pitch": -3.957006282666271,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-10/legato/intact/0",
+    "true_start": 3359,
+    "true_end": 4831,
+    "inferred_start": 3584,
+    "inferred_end": 4992,
+    "true_pitch": 9,
+    "estimated_pitch": -10.017330058627751,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-10/legato/intact/1",
+    "true_start": 10212,
+    "true_end": 11684,
+    "inferred_start": 10368,
+    "inferred_end": 11840,
+    "true_pitch": 9,
+    "estimated_pitch": -10.017529464996436,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-10/legato/intact/1",
+    "true_start": 15242,
+    "true_end": 16673,
+    "inferred_start": 15104,
+    "inferred_end": 16896,
+    "true_pitch": 18,
+    "estimated_pitch": -6.000408575653651,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-10/legato/intact/1",
+    "true_start": 7237,
+    "true_end": 8668,
+    "inferred_start": 7104,
+    "inferred_end": 8896,
+    "true_pitch": 18,
+    "estimated_pitch": -6.000274992149492,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-10/legato/intact/1",
+    "true_start": 1815,
+    "true_end": 3359,
+    "inferred_start": 1984,
+    "inferred_end": 3584,
+    "true_pitch": 15,
+    "estimated_pitch": -3.957006282666271,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-10/duration/intact/0",
+    "true_start": 1852,
+    "true_end": 3504,
+    "inferred_start": 1856,
+    "inferred_end": 3712,
+    "true_pitch": 15,
+    "estimated_pitch": -3.979220722392709,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-10/duration/intact/0",
+    "true_start": 10418,
+    "true_end": 11742,
+    "inferred_start": 10560,
+    "inferred_end": 11968,
+    "true_pitch": 9,
+    "estimated_pitch": -14.997476589648825,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-10/duration/intact/0",
+    "true_start": 3504,
+    "true_end": 4828,
+    "inferred_start": 3712,
+    "inferred_end": 4992,
+    "true_pitch": 9,
+    "estimated_pitch": -10.014929975002442,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-10/duration/intact/1",
+    "true_start": 1852,
+    "true_end": 3504,
+    "inferred_start": 1856,
+    "inferred_end": 3712,
+    "true_pitch": 15,
+    "estimated_pitch": -3.979220722392709,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-10/duration/intact/1",
+    "true_start": 10418,
+    "true_end": 11742,
+    "inferred_start": 10560,
+    "inferred_end": 11904,
+    "true_pitch": 9,
+    "estimated_pitch": -10.015457821927523,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-10/duration/intact/1",
+    "true_start": 3504,
+    "true_end": 4828,
+    "inferred_start": 3712,
+    "inferred_end": 5056,
+    "true_pitch": 9,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-10/joint/intact/0",
+    "true_start": 1852,
+    "true_end": 3504,
+    "inferred_start": 1856,
+    "inferred_end": 3712,
+    "true_pitch": 15,
+    "estimated_pitch": -3.979220722392709,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-10/joint/intact/0",
+    "true_start": 10418,
+    "true_end": 11742,
+    "inferred_start": 10560,
+    "inferred_end": 11968,
+    "true_pitch": 9,
+    "estimated_pitch": -14.997476589648825,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-10/joint/intact/0",
+    "true_start": 3504,
+    "true_end": 4828,
+    "inferred_start": 3712,
+    "inferred_end": 4992,
+    "true_pitch": 9,
+    "estimated_pitch": -10.014929975002442,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-10/joint/intact/1",
+    "true_start": 1852,
+    "true_end": 3504,
+    "inferred_start": 1856,
+    "inferred_end": 3712,
+    "true_pitch": 15,
+    "estimated_pitch": -3.979220722392709,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-10/joint/intact/1",
+    "true_start": 10418,
+    "true_end": 11742,
+    "inferred_start": 10560,
+    "inferred_end": 11904,
+    "true_pitch": 9,
+    "estimated_pitch": -10.015457821927523,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-10/joint/intact/1",
+    "true_start": 3504,
+    "true_end": 4828,
+    "inferred_start": 3712,
+    "inferred_end": 5056,
+    "true_pitch": 9,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-10/joint/removal/0",
+    "true_start": 1852,
+    "true_end": 3504,
+    "inferred_start": 1856,
+    "inferred_end": 3712,
+    "true_pitch": 15,
+    "estimated_pitch": -3.979220722392709,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-10/joint/removal/1",
+    "true_start": 1852,
+    "true_end": 3504,
+    "inferred_start": 1856,
+    "inferred_end": 3712,
+    "true_pitch": 15,
+    "estimated_pitch": -3.979220722392709,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-10/joint/swap/0",
+    "true_start": 1852,
+    "true_end": 3504,
+    "inferred_start": 1856,
+    "inferred_end": 3712,
+    "true_pitch": 15,
+    "estimated_pitch": -3.979220722392709,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-10/joint/swap/0",
+    "true_start": 10418,
+    "true_end": 11742,
+    "inferred_start": 10560,
+    "inferred_end": 11904,
+    "true_pitch": 9,
+    "estimated_pitch": -10.015457821927523,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-10/joint/swap/0",
+    "true_start": 3504,
+    "true_end": 4828,
+    "inferred_start": 3712,
+    "inferred_end": 5056,
+    "true_pitch": 9,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-10/joint/swap/1",
+    "true_start": 1852,
+    "true_end": 3504,
+    "inferred_start": 1856,
+    "inferred_end": 3712,
+    "true_pitch": 15,
+    "estimated_pitch": -3.979220722392709,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-10/joint/swap/1",
+    "true_start": 10418,
+    "true_end": 11742,
+    "inferred_start": 10560,
+    "inferred_end": 11968,
+    "true_pitch": 9,
+    "estimated_pitch": -14.997476589648825,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-10/joint/swap/1",
+    "true_start": 3504,
+    "true_end": 4828,
+    "inferred_start": 3712,
+    "inferred_end": 4992,
+    "true_pitch": 9,
+    "estimated_pitch": -10.014929975002442,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-10/joint/shuffle/0",
+    "true_start": 8766,
+    "true_end": 10418,
+    "inferred_start": 8768,
+    "inferred_end": 10624,
+    "true_pitch": 15,
+    "estimated_pitch": -3.9795975157880172,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-10/joint/shuffle/0",
+    "true_start": 3504,
+    "true_end": 4828,
+    "inferred_start": 3648,
+    "inferred_end": 5056,
+    "true_pitch": 9,
+    "estimated_pitch": -14.997854130333193,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-10/joint/shuffle/0",
+    "true_start": 10418,
+    "true_end": 11742,
+    "inferred_start": 10624,
+    "inferred_end": 11904,
+    "true_pitch": 9,
+    "estimated_pitch": -10.015030454585746,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-10/joint/shuffle/1",
+    "true_start": 8766,
+    "true_end": 10418,
+    "inferred_start": 8768,
+    "inferred_end": 10624,
+    "true_pitch": 15,
+    "estimated_pitch": -3.9795975157880172,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-10/joint/shuffle/1",
+    "true_start": 3504,
+    "true_end": 4828,
+    "inferred_start": 3648,
+    "inferred_end": 4992,
+    "true_pitch": 9,
+    "estimated_pitch": -10.015417518750233,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-10/joint/shuffle/1",
+    "true_start": 10418,
+    "true_end": 11742,
+    "inferred_start": 10624,
+    "inferred_end": 11968,
+    "true_pitch": 9,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-10/joint/ambiguous/0",
+    "true_start": 3504,
+    "true_end": 4828,
+    "inferred_start": 3648,
+    "inferred_end": 4992,
+    "true_pitch": 9,
+    "estimated_pitch": -10.015417518750233,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-10/joint/ambiguous/0",
+    "true_start": 10418,
+    "true_end": 11742,
+    "inferred_start": 10560,
+    "inferred_end": 11968,
+    "true_pitch": 9,
+    "estimated_pitch": -14.997476589648825,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-10/joint/ambiguous/1",
+    "true_start": 3504,
+    "true_end": 4828,
+    "inferred_start": 3648,
+    "inferred_end": 4992,
+    "true_pitch": 9,
+    "estimated_pitch": -10.015417518750233,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-10/joint/ambiguous/1",
+    "true_start": 10418,
+    "true_end": 11742,
+    "inferred_start": 10560,
+    "inferred_end": 11968,
+    "true_pitch": 9,
+    "estimated_pitch": -14.997476589648825,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-11/legato/intact/0",
+    "true_start": 8683,
+    "true_end": 10230,
+    "inferred_start": 8704,
+    "inferred_end": 10432,
+    "true_pitch": 21,
+    "estimated_pitch": 21.49894408216903,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-11/legato/intact/0",
+    "true_start": 15266,
+    "true_end": 16700,
+    "inferred_start": 15168,
+    "inferred_end": 16896,
+    "true_pitch": 18,
+    "estimated_pitch": -1.015281415623993,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-11/legato/intact/0",
+    "true_start": 384,
+    "true_end": 1818,
+    "inferred_start": 256,
+    "inferred_end": 1984,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0161582397405151,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-11/legato/intact/1",
+    "true_start": 8683,
+    "true_end": 10230,
+    "inferred_start": 8704,
+    "inferred_end": 10432,
+    "true_pitch": 21,
+    "estimated_pitch": 21.49894408216903,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-11/legato/intact/1",
+    "true_start": 15266,
+    "true_end": 16700,
+    "inferred_start": 15168,
+    "inferred_end": 16896,
+    "true_pitch": 18,
+    "estimated_pitch": -1.015281415623993,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-11/legato/intact/1",
+    "true_start": 384,
+    "true_end": 1818,
+    "inferred_start": 256,
+    "inferred_end": 1984,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0161582397405151,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-11/duration/intact/0",
+    "true_start": 15388,
+    "true_end": 16942,
+    "inferred_start": 15296,
+    "inferred_end": 17152,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0135514079303536,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-11/duration/intact/0",
+    "true_start": 8781,
+    "true_end": 10436,
+    "inferred_start": 8896,
+    "inferred_end": 10624,
+    "true_pitch": 21,
+    "estimated_pitch": 21.464548034454978,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-11/duration/intact/0",
+    "true_start": 384,
+    "true_end": 1855,
+    "inferred_start": 256,
+    "inferred_end": 2048,
+    "true_pitch": 18,
+    "estimated_pitch": -1.01290231593291,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-11/duration/intact/1",
+    "true_start": 15388,
+    "true_end": 16942,
+    "inferred_start": 15296,
+    "inferred_end": 17152,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0135514079303536,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-11/duration/intact/1",
+    "true_start": 8781,
+    "true_end": 10436,
+    "inferred_start": 8896,
+    "inferred_end": 10624,
+    "true_pitch": 21,
+    "estimated_pitch": 21.464548034454978,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-11/duration/intact/1",
+    "true_start": 384,
+    "true_end": 1855,
+    "inferred_start": 256,
+    "inferred_end": 2048,
+    "true_pitch": 18,
+    "estimated_pitch": -1.01290231593291,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-11/joint/intact/0",
+    "true_start": 15388,
+    "true_end": 16942,
+    "inferred_start": 15296,
+    "inferred_end": 17152,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0135514079303536,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-11/joint/intact/0",
+    "true_start": 8781,
+    "true_end": 10436,
+    "inferred_start": 8896,
+    "inferred_end": 10624,
+    "true_pitch": 21,
+    "estimated_pitch": 1.8985580002953362,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-11/joint/intact/0",
+    "true_start": 384,
+    "true_end": 1855,
+    "inferred_start": 256,
+    "inferred_end": 2048,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0126245431017862,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-11/joint/intact/1",
+    "true_start": 15388,
+    "true_end": 16942,
+    "inferred_start": 15296,
+    "inferred_end": 17152,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0135514079303536,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-11/joint/intact/1",
+    "true_start": 8781,
+    "true_end": 10436,
+    "inferred_start": 8896,
+    "inferred_end": 10624,
+    "true_pitch": 21,
+    "estimated_pitch": 1.8985580002953362,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-11/joint/intact/1",
+    "true_start": 384,
+    "true_end": 1855,
+    "inferred_start": 256,
+    "inferred_end": 2048,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0126245431017862,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-11/joint/reset/0",
+    "true_start": 15388,
+    "true_end": 16942,
+    "inferred_start": 15296,
+    "inferred_end": 17152,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0135514079303536,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-11/joint/reset/1",
+    "true_start": 15388,
+    "true_end": 16942,
+    "inferred_start": 15296,
+    "inferred_end": 17152,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0135514079303536,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-11/joint/removal/0",
+    "true_start": 15388,
+    "true_end": 16942,
+    "inferred_start": 15296,
+    "inferred_end": 17152,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0135514079303536,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-11/joint/removal/0",
+    "true_start": 8781,
+    "true_end": 10436,
+    "inferred_start": 8896,
+    "inferred_end": 10624,
+    "true_pitch": 21,
+    "estimated_pitch": 1.8985580002953362,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-11/joint/removal/0",
+    "true_start": 384,
+    "true_end": 1855,
+    "inferred_start": 256,
+    "inferred_end": 2048,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0126245431017862,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-11/joint/removal/1",
+    "true_start": 15388,
+    "true_end": 16942,
+    "inferred_start": 15296,
+    "inferred_end": 17152,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0135514079303536,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-11/joint/removal/1",
+    "true_start": 8781,
+    "true_end": 10436,
+    "inferred_start": 8896,
+    "inferred_end": 10624,
+    "true_pitch": 21,
+    "estimated_pitch": 1.8985580002953362,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-11/joint/removal/1",
+    "true_start": 384,
+    "true_end": 1855,
+    "inferred_start": 256,
+    "inferred_end": 2048,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0126245431017862,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-11/joint/swap/0",
+    "true_start": 15388,
+    "true_end": 16942,
+    "inferred_start": 15296,
+    "inferred_end": 17152,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0135514079303536,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-11/joint/swap/0",
+    "true_start": 8781,
+    "true_end": 10436,
+    "inferred_start": 8896,
+    "inferred_end": 10624,
+    "true_pitch": 21,
+    "estimated_pitch": 1.8985580002953362,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-11/joint/swap/0",
+    "true_start": 384,
+    "true_end": 1855,
+    "inferred_start": 256,
+    "inferred_end": 2048,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0126245431017862,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-11/joint/swap/1",
+    "true_start": 15388,
+    "true_end": 16942,
+    "inferred_start": 15296,
+    "inferred_end": 17152,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0135514079303536,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-11/joint/swap/1",
+    "true_start": 8781,
+    "true_end": 10436,
+    "inferred_start": 8896,
+    "inferred_end": 10624,
+    "true_pitch": 21,
+    "estimated_pitch": 1.8985580002953362,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-11/joint/swap/1",
+    "true_start": 384,
+    "true_end": 1855,
+    "inferred_start": 256,
+    "inferred_end": 2048,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0126245431017862,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-11/joint/shuffle/0",
+    "true_start": 15388,
+    "true_end": 16942,
+    "inferred_start": 15296,
+    "inferred_end": 17152,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0135514079303536,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-11/joint/shuffle/0",
+    "true_start": 1855,
+    "true_end": 3510,
+    "inferred_start": 1984,
+    "inferred_end": 3712,
+    "true_pitch": 21,
+    "estimated_pitch": 1.894402233613472,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-11/joint/shuffle/0",
+    "true_start": 7310,
+    "true_end": 8781,
+    "inferred_start": 7168,
+    "inferred_end": 8960,
+    "true_pitch": 18,
+    "estimated_pitch": -1.012355512377491,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-11/joint/shuffle/1",
+    "true_start": 15388,
+    "true_end": 16942,
+    "inferred_start": 15296,
+    "inferred_end": 17152,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0135514079303536,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-11/joint/shuffle/1",
+    "true_start": 1855,
+    "true_end": 3510,
+    "inferred_start": 1984,
+    "inferred_end": 3712,
+    "true_pitch": 21,
+    "estimated_pitch": 1.894402233613472,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-11/joint/shuffle/1",
+    "true_start": 7310,
+    "true_end": 8781,
+    "inferred_start": 7168,
+    "inferred_end": 8960,
+    "true_pitch": 18,
+    "estimated_pitch": -1.012355512377491,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-11/joint/ambiguous/0",
+    "true_start": 15388,
+    "true_end": 16942,
+    "inferred_start": 15296,
+    "inferred_end": 17152,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0135514079303536,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-11/joint/ambiguous/0",
+    "true_start": 7310,
+    "true_end": 8781,
+    "inferred_start": 7168,
+    "inferred_end": 8960,
+    "true_pitch": 18,
+    "estimated_pitch": -1.012355512377491,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-11/joint/ambiguous/0",
+    "true_start": 384,
+    "true_end": 1855,
+    "inferred_start": 256,
+    "inferred_end": 2048,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0126245431017862,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-11/joint/ambiguous/1",
+    "true_start": 15388,
+    "true_end": 16942,
+    "inferred_start": 15296,
+    "inferred_end": 17152,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0135514079303536,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-11/joint/ambiguous/1",
+    "true_start": 7310,
+    "true_end": 8781,
+    "inferred_start": 7168,
+    "inferred_end": 8960,
+    "true_pitch": 18,
+    "estimated_pitch": -1.012355512377491,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-11/joint/ambiguous/1",
+    "true_start": 384,
+    "true_end": 1855,
+    "inferred_start": 256,
+    "inferred_end": 2048,
+    "true_pitch": 18,
+    "estimated_pitch": -1.0126245431017862,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/legato/intact/0",
+    "true_start": 7261,
+    "true_end": 8698,
+    "inferred_start": 7232,
+    "inferred_end": 8896,
+    "true_pitch": 6,
+    "estimated_pitch": -13.010159213074743,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/legato/intact/0",
+    "true_start": 1821,
+    "true_end": 3371,
+    "inferred_start": 1856,
+    "inferred_end": 3584,
+    "true_pitch": 3,
+    "estimated_pitch": -8.929204479948542,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/legato/intact/0",
+    "true_start": 15290,
+    "true_end": 16727,
+    "inferred_start": 15296,
+    "inferred_end": 16960,
+    "true_pitch": 6,
+    "estimated_pitch": -12.993042556821248,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/legato/intact/0",
+    "true_start": 8698,
+    "true_end": 10248,
+    "inferred_start": 8896,
+    "inferred_end": 10432,
+    "true_pitch": 0,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/legato/intact/0",
+    "true_start": 16727,
+    "true_end": 18277,
+    "inferred_start": 16960,
+    "inferred_end": 18432,
+    "true_pitch": 0,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/legato/intact/0",
+    "true_start": 10248,
+    "true_end": 11726,
+    "inferred_start": 10432,
+    "inferred_end": 11968,
+    "true_pitch": -6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/legato/intact/0",
+    "true_start": 3371,
+    "true_end": 4849,
+    "inferred_start": 3584,
+    "inferred_end": 5120,
+    "true_pitch": -6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/legato/intact/1",
+    "true_start": 7261,
+    "true_end": 8698,
+    "inferred_start": 7232,
+    "inferred_end": 8896,
+    "true_pitch": 6,
+    "estimated_pitch": -13.010159213074743,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/legato/intact/1",
+    "true_start": 1821,
+    "true_end": 3371,
+    "inferred_start": 1856,
+    "inferred_end": 3584,
+    "true_pitch": 3,
+    "estimated_pitch": -8.929204479948542,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/legato/intact/1",
+    "true_start": 15290,
+    "true_end": 16727,
+    "inferred_start": 15296,
+    "inferred_end": 16960,
+    "true_pitch": 6,
+    "estimated_pitch": -12.993042556821248,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/legato/intact/1",
+    "true_start": 8698,
+    "true_end": 10248,
+    "inferred_start": 8896,
+    "inferred_end": 10432,
+    "true_pitch": 0,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/legato/intact/1",
+    "true_start": 16727,
+    "true_end": 18277,
+    "inferred_start": 16960,
+    "inferred_end": 18432,
+    "true_pitch": 0,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/legato/intact/1",
+    "true_start": 10248,
+    "true_end": 11726,
+    "inferred_start": 10432,
+    "inferred_end": 11968,
+    "true_pitch": -6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/legato/intact/1",
+    "true_start": 3371,
+    "true_end": 4849,
+    "inferred_start": 3584,
+    "inferred_end": 5120,
+    "true_pitch": -6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/duration/intact/0",
+    "true_start": 15412,
+    "true_end": 16969,
+    "inferred_start": 15360,
+    "inferred_end": 17152,
+    "true_pitch": 6,
+    "estimated_pitch": -12.99474952937662,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/duration/intact/0",
+    "true_start": 7322,
+    "true_end": 8796,
+    "inferred_start": 7296,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": -12.997158394524192,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/duration/intact/0",
+    "true_start": 16969,
+    "true_end": 18710,
+    "inferred_start": 17152,
+    "inferred_end": 18944,
+    "true_pitch": 0,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/duration/intact/0",
+    "true_start": 3516,
+    "true_end": 4846,
+    "inferred_start": 3712,
+    "inferred_end": 4992,
+    "true_pitch": -6,
+    "estimated_pitch": -5.567086584890388,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/duration/intact/0",
+    "true_start": 1858,
+    "true_end": 3516,
+    "inferred_start": 2112,
+    "inferred_end": 3712,
+    "true_pitch": 3,
+    "estimated_pitch": -8.940997918485497,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/duration/intact/0",
+    "true_start": 8796,
+    "true_end": 10454,
+    "inferred_start": 9024,
+    "inferred_end": 10688,
+    "true_pitch": 0,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/duration/intact/1",
+    "true_start": 15412,
+    "true_end": 16969,
+    "inferred_start": 15360,
+    "inferred_end": 17152,
+    "true_pitch": 6,
+    "estimated_pitch": -12.99474952937662,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/duration/intact/1",
+    "true_start": 7322,
+    "true_end": 8796,
+    "inferred_start": 7296,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": -12.997158394524192,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/duration/intact/1",
+    "true_start": 16969,
+    "true_end": 18710,
+    "inferred_start": 17152,
+    "inferred_end": 18944,
+    "true_pitch": 0,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/duration/intact/1",
+    "true_start": 1858,
+    "true_end": 3516,
+    "inferred_start": 2112,
+    "inferred_end": 3712,
+    "true_pitch": 3,
+    "estimated_pitch": -8.940997918485497,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/duration/intact/1",
+    "true_start": 8796,
+    "true_end": 10454,
+    "inferred_start": 9024,
+    "inferred_end": 10688,
+    "true_pitch": 0,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/intact/0",
+    "true_start": 7322,
+    "true_end": 8796,
+    "inferred_start": 7296,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": -12.997158394524192,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/intact/0",
+    "true_start": 15412,
+    "true_end": 16969,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/intact/0",
+    "true_start": 3516,
+    "true_end": 4846,
+    "inferred_start": 3712,
+    "inferred_end": 4992,
+    "true_pitch": -6,
+    "estimated_pitch": -5.567086584890388,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/intact/0",
+    "true_start": 1858,
+    "true_end": 3516,
+    "inferred_start": 2112,
+    "inferred_end": 3712,
+    "true_pitch": 3,
+    "estimated_pitch": -8.940997918485497,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/intact/0",
+    "true_start": 16969,
+    "true_end": 18710,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 0,
+    "estimated_pitch": -12.015164866929059,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/intact/0",
+    "true_start": 8796,
+    "true_end": 10454,
+    "inferred_start": 9024,
+    "inferred_end": 10688,
+    "true_pitch": 0,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/intact/1",
+    "true_start": 7322,
+    "true_end": 8796,
+    "inferred_start": 7296,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": -12.997158394524192,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/intact/1",
+    "true_start": 15412,
+    "true_end": 16969,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/intact/1",
+    "true_start": 1858,
+    "true_end": 3516,
+    "inferred_start": 2112,
+    "inferred_end": 3712,
+    "true_pitch": 3,
+    "estimated_pitch": -8.940997918485497,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/intact/1",
+    "true_start": 16969,
+    "true_end": 18710,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 0,
+    "estimated_pitch": -12.015164866929059,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/intact/1",
+    "true_start": 8796,
+    "true_end": 10454,
+    "inferred_start": 9024,
+    "inferred_end": 10688,
+    "true_pitch": 0,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/reset/0",
+    "true_start": 15412,
+    "true_end": 16969,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/reset/0",
+    "true_start": 16969,
+    "true_end": 18710,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 0,
+    "estimated_pitch": -12.015164866929059,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/reset/1",
+    "true_start": 15412,
+    "true_end": 16969,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/reset/1",
+    "true_start": 16969,
+    "true_end": 18710,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 0,
+    "estimated_pitch": -12.015164866929059,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/removal/0",
+    "true_start": 7322,
+    "true_end": 8796,
+    "inferred_start": 7296,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": -12.997158394524192,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/removal/0",
+    "true_start": 15412,
+    "true_end": 16969,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/removal/0",
+    "true_start": 1858,
+    "true_end": 3516,
+    "inferred_start": 2112,
+    "inferred_end": 3712,
+    "true_pitch": 3,
+    "estimated_pitch": -8.940997918485497,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/removal/0",
+    "true_start": 16969,
+    "true_end": 18710,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 0,
+    "estimated_pitch": -12.015164866929059,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/removal/0",
+    "true_start": 8796,
+    "true_end": 10454,
+    "inferred_start": 9024,
+    "inferred_end": 10688,
+    "true_pitch": 0,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/removal/1",
+    "true_start": 7322,
+    "true_end": 8796,
+    "inferred_start": 7296,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": -12.997158394524192,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/removal/1",
+    "true_start": 15412,
+    "true_end": 16969,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/removal/1",
+    "true_start": 1858,
+    "true_end": 3516,
+    "inferred_start": 2112,
+    "inferred_end": 3712,
+    "true_pitch": 3,
+    "estimated_pitch": -8.940997918485497,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/removal/1",
+    "true_start": 16969,
+    "true_end": 18710,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 0,
+    "estimated_pitch": -12.015164866929059,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/removal/1",
+    "true_start": 8796,
+    "true_end": 10454,
+    "inferred_start": 9024,
+    "inferred_end": 10688,
+    "true_pitch": 0,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/swap/0",
+    "true_start": 7322,
+    "true_end": 8796,
+    "inferred_start": 7296,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": -12.997158394524192,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/swap/0",
+    "true_start": 15412,
+    "true_end": 16969,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/swap/0",
+    "true_start": 1858,
+    "true_end": 3516,
+    "inferred_start": 2112,
+    "inferred_end": 3712,
+    "true_pitch": 3,
+    "estimated_pitch": -8.940997918485497,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/swap/0",
+    "true_start": 16969,
+    "true_end": 18710,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 0,
+    "estimated_pitch": -12.015164866929059,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/swap/0",
+    "true_start": 8796,
+    "true_end": 10454,
+    "inferred_start": 9024,
+    "inferred_end": 10688,
+    "true_pitch": 0,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/swap/1",
+    "true_start": 7322,
+    "true_end": 8796,
+    "inferred_start": 7296,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": -12.997158394524192,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/swap/1",
+    "true_start": 15412,
+    "true_end": 16969,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/swap/1",
+    "true_start": 3516,
+    "true_end": 4846,
+    "inferred_start": 3712,
+    "inferred_end": 4992,
+    "true_pitch": -6,
+    "estimated_pitch": -5.567086584890388,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/swap/1",
+    "true_start": 1858,
+    "true_end": 3516,
+    "inferred_start": 2112,
+    "inferred_end": 3712,
+    "true_pitch": 3,
+    "estimated_pitch": -8.940997918485497,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/swap/1",
+    "true_start": 16969,
+    "true_end": 18710,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 0,
+    "estimated_pitch": -12.015164866929059,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/swap/1",
+    "true_start": 8796,
+    "true_end": 10454,
+    "inferred_start": 9024,
+    "inferred_end": 10688,
+    "true_pitch": 0,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/shuffle/0",
+    "true_start": 384,
+    "true_end": 1858,
+    "inferred_start": 384,
+    "inferred_end": 2112,
+    "true_pitch": 6,
+    "estimated_pitch": -12.985376284384754,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/shuffle/0",
+    "true_start": 15412,
+    "true_end": 16969,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/shuffle/0",
+    "true_start": 8796,
+    "true_end": 10454,
+    "inferred_start": 9024,
+    "inferred_end": 10624,
+    "true_pitch": 3,
+    "estimated_pitch": -8.972668412867737,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/shuffle/0",
+    "true_start": 16969,
+    "true_end": 18710,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 0,
+    "estimated_pitch": -12.015164866929059,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/shuffle/1",
+    "true_start": 384,
+    "true_end": 1858,
+    "inferred_start": 384,
+    "inferred_end": 2112,
+    "true_pitch": 6,
+    "estimated_pitch": -12.985376284384754,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/shuffle/1",
+    "true_start": 15412,
+    "true_end": 16969,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/shuffle/1",
+    "true_start": 8796,
+    "true_end": 10454,
+    "inferred_start": 9024,
+    "inferred_end": 10624,
+    "true_pitch": 3,
+    "estimated_pitch": -8.972668412867737,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/shuffle/1",
+    "true_start": 3516,
+    "true_end": 4846,
+    "inferred_start": 3712,
+    "inferred_end": 4992,
+    "true_pitch": -6,
+    "estimated_pitch": -5.567086584890388,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/shuffle/1",
+    "true_start": 16969,
+    "true_end": 18710,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 0,
+    "estimated_pitch": -12.015164866929059,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/ambiguous/0",
+    "true_start": 7322,
+    "true_end": 8796,
+    "inferred_start": 7296,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": -12.997158394524192,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/ambiguous/0",
+    "true_start": 384,
+    "true_end": 1858,
+    "inferred_start": 384,
+    "inferred_end": 2112,
+    "true_pitch": 6,
+    "estimated_pitch": -12.985376284384754,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/ambiguous/0",
+    "true_start": 15412,
+    "true_end": 16969,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/ambiguous/0",
+    "true_start": 3516,
+    "true_end": 4846,
+    "inferred_start": 3712,
+    "inferred_end": 4992,
+    "true_pitch": -6,
+    "estimated_pitch": -5.567086584890388,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/ambiguous/0",
+    "true_start": 16969,
+    "true_end": 18710,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 0,
+    "estimated_pitch": -12.015164866929059,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/ambiguous/0",
+    "true_start": 8796,
+    "true_end": 10454,
+    "inferred_start": 9024,
+    "inferred_end": 10688,
+    "true_pitch": 0,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/ambiguous/1",
+    "true_start": 7322,
+    "true_end": 8796,
+    "inferred_start": 7296,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": -12.997158394524192,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/ambiguous/1",
+    "true_start": 384,
+    "true_end": 1858,
+    "inferred_start": 384,
+    "inferred_end": 2112,
+    "true_pitch": 6,
+    "estimated_pitch": -12.985376284384754,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/ambiguous/1",
+    "true_start": 15412,
+    "true_end": 16969,
+    "inferred_start": 15360,
+    "inferred_end": 17216,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/ambiguous/1",
+    "true_start": 3516,
+    "true_end": 4846,
+    "inferred_start": 3712,
+    "inferred_end": 4992,
+    "true_pitch": -6,
+    "estimated_pitch": -5.567086584890388,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/ambiguous/1",
+    "true_start": 16969,
+    "true_end": 18710,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 0,
+    "estimated_pitch": -12.015164866929059,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-12/joint/ambiguous/1",
+    "true_start": 8796,
+    "true_end": 10454,
+    "inferred_start": 9024,
+    "inferred_end": 10688,
+    "true_pitch": 0,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/legato/intact/0",
+    "true_start": 10266,
+    "true_end": 11747,
+    "inferred_start": 10176,
+    "inferred_end": 11904,
+    "true_pitch": 13,
+    "estimated_pitch": -6.053698119455712,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/legato/intact/0",
+    "true_start": 3377,
+    "true_end": 4858,
+    "inferred_start": 3520,
+    "inferred_end": 5056,
+    "true_pitch": 13,
+    "estimated_pitch": -10.998480593732467,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/legato/intact/1",
+    "true_start": 3377,
+    "true_end": 4858,
+    "inferred_start": 3520,
+    "inferred_end": 5056,
+    "true_pitch": 13,
+    "estimated_pitch": -6.014052327942755,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/duration/intact/0",
+    "true_start": 7334,
+    "true_end": 8811,
+    "inferred_start": 7296,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": 6.364142269270689,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/duration/intact/0",
+    "true_start": 10472,
+    "true_end": 11805,
+    "inferred_start": 10560,
+    "inferred_end": 11968,
+    "true_pitch": 13,
+    "estimated_pitch": -6.014584610417876,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/duration/intact/0",
+    "true_start": 3522,
+    "true_end": 4855,
+    "inferred_start": 3712,
+    "inferred_end": 5056,
+    "true_pitch": 13,
+    "estimated_pitch": -10.998106928224477,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/duration/intact/1",
+    "true_start": 7334,
+    "true_end": 8811,
+    "inferred_start": 7296,
+    "inferred_end": 8960,
+    "true_pitch": 6,
+    "estimated_pitch": 6.364142269270689,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/duration/intact/1",
+    "true_start": 10472,
+    "true_end": 11805,
+    "inferred_start": 10560,
+    "inferred_end": 12032,
+    "true_pitch": 13,
+    "estimated_pitch": -10.998691768763193,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/duration/intact/1",
+    "true_start": 3522,
+    "true_end": 4855,
+    "inferred_start": 3712,
+    "inferred_end": 4992,
+    "true_pitch": 13,
+    "estimated_pitch": -6.014778192139792,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/intact/0",
+    "true_start": 7334,
+    "true_end": 8811,
+    "inferred_start": 7296,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": -5.986185456286336,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/intact/0",
+    "true_start": 384,
+    "true_end": 1861,
+    "inferred_start": 384,
+    "inferred_end": 2112,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/intact/0",
+    "true_start": 8811,
+    "true_end": 10472,
+    "inferred_start": 9024,
+    "inferred_end": 10688,
+    "true_pitch": 10,
+    "estimated_pitch": -2.0826023425755755,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/intact/0",
+    "true_start": 1861,
+    "true_end": 3522,
+    "inferred_start": 2112,
+    "inferred_end": 3776,
+    "true_pitch": 8,
+    "estimated_pitch": -11.016092201834415,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/intact/0",
+    "true_start": 3522,
+    "true_end": 4855,
+    "inferred_start": 3776,
+    "inferred_end": 5056,
+    "true_pitch": 13,
+    "estimated_pitch": 0.9956946789156933,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/intact/1",
+    "true_start": 7334,
+    "true_end": 8811,
+    "inferred_start": 7296,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": -5.986185456286336,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/intact/1",
+    "true_start": 384,
+    "true_end": 1861,
+    "inferred_start": 384,
+    "inferred_end": 2112,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/intact/1",
+    "true_start": 8811,
+    "true_end": 10472,
+    "inferred_start": 9024,
+    "inferred_end": 10688,
+    "true_pitch": 10,
+    "estimated_pitch": -2.0826023425755755,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/intact/1",
+    "true_start": 1861,
+    "true_end": 3522,
+    "inferred_start": 2112,
+    "inferred_end": 3776,
+    "true_pitch": 8,
+    "estimated_pitch": -11.016092201834415,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/intact/1",
+    "true_start": 10472,
+    "true_end": 11805,
+    "inferred_start": 10688,
+    "inferred_end": 12032,
+    "true_pitch": 13,
+    "estimated_pitch": 0.9961202702109393,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/intact/1",
+    "true_start": 3522,
+    "true_end": 4855,
+    "inferred_start": 3776,
+    "inferred_end": 5056,
+    "true_pitch": 13,
+    "estimated_pitch": -6.015467869347029,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/removal/0",
+    "true_start": 7334,
+    "true_end": 8811,
+    "inferred_start": 7296,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": -5.986185456286336,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/removal/0",
+    "true_start": 384,
+    "true_end": 1861,
+    "inferred_start": 384,
+    "inferred_end": 2112,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/removal/0",
+    "true_start": 8811,
+    "true_end": 10472,
+    "inferred_start": 9024,
+    "inferred_end": 10688,
+    "true_pitch": 10,
+    "estimated_pitch": -2.0826023425755755,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/removal/0",
+    "true_start": 1861,
+    "true_end": 3522,
+    "inferred_start": 2112,
+    "inferred_end": 3776,
+    "true_pitch": 8,
+    "estimated_pitch": -11.016092201834415,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/removal/1",
+    "true_start": 7334,
+    "true_end": 8811,
+    "inferred_start": 7296,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": -5.986185456286336,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/removal/1",
+    "true_start": 384,
+    "true_end": 1861,
+    "inferred_start": 384,
+    "inferred_end": 2112,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/removal/1",
+    "true_start": 8811,
+    "true_end": 10472,
+    "inferred_start": 9024,
+    "inferred_end": 10688,
+    "true_pitch": 10,
+    "estimated_pitch": -2.0826023425755755,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/removal/1",
+    "true_start": 1861,
+    "true_end": 3522,
+    "inferred_start": 2112,
+    "inferred_end": 3776,
+    "true_pitch": 8,
+    "estimated_pitch": -11.016092201834415,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/swap/0",
+    "true_start": 7334,
+    "true_end": 8811,
+    "inferred_start": 7296,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": -5.986185456286336,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/swap/0",
+    "true_start": 384,
+    "true_end": 1861,
+    "inferred_start": 384,
+    "inferred_end": 2112,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/swap/0",
+    "true_start": 8811,
+    "true_end": 10472,
+    "inferred_start": 9024,
+    "inferred_end": 10688,
+    "true_pitch": 10,
+    "estimated_pitch": -2.0826023425755755,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/swap/0",
+    "true_start": 1861,
+    "true_end": 3522,
+    "inferred_start": 2112,
+    "inferred_end": 3776,
+    "true_pitch": 8,
+    "estimated_pitch": -11.016092201834415,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/swap/0",
+    "true_start": 10472,
+    "true_end": 11805,
+    "inferred_start": 10688,
+    "inferred_end": 12032,
+    "true_pitch": 13,
+    "estimated_pitch": 0.9961202702109393,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/swap/0",
+    "true_start": 3522,
+    "true_end": 4855,
+    "inferred_start": 3776,
+    "inferred_end": 5056,
+    "true_pitch": 13,
+    "estimated_pitch": -6.015467869347029,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/swap/1",
+    "true_start": 7334,
+    "true_end": 8811,
+    "inferred_start": 7296,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": -5.986185456286336,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/swap/1",
+    "true_start": 384,
+    "true_end": 1861,
+    "inferred_start": 384,
+    "inferred_end": 2112,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/swap/1",
+    "true_start": 8811,
+    "true_end": 10472,
+    "inferred_start": 9024,
+    "inferred_end": 10688,
+    "true_pitch": 10,
+    "estimated_pitch": -2.0826023425755755,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/swap/1",
+    "true_start": 1861,
+    "true_end": 3522,
+    "inferred_start": 2112,
+    "inferred_end": 3776,
+    "true_pitch": 8,
+    "estimated_pitch": -11.016092201834415,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/swap/1",
+    "true_start": 3522,
+    "true_end": 4855,
+    "inferred_start": 3776,
+    "inferred_end": 5056,
+    "true_pitch": 13,
+    "estimated_pitch": 0.9956946789156933,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/shuffle/0",
+    "true_start": 384,
+    "true_end": 1861,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -5.989773845387708,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/shuffle/0",
+    "true_start": 7334,
+    "true_end": 8811,
+    "inferred_start": 7296,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/shuffle/0",
+    "true_start": 8811,
+    "true_end": 10472,
+    "inferred_start": 9024,
+    "inferred_end": 10688,
+    "true_pitch": 8,
+    "estimated_pitch": -11.01708397333603,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/shuffle/0",
+    "true_start": 1861,
+    "true_end": 3522,
+    "inferred_start": 2048,
+    "inferred_end": 3776,
+    "true_pitch": 10,
+    "estimated_pitch": -8.987328625088441,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/shuffle/0",
+    "true_start": 10472,
+    "true_end": 11805,
+    "inferred_start": 10688,
+    "inferred_end": 12032,
+    "true_pitch": 13,
+    "estimated_pitch": 0.9961202702109393,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/shuffle/0",
+    "true_start": 3522,
+    "true_end": 4855,
+    "inferred_start": 3776,
+    "inferred_end": 5056,
+    "true_pitch": 13,
+    "estimated_pitch": -6.015467869347029,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/shuffle/1",
+    "true_start": 384,
+    "true_end": 1861,
+    "inferred_start": 384,
+    "inferred_end": 2048,
+    "true_pitch": 6,
+    "estimated_pitch": -5.989773845387708,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/shuffle/1",
+    "true_start": 7334,
+    "true_end": 8811,
+    "inferred_start": 7296,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/shuffle/1",
+    "true_start": 8811,
+    "true_end": 10472,
+    "inferred_start": 9024,
+    "inferred_end": 10688,
+    "true_pitch": 8,
+    "estimated_pitch": -11.01708397333603,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/shuffle/1",
+    "true_start": 1861,
+    "true_end": 3522,
+    "inferred_start": 2048,
+    "inferred_end": 3776,
+    "true_pitch": 10,
+    "estimated_pitch": -8.987328625088441,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/shuffle/1",
+    "true_start": 3522,
+    "true_end": 4855,
+    "inferred_start": 3776,
+    "inferred_end": 5056,
+    "true_pitch": 13,
+    "estimated_pitch": 0.9956946789156933,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/ambiguous/0",
+    "true_start": 7334,
+    "true_end": 8811,
+    "inferred_start": 7296,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/ambiguous/0",
+    "true_start": 384,
+    "true_end": 1861,
+    "inferred_start": 384,
+    "inferred_end": 2112,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/ambiguous/0",
+    "true_start": 8811,
+    "true_end": 10472,
+    "inferred_start": 9024,
+    "inferred_end": 10688,
+    "true_pitch": 8,
+    "estimated_pitch": -11.01708397333603,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/ambiguous/0",
+    "true_start": 1861,
+    "true_end": 3522,
+    "inferred_start": 2112,
+    "inferred_end": 3776,
+    "true_pitch": 8,
+    "estimated_pitch": -11.016092201834415,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/ambiguous/0",
+    "true_start": 3522,
+    "true_end": 4855,
+    "inferred_start": 3776,
+    "inferred_end": 5056,
+    "true_pitch": 13,
+    "estimated_pitch": 0.9956946789156933,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/ambiguous/1",
+    "true_start": 7334,
+    "true_end": 8811,
+    "inferred_start": 7296,
+    "inferred_end": 9024,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/ambiguous/1",
+    "true_start": 384,
+    "true_end": 1861,
+    "inferred_start": 384,
+    "inferred_end": 2112,
+    "true_pitch": 6,
+    "estimated_pitch": null,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/ambiguous/1",
+    "true_start": 8811,
+    "true_end": 10472,
+    "inferred_start": 9024,
+    "inferred_end": 10688,
+    "true_pitch": 8,
+    "estimated_pitch": -11.01708397333603,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/ambiguous/1",
+    "true_start": 1861,
+    "true_end": 3522,
+    "inferred_start": 2112,
+    "inferred_end": 3776,
+    "true_pitch": 8,
+    "estimated_pitch": -11.016092201834415,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-13/joint/ambiguous/1",
+    "true_start": 3522,
+    "true_end": 4855,
+    "inferred_start": 3776,
+    "inferred_end": 5056,
+    "true_pitch": 13,
+    "estimated_pitch": 0.9956946789156933,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/legato/intact/0",
+    "true_start": 1827,
+    "true_end": 3383,
+    "inferred_start": 1856,
+    "inferred_end": 3584,
+    "true_pitch": 16,
+    "estimated_pitch": -2.979384787314374,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/legato/intact/0",
+    "true_start": 16781,
+    "true_end": 18337,
+    "inferred_start": 16768,
+    "inferred_end": 18560,
+    "true_pitch": 16,
+    "estimated_pitch": -2.9756703459661376,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/legato/intact/0",
+    "true_start": 7285,
+    "true_end": 8728,
+    "inferred_start": 7168,
+    "inferred_end": 8896,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9772672442019461,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/legato/intact/0",
+    "true_start": 10284,
+    "true_end": 11768,
+    "inferred_start": 10368,
+    "inferred_end": 11968,
+    "true_pitch": 10,
+    "estimated_pitch": 10.355016808103569,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/legato/intact/1",
+    "true_start": 1827,
+    "true_end": 3383,
+    "inferred_start": 1856,
+    "inferred_end": 3584,
+    "true_pitch": 16,
+    "estimated_pitch": -2.979384787314374,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/legato/intact/1",
+    "true_start": 16781,
+    "true_end": 18337,
+    "inferred_start": 16768,
+    "inferred_end": 18560,
+    "true_pitch": 16,
+    "estimated_pitch": -2.9756703459661376,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/legato/intact/1",
+    "true_start": 7285,
+    "true_end": 8728,
+    "inferred_start": 7168,
+    "inferred_end": 8896,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9772672442019461,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/legato/intact/1",
+    "true_start": 3383,
+    "true_end": 4867,
+    "inferred_start": 3584,
+    "inferred_end": 5056,
+    "true_pitch": 10,
+    "estimated_pitch": 10.382784387562168,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/duration/intact/0",
+    "true_start": 17023,
+    "true_end": 18770,
+    "inferred_start": 17088,
+    "inferred_end": 19008,
+    "true_pitch": 16,
+    "estimated_pitch": -2.9594365191476,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/duration/intact/0",
+    "true_start": 7346,
+    "true_end": 8826,
+    "inferred_start": 7232,
+    "inferred_end": 9024,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9595424704017993,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/duration/intact/0",
+    "true_start": 1864,
+    "true_end": 3528,
+    "inferred_start": 1984,
+    "inferred_end": 3776,
+    "true_pitch": 16,
+    "estimated_pitch": -2.951925859728392,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/duration/intact/1",
+    "true_start": 17023,
+    "true_end": 18770,
+    "inferred_start": 17088,
+    "inferred_end": 19008,
+    "true_pitch": 16,
+    "estimated_pitch": -2.9594365191476,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/duration/intact/1",
+    "true_start": 7346,
+    "true_end": 8826,
+    "inferred_start": 7232,
+    "inferred_end": 9024,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9595424704017993,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/duration/intact/1",
+    "true_start": 1864,
+    "true_end": 3528,
+    "inferred_start": 1984,
+    "inferred_end": 3776,
+    "true_pitch": 16,
+    "estimated_pitch": -2.951925859728392,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/joint/intact/0",
+    "true_start": 7346,
+    "true_end": 8826,
+    "inferred_start": 7232,
+    "inferred_end": 9024,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9595424704017993,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/joint/intact/0",
+    "true_start": 17023,
+    "true_end": 18770,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 16,
+    "estimated_pitch": 3.9664576630443595,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/joint/intact/0",
+    "true_start": 1864,
+    "true_end": 3528,
+    "inferred_start": 1984,
+    "inferred_end": 3776,
+    "true_pitch": 16,
+    "estimated_pitch": -2.951925859728392,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/joint/intact/1",
+    "true_start": 7346,
+    "true_end": 8826,
+    "inferred_start": 7232,
+    "inferred_end": 9024,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9595424704017993,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/joint/intact/1",
+    "true_start": 17023,
+    "true_end": 18770,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 16,
+    "estimated_pitch": 3.9664576630443595,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/joint/intact/1",
+    "true_start": 1864,
+    "true_end": 3528,
+    "inferred_start": 1984,
+    "inferred_end": 3776,
+    "true_pitch": 16,
+    "estimated_pitch": -2.951925859728392,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/joint/reset/0",
+    "true_start": 17023,
+    "true_end": 18770,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 16,
+    "estimated_pitch": 3.9664576630443595,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/joint/reset/1",
+    "true_start": 17023,
+    "true_end": 18770,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 16,
+    "estimated_pitch": 3.9664576630443595,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/joint/removal/0",
+    "true_start": 7346,
+    "true_end": 8826,
+    "inferred_start": 7232,
+    "inferred_end": 9024,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9595424704017993,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/joint/removal/0",
+    "true_start": 17023,
+    "true_end": 18770,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 16,
+    "estimated_pitch": 3.9664576630443595,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/joint/removal/0",
+    "true_start": 1864,
+    "true_end": 3528,
+    "inferred_start": 1984,
+    "inferred_end": 3776,
+    "true_pitch": 16,
+    "estimated_pitch": -2.951925859728392,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/joint/removal/1",
+    "true_start": 7346,
+    "true_end": 8826,
+    "inferred_start": 7232,
+    "inferred_end": 9024,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9595424704017993,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/joint/removal/1",
+    "true_start": 17023,
+    "true_end": 18770,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 16,
+    "estimated_pitch": 3.9664576630443595,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/joint/removal/1",
+    "true_start": 1864,
+    "true_end": 3528,
+    "inferred_start": 1984,
+    "inferred_end": 3776,
+    "true_pitch": 16,
+    "estimated_pitch": -2.951925859728392,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/joint/swap/0",
+    "true_start": 7346,
+    "true_end": 8826,
+    "inferred_start": 7232,
+    "inferred_end": 9024,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9595424704017993,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/joint/swap/0",
+    "true_start": 17023,
+    "true_end": 18770,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 16,
+    "estimated_pitch": 3.9664576630443595,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/joint/swap/0",
+    "true_start": 1864,
+    "true_end": 3528,
+    "inferred_start": 1984,
+    "inferred_end": 3776,
+    "true_pitch": 16,
+    "estimated_pitch": -2.951925859728392,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/joint/swap/1",
+    "true_start": 7346,
+    "true_end": 8826,
+    "inferred_start": 7232,
+    "inferred_end": 9024,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9595424704017993,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/joint/swap/1",
+    "true_start": 17023,
+    "true_end": 18770,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 16,
+    "estimated_pitch": 3.9664576630443595,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/joint/swap/1",
+    "true_start": 1864,
+    "true_end": 3528,
+    "inferred_start": 1984,
+    "inferred_end": 3776,
+    "true_pitch": 16,
+    "estimated_pitch": -2.951925859728392,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/joint/shuffle/0",
+    "true_start": 17023,
+    "true_end": 18770,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 16,
+    "estimated_pitch": 3.9664576630443595,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/joint/shuffle/0",
+    "true_start": 384,
+    "true_end": 1864,
+    "inferred_start": 256,
+    "inferred_end": 2112,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9438511318570448,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/joint/shuffle/0",
+    "true_start": 8826,
+    "true_end": 10490,
+    "inferred_start": 8960,
+    "inferred_end": 10752,
+    "true_pitch": 16,
+    "estimated_pitch": -2.946391751951273,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/joint/shuffle/1",
+    "true_start": 17023,
+    "true_end": 18770,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 16,
+    "estimated_pitch": 3.9664576630443595,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/joint/shuffle/1",
+    "true_start": 384,
+    "true_end": 1864,
+    "inferred_start": 256,
+    "inferred_end": 2112,
+    "true_pitch": 18,
+    "estimated_pitch": -0.9438511318570448,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/joint/shuffle/1",
+    "true_start": 8826,
+    "true_end": 10490,
+    "inferred_start": 8960,
+    "inferred_end": 10752,
+    "true_pitch": 16,
+    "estimated_pitch": -2.946391751951273,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/joint/ambiguous/0",
+    "true_start": 17023,
+    "true_end": 18770,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 16,
+    "estimated_pitch": 3.9664576630443595,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/joint/ambiguous/0",
+    "true_start": 1864,
+    "true_end": 3528,
+    "inferred_start": 1984,
+    "inferred_end": 3776,
+    "true_pitch": 16,
+    "estimated_pitch": -2.951925859728392,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/joint/ambiguous/0",
+    "true_start": 8826,
+    "true_end": 10490,
+    "inferred_start": 8960,
+    "inferred_end": 10752,
+    "true_pitch": 16,
+    "estimated_pitch": -2.946391751951273,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/joint/ambiguous/1",
+    "true_start": 17023,
+    "true_end": 18770,
+    "inferred_start": 17216,
+    "inferred_end": 18944,
+    "true_pitch": 16,
+    "estimated_pitch": 3.9664576630443595,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/joint/ambiguous/1",
+    "true_start": 1864,
+    "true_end": 3528,
+    "inferred_start": 1984,
+    "inferred_end": 3776,
+    "true_pitch": 16,
+    "estimated_pitch": -2.951925859728392,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-14/joint/ambiguous/1",
+    "true_start": 8826,
+    "true_end": 10490,
+    "inferred_start": 8960,
+    "inferred_end": 10752,
+    "true_pitch": 16,
+    "estimated_pitch": -2.946391751951273,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-15/legato/intact/0",
+    "true_start": 16808,
+    "true_end": 18367,
+    "inferred_start": 16832,
+    "inferred_end": 18560,
+    "true_pitch": 20,
+    "estimated_pitch": 0.9833167019802098,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-15/legato/intact/0",
+    "true_start": 8743,
+    "true_end": 10302,
+    "inferred_start": 8768,
+    "inferred_end": 10496,
+    "true_pitch": 20,
+    "estimated_pitch": 0.9833051755294756,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-15/legato/intact/0",
+    "true_start": 384,
+    "true_end": 1830,
+    "inferred_start": 256,
+    "inferred_end": 2048,
+    "true_pitch": 18,
+    "estimated_pitch": 5.794324711520371,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-15/legato/intact/1",
+    "true_start": 16808,
+    "true_end": 18367,
+    "inferred_start": 16832,
+    "inferred_end": 18560,
+    "true_pitch": 20,
+    "estimated_pitch": 0.9833167019802098,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-15/legato/intact/1",
+    "true_start": 8743,
+    "true_end": 10302,
+    "inferred_start": 8768,
+    "inferred_end": 10496,
+    "true_pitch": 20,
+    "estimated_pitch": 0.9833051755294756,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-15/legato/intact/1",
+    "true_start": 10302,
+    "true_end": 11789,
+    "inferred_start": 10496,
+    "inferred_end": 11904,
+    "true_pitch": 25,
+    "estimated_pitch": 25.363077649262706,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-15/legato/intact/1",
+    "true_start": 384,
+    "true_end": 1830,
+    "inferred_start": 256,
+    "inferred_end": 2048,
+    "true_pitch": 18,
+    "estimated_pitch": 5.794324711520371,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-15/duration/intact/0",
+    "true_start": 8841,
+    "true_end": 10508,
+    "inferred_start": 8832,
+    "inferred_end": 10688,
+    "true_pitch": 20,
+    "estimated_pitch": 0.9916648967018638,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-15/duration/intact/0",
+    "true_start": 17050,
+    "true_end": 18800,
+    "inferred_start": 17024,
+    "inferred_end": 19008,
+    "true_pitch": 20,
+    "estimated_pitch": 0.9891163313384462,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-15/duration/intact/0",
+    "true_start": 384,
+    "true_end": 1867,
+    "inferred_start": 256,
+    "inferred_end": 2048,
+    "true_pitch": 18,
+    "estimated_pitch": 5.824865076032694,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-15/duration/intact/0",
+    "true_start": 10508,
+    "true_end": 11847,
+    "inferred_start": 10688,
+    "inferred_end": 12032,
+    "true_pitch": 25,
+    "estimated_pitch": 24.595593472844193,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-15/duration/intact/1",
+    "true_start": 8841,
+    "true_end": 10508,
+    "inferred_start": 8832,
+    "inferred_end": 10688,
+    "true_pitch": 20,
+    "estimated_pitch": 0.9916648967018638,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-15/duration/intact/1",
+    "true_start": 17050,
+    "true_end": 18800,
+    "inferred_start": 17024,
+    "inferred_end": 19008,
+    "true_pitch": 20,
+    "estimated_pitch": 0.9891163313384462,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-15/duration/intact/1",
+    "true_start": 384,
+    "true_end": 1867,
+    "inferred_start": 256,
+    "inferred_end": 2048,
+    "true_pitch": 18,
+    "estimated_pitch": 5.824865076032694,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-15/duration/intact/1",
+    "true_start": 10508,
+    "true_end": 11847,
+    "inferred_start": 10688,
+    "inferred_end": 11968,
+    "true_pitch": 25,
+    "estimated_pitch": 25.417268967942405,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-15/joint/intact/0",
+    "true_start": 17050,
+    "true_end": 18800,
+    "inferred_start": 17024,
+    "inferred_end": 19008,
+    "true_pitch": 20,
+    "estimated_pitch": 0.9891163313384462,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-15/joint/intact/0",
+    "true_start": 7358,
+    "true_end": 8841,
+    "inferred_start": 7232,
+    "inferred_end": 9024,
+    "true_pitch": 18,
+    "estimated_pitch": -6.00185971146755,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-15/joint/intact/0",
+    "true_start": 10508,
+    "true_end": 11847,
+    "inferred_start": 10688,
+    "inferred_end": 11968,
+    "true_pitch": 25,
+    "estimated_pitch": 13.041364164258235,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-15/joint/intact/1",
+    "true_start": 17050,
+    "true_end": 18800,
+    "inferred_start": 17024,
+    "inferred_end": 19008,
+    "true_pitch": 20,
+    "estimated_pitch": 0.9891163313384462,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-15/joint/intact/1",
+    "true_start": 7358,
+    "true_end": 8841,
+    "inferred_start": 7232,
+    "inferred_end": 9024,
+    "true_pitch": 18,
+    "estimated_pitch": -6.00185971146755,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-15/joint/intact/1",
+    "true_start": 10508,
+    "true_end": 11847,
+    "inferred_start": 10688,
+    "inferred_end": 12096,
+    "true_pitch": 25,
+    "estimated_pitch": 13.035428747287476,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-15/joint/reset/0",
+    "true_start": 17050,
+    "true_end": 18800,
+    "inferred_start": 17024,
+    "inferred_end": 19008,
+    "true_pitch": 20,
+    "estimated_pitch": 0.9891163313384462,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-15/joint/reset/1",
+    "true_start": 17050,
+    "true_end": 18800,
+    "inferred_start": 17024,
+    "inferred_end": 19008,
+    "true_pitch": 20,
+    "estimated_pitch": 0.9891163313384462,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-15/joint/removal/0",
+    "true_start": 17050,
+    "true_end": 18800,
+    "inferred_start": 17024,
+    "inferred_end": 19008,
+    "true_pitch": 20,
+    "estimated_pitch": 0.9891163313384462,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-15/joint/removal/0",
+    "true_start": 7358,
+    "true_end": 8841,
+    "inferred_start": 7232,
+    "inferred_end": 9024,
+    "true_pitch": 18,
+    "estimated_pitch": -6.00185971146755,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-15/joint/removal/1",
+    "true_start": 17050,
+    "true_end": 18800,
+    "inferred_start": 17024,
+    "inferred_end": 19008,
+    "true_pitch": 20,
+    "estimated_pitch": 0.9891163313384462,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-15/joint/removal/1",
+    "true_start": 7358,
+    "true_end": 8841,
+    "inferred_start": 7232,
+    "inferred_end": 9024,
+    "true_pitch": 18,
+    "estimated_pitch": -6.00185971146755,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-15/joint/swap/0",
+    "true_start": 17050,
+    "true_end": 18800,
+    "inferred_start": 17024,
+    "inferred_end": 19008,
+    "true_pitch": 20,
+    "estimated_pitch": 0.9891163313384462,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-15/joint/swap/0",
+    "true_start": 7358,
+    "true_end": 8841,
+    "inferred_start": 7232,
+    "inferred_end": 9024,
+    "true_pitch": 18,
+    "estimated_pitch": -6.00185971146755,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-15/joint/swap/0",
+    "true_start": 10508,
+    "true_end": 11847,
+    "inferred_start": 10688,
+    "inferred_end": 12096,
+    "true_pitch": 25,
+    "estimated_pitch": 13.035428747287476,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-15/joint/swap/1",
+    "true_start": 17050,
+    "true_end": 18800,
+    "inferred_start": 17024,
+    "inferred_end": 19008,
+    "true_pitch": 20,
+    "estimated_pitch": 0.9891163313384462,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-15/joint/swap/1",
+    "true_start": 7358,
+    "true_end": 8841,
+    "inferred_start": 7232,
+    "inferred_end": 9024,
+    "true_pitch": 18,
+    "estimated_pitch": -6.00185971146755,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-15/joint/swap/1",
+    "true_start": 10508,
+    "true_end": 11847,
+    "inferred_start": 10688,
+    "inferred_end": 11968,
+    "true_pitch": 25,
+    "estimated_pitch": 13.041364164258235,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-15/joint/shuffle/0",
+    "true_start": 17050,
+    "true_end": 18800,
+    "inferred_start": 17024,
+    "inferred_end": 19008,
+    "true_pitch": 20,
+    "estimated_pitch": 0.9891163313384462,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-15/joint/shuffle/0",
+    "true_start": 3534,
+    "true_end": 4873,
+    "inferred_start": 3712,
+    "inferred_end": 4992,
+    "true_pitch": 25,
+    "estimated_pitch": 13.041207340248153,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-15/joint/shuffle/1",
+    "true_start": 17050,
+    "true_end": 18800,
+    "inferred_start": 17024,
+    "inferred_end": 19008,
+    "true_pitch": 20,
+    "estimated_pitch": 0.9891163313384462,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-15/joint/shuffle/1",
+    "true_start": 3534,
+    "true_end": 4873,
+    "inferred_start": 3712,
+    "inferred_end": 5120,
+    "true_pitch": 25,
+    "estimated_pitch": 13.035217950610104,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-15/joint/ambiguous/0",
+    "true_start": 17050,
+    "true_end": 18800,
+    "inferred_start": 17024,
+    "inferred_end": 19008,
+    "true_pitch": 20,
+    "estimated_pitch": 0.9891163313384462,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-15/joint/ambiguous/0",
+    "true_start": 7358,
+    "true_end": 8841,
+    "inferred_start": 7232,
+    "inferred_end": 9024,
+    "true_pitch": 18,
+    "estimated_pitch": -6.00185971146755,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-15/joint/ambiguous/0",
+    "true_start": 10508,
+    "true_end": 11847,
+    "inferred_start": 10688,
+    "inferred_end": 11968,
+    "true_pitch": 25,
+    "estimated_pitch": 13.041364164258235,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-15/joint/ambiguous/0",
+    "true_start": 3534,
+    "true_end": 4873,
+    "inferred_start": 3712,
+    "inferred_end": 5120,
+    "true_pitch": 25,
+    "estimated_pitch": 13.035217950610104,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-15/joint/ambiguous/1",
+    "true_start": 17050,
+    "true_end": 18800,
+    "inferred_start": 17024,
+    "inferred_end": 19008,
+    "true_pitch": 20,
+    "estimated_pitch": 0.9891163313384462,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-15/joint/ambiguous/1",
+    "true_start": 7358,
+    "true_end": 8841,
+    "inferred_start": 7232,
+    "inferred_end": 9024,
+    "true_pitch": 18,
+    "estimated_pitch": -6.00185971146755,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-15/joint/ambiguous/1",
+    "true_start": 10508,
+    "true_end": 11847,
+    "inferred_start": 10688,
+    "inferred_end": 11968,
+    "true_pitch": 25,
+    "estimated_pitch": 13.041364164258235,
+    "bound_difference": true
+  },
+  {
+    "episode": "cea-15/joint/ambiguous/1",
+    "true_start": 3534,
+    "true_end": 4873,
+    "inferred_start": 3712,
+    "inferred_end": 5120,
+    "true_pitch": 25,
+    "estimated_pitch": 13.035217950610104,
+    "bound_difference": true
+  }
+]

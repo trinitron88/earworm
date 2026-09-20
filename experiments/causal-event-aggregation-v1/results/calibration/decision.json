@@ -1,0 +1,22 @@
+{
+  "branch": "C",
+  "validity_passed": true,
+  "oracle_ceiling_pass": true,
+  "mixture_paired_success_pass": false,
+  "noninferiority": false,
+  "joint_over_present_lower95": 0.375,
+  "joint_proper_score_increases": {
+    "log_loss": "+Infinity",
+    "brier": 0.5331253174527136
+  },
+  "event_gates": true,
+  "latency_pass": true,
+  "control_pass": false,
+  "safety_pass": false,
+  "trim16_comparison": {
+    "joint_gain": -0.1875,
+    "lower95": -0.4375,
+    "upper95": 0.0
+  },
+  "next": "Reject aggregator, end crop/within-event aggregation micro-repairs; PM selects different event representation or concrete blocker."
+}

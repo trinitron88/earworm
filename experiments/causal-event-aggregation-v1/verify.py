@@ -107,7 +107,7 @@ def main(split):
                     assert w['observation']['wave_sha256']==digest(raw[w['start_sample']*4:w['end_sample']*4])
                     assert orig['computed_monotonic_ns']<=w['computed_monotonic_ns']<=e['computed_monotonic_ns']
                     assert w['end_sample']<=w['available_sample']==e['available_sample']
-                cs,u,point=distribution(e['windows'],e['state_pitch'],cfg);assert numerical_equal(cs,e['distribution']['candidates']) and abs(u-e['distribution']['unknown_mass'])<=1e-12 and point==e['observation']['pitch_semitones']
+                cs,u,point=distribution(e['windows'],e['state_pitch'],cfg);assert numerical_equal(cs,e['distribution']['candidates']) and abs(u-e['distribution']['unknown_mass'])<=1e-12 and numerical_equal(point,e['observation']['pitch_semitones'])
             assert pred['events'][name]==pred['events'][name+'_mixture']
         for b in t['bounds']:assert digest(raw[b['start']*4:b['end']*4])==b['wave_sha256']
         outputs={**pred['forecasts'],'oracle-boundary':x['oracle_forecasts']};events={**pred['events'],'oracle-boundary':x['oracle_events']};assert oc['forecasts']==x['oracle_forecasts'];scored=next(v['scores'] for v in r if v['kind']=='score')

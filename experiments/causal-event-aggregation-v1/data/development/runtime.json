@@ -1,0 +1,15 @@
+{
+  "split": "development",
+  "episodes": 144,
+  "support_observation_calls": 1698,
+  "aggregation_window_calls": 34737,
+  "additional_future_probes": 32,
+  "elapsed_seconds": 20.414212417032104,
+  "execution_revision": "fc69affb1caf1fc4c7065465d2f39b0e9439f349",
+  "execution_code_sha256": "70d533cfbd3a93ba38cb22cd12f0f2e30c1431a77123cf097fc1c8e3d1fc6a38",
+  "model_sha256": "d2bec4fcce656058d3aa5c35381d0904741b93a962d6dcaceca29951c8c50cf0",
+  "retained_bytes": 68581496,
+  "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "numpy": "2.5.3",
+  "end_utc_ns": 1789947670064626000
+}
