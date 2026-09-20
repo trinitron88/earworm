@@ -1,0 +1,5006 @@
+[
+  {
+    "kind": "acoustic",
+    "model": "present",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_pair_total_variation": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_pair_total_variation": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "accuracy_drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "cmr-16",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-16",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-17",
+            "variant": 0,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-17",
+            "variant": 1,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-18",
+            "variant": 0,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-18",
+            "variant": 1,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-19",
+            "variant": 0,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-19",
+            "variant": 1,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-20",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-20",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-21",
+            "variant": 0,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-21",
+            "variant": 1,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-22",
+            "variant": 0,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-22",
+            "variant": 1,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-23",
+            "variant": 0,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-23",
+            "variant": 1,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-24",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-24",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-25",
+            "variant": 0,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-25",
+            "variant": 1,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-26",
+            "variant": 0,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-26",
+            "variant": 1,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-27",
+            "variant": 0,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-27",
+            "variant": 1,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-28",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-28",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-29",
+            "variant": 0,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-29",
+            "variant": 1,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-30",
+            "variant": 0,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-30",
+            "variant": 1,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-31",
+            "variant": 0,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-31",
+            "variant": 1,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-32",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-32",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-33",
+            "variant": 0,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-33",
+            "variant": 1,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-34",
+            "variant": 0,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-34",
+            "variant": 1,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-35",
+            "variant": 0,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-35",
+            "variant": 1,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-36",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-36",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-37",
+            "variant": 0,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-37",
+            "variant": 1,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-38",
+            "variant": 0,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-38",
+            "variant": 1,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-39",
+            "variant": 0,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-39",
+            "variant": 1,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "acoustic",
+    "model": "recency",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_pair_total_variation": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_pair_total_variation": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.25,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "accuracy_drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "cmr-16",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-16",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-17",
+            "variant": 0,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-17",
+            "variant": 1,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-18",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-18",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-19",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-19",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-20",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-20",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-21",
+            "variant": 0,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-21",
+            "variant": 1,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-22",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-22",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-23",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-23",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-24",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-24",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-25",
+            "variant": 0,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-25",
+            "variant": 1,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-26",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-26",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-27",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-27",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-28",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-28",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-29",
+            "variant": 0,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-29",
+            "variant": 1,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-30",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-30",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-31",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-31",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-32",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-32",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-33",
+            "variant": 0,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-33",
+            "variant": 1,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-34",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-34",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-35",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-35",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-36",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-36",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-37",
+            "variant": 0,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-37",
+            "variant": 1,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-38",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-38",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-39",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-39",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "acoustic",
+    "model": "transition",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_pair_total_variation": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_pair_total_variation": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.5,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "accuracy_drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "cmr-16",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-16",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-17",
+            "variant": 0,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-17",
+            "variant": 1,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-18",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-18",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-19",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-19",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-20",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-20",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-21",
+            "variant": 0,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-21",
+            "variant": 1,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-22",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-22",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-23",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-23",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-24",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-24",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-25",
+            "variant": 0,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-25",
+            "variant": 1,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-26",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-26",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-27",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-27",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-28",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-28",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-29",
+            "variant": 0,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-29",
+            "variant": 1,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-30",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-30",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-31",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-31",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-32",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-32",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-33",
+            "variant": 0,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-33",
+            "variant": 1,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-34",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-34",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-35",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-35",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-36",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-36",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-37",
+            "variant": 0,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-37",
+            "variant": 1,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-38",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-38",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-39",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-39",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "acoustic",
+    "model": "retrieval_absolute",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_pair_total_variation": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_pair_total_variation": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.5,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "accuracy_drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "cmr-16",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-16",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-17",
+            "variant": 0,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-17",
+            "variant": 1,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-18",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-18",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-19",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-19",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-20",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-20",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-21",
+            "variant": 0,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-21",
+            "variant": 1,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-22",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-22",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-23",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-23",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-24",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-24",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-25",
+            "variant": 0,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-25",
+            "variant": 1,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-26",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-26",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-27",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-27",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-28",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-28",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-29",
+            "variant": 0,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-29",
+            "variant": 1,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-30",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-30",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-31",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-31",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-32",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-32",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-33",
+            "variant": 0,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-33",
+            "variant": 1,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-34",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-34",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-35",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-35",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-36",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-36",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-37",
+            "variant": 0,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-37",
+            "variant": 1,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-38",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-38",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-39",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-39",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "acoustic",
+    "model": "reference",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_pair_total_variation": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_pair_total_variation": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.75,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "accuracy_drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "cmr-16",
+            "variant": 0,
+            "mass": 4e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.49952,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-16",
+            "variant": 1,
+            "mass": 4e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.49952,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-17",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-17",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-18",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-18",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-19",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-19",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-20",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-20",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-21",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-21",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-22",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-22",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-23",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-23",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-24",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-24",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-25",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-25",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-26",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-26",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-27",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-27",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-28",
+            "variant": 0,
+            "mass": 4e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.49952,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-28",
+            "variant": 1,
+            "mass": 4e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.49952,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-29",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-29",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-30",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-30",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-31",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-31",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-32",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-32",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-33",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-33",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-34",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-34",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-35",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-35",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-36",
+            "variant": 0,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-36",
+            "variant": 1,
+            "mass": 3.9999999999999996e-05,
+            "max_deviation": 0.49998,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-37",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-37",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-38",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-38",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-39",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-39",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "acoustic",
+    "model": "candidate",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_pair_total_variation": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.125,
+        "paired_success": 0.0,
+        "max_pair_total_variation": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.75,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "accuracy_drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "cmr-16",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.476,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-16",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.476,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-17",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-17",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-18",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-18",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-19",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-19",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-20",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.476,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-20",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.476,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-21",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-21",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-22",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-22",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-23",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-23",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-24",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.476,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-24",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.476,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-25",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-25",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-26",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-26",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-27",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-27",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-28",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.476,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-28",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.476,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-29",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-29",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-30",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-30",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-31",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-31",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-32",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.476,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-32",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.476,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-33",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-33",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-34",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-34",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-35",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-35",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-36",
+            "variant": 0,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.476,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-36",
+            "variant": 1,
+            "mass": 0.002,
+            "max_deviation": 0.499,
+            "max_probability": 0.476,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-37",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-37",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-38",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-38",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-39",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-39",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "oracle",
+    "model": "present",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.16666666666666666,
+        "paired_success": 0.0,
+        "max_pair_total_variation": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.16666666666666666,
+        "paired_success": 0.0,
+        "max_pair_total_variation": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "accuracy_drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "cmr-16",
+            "variant": 0,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-16",
+            "variant": 1,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-17",
+            "variant": 0,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-17",
+            "variant": 1,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-18",
+            "variant": 0,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-18",
+            "variant": 1,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-19",
+            "variant": 0,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-19",
+            "variant": 1,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-20",
+            "variant": 0,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-20",
+            "variant": 1,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-21",
+            "variant": 0,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-21",
+            "variant": 1,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-22",
+            "variant": 0,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-22",
+            "variant": 1,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-23",
+            "variant": 0,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-23",
+            "variant": 1,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-24",
+            "variant": 0,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-24",
+            "variant": 1,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-25",
+            "variant": 0,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-25",
+            "variant": 1,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-26",
+            "variant": 0,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-26",
+            "variant": 1,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-27",
+            "variant": 0,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-27",
+            "variant": 1,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-28",
+            "variant": 0,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-28",
+            "variant": 1,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-29",
+            "variant": 0,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-29",
+            "variant": 1,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-30",
+            "variant": 0,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-30",
+            "variant": 1,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-31",
+            "variant": 0,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-31",
+            "variant": 1,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-32",
+            "variant": 0,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-32",
+            "variant": 1,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-33",
+            "variant": 0,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-33",
+            "variant": 1,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-34",
+            "variant": 0,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-34",
+            "variant": 1,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-35",
+            "variant": 0,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-35",
+            "variant": 1,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-36",
+            "variant": 0,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-36",
+            "variant": 1,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-37",
+            "variant": 0,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-37",
+            "variant": 1,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-38",
+            "variant": 0,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-38",
+            "variant": 1,
+            "mass": 0.2395,
+            "max_deviation": 0.38025,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-39",
+            "variant": 0,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-39",
+            "variant": 1,
+            "mass": 0.35824999999999996,
+            "max_deviation": 0.320875,
+            "max_probability": 0.17912499999999998,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "oracle",
+    "model": "recency",
+    "pass_gate": false,
+    "details": {
+      "reset": {
+        "accuracy": 0.16666666666666666,
+        "paired_success": 0.0,
+        "max_pair_total_variation": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.16666666666666666,
+        "paired_success": 0.0,
+        "max_pair_total_variation": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 0.5,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": false
+      },
+      "shuffle": {
+        "accuracy_drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": false,
+        "records": [
+          {
+            "group": "cmr-16",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-16",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-17",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-17",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-18",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-18",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-19",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-19",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-20",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-20",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-21",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-21",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-22",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-22",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-23",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-23",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-24",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-24",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-25",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-25",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-26",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-26",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-27",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-27",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-28",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-28",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-29",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-29",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-30",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-30",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-31",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-31",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-32",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-32",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-33",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-33",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-34",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-34",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-35",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-35",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-36",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-36",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-37",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-37",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-38",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-38",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-39",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          },
+          {
+            "group": "cmr-39",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.499,
+            "max_probability": 0.951,
+            "pass_gate": false
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "oracle",
+    "model": "transition",
+    "pass_gate": true,
+    "details": {
+      "reset": {
+        "accuracy": 0.16666666666666666,
+        "paired_success": 0.0,
+        "max_pair_total_variation": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.16666666666666666,
+        "paired_success": 0.0,
+        "max_pair_total_variation": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 1.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": true
+      },
+      "shuffle": {
+        "accuracy_drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": true,
+        "records": [
+          {
+            "group": "cmr-16",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-16",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-17",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-17",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-18",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-18",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-19",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-19",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-20",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-20",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-21",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-21",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-22",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-22",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-23",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-23",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-24",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-24",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-25",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-25",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-26",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-26",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-27",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-27",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-28",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-28",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-29",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-29",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-30",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-30",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-31",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-31",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-32",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-32",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-33",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-33",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-34",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-34",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-35",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-35",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-36",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-36",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-37",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-37",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-38",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-38",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-39",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-39",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "oracle",
+    "model": "retrieval_absolute",
+    "pass_gate": true,
+    "details": {
+      "reset": {
+        "accuracy": 0.16666666666666666,
+        "paired_success": 0.0,
+        "max_pair_total_variation": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.16666666666666666,
+        "paired_success": 0.0,
+        "max_pair_total_variation": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 1.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": true
+      },
+      "shuffle": {
+        "accuracy_drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": true,
+        "records": [
+          {
+            "group": "cmr-16",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-16",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-17",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-17",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-18",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-18",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-19",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-19",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-20",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-20",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-21",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-21",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-22",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-22",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-23",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-23",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-24",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-24",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-25",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-25",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-26",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-26",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-27",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-27",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-28",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-28",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-29",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-29",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-30",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-30",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-31",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-31",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-32",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-32",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-33",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-33",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-34",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-34",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-35",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-35",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-36",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-36",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-37",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-37",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-38",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-38",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-39",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-39",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "oracle",
+    "model": "reference",
+    "pass_gate": true,
+    "details": {
+      "reset": {
+        "accuracy": 0.16666666666666666,
+        "paired_success": 0.0,
+        "max_pair_total_variation": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.16666666666666666,
+        "paired_success": 0.0,
+        "max_pair_total_variation": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 1.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": true
+      },
+      "shuffle": {
+        "accuracy_drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": true,
+        "records": [
+          {
+            "group": "cmr-16",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-16",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-17",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-17",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-18",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-18",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-19",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-19",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-20",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-20",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-21",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-21",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-22",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-22",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-23",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-23",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-24",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-24",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-25",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-25",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-26",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-26",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-27",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-27",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-28",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-28",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-29",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-29",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-30",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-30",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-31",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-31",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-32",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-32",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-33",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-33",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-34",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-34",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-35",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-35",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-36",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-36",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-37",
+            "variant": 0,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-37",
+            "variant": 1,
+            "mass": 0.99904,
+            "max_deviation": 0.00047999999999998044,
+            "max_probability": 0.49952,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-38",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-38",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-39",
+            "variant": 0,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-39",
+            "variant": 1,
+            "mass": 0.9990399999999998,
+            "max_deviation": 0.00048000000000009146,
+            "max_probability": 0.4995199999999999,
+            "pass_gate": true
+          }
+        ]
+      }
+    }
+  },
+  {
+    "kind": "oracle",
+    "model": "candidate",
+    "pass_gate": true,
+    "details": {
+      "reset": {
+        "accuracy": 0.16666666666666666,
+        "paired_success": 0.0,
+        "max_pair_total_variation": 0.0,
+        "pass_gate": true
+      },
+      "removal": {
+        "accuracy": 0.16666666666666666,
+        "paired_success": 0.0,
+        "max_pair_total_variation": 0.0,
+        "pass_gate": true
+      },
+      "swap": {
+        "paired_success": 1.0,
+        "max_counterpart_difference": 0.0,
+        "pass_gate": true
+      },
+      "shuffle": {
+        "accuracy_drop": 0.0,
+        "pass_gate": true
+      },
+      "ambiguous": {
+        "pass_gate": true,
+        "records": [
+          {
+            "group": "cmr-16",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-16",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-17",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-17",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-18",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-18",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-19",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-19",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-20",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-20",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-21",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-21",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-22",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-22",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-23",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-23",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-24",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-24",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-25",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-25",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-26",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-26",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-27",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-27",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-28",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-28",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-29",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-29",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-30",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-30",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-31",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-31",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-32",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-32",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-33",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-33",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-34",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-34",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-35",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-35",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-36",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-36",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-37",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-37",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-38",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-38",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-39",
+            "variant": 0,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          },
+          {
+            "group": "cmr-39",
+            "variant": 1,
+            "mass": 0.952,
+            "max_deviation": 0.02400000000000002,
+            "max_probability": 0.476,
+            "pass_gate": true
+          }
+        ]
+      }
+    }
+  }
+]

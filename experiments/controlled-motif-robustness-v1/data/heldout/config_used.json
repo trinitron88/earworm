@@ -1,0 +1,192 @@
+{
+  "reference": {
+    "prior": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.375,
+      0.125,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.125,
+      0.375,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "transition_order": 2,
+    "retrieval_absolute_order": 2,
+    "retrieval_transposed_order": 3,
+    "relational_order": 3,
+    "transition_cutoff": 0.1,
+    "retrieval_absolute_cutoff": 0.1,
+    "retrieval_transposed_cutoff": 0.1,
+    "relational_cutoff": 0.1,
+    "calibration": {
+      "present": {
+        "temperature": 0.05,
+        "sigma": 0.08,
+        "floor": 0.001
+      },
+      "recency": {
+        "temperature": 0.05,
+        "sigma": 0.08,
+        "floor": 0.05
+      },
+      "transition": {
+        "temperature": 0.05,
+        "sigma": 0.08,
+        "floor": 0.001
+      },
+      "retrieval_absolute": {
+        "temperature": 0.05,
+        "sigma": 0.08,
+        "floor": 0.001
+      },
+      "retrieval_transposed": {
+        "temperature": 0.05,
+        "sigma": 0.08,
+        "floor": 0.001
+      },
+      "relational": {
+        "temperature": 0.05,
+        "sigma": 0.08,
+        "floor": 0.001
+      }
+    }
+  },
+  "new": {
+    "prior": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.125,
+      0.1875,
+      0.1875,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.1875,
+      0.1875,
+      0.125,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "transition_order": 2,
+    "retrieval_absolute_order": 3,
+    "retrieval_transposed_order": 3,
+    "relational_order": 3,
+    "transition_cutoff": 0.1,
+    "retrieval_absolute_cutoff": 0.1,
+    "retrieval_transposed_cutoff": 0.1,
+    "relational_cutoff": 0.1,
+    "calibration": {
+      "present": {
+        "temperature": 0.05,
+        "sigma": 0.08,
+        "floor": 0.05
+      },
+      "recency": {
+        "temperature": 0.05,
+        "sigma": 0.08,
+        "floor": 0.05
+      },
+      "transition": {
+        "temperature": 0.05,
+        "sigma": 0.08,
+        "floor": 0.05
+      },
+      "retrieval_absolute": {
+        "temperature": 0.05,
+        "sigma": 0.08,
+        "floor": 0.05
+      },
+      "retrieval_transposed": {
+        "temperature": 0.05,
+        "sigma": 0.08,
+        "floor": 0.05
+      },
+      "relational": {
+        "temperature": 0.05,
+        "sigma": 0.08,
+        "floor": 0.001
+      }
+    },
+    "recency_order": 1,
+    "recency_cutoff": 0.1
+  }
+}

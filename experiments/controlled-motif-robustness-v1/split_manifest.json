@@ -1,0 +1,646 @@
+{
+  "groups": [
+    {
+      "group_id": "cmr-00",
+      "split": "development",
+      "seed": 20260920000,
+      "motif": [
+        2,
+        -6,
+        4,
+        3
+      ],
+      "order": 0,
+      "rich": true,
+      "direction": 0,
+      "rms": 0.12,
+      "tuple_id": 0
+    },
+    {
+      "group_id": "cmr-01",
+      "split": "development",
+      "seed": 20260920001,
+      "motif": [
+        2,
+        -4,
+        4,
+        4
+      ],
+      "order": 1,
+      "rich": true,
+      "direction": 0,
+      "rms": 0.08,
+      "tuple_id": 1
+    },
+    {
+      "group_id": "cmr-02",
+      "split": "development",
+      "seed": 20260920002,
+      "motif": [
+        2,
+        -2,
+        4,
+        5
+      ],
+      "order": 0,
+      "rich": false,
+      "direction": 1,
+      "rms": 0.12,
+      "tuple_id": 2
+    },
+    {
+      "group_id": "cmr-03",
+      "split": "development",
+      "seed": 20260920003,
+      "motif": [
+        3,
+        -4,
+        2,
+        3
+      ],
+      "order": 1,
+      "rich": false,
+      "direction": 1,
+      "rms": 0.08,
+      "tuple_id": 3
+    },
+    {
+      "group_id": "cmr-04",
+      "split": "development",
+      "seed": 20260920004,
+      "motif": [
+        3,
+        -2,
+        2,
+        4
+      ],
+      "order": 0,
+      "rich": true,
+      "direction": 0,
+      "rms": 0.12,
+      "tuple_id": 4
+    },
+    {
+      "group_id": "cmr-05",
+      "split": "development",
+      "seed": 20260920005,
+      "motif": [
+        4,
+        -5,
+        3,
+        5
+      ],
+      "order": 1,
+      "rich": true,
+      "direction": 0,
+      "rms": 0.08,
+      "tuple_id": 5
+    },
+    {
+      "group_id": "cmr-06",
+      "split": "development",
+      "seed": 20260920006,
+      "motif": [
+        4,
+        -2,
+        3,
+        3
+      ],
+      "order": 0,
+      "rich": false,
+      "direction": 1,
+      "rms": 0.12,
+      "tuple_id": 6
+    },
+    {
+      "group_id": "cmr-07",
+      "split": "development",
+      "seed": 20260920007,
+      "motif": [
+        5,
+        -5,
+        4,
+        4
+      ],
+      "order": 1,
+      "rich": false,
+      "direction": 1,
+      "rms": 0.08,
+      "tuple_id": 7
+    },
+    {
+      "group_id": "cmr-08",
+      "split": "calibration",
+      "seed": 20260920008,
+      "motif": [
+        5,
+        -3,
+        4,
+        5
+      ],
+      "order": 0,
+      "rich": true,
+      "direction": 0,
+      "rms": 0.12,
+      "tuple_id": 8
+    },
+    {
+      "group_id": "cmr-09",
+      "split": "calibration",
+      "seed": 20260920009,
+      "motif": [
+        6,
+        -5,
+        5,
+        3
+      ],
+      "order": 1,
+      "rich": true,
+      "direction": 0,
+      "rms": 0.08,
+      "tuple_id": 9
+    },
+    {
+      "group_id": "cmr-10",
+      "split": "calibration",
+      "seed": 20260920010,
+      "motif": [
+        6,
+        -3,
+        5,
+        4
+      ],
+      "order": 0,
+      "rich": false,
+      "direction": 1,
+      "rms": 0.12,
+      "tuple_id": 10
+    },
+    {
+      "group_id": "cmr-11",
+      "split": "calibration",
+      "seed": 20260920011,
+      "motif": [
+        7,
+        -6,
+        6,
+        5
+      ],
+      "order": 1,
+      "rich": false,
+      "direction": 1,
+      "rms": 0.08,
+      "tuple_id": 11
+    },
+    {
+      "group_id": "cmr-12",
+      "split": "calibration",
+      "seed": 20260920012,
+      "motif": [
+        7,
+        -3,
+        6,
+        3
+      ],
+      "order": 0,
+      "rich": true,
+      "direction": 0,
+      "rms": 0.12,
+      "tuple_id": 12
+    },
+    {
+      "group_id": "cmr-13",
+      "split": "calibration",
+      "seed": 20260920013,
+      "motif": [
+        2,
+        -6,
+        4,
+        4
+      ],
+      "order": 1,
+      "rich": true,
+      "direction": 0,
+      "rms": 0.08,
+      "tuple_id": 13
+    },
+    {
+      "group_id": "cmr-14",
+      "split": "calibration",
+      "seed": 20260920014,
+      "motif": [
+        2,
+        -4,
+        4,
+        5
+      ],
+      "order": 0,
+      "rich": false,
+      "direction": 1,
+      "rms": 0.12,
+      "tuple_id": 14
+    },
+    {
+      "group_id": "cmr-15",
+      "split": "calibration",
+      "seed": 20260920015,
+      "motif": [
+        3,
+        -6,
+        2,
+        3
+      ],
+      "order": 1,
+      "rich": false,
+      "direction": 1,
+      "rms": 0.08,
+      "tuple_id": 15
+    },
+    {
+      "group_id": "cmr-16",
+      "split": "heldout",
+      "seed": 20260920016,
+      "motif": [
+        3,
+        -4,
+        2,
+        4
+      ],
+      "order": 0,
+      "rich": true,
+      "direction": 0,
+      "rms": 0.12,
+      "tuple_id": 16
+    },
+    {
+      "group_id": "cmr-17",
+      "split": "heldout",
+      "seed": 20260920017,
+      "motif": [
+        3,
+        -2,
+        2,
+        5
+      ],
+      "order": 0,
+      "rich": true,
+      "direction": 1,
+      "rms": 0.08,
+      "tuple_id": 17
+    },
+    {
+      "group_id": "cmr-18",
+      "split": "heldout",
+      "seed": 20260920018,
+      "motif": [
+        4,
+        -4,
+        3,
+        3
+      ],
+      "order": 0,
+      "rich": false,
+      "direction": 0,
+      "rms": 0.12,
+      "tuple_id": 18
+    },
+    {
+      "group_id": "cmr-19",
+      "split": "heldout",
+      "seed": 20260920019,
+      "motif": [
+        4,
+        -2,
+        3,
+        4
+      ],
+      "order": 0,
+      "rich": false,
+      "direction": 1,
+      "rms": 0.08,
+      "tuple_id": 19
+    },
+    {
+      "group_id": "cmr-20",
+      "split": "heldout",
+      "seed": 20260920020,
+      "motif": [
+        5,
+        -5,
+        4,
+        5
+      ],
+      "order": 1,
+      "rich": true,
+      "direction": 0,
+      "rms": 0.12,
+      "tuple_id": 20
+    },
+    {
+      "group_id": "cmr-21",
+      "split": "heldout",
+      "seed": 20260920021,
+      "motif": [
+        5,
+        -2,
+        4,
+        3
+      ],
+      "order": 1,
+      "rich": true,
+      "direction": 1,
+      "rms": 0.08,
+      "tuple_id": 21
+    },
+    {
+      "group_id": "cmr-22",
+      "split": "heldout",
+      "seed": 20260920022,
+      "motif": [
+        6,
+        -5,
+        5,
+        4
+      ],
+      "order": 1,
+      "rich": false,
+      "direction": 0,
+      "rms": 0.12,
+      "tuple_id": 22
+    },
+    {
+      "group_id": "cmr-23",
+      "split": "heldout",
+      "seed": 20260920023,
+      "motif": [
+        6,
+        -3,
+        5,
+        5
+      ],
+      "order": 1,
+      "rich": false,
+      "direction": 1,
+      "rms": 0.08,
+      "tuple_id": 23
+    },
+    {
+      "group_id": "cmr-24",
+      "split": "heldout",
+      "seed": 20260920024,
+      "motif": [
+        7,
+        -5,
+        6,
+        3
+      ],
+      "order": 0,
+      "rich": true,
+      "direction": 0,
+      "rms": 0.12,
+      "tuple_id": 24
+    },
+    {
+      "group_id": "cmr-25",
+      "split": "heldout",
+      "seed": 20260920025,
+      "motif": [
+        7,
+        -3,
+        6,
+        4
+      ],
+      "order": 0,
+      "rich": true,
+      "direction": 1,
+      "rms": 0.08,
+      "tuple_id": 25
+    },
+    {
+      "group_id": "cmr-26",
+      "split": "heldout",
+      "seed": 20260920026,
+      "motif": [
+        2,
+        -6,
+        4,
+        5
+      ],
+      "order": 0,
+      "rich": false,
+      "direction": 0,
+      "rms": 0.12,
+      "tuple_id": 26
+    },
+    {
+      "group_id": "cmr-27",
+      "split": "heldout",
+      "seed": 20260920027,
+      "motif": [
+        2,
+        -3,
+        4,
+        3
+      ],
+      "order": 0,
+      "rich": false,
+      "direction": 1,
+      "rms": 0.08,
+      "tuple_id": 27
+    },
+    {
+      "group_id": "cmr-28",
+      "split": "heldout",
+      "seed": 20260920028,
+      "motif": [
+        3,
+        -6,
+        2,
+        4
+      ],
+      "order": 1,
+      "rich": true,
+      "direction": 0,
+      "rms": 0.12,
+      "tuple_id": 28
+    },
+    {
+      "group_id": "cmr-29",
+      "split": "heldout",
+      "seed": 20260920029,
+      "motif": [
+        3,
+        -4,
+        2,
+        5
+      ],
+      "order": 1,
+      "rich": true,
+      "direction": 1,
+      "rms": 0.08,
+      "tuple_id": 29
+    },
+    {
+      "group_id": "cmr-30",
+      "split": "heldout",
+      "seed": 20260920030,
+      "motif": [
+        4,
+        -6,
+        3,
+        3
+      ],
+      "order": 1,
+      "rich": false,
+      "direction": 0,
+      "rms": 0.12,
+      "tuple_id": 30
+    },
+    {
+      "group_id": "cmr-31",
+      "split": "heldout",
+      "seed": 20260920031,
+      "motif": [
+        4,
+        -4,
+        3,
+        4
+      ],
+      "order": 1,
+      "rich": false,
+      "direction": 1,
+      "rms": 0.08,
+      "tuple_id": 31
+    },
+    {
+      "group_id": "cmr-32",
+      "split": "heldout",
+      "seed": 20260920032,
+      "motif": [
+        4,
+        -2,
+        3,
+        5
+      ],
+      "order": 0,
+      "rich": true,
+      "direction": 0,
+      "rms": 0.12,
+      "tuple_id": 32
+    },
+    {
+      "group_id": "cmr-33",
+      "split": "heldout",
+      "seed": 20260920033,
+      "motif": [
+        5,
+        -4,
+        4,
+        3
+      ],
+      "order": 0,
+      "rich": true,
+      "direction": 1,
+      "rms": 0.08,
+      "tuple_id": 33
+    },
+    {
+      "group_id": "cmr-34",
+      "split": "heldout",
+      "seed": 20260920034,
+      "motif": [
+        5,
+        -2,
+        4,
+        4
+      ],
+      "order": 0,
+      "rich": false,
+      "direction": 0,
+      "rms": 0.12,
+      "tuple_id": 34
+    },
+    {
+      "group_id": "cmr-35",
+      "split": "heldout",
+      "seed": 20260920035,
+      "motif": [
+        6,
+        -5,
+        5,
+        5
+      ],
+      "order": 0,
+      "rich": false,
+      "direction": 1,
+      "rms": 0.08,
+      "tuple_id": 35
+    },
+    {
+      "group_id": "cmr-36",
+      "split": "heldout",
+      "seed": 20260920036,
+      "motif": [
+        6,
+        -2,
+        5,
+        3
+      ],
+      "order": 1,
+      "rich": true,
+      "direction": 0,
+      "rms": 0.12,
+      "tuple_id": 36
+    },
+    {
+      "group_id": "cmr-37",
+      "split": "heldout",
+      "seed": 20260920037,
+      "motif": [
+        7,
+        -5,
+        6,
+        4
+      ],
+      "order": 1,
+      "rich": true,
+      "direction": 1,
+      "rms": 0.08,
+      "tuple_id": 37
+    },
+    {
+      "group_id": "cmr-38",
+      "split": "heldout",
+      "seed": 20260920038,
+      "motif": [
+        7,
+        -3,
+        6,
+        5
+      ],
+      "order": 1,
+      "rich": false,
+      "direction": 0,
+      "rms": 0.12,
+      "tuple_id": 38
+    },
+    {
+      "group_id": "cmr-39",
+      "split": "heldout",
+      "seed": 20260920039,
+      "motif": [
+        2,
+        -5,
+        4,
+        3
+      ],
+      "order": 1,
+      "rich": false,
+      "direction": 1,
+      "rms": 0.08,
+      "tuple_id": 39
+    }
+  ],
+  "identity": "normalized Q=(0,a,b), R=(0,c,b), successor offsets \u00b1d; unique ordered motif tuples, not only render seeds",
+  "prior_exclusion": "Prior history study Q/R ended above their first note; all new Q/R end below it. Seeds disjoint. E08 groups had 6-event phrases; these 3-event cue-pairs are a new task family."
+}

@@ -1,0 +1,650 @@
+[
+  {
+    "group_id": "cmr-00",
+    "family": "matched",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.4000000000000001
+  },
+  {
+    "group_id": "cmr-00",
+    "family": "timbre",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.4000000000000001
+  },
+  {
+    "group_id": "cmr-00",
+    "family": "duration",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.76
+  },
+  {
+    "group_id": "cmr-00",
+    "family": "joint",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.76
+  },
+  {
+    "group_id": "cmr-00",
+    "family": "joint",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.76
+  },
+  {
+    "group_id": "cmr-00",
+    "family": "joint",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.76
+  },
+  {
+    "group_id": "cmr-00",
+    "family": "joint",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.76
+  },
+  {
+    "group_id": "cmr-00",
+    "family": "joint",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.76
+  },
+  {
+    "group_id": "cmr-00",
+    "family": "joint",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.76
+  },
+  {
+    "group_id": "cmr-01",
+    "family": "matched",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.409625
+  },
+  {
+    "group_id": "cmr-01",
+    "family": "timbre",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.409625
+  },
+  {
+    "group_id": "cmr-01",
+    "family": "duration",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.7715
+  },
+  {
+    "group_id": "cmr-01",
+    "family": "joint",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.7715
+  },
+  {
+    "group_id": "cmr-01",
+    "family": "joint",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.7715
+  },
+  {
+    "group_id": "cmr-01",
+    "family": "joint",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.7715
+  },
+  {
+    "group_id": "cmr-01",
+    "family": "joint",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.7715
+  },
+  {
+    "group_id": "cmr-01",
+    "family": "joint",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.7715
+  },
+  {
+    "group_id": "cmr-01",
+    "family": "joint",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.7715
+  },
+  {
+    "group_id": "cmr-02",
+    "family": "matched",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.4192500000000001
+  },
+  {
+    "group_id": "cmr-02",
+    "family": "timbre",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.4192500000000001
+  },
+  {
+    "group_id": "cmr-02",
+    "family": "duration",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.7830000000000001
+  },
+  {
+    "group_id": "cmr-02",
+    "family": "joint",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.7830000000000001
+  },
+  {
+    "group_id": "cmr-02",
+    "family": "joint",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.7830000000000001
+  },
+  {
+    "group_id": "cmr-02",
+    "family": "joint",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.7830000000000001
+  },
+  {
+    "group_id": "cmr-02",
+    "family": "joint",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.7830000000000001
+  },
+  {
+    "group_id": "cmr-02",
+    "family": "joint",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.7830000000000001
+  },
+  {
+    "group_id": "cmr-02",
+    "family": "joint",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.7830000000000001
+  },
+  {
+    "group_id": "cmr-03",
+    "family": "matched",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.4297499999999999
+  },
+  {
+    "group_id": "cmr-03",
+    "family": "timbre",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.4297499999999999
+  },
+  {
+    "group_id": "cmr-03",
+    "family": "duration",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.795
+  },
+  {
+    "group_id": "cmr-03",
+    "family": "joint",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.795
+  },
+  {
+    "group_id": "cmr-03",
+    "family": "joint",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.795
+  },
+  {
+    "group_id": "cmr-03",
+    "family": "joint",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.795
+  },
+  {
+    "group_id": "cmr-03",
+    "family": "joint",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.795
+  },
+  {
+    "group_id": "cmr-03",
+    "family": "joint",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.795
+  },
+  {
+    "group_id": "cmr-03",
+    "family": "joint",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.795
+  },
+  {
+    "group_id": "cmr-04",
+    "family": "matched",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.439375
+  },
+  {
+    "group_id": "cmr-04",
+    "family": "timbre",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.439375
+  },
+  {
+    "group_id": "cmr-04",
+    "family": "duration",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.8065
+  },
+  {
+    "group_id": "cmr-04",
+    "family": "joint",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.8065
+  },
+  {
+    "group_id": "cmr-04",
+    "family": "joint",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.8065
+  },
+  {
+    "group_id": "cmr-04",
+    "family": "joint",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.8065
+  },
+  {
+    "group_id": "cmr-04",
+    "family": "joint",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.8065
+  },
+  {
+    "group_id": "cmr-04",
+    "family": "joint",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.8065
+  },
+  {
+    "group_id": "cmr-04",
+    "family": "joint",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.8065
+  },
+  {
+    "group_id": "cmr-05",
+    "family": "matched",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.4489999999999998
+  },
+  {
+    "group_id": "cmr-05",
+    "family": "timbre",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.4489999999999998
+  },
+  {
+    "group_id": "cmr-05",
+    "family": "duration",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.818
+  },
+  {
+    "group_id": "cmr-05",
+    "family": "joint",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.818
+  },
+  {
+    "group_id": "cmr-05",
+    "family": "joint",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.818
+  },
+  {
+    "group_id": "cmr-05",
+    "family": "joint",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.818
+  },
+  {
+    "group_id": "cmr-05",
+    "family": "joint",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.818
+  },
+  {
+    "group_id": "cmr-05",
+    "family": "joint",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.818
+  },
+  {
+    "group_id": "cmr-05",
+    "family": "joint",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.818
+  },
+  {
+    "group_id": "cmr-06",
+    "family": "matched",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.458625
+  },
+  {
+    "group_id": "cmr-06",
+    "family": "timbre",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.458625
+  },
+  {
+    "group_id": "cmr-06",
+    "family": "duration",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.8295000000000001
+  },
+  {
+    "group_id": "cmr-06",
+    "family": "joint",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.8295000000000001
+  },
+  {
+    "group_id": "cmr-06",
+    "family": "joint",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.8295000000000001
+  },
+  {
+    "group_id": "cmr-06",
+    "family": "joint",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.8295000000000001
+  },
+  {
+    "group_id": "cmr-06",
+    "family": "joint",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.8295000000000001
+  },
+  {
+    "group_id": "cmr-06",
+    "family": "joint",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.8295000000000001
+  },
+  {
+    "group_id": "cmr-06",
+    "family": "joint",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.8295000000000001
+  },
+  {
+    "group_id": "cmr-07",
+    "family": "matched",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.4682499999999998
+  },
+  {
+    "group_id": "cmr-07",
+    "family": "timbre",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.4682499999999998
+  },
+  {
+    "group_id": "cmr-07",
+    "family": "duration",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.841
+  },
+  {
+    "group_id": "cmr-07",
+    "family": "joint",
+    "condition": "intact",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.841
+  },
+  {
+    "group_id": "cmr-07",
+    "family": "joint",
+    "condition": "reset",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.841
+  },
+  {
+    "group_id": "cmr-07",
+    "family": "joint",
+    "condition": "removal",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.841
+  },
+  {
+    "group_id": "cmr-07",
+    "family": "joint",
+    "condition": "swap",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.841
+  },
+  {
+    "group_id": "cmr-07",
+    "family": "joint",
+    "condition": "shuffle",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.841
+  },
+  {
+    "group_id": "cmr-07",
+    "family": "joint",
+    "condition": "ambiguous",
+    "identical_multiset": true,
+    "identical_final_two_history_and_probe": true,
+    "blocks_per_prefix": 14,
+    "duration_s": 1.841
+  }
+]

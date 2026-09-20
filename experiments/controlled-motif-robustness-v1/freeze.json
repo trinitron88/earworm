@@ -1,0 +1,19 @@
+{
+  "files": {
+    "analyze.py": "44ade3667490a3a3e442670b5a42b588db67341dd5b28a2871eff56369e1be16",
+    "assignment.json": "5dbbb817d2de977e03c8885fbaac72cfa2919aab70793470dca7733087cc82e7",
+    "fit.py": "d41363698949e4282f534850d18eae230553cca6cf3542638fceb7278306af8e",
+    "frozen_model.json": "786a775b7cb470685a4346c84908733130f21fd83973f3428de0a4febc862b27",
+    "model.py": "d4b98f0fa509a073feea30332515a01f1fe0f9e06ade10763ee0d2c64d94a8e7",
+    "protocol.json": "cfd190e65a4084ca094d98e720a09faaacda69641bbdf9732980d83870bc1391",
+    "reference_config.json": "2a8e2115572b25c75786b01eac5a6779e4fdd22e26a4a68c8313a4e4af1e80d6",
+    "reference_model.py": "930d3ecc758704ad27941f1fe6b29041d7350814d27198437deedc422f1ddd70",
+    "run.py": "f2bb66785df5cc738425651db7b5068baf8b8cbfcd43ee18bf756136b6ccc18a",
+    "split_manifest.json": "d0c3a5b2b66d2ee5c5a8f12b46b4ec0a6ae9008d7d49716ec4af741eff391cff",
+    "stimuli.py": "40f78750a91dfa4eb3304ac0795e4131e8e4abd560a0ba479856e60e37ee994e",
+    "verify.py": "cb073c5c93de82904cf068aae5ea2102dfaee53f05aeb19d7f27239b3e50b84b",
+    "worker.py": "7cfe544ce37e3e614643bf8ba558e673c128ea866e5e3965e9f954162c53fe62"
+  },
+  "execution_code_sha256": "5abd7bc3d75a459e34b2de3b242e2efb55b2d306bdde6f4ed360c8b9bfcaf87c",
+  "stage": "final pre-evaluation freeze; no heldout generation yet"
+}
