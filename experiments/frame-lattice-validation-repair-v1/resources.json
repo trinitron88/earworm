@@ -1,0 +1,23 @@
+{
+  "cumulative_streams": 962,
+  "prior_consumed_streams": 386,
+  "new_heldout_streams": 576,
+  "new_heldout_episodes": 480,
+  "new_future_probes": 96,
+  "new_save_restore_checks_within_existing_probes": 24,
+  "new_development_or_calibration_streams": 0,
+  "new_smoke_streams": 0,
+  "prior_compute_charge_s": 1547.20676,
+  "interrupted_setup_charge_s": 335,
+  "resumed_elapsed_charge_s_through_report": 652.80531,
+  "cumulative_charge_s_through_report": 2535.0120699999998,
+  "total_time_cap_s": 7200,
+  "heldout_runtime_s": 89.49657474999549,
+  "heldout_lattice_calls": 85264,
+  "heldout_aggregation_calls": 77231,
+  "heldout_support_calls": 5529,
+  "combined_package_bytes_through_report": 642377258,
+  "combined_byte_limit": 2147483648,
+  "paid_compute": 0,
+  "note": "Elapsed active-turn time conservatively charges validation, analysis, documentation and concurrent checks once; blocked scheduler gaps excluded. Prior interrupted setup charged335s. No acoustic reruns. Archive storage is separate from listener memory; see validation/accounting_heldout.json."
+}

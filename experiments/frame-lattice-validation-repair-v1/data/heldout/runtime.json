@@ -1,0 +1,17 @@
+{
+  "split": "heldout",
+  "episodes": 480,
+  "support_observation_calls": 5529,
+  "aggregation_window_calls": 77231,
+  "lattice_observation_calls": 85264,
+  "save_restore_probes": 24,
+  "additional_future_probes": 96,
+  "elapsed_seconds": 89.49657474999549,
+  "execution_revision": "6303e0036069465d5b6cd67ab3d46975c0a70568",
+  "execution_code_sha256": "b4c1ea170e13ca8b3e9129d6c739cd47ab8049ee60fc60d299250f6fd82d23e9",
+  "model_sha256": "57c013bd25d07914eed6c96c38ba69e24b678814f0b4bac9c2d283e69264979a",
+  "retained_bytes": 438745147,
+  "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "numpy": "2.5.3",
+  "end_utc_ns": 1789962002376685000
+}

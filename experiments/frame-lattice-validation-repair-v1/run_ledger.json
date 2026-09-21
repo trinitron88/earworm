@@ -1,0 +1,17 @@
+[
+  {
+    "split": "development",
+    "allocated_streams": 192,
+    "start_utc_ns": 1789953232042281000
+  },
+  {
+    "split": "calibration",
+    "allocated_streams": 192,
+    "start_utc_ns": 1789953337571917000
+  },
+  {
+    "split": "heldout",
+    "allocated_streams": 576,
+    "start_utc_ns": 1789961912980619000
+  }
+]

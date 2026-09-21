@@ -1,0 +1,122 @@
+{
+  "status": "invalid",
+  "assertion": "abs(sum(spectral_shape)-1)<1e-9 or observation.rms<1e-8",
+  "checked_saved_frames": 25888,
+  "failed_saved_frames": 4,
+  "records": [
+    {
+      "episode": "fir-15/detached/intact/0",
+      "front": "f32",
+      "frame_index": 49,
+      "start_sample": 6272,
+      "end_sample": 6784,
+      "available_sample": 7168,
+      "wave_sha256": "155d1cef266b59eb0be13121c7427050ec78075065e76fc79772c32e7f619ef6",
+      "rms": 0.005934718153698736,
+      "spectral_shape": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "spectral_shape_sum": 0.0,
+      "pitch": null,
+      "nonzero_pcm_indices": [
+        0
+      ],
+      "nonzero_pcm_values": [
+        0.13428734242916107
+      ]
+    },
+    {
+      "episode": "fir-15/detached/intact/1",
+      "front": "f32",
+      "frame_index": 49,
+      "start_sample": 6272,
+      "end_sample": 6784,
+      "available_sample": 7168,
+      "wave_sha256": "637294d2c3c00b82c16b42208911f4f6a4253417b8d0e98aa2f0cd9b450bafa5",
+      "rms": 0.0004116321762244882,
+      "spectral_shape": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "spectral_shape_sum": 0.0,
+      "pitch": null,
+      "nonzero_pcm_indices": [
+        0
+      ],
+      "nonzero_pcm_values": [
+        0.009314172901213169
+      ]
+    },
+    {
+      "episode": "fir-15/legato/intact/0",
+      "front": "f32",
+      "frame_index": 50,
+      "start_sample": 6400,
+      "end_sample": 6912,
+      "available_sample": 7168,
+      "wave_sha256": "17d50bfb6b3f02c4814881919a26c7b9f9a59120cd3e8616dfb9b56ca7c26257",
+      "rms": 0.004618248169570801,
+      "spectral_shape": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "spectral_shape_sum": 0.0,
+      "pitch": null,
+      "nonzero_pcm_indices": [
+        0
+      ],
+      "nonzero_pcm_values": [
+        0.10449902713298798
+      ]
+    },
+    {
+      "episode": "fir-15/legato/intact/1",
+      "front": "f32",
+      "frame_index": 50,
+      "start_sample": 6400,
+      "end_sample": 6912,
+      "available_sample": 7168,
+      "wave_sha256": "cb5991e5e18f38f848fff5e1773323e4a14748ce8e10ca8c6c391417326e5af3",
+      "rms": 0.0037719173902310316,
+      "spectral_shape": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "spectral_shape_sum": 0.0,
+      "pitch": null,
+      "nonzero_pcm_indices": [
+        0
+      ],
+      "nonzero_pcm_values": [
+        0.08534874767065048
+      ]
+    }
+  ],
+  "source": "Saved cached frame values only; no acoustic extraction/replay and no modified threshold.",
+  "saved_pcm_observation": "Each failing frame has exactly one nonzero raw sample at index0. Frozen model uses np.hanning, whose endpoint weight is zero, for spectral shape; original RMS is unwindowed. No FFT/model/audio pipeline was rerun."
+}

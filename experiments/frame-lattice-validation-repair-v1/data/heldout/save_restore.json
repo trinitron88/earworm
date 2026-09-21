@@ -1,0 +1,122 @@
+[
+  {
+    "episode": "fir-16/detached/intact/0",
+    "same_forecast_bytes": true,
+    "state_sha256": "1235909c8c4f84ecfdf11aaa78d1d776dfce64aea572fe0d7c218814b0a6bc66"
+  },
+  {
+    "episode": "fir-17/detached/intact/0",
+    "same_forecast_bytes": true,
+    "state_sha256": "cca5ae0f46a39ff9f88a650de0bfc834579f56c4d9ab432fb582cb1f1c9b8885"
+  },
+  {
+    "episode": "fir-18/detached/intact/0",
+    "same_forecast_bytes": true,
+    "state_sha256": "668afc25e30acba5da48a6df0f2c89cdb5eb15dc4c1bbff08cb1adfbc21974d3"
+  },
+  {
+    "episode": "fir-19/detached/intact/0",
+    "same_forecast_bytes": true,
+    "state_sha256": "954790a816a3da3bc5ff33ebe1a076db4bb780c3367253a79face099a7a7e858"
+  },
+  {
+    "episode": "fir-20/detached/intact/0",
+    "same_forecast_bytes": true,
+    "state_sha256": "e79c139870a04e362d44b766b8e25c0254af4b88163181cbf96ee9cfcd19e31c"
+  },
+  {
+    "episode": "fir-21/detached/intact/0",
+    "same_forecast_bytes": true,
+    "state_sha256": "75bc0e8efa0ee0d3eaadc6bac1ba60bd1191b4f0346e55eb1df693a18e261e00"
+  },
+  {
+    "episode": "fir-22/detached/intact/0",
+    "same_forecast_bytes": true,
+    "state_sha256": "bb1cb52dd9b97ef9cb8ba78986b2e64957e95d17736a5358245e74ef9d2d74fb"
+  },
+  {
+    "episode": "fir-23/detached/intact/0",
+    "same_forecast_bytes": true,
+    "state_sha256": "d7c322d9eaf6bd4490e3c7ceec97ba8f0daef8134bb0459afb57b07f170dda13"
+  },
+  {
+    "episode": "fir-24/detached/intact/0",
+    "same_forecast_bytes": true,
+    "state_sha256": "2410c1d8dd9a63bf2ae61fb625c92827f75923443fcac283980ae7309583bccd"
+  },
+  {
+    "episode": "fir-25/detached/intact/0",
+    "same_forecast_bytes": true,
+    "state_sha256": "ac7a8409c5074c91dbe71c0f50af973c56e4520df667653c7665aa25998dd866"
+  },
+  {
+    "episode": "fir-26/detached/intact/0",
+    "same_forecast_bytes": true,
+    "state_sha256": "bcc94b78072e583779fd61f9e22b818875013a595b865010b5d3efef4a3a93ed"
+  },
+  {
+    "episode": "fir-27/detached/intact/0",
+    "same_forecast_bytes": true,
+    "state_sha256": "70de51678f642cf3c5d6a3112241096c1da5d8fd51556e2f73815a972cb41bb0"
+  },
+  {
+    "episode": "fir-28/detached/intact/0",
+    "same_forecast_bytes": true,
+    "state_sha256": "7e4388bb256d44d3ef4e83beb7c43db37e9e0aacaa529bbfc99654cd8e853638"
+  },
+  {
+    "episode": "fir-29/detached/intact/0",
+    "same_forecast_bytes": true,
+    "state_sha256": "e8da32695161b455f22d3cbc144f01cb2eed5fc2a32834e919824543f5b3ef19"
+  },
+  {
+    "episode": "fir-30/detached/intact/0",
+    "same_forecast_bytes": true,
+    "state_sha256": "6592ee12872fe716dba166b45dc4652a7e94bc6bbafe6c849eb8385290a1b2aa"
+  },
+  {
+    "episode": "fir-31/detached/intact/0",
+    "same_forecast_bytes": true,
+    "state_sha256": "34d575290aeab54132e9e05c8026651dd9f747ce21bc10f3632ee15146ee3969"
+  },
+  {
+    "episode": "fir-32/detached/intact/0",
+    "same_forecast_bytes": true,
+    "state_sha256": "810864b60c1c351ebe89d94d1139adf7a182c9c1741b9d0fdd67546c49d62344"
+  },
+  {
+    "episode": "fir-33/detached/intact/0",
+    "same_forecast_bytes": true,
+    "state_sha256": "63d719f0aaecc56bdf686dc481182bfb28d85a6e81101f8670587e2243ef17b6"
+  },
+  {
+    "episode": "fir-34/detached/intact/0",
+    "same_forecast_bytes": true,
+    "state_sha256": "9d83e196de23fb9172026e2009607bc10a350f3f9a55443f46f8c949df9ff2e4"
+  },
+  {
+    "episode": "fir-35/detached/intact/0",
+    "same_forecast_bytes": true,
+    "state_sha256": "5970181211df96107eddd0888eceab6def7164347e4e5d29c8d6f27555eb92bb"
+  },
+  {
+    "episode": "fir-36/detached/intact/0",
+    "same_forecast_bytes": true,
+    "state_sha256": "d1a79780126a27fbebd3176e9fa9419492b85ed92e8ab848a44114887ea0aa68"
+  },
+  {
+    "episode": "fir-37/detached/intact/0",
+    "same_forecast_bytes": true,
+    "state_sha256": "5ad44f9fb3804b85b09781c59a93e3206818326f4aebe032bb1891b6603cd99f"
+  },
+  {
+    "episode": "fir-38/detached/intact/0",
+    "same_forecast_bytes": true,
+    "state_sha256": "98204188faca99dcfbbd715455ceea5e71cf0a79d203d6f1a521518122fa3853"
+  },
+  {
+    "episode": "fir-39/detached/intact/0",
+    "same_forecast_bytes": true,
+    "state_sha256": "a75caeeb2707aad1f1b8912febc8a166057acc66093661a51bc234b3fa1ab123"
+  }
+]

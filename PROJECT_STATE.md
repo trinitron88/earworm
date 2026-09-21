@@ -6,15 +6,17 @@ Earworm's finish line is a reusable, stateful listener for continuous musical au
 
 ## Current evidence and decision
 
-The guarded initialization repair passed its smoke test and allowed development/calibration to finish with the scientific model unchanged. **Calibration integrity failed; heldout was not started.** Four saved frames contain one nonzero endpoint sample: Hann-windowed spectral shape is zero while unwindowed energy is nonzero. The frozen normalization check rejects this edge case. The worker preserved the failure without changing the check or rerunning audio and is awaiting review.
+**The support-consistent validation repair passes; the frozen f32 lattice fails its heldout advancement gates (branch C).** Independent reconstruction clears the four endpoint-only calibration frames without changing the listener or rerunning prior audio. The24 reserved heldout groups then ran once, with causal integrity, save/restore and timing checks passing.
 
-Development selected32 ms frames. Calibration outcomes remain explicitly exploratory and invalid for acceptance; no continuous-listening front is accepted. Earlier branch C still ends crop/within-event micro-repairs. This stage makes no scientific conclusion about the lattice and no natural-music or long-term-memory claim.
+Correct-source recognition was115/192 (59.9%). On combined changes, f32 forecasts were25/48 correct versus46/48 for the strongest frozen comparator; the paired difference was−43.75 percentage points (95% interval−60.42 to−27.08). Transformation, proper-score, ambiguity and family-safety gates also failed. This rejects the current fixed lattice/readout for advancement; it does not establish that continuous features contain no useful information. No continuous listener is accepted.
 
-- [Current report](experiments/frame-lattice-init-repair-v1/REPORT.md)
-- [Calibration discrepancy](experiments/frame-lattice-init-repair-v1/calibration_integrity_failure.json)
-- [Guarded preflight](experiments/frame-lattice-init-repair-v1/preflight_result.json)
-- [Preserved-attempt checks](experiments/frame-lattice-init-repair-v1/validation/preserved_attempt.json)
-- [Earlier failure](experiments/causal-frame-lattice-v1/REPORT.md)
+The complete successor is being published for exact-head review. Development/calibration evidence and outcomes, PR15, E08 and all763 historical artifacts remain unchanged. No nonzero-transposition, natural-music, polyphony, long-term-memory or appreciation claim follows.
+
+- [Current report](experiments/frame-lattice-validation-repair-v1/REPORT.md)
+- [Heldout decision](experiments/frame-lattice-validation-repair-v1/results/heldout/decision.json)
+- [Validation correction](experiments/frame-lattice-validation-repair-v1/VALIDATION_CHANGE.md)
+- [Integrity checks](experiments/frame-lattice-validation-repair-v1/validation/heldout.json)
+- [Historical calibration stop](experiments/frame-lattice-init-repair-v1/REPORT.md)
 
 ## Finite capability checklist
 
@@ -36,11 +38,11 @@ The PM must freeze concrete thresholds, datasets, horizons and delays in bounded
 
 ## Preserved history and next action
 
-PR #10's supplied-boundary observation repair passed its scoped test; PR #9 identified the octave-anchor prerequisite; PR #8 selected the simpler transformation-aware retrieval reference. E08 ranking and acceptance remain distinct results. PR #11 established the event-window prerequisite; all685 prior artifacts are preserved.
+PR #10's supplied-boundary observation repair passed its scoped test; PR #9 identified the octave-anchor prerequisite; PR #8 selected the simpler transformation-aware retrieval reference. E08 ranking and acceptance remain distinct results. PR #11 established the event-window prerequisite; all763 historical artifacts are preserved.
 
 - [Observation repair](experiments/fundamental-observation-repair-v1/REPORT.md)
 - [Controlled robustness](experiments/controlled-motif-robustness-v1/REPORT.md)
 - [History prediction](experiments/history-prediction-v1/REPORT.md)
 - [Original E08 state](review/experiment08/original-snapshot-PROJECT_STATE.md)
 
-Publish this complete invalid-calibration snapshot and stop for review. A correction to the spectral-normalization validation assumption is an unexecuted proposal for the PM's next explicit bounded decision. No second repair, acoustic rerun, held-out evaluation, architectural switch, adoption, spending, MERT change, historical rewrite or worker merge is started here.
+Publish the complete branch-C successor and stop awaiting review. The authorized validation correction and reserved heldout run are complete. The PM may assign a justified next bounded action after review; this report authorizes none. Do not return to boundary/window/crop/aggregation micro-repairs or infer adoption of a comparator. No new experiment, architecture change, spending, MERT change, historical rewrite or worker merge is started here.

@@ -1,0 +1,902 @@
+[
+  {
+    "model": "a32_48/absolute",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 0.041666666666666664,
+    "pass": true
+  },
+  {
+    "model": "a32_48/absolute",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 0.0,
+    "pass": true
+  },
+  {
+    "model": "a32_48/absolute",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 0.08333333333333333,
+    "pass": true
+  },
+  {
+    "model": "a32_48/present",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 0.8333333333333334,
+    "pass": false
+  },
+  {
+    "model": "a32_48/present",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 1.0,
+    "pass": false
+  },
+  {
+    "model": "a32_48/present",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 0.875,
+    "pass": false
+  },
+  {
+    "model": "a32_48/recency",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 0.0,
+    "pass": true
+  },
+  {
+    "model": "a32_48/recency",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 0.6458333333333334,
+    "pass": false
+  },
+  {
+    "model": "a32_48/recency",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 0.5104166666666666,
+    "pass": false
+  },
+  {
+    "model": "a32_48/reference",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 0.041666666666666664,
+    "pass": true
+  },
+  {
+    "model": "a32_48/reference",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 0.0,
+    "pass": true
+  },
+  {
+    "model": "a32_48/reference",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 0.08333333333333333,
+    "pass": true
+  },
+  {
+    "model": "a32_48/transition1",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 0.2708333333333333,
+    "pass": false
+  },
+  {
+    "model": "a32_48/transition1",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 0.16666666666666666,
+    "pass": false
+  },
+  {
+    "model": "a32_48/transition1",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 0.3333333333333333,
+    "pass": false
+  },
+  {
+    "model": "a32_48/transition2",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 0.041666666666666664,
+    "pass": true
+  },
+  {
+    "model": "a32_48/transition2",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 0.0,
+    "pass": true
+  },
+  {
+    "model": "a32_48/transition2",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 0.06249999999999999,
+    "pass": true
+  },
+  {
+    "model": "a32_48/transition3",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 0.041666666666666664,
+    "pass": true
+  },
+  {
+    "model": "a32_48/transition3",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 0.0,
+    "pass": true
+  },
+  {
+    "model": "a32_48/transition3",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 0.08333333333333333,
+    "pass": true
+  },
+  {
+    "model": "a32_48_mixture/absolute",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 0.16666666666666666,
+    "pass": false
+  },
+  {
+    "model": "a32_48_mixture/absolute",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 0.020833333333333332,
+    "pass": true
+  },
+  {
+    "model": "a32_48_mixture/absolute",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 0.14583333333333334,
+    "pass": false
+  },
+  {
+    "model": "a32_48_mixture/present",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 0.8958333333333333,
+    "pass": false
+  },
+  {
+    "model": "a32_48_mixture/present",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 1.0,
+    "pass": false
+  },
+  {
+    "model": "a32_48_mixture/present",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 0.9270833333333334,
+    "pass": false
+  },
+  {
+    "model": "a32_48_mixture/recency",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 0.16666666666666666,
+    "pass": false
+  },
+  {
+    "model": "a32_48_mixture/recency",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 0.875,
+    "pass": false
+  },
+  {
+    "model": "a32_48_mixture/recency",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 0.6041666666666666,
+    "pass": false
+  },
+  {
+    "model": "a32_48_mixture/reference",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 0.16666666666666666,
+    "pass": false
+  },
+  {
+    "model": "a32_48_mixture/reference",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 0.020833333333333332,
+    "pass": true
+  },
+  {
+    "model": "a32_48_mixture/reference",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 0.14583333333333334,
+    "pass": false
+  },
+  {
+    "model": "a32_48_mixture/transition1",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 0.4583333333333333,
+    "pass": false
+  },
+  {
+    "model": "a32_48_mixture/transition1",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 0.25,
+    "pass": false
+  },
+  {
+    "model": "a32_48_mixture/transition1",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 0.44791666666666663,
+    "pass": false
+  },
+  {
+    "model": "a32_48_mixture/transition2",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 0.16666666666666666,
+    "pass": false
+  },
+  {
+    "model": "a32_48_mixture/transition2",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 0.020833333333333332,
+    "pass": true
+  },
+  {
+    "model": "a32_48_mixture/transition2",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 0.14583333333333334,
+    "pass": false
+  },
+  {
+    "model": "a32_48_mixture/transition3",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 0.16666666666666666,
+    "pass": false
+  },
+  {
+    "model": "a32_48_mixture/transition3",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 0.020833333333333332,
+    "pass": true
+  },
+  {
+    "model": "a32_48_mixture/transition3",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 0.14583333333333334,
+    "pass": false
+  },
+  {
+    "model": "b2/absolute",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 0.6875000000000001,
+    "pass": false
+  },
+  {
+    "model": "b2/absolute",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 0.6666666666666666,
+    "pass": false
+  },
+  {
+    "model": "b2/absolute",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 0.7604166666666667,
+    "pass": false
+  },
+  {
+    "model": "b2/present",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 0.8333333333333334,
+    "pass": false
+  },
+  {
+    "model": "b2/present",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 1.0,
+    "pass": false
+  },
+  {
+    "model": "b2/present",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 0.875,
+    "pass": false
+  },
+  {
+    "model": "b2/recency",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 0.41666666666666674,
+    "pass": false
+  },
+  {
+    "model": "b2/recency",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 0.6041666666666666,
+    "pass": false
+  },
+  {
+    "model": "b2/recency",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 0.6041666666666667,
+    "pass": false
+  },
+  {
+    "model": "b2/reference",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 0.6875000000000001,
+    "pass": false
+  },
+  {
+    "model": "b2/reference",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 0.5208333333333333,
+    "pass": false
+  },
+  {
+    "model": "b2/reference",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 0.65625,
+    "pass": false
+  },
+  {
+    "model": "b2/transition1",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 0.6666666666666666,
+    "pass": false
+  },
+  {
+    "model": "b2/transition1",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 0.6666666666666666,
+    "pass": false
+  },
+  {
+    "model": "b2/transition1",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 0.75,
+    "pass": false
+  },
+  {
+    "model": "b2/transition2",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 0.5833333333333333,
+    "pass": false
+  },
+  {
+    "model": "b2/transition2",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 0.5833333333333333,
+    "pass": false
+  },
+  {
+    "model": "b2/transition2",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 0.7500000000000001,
+    "pass": false
+  },
+  {
+    "model": "b2/transition3",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 0.6875000000000001,
+    "pass": false
+  },
+  {
+    "model": "b2/transition3",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 0.6666666666666666,
+    "pass": false
+  },
+  {
+    "model": "b2/transition3",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 0.7604166666666667,
+    "pass": false
+  },
+  {
+    "model": "f32/absolute",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 0.0,
+    "pass": true
+  },
+  {
+    "model": "f32/absolute",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 0.08333333333333333,
+    "pass": true
+  },
+  {
+    "model": "f32/absolute",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 0.10416666666666666,
+    "pass": false
+  },
+  {
+    "model": "f32/present",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 0.8333333333333334,
+    "pass": false
+  },
+  {
+    "model": "f32/present",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 1.0,
+    "pass": false
+  },
+  {
+    "model": "f32/present",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 0.875,
+    "pass": false
+  },
+  {
+    "model": "f32/recency",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 1.0,
+    "pass": false
+  },
+  {
+    "model": "f32/recency",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 1.0,
+    "pass": false
+  },
+  {
+    "model": "f32/recency",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 1.0,
+    "pass": false
+  },
+  {
+    "model": "f32/reference",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 0.45833333333333337,
+    "pass": false
+  },
+  {
+    "model": "f32/reference",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 0.20833333333333334,
+    "pass": false
+  },
+  {
+    "model": "f32/reference",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 0.38541666666666663,
+    "pass": false
+  },
+  {
+    "model": "f32/single",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 1.0,
+    "pass": false
+  },
+  {
+    "model": "f32/single",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 1.0,
+    "pass": false
+  },
+  {
+    "model": "f32/single",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 1.0,
+    "pass": false
+  },
+  {
+    "model": "f32/transition1",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 1.0,
+    "pass": false
+  },
+  {
+    "model": "f32/transition1",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 1.0,
+    "pass": false
+  },
+  {
+    "model": "f32/transition1",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 1.0,
+    "pass": false
+  },
+  {
+    "model": "f32/transition2",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 1.0,
+    "pass": false
+  },
+  {
+    "model": "f32/transition2",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 1.0,
+    "pass": false
+  },
+  {
+    "model": "f32/transition2",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 1.0,
+    "pass": false
+  },
+  {
+    "model": "f32/transition3",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 1.0,
+    "pass": false
+  },
+  {
+    "model": "f32/transition3",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 1.0,
+    "pass": false
+  },
+  {
+    "model": "f32/transition3",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 1.0,
+    "pass": false
+  },
+  {
+    "model": "fixed/absolute",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 0.8333333333333334,
+    "pass": false
+  },
+  {
+    "model": "fixed/absolute",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 0.9583333333333333,
+    "pass": false
+  },
+  {
+    "model": "fixed/absolute",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 0.8645833333333334,
+    "pass": false
+  },
+  {
+    "model": "fixed/present",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 0.8333333333333334,
+    "pass": false
+  },
+  {
+    "model": "fixed/present",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 1.0,
+    "pass": false
+  },
+  {
+    "model": "fixed/present",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 0.875,
+    "pass": false
+  },
+  {
+    "model": "fixed/recency",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 0.8749999999999999,
+    "pass": false
+  },
+  {
+    "model": "fixed/recency",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 0.9166666666666666,
+    "pass": false
+  },
+  {
+    "model": "fixed/recency",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 0.8749999999999999,
+    "pass": false
+  },
+  {
+    "model": "fixed/reference",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 0.8333333333333334,
+    "pass": false
+  },
+  {
+    "model": "fixed/reference",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 0.9583333333333333,
+    "pass": false
+  },
+  {
+    "model": "fixed/reference",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 0.8541666666666667,
+    "pass": false
+  },
+  {
+    "model": "fixed/transition1",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 0.8958333333333333,
+    "pass": false
+  },
+  {
+    "model": "fixed/transition1",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 0.9166666666666666,
+    "pass": false
+  },
+  {
+    "model": "fixed/transition1",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 0.84375,
+    "pass": false
+  },
+  {
+    "model": "fixed/transition2",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 0.8333333333333334,
+    "pass": false
+  },
+  {
+    "model": "fixed/transition2",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 0.9583333333333333,
+    "pass": false
+  },
+  {
+    "model": "fixed/transition2",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 0.8645833333333334,
+    "pass": false
+  },
+  {
+    "model": "fixed/transition3",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 0.8333333333333334,
+    "pass": false
+  },
+  {
+    "model": "fixed/transition3",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 0.9583333333333333,
+    "pass": false
+  },
+  {
+    "model": "fixed/transition3",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 0.8645833333333334,
+    "pass": false
+  },
+  {
+    "model": "oracle-boundary/absolute",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 0.0,
+    "pass": true
+  },
+  {
+    "model": "oracle-boundary/absolute",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 0.0,
+    "pass": true
+  },
+  {
+    "model": "oracle-boundary/absolute",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 0.0,
+    "pass": true
+  },
+  {
+    "model": "oracle-boundary/present",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 0.8333333333333334,
+    "pass": false
+  },
+  {
+    "model": "oracle-boundary/present",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 1.0,
+    "pass": false
+  },
+  {
+    "model": "oracle-boundary/present",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 0.875,
+    "pass": false
+  },
+  {
+    "model": "oracle-boundary/recency",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 0.0,
+    "pass": true
+  },
+  {
+    "model": "oracle-boundary/recency",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 1.0,
+    "pass": false
+  },
+  {
+    "model": "oracle-boundary/recency",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 0.5,
+    "pass": false
+  },
+  {
+    "model": "oracle-boundary/reference",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 0.0,
+    "pass": true
+  },
+  {
+    "model": "oracle-boundary/reference",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 0.0,
+    "pass": true
+  },
+  {
+    "model": "oracle-boundary/reference",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 0.0,
+    "pass": true
+  },
+  {
+    "model": "oracle-boundary/transition1",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 0.5,
+    "pass": false
+  },
+  {
+    "model": "oracle-boundary/transition1",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 0.5,
+    "pass": false
+  },
+  {
+    "model": "oracle-boundary/transition1",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 0.5,
+    "pass": false
+  },
+  {
+    "model": "oracle-boundary/transition2",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 0.0,
+    "pass": true
+  },
+  {
+    "model": "oracle-boundary/transition2",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 0.0,
+    "pass": true
+  },
+  {
+    "model": "oracle-boundary/transition2",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 0.0,
+    "pass": true
+  },
+  {
+    "model": "oracle-boundary/transition3",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 0.0,
+    "pass": true
+  },
+  {
+    "model": "oracle-boundary/transition3",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 0.0,
+    "pass": true
+  },
+  {
+    "model": "oracle-boundary/transition3",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 0.0,
+    "pass": true
+  },
+  {
+    "model": "trim16/absolute",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 0.041666666666666664,
+    "pass": true
+  },
+  {
+    "model": "trim16/absolute",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 0.0,
+    "pass": true
+  },
+  {
+    "model": "trim16/absolute",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 0.08333333333333333,
+    "pass": true
+  },
+  {
+    "model": "trim16/present",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 0.8333333333333334,
+    "pass": false
+  },
+  {
+    "model": "trim16/present",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 1.0,
+    "pass": false
+  },
+  {
+    "model": "trim16/present",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 0.875,
+    "pass": false
+  },
+  {
+    "model": "trim16/recency",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 0.0,
+    "pass": true
+  },
+  {
+    "model": "trim16/recency",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 0.45833333333333337,
+    "pass": false
+  },
+  {
+    "model": "trim16/recency",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 0.4791666666666667,
+    "pass": false
+  },
+  {
+    "model": "trim16/reference",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 0.041666666666666664,
+    "pass": true
+  },
+  {
+    "model": "trim16/reference",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 0.0,
+    "pass": true
+  },
+  {
+    "model": "trim16/reference",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 0.08333333333333333,
+    "pass": true
+  },
+  {
+    "model": "trim16/transition1",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 0.47916666666666674,
+    "pass": false
+  },
+  {
+    "model": "trim16/transition1",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 0.16666666666666666,
+    "pass": false
+  },
+  {
+    "model": "trim16/transition1",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 0.3020833333333333,
+    "pass": false
+  },
+  {
+    "model": "trim16/transition2",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 0.041666666666666664,
+    "pass": true
+  },
+  {
+    "model": "trim16/transition2",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 0.0,
+    "pass": true
+  },
+  {
+    "model": "trim16/transition2",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 0.06249999999999999,
+    "pass": true
+  },
+  {
+    "model": "trim16/transition3",
+    "family": "pure",
+    "accuracy_loss_vs_oracle": 0.041666666666666664,
+    "pass": true
+  },
+  {
+    "model": "trim16/transition3",
+    "family": "fundamental",
+    "accuracy_loss_vs_oracle": 0.0,
+    "pass": true
+  },
+  {
+    "model": "trim16/transition3",
+    "family": "overtone",
+    "accuracy_loss_vs_oracle": 0.08333333333333333,
+    "pass": true
+  }
+]
