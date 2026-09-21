@@ -1,0 +1,927 @@
+{
+  "groups": [
+    {
+      "group_id": "cfl-00",
+      "split": "development",
+      "seed": 202609216000,
+      "motif": [
+        5,
+        -3,
+        4,
+        4
+      ],
+      "order": 0,
+      "direction": 0,
+      "register": 6,
+      "rich": false,
+      "family": "fundamental",
+      "index": 0,
+      "normalized_identity": [
+        -5,
+        -8,
+        -4,
+        4
+      ]
+    },
+    {
+      "group_id": "cfl-01",
+      "split": "development",
+      "seed": 202609216001,
+      "motif": [
+        2,
+        -3,
+        5,
+        4
+      ],
+      "order": 1,
+      "direction": 1,
+      "register": 6,
+      "rich": false,
+      "family": "pure",
+      "index": 1,
+      "normalized_identity": [
+        2,
+        5,
+        5,
+        4
+      ]
+    },
+    {
+      "group_id": "cfl-02",
+      "split": "development",
+      "seed": 202609216002,
+      "motif": [
+        3,
+        -3,
+        6,
+        4
+      ],
+      "order": 1,
+      "direction": 0,
+      "register": 18,
+      "rich": false,
+      "family": "pure",
+      "index": 2,
+      "normalized_identity": [
+        -3,
+        -6,
+        -6,
+        4
+      ]
+    },
+    {
+      "group_id": "cfl-03",
+      "split": "development",
+      "seed": 202609216003,
+      "motif": [
+        4,
+        -2,
+        6,
+        3
+      ],
+      "order": 0,
+      "direction": 1,
+      "register": 18,
+      "rich": false,
+      "family": "fundamental",
+      "index": 3,
+      "normalized_identity": [
+        4,
+        6,
+        6,
+        3
+      ]
+    },
+    {
+      "group_id": "cfl-04",
+      "split": "development",
+      "seed": 202609216004,
+      "motif": [
+        4,
+        -2,
+        3,
+        4
+      ],
+      "order": 1,
+      "direction": 0,
+      "register": 6,
+      "rich": true,
+      "family": "overtone",
+      "index": 4,
+      "normalized_identity": [
+        -4,
+        -6,
+        -3,
+        4
+      ]
+    },
+    {
+      "group_id": "cfl-05",
+      "split": "development",
+      "seed": 202609216005,
+      "motif": [
+        5,
+        -4,
+        3,
+        4
+      ],
+      "order": 0,
+      "direction": 1,
+      "register": 6,
+      "rich": true,
+      "family": "overtone",
+      "index": 5,
+      "normalized_identity": [
+        5,
+        9,
+        3,
+        4
+      ]
+    },
+    {
+      "group_id": "cfl-06",
+      "split": "development",
+      "seed": 202609216006,
+      "motif": [
+        2,
+        -2,
+        4,
+        5
+      ],
+      "order": 0,
+      "direction": 0,
+      "register": 18,
+      "rich": true,
+      "family": "overtone",
+      "index": 6,
+      "normalized_identity": [
+        -2,
+        -4,
+        -4,
+        5
+      ]
+    },
+    {
+      "group_id": "cfl-07",
+      "split": "development",
+      "seed": 202609216007,
+      "motif": [
+        6,
+        -2,
+        4,
+        3
+      ],
+      "order": 1,
+      "direction": 1,
+      "register": 18,
+      "rich": true,
+      "family": "overtone",
+      "index": 7,
+      "normalized_identity": [
+        6,
+        8,
+        4,
+        3
+      ]
+    },
+    {
+      "group_id": "cfl-08",
+      "split": "calibration",
+      "seed": 202609216008,
+      "motif": [
+        2,
+        -2,
+        4,
+        4
+      ],
+      "order": 0,
+      "direction": 0,
+      "register": 6,
+      "rich": false,
+      "family": "fundamental",
+      "index": 8,
+      "normalized_identity": [
+        -2,
+        -4,
+        -4,
+        4
+      ]
+    },
+    {
+      "group_id": "cfl-09",
+      "split": "calibration",
+      "seed": 202609216009,
+      "motif": [
+        6,
+        -2,
+        5,
+        3
+      ],
+      "order": 1,
+      "direction": 1,
+      "register": 6,
+      "rich": false,
+      "family": "pure",
+      "index": 9,
+      "normalized_identity": [
+        6,
+        8,
+        5,
+        3
+      ]
+    },
+    {
+      "group_id": "cfl-10",
+      "split": "calibration",
+      "seed": 202609216010,
+      "motif": [
+        2,
+        -2,
+        4,
+        3
+      ],
+      "order": 1,
+      "direction": 0,
+      "register": 18,
+      "rich": false,
+      "family": "pure",
+      "index": 10,
+      "normalized_identity": [
+        -2,
+        -4,
+        -4,
+        3
+      ]
+    },
+    {
+      "group_id": "cfl-11",
+      "split": "calibration",
+      "seed": 202609216011,
+      "motif": [
+        2,
+        -2,
+        4,
+        4
+      ],
+      "order": 0,
+      "direction": 1,
+      "register": 18,
+      "rich": false,
+      "family": "fundamental",
+      "index": 11,
+      "normalized_identity": [
+        2,
+        4,
+        4,
+        4
+      ]
+    },
+    {
+      "group_id": "cfl-12",
+      "split": "calibration",
+      "seed": 202609216012,
+      "motif": [
+        2,
+        -2,
+        5,
+        4
+      ],
+      "order": 1,
+      "direction": 0,
+      "register": 6,
+      "rich": true,
+      "family": "overtone",
+      "index": 12,
+      "normalized_identity": [
+        -2,
+        -4,
+        -5,
+        4
+      ]
+    },
+    {
+      "group_id": "cfl-13",
+      "split": "calibration",
+      "seed": 202609216013,
+      "motif": [
+        6,
+        -3,
+        3,
+        5
+      ],
+      "order": 0,
+      "direction": 1,
+      "register": 6,
+      "rich": true,
+      "family": "overtone",
+      "index": 13,
+      "normalized_identity": [
+        6,
+        9,
+        3,
+        5
+      ]
+    },
+    {
+      "group_id": "cfl-14",
+      "split": "calibration",
+      "seed": 202609216014,
+      "motif": [
+        5,
+        -3,
+        3,
+        4
+      ],
+      "order": 0,
+      "direction": 0,
+      "register": 18,
+      "rich": true,
+      "family": "overtone",
+      "index": 14,
+      "normalized_identity": [
+        -5,
+        -8,
+        -3,
+        4
+      ]
+    },
+    {
+      "group_id": "cfl-15",
+      "split": "calibration",
+      "seed": 202609216015,
+      "motif": [
+        5,
+        -5,
+        3,
+        4
+      ],
+      "order": 1,
+      "direction": 1,
+      "register": 18,
+      "rich": true,
+      "family": "overtone",
+      "index": 15,
+      "normalized_identity": [
+        5,
+        10,
+        3,
+        4
+      ]
+    },
+    {
+      "group_id": "cfl-16",
+      "split": "heldout",
+      "seed": 202609216016,
+      "motif": [
+        4,
+        -3,
+        3,
+        4
+      ],
+      "order": 0,
+      "direction": 0,
+      "register": 6,
+      "rich": false,
+      "family": "fundamental",
+      "index": 16,
+      "normalized_identity": [
+        -4,
+        -7,
+        -3,
+        4
+      ]
+    },
+    {
+      "group_id": "cfl-17",
+      "split": "heldout",
+      "seed": 202609216017,
+      "motif": [
+        6,
+        -3,
+        5,
+        3
+      ],
+      "order": 1,
+      "direction": 1,
+      "register": 6,
+      "rich": false,
+      "family": "pure",
+      "index": 17,
+      "normalized_identity": [
+        6,
+        9,
+        5,
+        3
+      ]
+    },
+    {
+      "group_id": "cfl-18",
+      "split": "heldout",
+      "seed": 202609216018,
+      "motif": [
+        3,
+        -3,
+        6,
+        5
+      ],
+      "order": 1,
+      "direction": 0,
+      "register": 18,
+      "rich": false,
+      "family": "pure",
+      "index": 18,
+      "normalized_identity": [
+        -3,
+        -6,
+        -6,
+        5
+      ]
+    },
+    {
+      "group_id": "cfl-19",
+      "split": "heldout",
+      "seed": 202609216019,
+      "motif": [
+        6,
+        -6,
+        5,
+        5
+      ],
+      "order": 0,
+      "direction": 1,
+      "register": 18,
+      "rich": false,
+      "family": "fundamental",
+      "index": 19,
+      "normalized_identity": [
+        6,
+        12,
+        5,
+        5
+      ]
+    },
+    {
+      "group_id": "cfl-20",
+      "split": "heldout",
+      "seed": 202609216020,
+      "motif": [
+        3,
+        -4,
+        4,
+        4
+      ],
+      "order": 1,
+      "direction": 0,
+      "register": 6,
+      "rich": true,
+      "family": "overtone",
+      "index": 20,
+      "normalized_identity": [
+        -3,
+        -7,
+        -4,
+        4
+      ]
+    },
+    {
+      "group_id": "cfl-21",
+      "split": "heldout",
+      "seed": 202609216021,
+      "motif": [
+        4,
+        -5,
+        6,
+        4
+      ],
+      "order": 0,
+      "direction": 1,
+      "register": 6,
+      "rich": true,
+      "family": "overtone",
+      "index": 21,
+      "normalized_identity": [
+        4,
+        9,
+        6,
+        4
+      ]
+    },
+    {
+      "group_id": "cfl-22",
+      "split": "heldout",
+      "seed": 202609216022,
+      "motif": [
+        3,
+        -4,
+        6,
+        5
+      ],
+      "order": 0,
+      "direction": 0,
+      "register": 18,
+      "rich": true,
+      "family": "overtone",
+      "index": 22,
+      "normalized_identity": [
+        -3,
+        -7,
+        -6,
+        5
+      ]
+    },
+    {
+      "group_id": "cfl-23",
+      "split": "heldout",
+      "seed": 202609216023,
+      "motif": [
+        5,
+        -4,
+        4,
+        4
+      ],
+      "order": 1,
+      "direction": 1,
+      "register": 18,
+      "rich": true,
+      "family": "overtone",
+      "index": 23,
+      "normalized_identity": [
+        5,
+        9,
+        4,
+        4
+      ]
+    },
+    {
+      "group_id": "cfl-24",
+      "split": "heldout",
+      "seed": 202609216024,
+      "motif": [
+        4,
+        -2,
+        5,
+        5
+      ],
+      "order": 0,
+      "direction": 0,
+      "register": 6,
+      "rich": false,
+      "family": "fundamental",
+      "index": 24,
+      "normalized_identity": [
+        -4,
+        -6,
+        -5,
+        5
+      ]
+    },
+    {
+      "group_id": "cfl-25",
+      "split": "heldout",
+      "seed": 202609216025,
+      "motif": [
+        4,
+        -4,
+        6,
+        3
+      ],
+      "order": 1,
+      "direction": 1,
+      "register": 6,
+      "rich": false,
+      "family": "pure",
+      "index": 25,
+      "normalized_identity": [
+        4,
+        8,
+        6,
+        3
+      ]
+    },
+    {
+      "group_id": "cfl-26",
+      "split": "heldout",
+      "seed": 202609216026,
+      "motif": [
+        6,
+        -2,
+        5,
+        5
+      ],
+      "order": 1,
+      "direction": 0,
+      "register": 18,
+      "rich": false,
+      "family": "pure",
+      "index": 26,
+      "normalized_identity": [
+        -6,
+        -8,
+        -5,
+        5
+      ]
+    },
+    {
+      "group_id": "cfl-27",
+      "split": "heldout",
+      "seed": 202609216027,
+      "motif": [
+        6,
+        -5,
+        3,
+        3
+      ],
+      "order": 0,
+      "direction": 1,
+      "register": 18,
+      "rich": false,
+      "family": "fundamental",
+      "index": 27,
+      "normalized_identity": [
+        6,
+        11,
+        3,
+        3
+      ]
+    },
+    {
+      "group_id": "cfl-28",
+      "split": "heldout",
+      "seed": 202609216028,
+      "motif": [
+        2,
+        -3,
+        5,
+        4
+      ],
+      "order": 1,
+      "direction": 0,
+      "register": 6,
+      "rich": true,
+      "family": "overtone",
+      "index": 28,
+      "normalized_identity": [
+        -2,
+        -5,
+        -5,
+        4
+      ]
+    },
+    {
+      "group_id": "cfl-29",
+      "split": "heldout",
+      "seed": 202609216029,
+      "motif": [
+        6,
+        -3,
+        3,
+        4
+      ],
+      "order": 0,
+      "direction": 1,
+      "register": 6,
+      "rich": true,
+      "family": "overtone",
+      "index": 29,
+      "normalized_identity": [
+        6,
+        9,
+        3,
+        4
+      ]
+    },
+    {
+      "group_id": "cfl-30",
+      "split": "heldout",
+      "seed": 202609216030,
+      "motif": [
+        6,
+        -6,
+        3,
+        4
+      ],
+      "order": 0,
+      "direction": 0,
+      "register": 18,
+      "rich": true,
+      "family": "overtone",
+      "index": 30,
+      "normalized_identity": [
+        -6,
+        -12,
+        -3,
+        4
+      ]
+    },
+    {
+      "group_id": "cfl-31",
+      "split": "heldout",
+      "seed": 202609216031,
+      "motif": [
+        6,
+        -6,
+        5,
+        3
+      ],
+      "order": 1,
+      "direction": 1,
+      "register": 18,
+      "rich": true,
+      "family": "overtone",
+      "index": 31,
+      "normalized_identity": [
+        6,
+        12,
+        5,
+        3
+      ]
+    },
+    {
+      "group_id": "cfl-32",
+      "split": "heldout",
+      "seed": 202609216032,
+      "motif": [
+        4,
+        -4,
+        6,
+        5
+      ],
+      "order": 0,
+      "direction": 0,
+      "register": 6,
+      "rich": false,
+      "family": "fundamental",
+      "index": 32,
+      "normalized_identity": [
+        -4,
+        -8,
+        -6,
+        5
+      ]
+    },
+    {
+      "group_id": "cfl-33",
+      "split": "heldout",
+      "seed": 202609216033,
+      "motif": [
+        2,
+        -2,
+        3,
+        5
+      ],
+      "order": 1,
+      "direction": 1,
+      "register": 6,
+      "rich": false,
+      "family": "pure",
+      "index": 33,
+      "normalized_identity": [
+        2,
+        4,
+        3,
+        5
+      ]
+    },
+    {
+      "group_id": "cfl-34",
+      "split": "heldout",
+      "seed": 202609216034,
+      "motif": [
+        6,
+        -6,
+        5,
+        5
+      ],
+      "order": 1,
+      "direction": 0,
+      "register": 18,
+      "rich": false,
+      "family": "pure",
+      "index": 34,
+      "normalized_identity": [
+        -6,
+        -12,
+        -5,
+        5
+      ]
+    },
+    {
+      "group_id": "cfl-35",
+      "split": "heldout",
+      "seed": 202609216035,
+      "motif": [
+        4,
+        -2,
+        3,
+        4
+      ],
+      "order": 0,
+      "direction": 1,
+      "register": 18,
+      "rich": false,
+      "family": "fundamental",
+      "index": 35,
+      "normalized_identity": [
+        4,
+        6,
+        3,
+        4
+      ]
+    },
+    {
+      "group_id": "cfl-36",
+      "split": "heldout",
+      "seed": 202609216036,
+      "motif": [
+        2,
+        -6,
+        6,
+        4
+      ],
+      "order": 1,
+      "direction": 0,
+      "register": 6,
+      "rich": true,
+      "family": "overtone",
+      "index": 36,
+      "normalized_identity": [
+        -2,
+        -8,
+        -6,
+        4
+      ]
+    },
+    {
+      "group_id": "cfl-37",
+      "split": "heldout",
+      "seed": 202609216037,
+      "motif": [
+        6,
+        -4,
+        4,
+        5
+      ],
+      "order": 0,
+      "direction": 1,
+      "register": 6,
+      "rich": true,
+      "family": "overtone",
+      "index": 37,
+      "normalized_identity": [
+        6,
+        10,
+        4,
+        5
+      ]
+    },
+    {
+      "group_id": "cfl-38",
+      "split": "heldout",
+      "seed": 202609216038,
+      "motif": [
+        6,
+        -3,
+        5,
+        4
+      ],
+      "order": 0,
+      "direction": 0,
+      "register": 18,
+      "rich": true,
+      "family": "overtone",
+      "index": 38,
+      "normalized_identity": [
+        -6,
+        -9,
+        -5,
+        4
+      ]
+    },
+    {
+      "group_id": "cfl-39",
+      "split": "heldout",
+      "seed": 202609216039,
+      "motif": [
+        3,
+        -6,
+        6,
+        4
+      ],
+      "order": 1,
+      "direction": 1,
+      "register": 18,
+      "rich": true,
+      "family": "overtone",
+      "index": 39,
+      "normalized_identity": [
+        3,
+        9,
+        6,
+        4
+      ]
+    }
+  ],
+  "freshness": "40 fresh normalized groups excluding all earlier studies; controlled same-range task",
+  "factor_aliases": "direction/register/rich bits independent in blocks8; order XOR all3, aliases 3-way interaction; pure/fund subtype within low-rich half aliases direction-register. Four articulation cells within group. Pitch direction paired with renderer direction by design; declared alias, not independent effect estimate.",
+  "prior_normalized_identities_checked": 229
+}
