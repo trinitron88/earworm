@@ -1,0 +1,18 @@
+{
+  "assignment_id": "earworm-causal-frame-lattice-v1",
+  "base": "5aa6396fb680012efb6dad5fd7ae50801a4afd99",
+  "execution_revision": "9708e34e0f445c23f99b9420a5d9c50e0d95e537",
+  "execution_code_sha256": "e9b26340a2b4f1b974e2a23ac520939874a7030f689ea1cdbd3830b7b21bb4b5",
+  "model_sha256": "47011bfa4a6db13868d0f7fbbe858fbbdf4462d6ab0aaf94077e5e65388da89b",
+  "publication_revision": "Final PR head and completion receipt identify publication separately",
+  "status": "invalid_development_execution",
+  "recorded_at": "2026-09-21T00:36:44.514723+00:00",
+  "wall_seconds_since_invocation": 840.092723,
+  "paid_compute": 0,
+  "historical_files_preserved": 645,
+  "runtime_counters_available": false,
+  "python": "3.12.14",
+  "numpy": "2.5.3",
+  "platform": "macOS-26.6.2-arm64-arm-64bit",
+  "note": "No acoustic rerun. No claimed scientific metrics. Guard blocked an unexpected lazy import. Only saved-failure validation and publication metadata added after failure."
+}

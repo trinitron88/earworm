@@ -1,0 +1,6 @@
+{
+  "branch": "invalid",
+  "validity_passed": false,
+  "reason": "Development worker terminated during first forecast under its filesystem guard; no completed forecasts or evaluable outputs.",
+  "next": "Preserve attempt and stop for exact-head review. PM must decide whether to authorize a bounded runtime-initialization repair; no autonomous rerun or architectural inference."
+}

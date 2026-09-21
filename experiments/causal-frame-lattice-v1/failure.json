@@ -1,0 +1,24 @@
+{
+  "status": "invalid_development_execution",
+  "stage": "first development forecast, before commitment",
+  "observed_exit_code": 1,
+  "exception": "PermissionError: No filesystem/network/process access",
+  "broker_exception": "RuntimeError: Worker failed",
+  "observed_stack": [
+    "worker.py forecast dispatch",
+    "model.py Listener.forecast -> lattice_predict",
+    "numpy.median -> _median -> _median_nancheck",
+    "numpy.__getattr__ -> importlib module loader -> get_data",
+    "worker.py guard blocked open"
+  ],
+  "cause": "NumPy median lazily attempted to import a helper module after the arrived-only listener filesystem guard was installed. The guard rejected the read.",
+  "recorded_at": "2026-09-21T00:36:44.514723+00:00",
+  "execution_revision": "9708e34e0f445c23f99b9420a5d9c50e0d95e537",
+  "scientific_result": null,
+  "selected_policy": null,
+  "calibration_started": false,
+  "heldout_started": false,
+  "rerun_performed": false,
+  "guard_weakened": false,
+  "source": "Observed failed tool execution plus saved hash-chain records; no exception replay or audio rerun."
+}

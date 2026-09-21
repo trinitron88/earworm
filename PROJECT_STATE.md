@@ -6,15 +6,14 @@ Earworm's finish line is a reusable, stateful listener for continuous musical au
 
 ## Current evidence and decision
 
-The final within-event aggregation test is complete and awaiting exact-head review. **Branch C: reject this approach and end localized crop/within-event repairs.** Combining short-window pitch observations gave nearly the same measurement accuracy as trim16 and identical intact reference scores. Its separate uncertainty mixture regressed to40/48 joint predictions versus46/48 for trim16; oracle-boundary remained48/48 throughout. It also failed ambiguity and rendering-family safety gates.
+The boundary-free frame-lattice stage stopped during its first development forecast. **Invalid execution; no scientific result.** A NumPy helper attempted a lazy import after the listener's filesystem guard was active, and the guard blocked it. No forecast completed; no policy selection, calibration or held-out evaluation occurred. The failed attempt is preserved without rerun or guard relaxation and is awaiting review.
 
-This result concerns the declared aggregation policies and conservative probability mixture, not every possible uncertainty-aware listener. Original PCM, all window evidence and historical observations remain separate from interpretation. No continuous-listening front is accepted. These remain synthetic short-buffer experiments without eviction or natural-music transfer.
+The preceding aggregation study remains accepted negative evidence: branch C ended crop/within-event micro-repairs. The new lattice implementation is a different representation candidate, but its recognition, transformation and prediction capabilities remain untested. No continuous-listening front is accepted.
 
-- [Current report](experiments/causal-event-aggregation-v1/REPORT.md)
-- [Decision](experiments/causal-event-aggregation-v1/results/heldout/decision.json)
-- [All model/path/control results](experiments/causal-event-aggregation-v1/results/heldout/summary.csv)
-- [Validation](experiments/causal-event-aggregation-v1/validation/heldout.json)
-- [Prior trim16 evidence](experiments/event-window-repair-v1/REPORT.md)
+- [Current failure report](experiments/causal-frame-lattice-v1/REPORT.md)
+- [Failure evidence](experiments/causal-frame-lattice-v1/failure.json)
+- [Saved-failure validation](experiments/causal-frame-lattice-v1/validation/failure.json)
+- [Prior aggregation result](experiments/causal-event-aggregation-v1/REPORT.md)
 
 ## Finite capability checklist
 
@@ -36,11 +35,11 @@ The PM must freeze concrete thresholds, datasets, horizons and delays in bounded
 
 ## Preserved history and next action
 
-PR #10's supplied-boundary observation repair passed its scoped test; PR #9 identified the octave-anchor prerequisite; PR #8 selected the simpler transformation-aware retrieval reference. E08 ranking and acceptance remain distinct results. PR #11 established the event-window prerequisite; all540 prior artifacts are preserved.
+PR #10's supplied-boundary observation repair passed its scoped test; PR #9 identified the octave-anchor prerequisite; PR #8 selected the simpler transformation-aware retrieval reference. E08 ranking and acceptance remain distinct results. PR #11 established the event-window prerequisite; all645 prior artifacts are preserved.
 
 - [Observation repair](experiments/fundamental-observation-repair-v1/REPORT.md)
 - [Controlled robustness](experiments/controlled-motif-robustness-v1/REPORT.md)
 - [History prediction](experiments/history-prediction-v1/REPORT.md)
 - [Original E08 state](review/experiment08/original-snapshot-PROJECT_STATE.md)
 
-Publish this complete snapshot and stop for review. Branch C ends further crop/within-event aggregation micro-repairs. After review the PM may explicitly assign a different event representation or checkpoint a concrete blocker under the decision filter. No follow-on study is assigned here; no adoption, complexity increase, spending, MERT changes, historical rewrite or worker merge.
+Publish the preserved failure snapshot and stop for review. The PM may explicitly bound a numerical-library initialization repair while retaining process isolation, or checkpoint another justified next action. That proposal has not been executed. No acoustic rerun, new study, adoption, complexity increase, spending, MERT changes, historical rewrite or worker merge is authorized by this result.
