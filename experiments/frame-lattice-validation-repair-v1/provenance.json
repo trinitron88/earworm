@@ -1,0 +1,17 @@
+{
+  "assignment": "earworm-frame-lattice-validation-repair-v1",
+  "assignment_comment": 5754247055,
+  "base": "9c468da5cebe513119320fac436cf28c3b9a0008",
+  "development_calibration_execution_revision": "849ed84b2119df6671cee791fe1953e7e8440253",
+  "prior_publication": "6b3c272cc16bbc890f94fab2478c49104968f1dc",
+  "heldout_execution_revision": "6303e0036069465d5b6cd67ab3d46975c0a70568",
+  "execution_code_sha256": "b4c1ea170e13ca8b3e9129d6c739cd47ab8049ee60fc60d299250f6fd82d23e9",
+  "preregistration_comment": 5755058327,
+  "preregistration_created_at": "2026-09-21T03:38:15Z",
+  "publication_revision": "Resolve the commit containing this completed snapshot; it is distinct from the frozen heldout execution revision. Completion receipt on PR2 records the exact publication SHA.",
+  "sources": "freeze.json, validation/preexecution_commit_binding.json; all runtime/scientific sources byte-identical to PR15. Only verify.py changes the measurement validation and adds receipts. Post-run saved_accounting.py produces descriptive accounting without acoustic calls.",
+  "historical_files_preserved": 763,
+  "reused_evidence": "reused_evidence.json; original data and calibration outcomes unchanged. New validation receipts supersede only the invalid support assumption.",
+  "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "numpy": "2.5.3"
+}

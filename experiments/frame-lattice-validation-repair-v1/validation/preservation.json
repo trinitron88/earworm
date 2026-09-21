@@ -67,7 +67,7 @@
   "historical_files": 763,
   "scientific_and_runtime_sources_unchanged": true,
   "old_heldout_unstarted": true,
-  "new_heldout_started": false,
+  "new_heldout_started": true,
   "old_validator_sha256": "817b7d90a1dfdd1e757d259207c594423c4196ec07dfee8a71889f21c589172f",
   "corrected_validator_sha256": "f503284936e29abe9862f5e5e9339d84302411904a33b9518ddfdf1ec16147d9"
 }

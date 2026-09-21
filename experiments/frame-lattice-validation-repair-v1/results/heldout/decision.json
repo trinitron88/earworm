@@ -1,0 +1,28 @@
+{
+  "branch": "C",
+  "validity_passed": true,
+  "oracle_pass": true,
+  "source_accuracy": 0.5989583333333334,
+  "unrelated_false_match": 0.0,
+  "source_pass": false,
+  "transformation_accuracy_changed": 0.0,
+  "transformation_pass": false,
+  "paired_success_pass": false,
+  "noninferiority": false,
+  "strongest_comparator": "trim16/transition3",
+  "joint_gain": -0.4375,
+  "joint_gain_lower95": -0.6041666666666666,
+  "joint_gain_upper95": -0.2708333333333333,
+  "joint_present_lower95": 0.1875,
+  "proper_score_increases": {
+    "log_loss": "+Infinity",
+    "brier": 0.7730876522525153
+  },
+  "causal_controls_pass": false,
+  "ambiguity_pass": false,
+  "safety_pass": false,
+  "max_feature_sample_latency_s": 0.056,
+  "max_forecast_compute_s": 0.058516292,
+  "latency_pass": true,
+  "next": "Reject lattice and checkpoint continuous-representation prerequisite; no NSDF/window micro-repair."
+}

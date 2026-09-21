@@ -1,0 +1,133 @@
+{
+  "acoustic_frames_checked": 79808,
+  "maximum_acoustic_reconstruction_error": 0.0,
+  "zero_windowed_power_nonzero_rms_cases": [
+    {
+      "episode": "fir-34/detached/intact/0",
+      "lattice": "f32",
+      "start_sample": 20352,
+      "end_sample": 20864,
+      "wave_sha256": "6e8592c14885fbc0c9a60981ef075d26b242aa4a5dc1ff5df690ac746eea2545",
+      "rms": 0.0042411981822530415,
+      "total_band_power": 0.0,
+      "denominator": 1e-20,
+      "spectral_shape": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "nonzero_indices": [
+        0
+      ]
+    },
+    {
+      "episode": "fir-34/detached/intact/1",
+      "lattice": "f32",
+      "start_sample": 20352,
+      "end_sample": 20864,
+      "wave_sha256": "6e8592c14885fbc0c9a60981ef075d26b242aa4a5dc1ff5df690ac746eea2545",
+      "rms": 0.0042411981822530415,
+      "total_band_power": 0.0,
+      "denominator": 1e-20,
+      "spectral_shape": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "nonzero_indices": [
+        0
+      ]
+    },
+    {
+      "episode": "fir-34/legato/intact/0",
+      "lattice": "f32",
+      "start_sample": 20480,
+      "end_sample": 20992,
+      "wave_sha256": "cadd43f02dd421f7a7cbcac0dfa6c63e04d8314b2bee334282e7b460c809eda4",
+      "rms": 0.0043719643773864085,
+      "total_band_power": 0.0,
+      "denominator": 1e-20,
+      "spectral_shape": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "nonzero_indices": [
+        0
+      ]
+    },
+    {
+      "episode": "fir-34/legato/intact/1",
+      "lattice": "f32",
+      "start_sample": 20480,
+      "end_sample": 20992,
+      "wave_sha256": "cadd43f02dd421f7a7cbcac0dfa6c63e04d8314b2bee334282e7b460c809eda4",
+      "rms": 0.0043719643773864085,
+      "total_band_power": 0.0,
+      "denominator": 1e-20,
+      "spectral_shape": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "nonzero_indices": [
+        0
+      ]
+    }
+  ],
+  "all_pass": true,
+  "checks": {
+    "hash_chain": true,
+    "scorer_edge_cases": true,
+    "independent_saved_rms_and_hann_shape": true,
+    "guarded_preflight": true,
+    "scientific_model_unchanged": true,
+    "save_restore_determinism": true,
+    "fixed_cadence_lattice": true,
+    "independent_alignment_arithmetic": true,
+    "prefix_only_guard": true,
+    "pre_reveal_commitment": true,
+    "independent_event_replay": true,
+    "independent_retrieval_and_saved_scores": true,
+    "future_invariance": true,
+    "paired_bytes_inventory_probe": true,
+    "control_semantics": true,
+    "fresh_groups": true,
+    "frozen_observation_and_reference": true,
+    "prior_artifacts": true,
+    "capacity_and_storage": true,
+    "full_original_observations_and_support_provenance": true,
+    "independent_aggregation_and_mixture": true,
+    "preregistered_inputs": true
+  },
+  "records": 25240,
+  "forecasts": 24000,
+  "maximum_reconstruction_error": 3.3306690738754696e-16,
+  "future_probes": 96,
+  "historical_files": 763,
+  "maximum_chunks": 23,
+  "maximum_raw_prefix_bytes": 94208,
+  "maximum_serialized_listener_payload_bytes": 2090488,
+  "maximum_inferred_event_decision_delay_s": 0.104,
+  "storage_note": "Payload counts serialized events/frame-cache/forecasts/hashes, not Python heap/RSS. Raw buffer separately bounded. Multiple dev-grid fronts are counted together; evaluator archive is inaccessible."
+}

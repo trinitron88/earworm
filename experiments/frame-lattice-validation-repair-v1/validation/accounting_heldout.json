@@ -1,0 +1,22 @@
+{
+  "split": "heldout",
+  "episodes": 480,
+  "retained_lattice_frames": 79808,
+  "search_readouts": 992,
+  "maxima": {
+    "raw_buffer_bytes": 94208,
+    "serialized_listener_payload_bytes": 2090488,
+    "serialized_config_bytes": 2326,
+    "lattice_frames": 181,
+    "comparator_frames": 361,
+    "events_per_front": 23,
+    "candidate_alignments": 120,
+    "serialized_candidate_scratch_bytes": 55705,
+    "feature_audio_availability_s": 0.056,
+    "feature_dispatch_to_computation_s": 0.009265334,
+    "forecast_dispatch_to_commit_s": 0.058516292,
+    "chunks": 23,
+    "evictions": 0
+  },
+  "accounting_scope": "Raw PCM, complete serialized frame/event/forecast/hash payload, config, and transient alignment candidates counted separately. Event-front internal pending references, counters and runtime/Python object overhead are bounded by source but not measured as heap/RSS. Shared measurements may be counted multiple times by serialization. Archives are evaluator-only and not memory. No eviction occurred; no long-term retention conclusion."
+}

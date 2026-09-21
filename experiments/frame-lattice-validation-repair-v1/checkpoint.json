@@ -1,0 +1,11 @@
+{
+  "assignment": "earworm-frame-lattice-validation-repair-v1",
+  "stage": "complete_awaiting_publication_review",
+  "branch": "C",
+  "saved_validation_passed": true,
+  "heldout_started": true,
+  "heldout_completed": true,
+  "heldout_execution_revision": "6303e0036069465d5b6cd67ab3d46975c0a70568",
+  "streams_cumulative": 962,
+  "next": "Publish complete successor once, awaiting-review then stop. No unassigned follow-up."
+}
