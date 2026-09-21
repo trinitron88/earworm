@@ -6,14 +6,15 @@ Earworm's finish line is a reusable, stateful listener for continuous musical au
 
 ## Current evidence and decision
 
-The boundary-free frame-lattice stage stopped during its first development forecast. **Invalid execution; no scientific result.** A NumPy helper attempted a lazy import after the listener's filesystem guard was active, and the guard blocked it. No forecast completed; no policy selection, calibration or held-out evaluation occurred. The failed attempt is preserved without rerun or guard relaxation and is awaiting review.
+The guarded initialization repair passed its smoke test and allowed development/calibration to finish with the scientific model unchanged. **Calibration integrity failed; heldout was not started.** Four saved frames contain one nonzero endpoint sample: Hann-windowed spectral shape is zero while unwindowed energy is nonzero. The frozen normalization check rejects this edge case. The worker preserved the failure without changing the check or rerunning audio and is awaiting review.
 
-The preceding aggregation study remains accepted negative evidence: branch C ended crop/within-event micro-repairs. The new lattice implementation is a different representation candidate, but its recognition, transformation and prediction capabilities remain untested. No continuous-listening front is accepted.
+Development selected32 ms frames. Calibration outcomes remain explicitly exploratory and invalid for acceptance; no continuous-listening front is accepted. Earlier branch C still ends crop/within-event micro-repairs. This stage makes no scientific conclusion about the lattice and no natural-music or long-term-memory claim.
 
-- [Current failure report](experiments/causal-frame-lattice-v1/REPORT.md)
-- [Failure evidence](experiments/causal-frame-lattice-v1/failure.json)
-- [Saved-failure validation](experiments/causal-frame-lattice-v1/validation/failure.json)
-- [Prior aggregation result](experiments/causal-event-aggregation-v1/REPORT.md)
+- [Current report](experiments/frame-lattice-init-repair-v1/REPORT.md)
+- [Calibration discrepancy](experiments/frame-lattice-init-repair-v1/calibration_integrity_failure.json)
+- [Guarded preflight](experiments/frame-lattice-init-repair-v1/preflight_result.json)
+- [Preserved-attempt checks](experiments/frame-lattice-init-repair-v1/validation/preserved_attempt.json)
+- [Earlier failure](experiments/causal-frame-lattice-v1/REPORT.md)
 
 ## Finite capability checklist
 
@@ -35,11 +36,11 @@ The PM must freeze concrete thresholds, datasets, horizons and delays in bounded
 
 ## Preserved history and next action
 
-PR #10's supplied-boundary observation repair passed its scoped test; PR #9 identified the octave-anchor prerequisite; PR #8 selected the simpler transformation-aware retrieval reference. E08 ranking and acceptance remain distinct results. PR #11 established the event-window prerequisite; all645 prior artifacts are preserved.
+PR #10's supplied-boundary observation repair passed its scoped test; PR #9 identified the octave-anchor prerequisite; PR #8 selected the simpler transformation-aware retrieval reference. E08 ranking and acceptance remain distinct results. PR #11 established the event-window prerequisite; all685 prior artifacts are preserved.
 
 - [Observation repair](experiments/fundamental-observation-repair-v1/REPORT.md)
 - [Controlled robustness](experiments/controlled-motif-robustness-v1/REPORT.md)
 - [History prediction](experiments/history-prediction-v1/REPORT.md)
 - [Original E08 state](review/experiment08/original-snapshot-PROJECT_STATE.md)
 
-Publish the preserved failure snapshot and stop for review. The PM may explicitly bound a numerical-library initialization repair while retaining process isolation, or checkpoint another justified next action. That proposal has not been executed. No acoustic rerun, new study, adoption, complexity increase, spending, MERT changes, historical rewrite or worker merge is authorized by this result.
+Publish this complete invalid-calibration snapshot and stop for review. A correction to the spectral-normalization validation assumption is an unexecuted proposal for the PM's next explicit bounded decision. No second repair, acoustic rerun, held-out evaluation, architectural switch, adoption, spending, MERT change, historical rewrite or worker merge is started here.

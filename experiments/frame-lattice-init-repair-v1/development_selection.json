@@ -1,0 +1,37 @@
+{
+  "grid": [
+    {
+      "source": 0.8125,
+      "brier": 0.37513207719832015,
+      "coverage": 0.7428385416666666,
+      "id": "f32",
+      "samples": 512,
+      "feasible": true
+    },
+    {
+      "source": 0.25,
+      "brier": 1.4997816021875001,
+      "coverage": 0.31640625,
+      "id": "f48",
+      "samples": 768,
+      "feasible": false
+    },
+    {
+      "source": 0.15625,
+      "brier": 1.6734363868631523,
+      "coverage": 0.26692708333333337,
+      "id": "f64",
+      "samples": 1024,
+      "feasible": false
+    }
+  ],
+  "selected": {
+    "source": 0.8125,
+    "brier": 0.37513207719832015,
+    "coverage": 0.7428385416666666,
+    "id": "f32",
+    "samples": 512,
+    "feasible": true
+  },
+  "objective": "validity and matched-query coverage>=.50; max source accuracy; min intact reference Brier; shortest window"
+}

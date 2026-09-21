@@ -1,0 +1,12 @@
+{
+  "all_pass": false,
+  "failure": "Frozen spectral-shape normalization assertion rejects four saved endpoint-only frames with nonzero unwindowed RMS.",
+  "checks_completed_before_failure": {
+    "complete_hash_chain": true,
+    "scorer_edge_cases": true
+  },
+  "uncompleted_checks": "Full calibration verifier exited early; do not claim all calibration integrity checks passed.",
+  "diagnostic": "../calibration_integrity_failure.json",
+  "heldout_started": false,
+  "no_gate_override": true
+}
