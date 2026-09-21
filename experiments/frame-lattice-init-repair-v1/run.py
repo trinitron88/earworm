@@ -28,6 +28,7 @@ class Worker:
     def close(self):self.p.stdin.close();assert self.p.wait(timeout=20)==0
 
 def run(split,config):
+    preflight=json.loads((HERE/'preflight_result.json').read_text());assert preflight['all_pass'] and preflight['same_forecast_bytes'] and preflight['guard_events']==['open','open']
     start=time.monotonic();d=HERE/'data'/split;d.mkdir(parents=True,exist_ok=True)
     assert not (d/'STARTED.json').exists(),'Do not repeat started split'
     cfg=json.loads(config.read_text());groups=[g for g in json.loads((HERE/'split_manifest.json').read_text())['groups'] if g['split']==split];mh=digest(config.read_bytes());ch=codehash();sha=subprocess.check_output(['git','-C',str(HERE),'rev-parse','HEAD'],text=True).strip()
@@ -35,8 +36,8 @@ def run(split,config):
         freeze=json.loads((HERE/'freeze.json').read_text());receipt=json.loads((HERE/'preregistration_receipt.json').read_text());assert receipt['protocol_sha256']==freeze['files']['protocol.json'] and receipt['comment_id']
         assert ch==freeze['execution_code_sha256']
         for n,h in freeze['files'].items():
-            assert digest((HERE/n).read_bytes())==h;assert digest(subprocess.check_output(['git','-C',str(HERE),'show','HEAD:experiments/causal-frame-lattice-v1/'+n]))==h
-    ledger=HERE/'run_ledger.json';counts=json.loads(ledger.read_text()) if ledger.exists() else [];assert sum(x['allocated_streams'] for x in counts)+len(groups)*25<=1000;counts.append(dict(split=split,allocated_streams=len(groups)*25,start_utc_ns=time.time_ns()));ledger.write_text(json.dumps(counts,indent=2))
+            assert digest((HERE/n).read_bytes())==h;assert digest(subprocess.check_output(['git','-C',str(HERE),'show','HEAD:experiments/frame-lattice-init-repair-v1/'+n]))==h
+    ledger=HERE/'run_ledger.json';counts=json.loads(ledger.read_text()) if ledger.exists() else [];assert sum(x['allocated_streams'] for x in counts)+len(groups)*24<=960;counts.append(dict(split=split,allocated_streams=len(groups)*24,start_utc_ns=time.time_ns()));ledger.write_text(json.dumps(counts,indent=2))
     dirty=subprocess.check_output(['git','-C',str(HERE),'status','--porcelain'],text=True).strip();(d/'STARTED.json').write_text(canonical(dict(start_utc_ns=time.time_ns(),execution_revision=sha,execution_code_sha256=ch,model_sha256=mh,frozen_inputs_match_commit=split=='heldout',dirty_paths=dirty.splitlines())))
     (d/'config_used.json').write_text(json.dumps(cfg,indent=2));(d/'execution_sources.json').write_text(json.dumps({p.name:p.read_text() for p in HERE.glob('*.py')},indent=2))
     log=Log(d/'events.jsonl.gz');worker=Worker();cache=open_record(d/'cache.jsonl.gz','xt');waves=open_record(d/'wave_archive.jsonl.gz','xt');truthfile=open_record(d/'truth.jsonl.gz','xt');recipes=[];balance=[];invariance=[];nep=0;support_calls=0;window_calls=0;lattice_calls=0;restores=[]
@@ -50,7 +51,7 @@ def run(split,config):
             assert len(a['prefix'])==len(b['prefix']) and a['prefix'][a['probe_start']*4:]==b['prefix'][b['probe_start']*4:]
             balance.append(dict(group=g['group_id'],cell=cell,condition=cond,source_unit_byte_multiset=True,probe_and_tail_identical=True,samples=len(a['prefix'])//4,chunks=len(a['prefix'])//4096,boundary_on_chunk_fraction=sum(t['start']%1024==0 for t in a['bounds'][1:-1])/len(a['bounds'][1:-1])))
         for e in episodes:
-            assert time.monotonic()-start+sum(json.loads(q.read_text())['elapsed_seconds'] for q in (HERE/'data').glob('*/runtime.json'))<7200
+            assert time.monotonic()-start+sum(json.loads(q.read_text())['elapsed_seconds'] for q in (HERE/'data').glob('*/runtime.json'))<6300
             eid=f"{e['group']}/{e['cell']}/{e['condition']}/{e['variant']}";ready,_=worker.rpc({'op':'init','config':cfg});assert ready['guard_probe_blocked'];log.add('start',dict(episode=eid,ready=ready,code_sha256=ch,model_sha256=mh));n=len(e['prefix'])//4
             for offset in range(0,n,1024):
                 if e['reset_sample']==offset:
