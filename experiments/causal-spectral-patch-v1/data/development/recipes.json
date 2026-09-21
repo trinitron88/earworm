@@ -1,0 +1,1206 @@
+[
+  {
+    "group": {
+      "group_id": "sp-00",
+      "split": "development",
+      "seed": 202609219100,
+      "motif": [
+        7,
+        -1,
+        9,
+        6
+      ],
+      "order": 0,
+      "direction": 0,
+      "register": 0,
+      "rich": false,
+      "family": "pure",
+      "index": 0,
+      "normalized_identity": [
+        -7,
+        -8,
+        -9,
+        6
+      ],
+      "transpose": -5,
+      "stretch": 0.8
+    },
+    "cells": {
+      "unchanged": {
+        "durations": [
+          1357,
+          1470,
+          1398,
+          1436
+        ],
+        "phase": -0.07432677380481989,
+        "demo_harmonics": [
+          1.0
+        ],
+        "cue_harmonics": [
+          1.0
+        ],
+        "shift": 0,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 0, 'n': 1357, 'amps': [1.0], 'phase': -0.07432677380481989}": "9ea5bdadc5e4ed15430dfbeb315babc34670f10f5bc0bac890268dbc8594403e",
+          "{'pitch': -7, 'n': 1470, 'amps': [1.0], 'phase': -0.07432677380481989}": "c9e517eeae254bc549f23128ed482248a3799aa4c5b7203849f2d5e520b6ac76",
+          "{'pitch': -8, 'n': 1398, 'amps': [1.0], 'phase': -0.07432677380481989}": "2d120a76018f9f1b268e67b550139b315b6046fa4d42df2af2e55ef2e36c6a62",
+          "{'pitch': -14, 'n': 1436, 'amps': [1.0], 'phase': -0.07432677380481989}": "b09e3b6ee57ae3454489372531e23df385028dbf103a5d5bdb6a1060be16e1aa",
+          "{'pitch': -9, 'n': 1470, 'amps': [1.0], 'phase': -0.07432677380481989}": "40551a23ba7a0dcfc17d76901c85b2c671103815eef7a3d666aa6045c00d0936",
+          "{'pitch': -2, 'n': 1436, 'amps': [1.0], 'phase': -0.07432677380481989}": "a1d7b5ad9473faeda15c5f92c1d0b6d2807cfa0e808a93d678039fbc0e980d7f",
+          "{'pitch': 2, 'n': 1470, 'amps': [1.0], 'phase': -0.07432677380481989}": "9ec70866c6b6f66b77757ccb8deb00704d89beaaf8e1f504dee4765bf36db78f",
+          "{'pitch': -7, 'n': 1398, 'amps': [1.0], 'phase': -0.07432677380481989}": "919d4c673910ea2d692d4ce34077faf7f94cd825e779810a2b479d0cb20100ab"
+        }
+      },
+      "transpose": {
+        "durations": [
+          1357,
+          1470,
+          1398,
+          1436
+        ],
+        "phase": -0.07432677380481989,
+        "demo_harmonics": [
+          1.0
+        ],
+        "cue_harmonics": [
+          1.0
+        ],
+        "shift": -5,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 0, 'n': 1357, 'amps': [1.0], 'phase': -0.07432677380481989}": "9ea5bdadc5e4ed15430dfbeb315babc34670f10f5bc0bac890268dbc8594403e",
+          "{'pitch': -7, 'n': 1470, 'amps': [1.0], 'phase': -0.07432677380481989}": "c9e517eeae254bc549f23128ed482248a3799aa4c5b7203849f2d5e520b6ac76",
+          "{'pitch': -8, 'n': 1398, 'amps': [1.0], 'phase': -0.07432677380481989}": "2d120a76018f9f1b268e67b550139b315b6046fa4d42df2af2e55ef2e36c6a62",
+          "{'pitch': -14, 'n': 1436, 'amps': [1.0], 'phase': -0.07432677380481989}": "b09e3b6ee57ae3454489372531e23df385028dbf103a5d5bdb6a1060be16e1aa",
+          "{'pitch': -9, 'n': 1470, 'amps': [1.0], 'phase': -0.07432677380481989}": "40551a23ba7a0dcfc17d76901c85b2c671103815eef7a3d666aa6045c00d0936",
+          "{'pitch': -2, 'n': 1436, 'amps': [1.0], 'phase': -0.07432677380481989}": "a1d7b5ad9473faeda15c5f92c1d0b6d2807cfa0e808a93d678039fbc0e980d7f",
+          "{'pitch': -5, 'n': 1357, 'amps': [1.0], 'phase': -0.07432677380481989}": "5a4a73b3c285b42ef0b1309f8fe3cca860fbb1501819d50e19d2ec9900369705",
+          "{'pitch': -12, 'n': 1470, 'amps': [1.0], 'phase': -0.07432677380481989}": "c3d52d91f1b16473421931243484defafa9eb14cd6e0fe72a7ffd48c4438424b",
+          "{'pitch': -13, 'n': 1398, 'amps': [1.0], 'phase': -0.07432677380481989}": "f1d7ebc9c35810106b512b037810f16a7107216b58e2d5c23f869d38e7dca22a"
+        }
+      },
+      "stretch": {
+        "durations": [
+          1357,
+          1470,
+          1398,
+          1436
+        ],
+        "phase": -0.07432677380481989,
+        "demo_harmonics": [
+          1.0
+        ],
+        "cue_harmonics": [
+          1.0
+        ],
+        "shift": 0,
+        "ratio": 0.8,
+        "source_cache_hashes": {
+          "{'pitch': 0, 'n': 1357, 'amps': [1.0], 'phase': -0.07432677380481989}": "9ea5bdadc5e4ed15430dfbeb315babc34670f10f5bc0bac890268dbc8594403e",
+          "{'pitch': -7, 'n': 1470, 'amps': [1.0], 'phase': -0.07432677380481989}": "c9e517eeae254bc549f23128ed482248a3799aa4c5b7203849f2d5e520b6ac76",
+          "{'pitch': -8, 'n': 1398, 'amps': [1.0], 'phase': -0.07432677380481989}": "2d120a76018f9f1b268e67b550139b315b6046fa4d42df2af2e55ef2e36c6a62",
+          "{'pitch': -14, 'n': 1436, 'amps': [1.0], 'phase': -0.07432677380481989}": "b09e3b6ee57ae3454489372531e23df385028dbf103a5d5bdb6a1060be16e1aa",
+          "{'pitch': -9, 'n': 1470, 'amps': [1.0], 'phase': -0.07432677380481989}": "40551a23ba7a0dcfc17d76901c85b2c671103815eef7a3d666aa6045c00d0936",
+          "{'pitch': -2, 'n': 1436, 'amps': [1.0], 'phase': -0.07432677380481989}": "a1d7b5ad9473faeda15c5f92c1d0b6d2807cfa0e808a93d678039fbc0e980d7f",
+          "{'pitch': 0, 'n': 1086, 'amps': [1.0], 'phase': -0.07432677380481989}": "f15e70c6f559a1064b8dd1dfc7112eccf68bc780a56fa5da1f1b8ebec4593f74",
+          "{'pitch': -7, 'n': 1176, 'amps': [1.0], 'phase': -0.07432677380481989}": "1b3f01d9aeeb7a1b362fcfc8f58c106a5f1e60afc1d570a0c76a2dafee580474",
+          "{'pitch': -8, 'n': 1118, 'amps': [1.0], 'phase': -0.07432677380481989}": "217c18484c306c7e93086c7b170f4f9d25673447e080aa4dc0b1a8f410a23547"
+        }
+      },
+      "timbre": {
+        "durations": [
+          1357,
+          1470,
+          1398,
+          1436
+        ],
+        "phase": -0.07432677380481989,
+        "demo_harmonics": [
+          1.0
+        ],
+        "cue_harmonics": [
+          1.0,
+          0.5,
+          0.3
+        ],
+        "shift": 0,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 0, 'n': 1357, 'amps': [1.0], 'phase': -0.07432677380481989}": "9ea5bdadc5e4ed15430dfbeb315babc34670f10f5bc0bac890268dbc8594403e",
+          "{'pitch': -7, 'n': 1470, 'amps': [1.0], 'phase': -0.07432677380481989}": "c9e517eeae254bc549f23128ed482248a3799aa4c5b7203849f2d5e520b6ac76",
+          "{'pitch': -8, 'n': 1398, 'amps': [1.0], 'phase': -0.07432677380481989}": "2d120a76018f9f1b268e67b550139b315b6046fa4d42df2af2e55ef2e36c6a62",
+          "{'pitch': -14, 'n': 1436, 'amps': [1.0], 'phase': -0.07432677380481989}": "b09e3b6ee57ae3454489372531e23df385028dbf103a5d5bdb6a1060be16e1aa",
+          "{'pitch': -9, 'n': 1470, 'amps': [1.0], 'phase': -0.07432677380481989}": "40551a23ba7a0dcfc17d76901c85b2c671103815eef7a3d666aa6045c00d0936",
+          "{'pitch': -2, 'n': 1436, 'amps': [1.0], 'phase': -0.07432677380481989}": "a1d7b5ad9473faeda15c5f92c1d0b6d2807cfa0e808a93d678039fbc0e980d7f",
+          "{'pitch': 0, 'n': 1357, 'amps': [1.0, 0.5, 0.3], 'phase': -0.07432677380481989}": "a4c07abb2c7677a585144c90c13f3489bd7ca3aa4c00b2d66c75ddd10dd02be4",
+          "{'pitch': -7, 'n': 1470, 'amps': [1.0, 0.5, 0.3], 'phase': -0.07432677380481989}": "4f11ce9a2d12e9e96f6ec14761b742d894979051a8ae55d53ce9f7705c796027",
+          "{'pitch': -8, 'n': 1398, 'amps': [1.0, 0.5, 0.3], 'phase': -0.07432677380481989}": "cc77247ba779ae913a51be8c188e8a559c0f5cab3c84622a192d6447fa77120d"
+        }
+      }
+    }
+  },
+  {
+    "group": {
+      "group_id": "sp-01",
+      "split": "development",
+      "seed": 202609219101,
+      "motif": [
+        9,
+        -3,
+        5,
+        4
+      ],
+      "order": 0,
+      "direction": 1,
+      "register": 0,
+      "rich": false,
+      "family": "fundamental",
+      "index": 1,
+      "normalized_identity": [
+        9,
+        12,
+        5,
+        4
+      ],
+      "transpose": -3,
+      "stretch": 0.8
+    },
+    "cells": {
+      "unchanged": {
+        "durations": [
+          1360,
+          1473,
+          1401,
+          1439
+        ],
+        "phase": -1.6904709606918078,
+        "demo_harmonics": [
+          1.0,
+          0.12,
+          0.04
+        ],
+        "cue_harmonics": [
+          1.0,
+          0.12,
+          0.04
+        ],
+        "shift": 0,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 0, 'n': 1360, 'amps': [1.0, 0.12, 0.04], 'phase': -1.6904709606918078}": "f61a5f71ff6a2a89070cc501b767769cd0d7b8217d75fdce15f0b8996a14f0a0",
+          "{'pitch': 9, 'n': 1473, 'amps': [1.0, 0.12, 0.04], 'phase': -1.6904709606918078}": "b9f6aa6eb6db62a1fd73edea7de8afab859adcb413c675c1445c1227d36dd052",
+          "{'pitch': 12, 'n': 1401, 'amps': [1.0, 0.12, 0.04], 'phase': -1.6904709606918078}": "3de739613205de46c20ee2bdb04fb6c5cf4c424ff2323737ed823520450e7b91",
+          "{'pitch': 8, 'n': 1439, 'amps': [1.0, 0.12, 0.04], 'phase': -1.6904709606918078}": "9bdedc597d5ba029ad3ee3b772c6837f7c9cb58a6e85ed1149c3913868e3d427",
+          "{'pitch': 5, 'n': 1473, 'amps': [1.0, 0.12, 0.04], 'phase': -1.6904709606918078}": "610a0b759363edba3375b86502a5602e58ff26f7020721939205899b027c9499",
+          "{'pitch': 16, 'n': 1439, 'amps': [1.0, 0.12, 0.04], 'phase': -1.6904709606918078}": "675838e55c4c0f785b6689af16913630253000f858c24c9eee5222a6fcc2f1b3",
+          "{'pitch': -2, 'n': 1473, 'amps': [1.0, 0.12, 0.04], 'phase': -1.6904709606918078}": "0cf425eca883e78650bf523e876a4cba2ec73a9849fc65d31b0a2c634433b954",
+          "{'pitch': 7, 'n': 1401, 'amps': [1.0, 0.12, 0.04], 'phase': -1.6904709606918078}": "cc684816150b7e3686faf4bbe7e66476b503bd8dd2d27bd7fa7c5833bf565883"
+        }
+      },
+      "transpose": {
+        "durations": [
+          1360,
+          1473,
+          1401,
+          1439
+        ],
+        "phase": -1.6904709606918078,
+        "demo_harmonics": [
+          1.0,
+          0.12,
+          0.04
+        ],
+        "cue_harmonics": [
+          1.0,
+          0.12,
+          0.04
+        ],
+        "shift": -3,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 0, 'n': 1360, 'amps': [1.0, 0.12, 0.04], 'phase': -1.6904709606918078}": "f61a5f71ff6a2a89070cc501b767769cd0d7b8217d75fdce15f0b8996a14f0a0",
+          "{'pitch': 9, 'n': 1473, 'amps': [1.0, 0.12, 0.04], 'phase': -1.6904709606918078}": "b9f6aa6eb6db62a1fd73edea7de8afab859adcb413c675c1445c1227d36dd052",
+          "{'pitch': 12, 'n': 1401, 'amps': [1.0, 0.12, 0.04], 'phase': -1.6904709606918078}": "3de739613205de46c20ee2bdb04fb6c5cf4c424ff2323737ed823520450e7b91",
+          "{'pitch': 8, 'n': 1439, 'amps': [1.0, 0.12, 0.04], 'phase': -1.6904709606918078}": "9bdedc597d5ba029ad3ee3b772c6837f7c9cb58a6e85ed1149c3913868e3d427",
+          "{'pitch': 5, 'n': 1473, 'amps': [1.0, 0.12, 0.04], 'phase': -1.6904709606918078}": "610a0b759363edba3375b86502a5602e58ff26f7020721939205899b027c9499",
+          "{'pitch': 16, 'n': 1439, 'amps': [1.0, 0.12, 0.04], 'phase': -1.6904709606918078}": "675838e55c4c0f785b6689af16913630253000f858c24c9eee5222a6fcc2f1b3",
+          "{'pitch': -3, 'n': 1360, 'amps': [1.0, 0.12, 0.04], 'phase': -1.6904709606918078}": "e571c739d83d1b5787af1d9796ca4c804db5940135477921a2d274e2cc6d9e3e",
+          "{'pitch': 6, 'n': 1473, 'amps': [1.0, 0.12, 0.04], 'phase': -1.6904709606918078}": "ee29deb66a1345693b4e58713fbc9b974556dfc2c293aaaf1694a045e895fd5f",
+          "{'pitch': 9, 'n': 1401, 'amps': [1.0, 0.12, 0.04], 'phase': -1.6904709606918078}": "2a2c690d9641be3a162c465c0d1e4bf7dc39153d68fc13a112cbc8c9ab27f2c6"
+        }
+      },
+      "stretch": {
+        "durations": [
+          1360,
+          1473,
+          1401,
+          1439
+        ],
+        "phase": -1.6904709606918078,
+        "demo_harmonics": [
+          1.0,
+          0.12,
+          0.04
+        ],
+        "cue_harmonics": [
+          1.0,
+          0.12,
+          0.04
+        ],
+        "shift": 0,
+        "ratio": 0.8,
+        "source_cache_hashes": {
+          "{'pitch': 0, 'n': 1360, 'amps': [1.0, 0.12, 0.04], 'phase': -1.6904709606918078}": "f61a5f71ff6a2a89070cc501b767769cd0d7b8217d75fdce15f0b8996a14f0a0",
+          "{'pitch': 9, 'n': 1473, 'amps': [1.0, 0.12, 0.04], 'phase': -1.6904709606918078}": "b9f6aa6eb6db62a1fd73edea7de8afab859adcb413c675c1445c1227d36dd052",
+          "{'pitch': 12, 'n': 1401, 'amps': [1.0, 0.12, 0.04], 'phase': -1.6904709606918078}": "3de739613205de46c20ee2bdb04fb6c5cf4c424ff2323737ed823520450e7b91",
+          "{'pitch': 8, 'n': 1439, 'amps': [1.0, 0.12, 0.04], 'phase': -1.6904709606918078}": "9bdedc597d5ba029ad3ee3b772c6837f7c9cb58a6e85ed1149c3913868e3d427",
+          "{'pitch': 5, 'n': 1473, 'amps': [1.0, 0.12, 0.04], 'phase': -1.6904709606918078}": "610a0b759363edba3375b86502a5602e58ff26f7020721939205899b027c9499",
+          "{'pitch': 16, 'n': 1439, 'amps': [1.0, 0.12, 0.04], 'phase': -1.6904709606918078}": "675838e55c4c0f785b6689af16913630253000f858c24c9eee5222a6fcc2f1b3",
+          "{'pitch': 0, 'n': 1088, 'amps': [1.0, 0.12, 0.04], 'phase': -1.6904709606918078}": "a7a4ccc3ccc2ecdc159e241cc0319fe085df7393a46f333123225242394d1913",
+          "{'pitch': 9, 'n': 1178, 'amps': [1.0, 0.12, 0.04], 'phase': -1.6904709606918078}": "4e21f39f6e2fd1297c9a752e9f7e0f75729e8e74eb9eff7c5050208ac7c43740",
+          "{'pitch': 12, 'n': 1121, 'amps': [1.0, 0.12, 0.04], 'phase': -1.6904709606918078}": "c33b2922b77abd0a0b4f08dca9c3973afe7c07e9d0b42a084f40e4ed74190b6f"
+        }
+      },
+      "timbre": {
+        "durations": [
+          1360,
+          1473,
+          1401,
+          1439
+        ],
+        "phase": -1.6904709606918078,
+        "demo_harmonics": [
+          1.0,
+          0.12,
+          0.04
+        ],
+        "cue_harmonics": [
+          1.0,
+          0.04,
+          0.01
+        ],
+        "shift": 0,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 0, 'n': 1360, 'amps': [1.0, 0.12, 0.04], 'phase': -1.6904709606918078}": "f61a5f71ff6a2a89070cc501b767769cd0d7b8217d75fdce15f0b8996a14f0a0",
+          "{'pitch': 9, 'n': 1473, 'amps': [1.0, 0.12, 0.04], 'phase': -1.6904709606918078}": "b9f6aa6eb6db62a1fd73edea7de8afab859adcb413c675c1445c1227d36dd052",
+          "{'pitch': 12, 'n': 1401, 'amps': [1.0, 0.12, 0.04], 'phase': -1.6904709606918078}": "3de739613205de46c20ee2bdb04fb6c5cf4c424ff2323737ed823520450e7b91",
+          "{'pitch': 8, 'n': 1439, 'amps': [1.0, 0.12, 0.04], 'phase': -1.6904709606918078}": "9bdedc597d5ba029ad3ee3b772c6837f7c9cb58a6e85ed1149c3913868e3d427",
+          "{'pitch': 5, 'n': 1473, 'amps': [1.0, 0.12, 0.04], 'phase': -1.6904709606918078}": "610a0b759363edba3375b86502a5602e58ff26f7020721939205899b027c9499",
+          "{'pitch': 16, 'n': 1439, 'amps': [1.0, 0.12, 0.04], 'phase': -1.6904709606918078}": "675838e55c4c0f785b6689af16913630253000f858c24c9eee5222a6fcc2f1b3",
+          "{'pitch': 0, 'n': 1360, 'amps': [1.0, 0.04, 0.01], 'phase': -1.6904709606918078}": "7e8564acf40992b66ad44808fe8e4302c4c3c114174e9ee6264e4e1668e327ca",
+          "{'pitch': 9, 'n': 1473, 'amps': [1.0, 0.04, 0.01], 'phase': -1.6904709606918078}": "67b67331df27ad5064025d902aa871625c0433dfdb8a2c632cd6829fa0d2bd12",
+          "{'pitch': 12, 'n': 1401, 'amps': [1.0, 0.04, 0.01], 'phase': -1.6904709606918078}": "9eb105509a4cd06f353726315761253e98509014fdc8f5b26e71953181cfacf3"
+        }
+      }
+    }
+  },
+  {
+    "group": {
+      "group_id": "sp-02",
+      "split": "development",
+      "seed": 202609219102,
+      "motif": [
+        2,
+        -1,
+        7,
+        3
+      ],
+      "order": 1,
+      "direction": 0,
+      "register": 0,
+      "rich": true,
+      "family": "overtone",
+      "index": 2,
+      "normalized_identity": [
+        -2,
+        -3,
+        -7,
+        3
+      ],
+      "transpose": 3,
+      "stretch": 1.25
+    },
+    "cells": {
+      "unchanged": {
+        "durations": [
+          1363,
+          1476,
+          1404,
+          1442
+        ],
+        "phase": 1.4778138076100062,
+        "demo_harmonics": [
+          0.6,
+          1.0,
+          0.25
+        ],
+        "cue_harmonics": [
+          0.6,
+          1.0,
+          0.25
+        ],
+        "shift": 0,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 0, 'n': 1363, 'amps': [0.6, 1.0, 0.25], 'phase': 1.4778138076100062}": "54a0dee4c35657b8a2bd2cf8cf72ca864a0f19cd8dbb98500cb555f7fdfe244c",
+          "{'pitch': -2, 'n': 1476, 'amps': [0.6, 1.0, 0.25], 'phase': 1.4778138076100062}": "45c55461e200f7f37ec09a9258a8dede0cba26598fa0aae39d928a6f85e4870f",
+          "{'pitch': -3, 'n': 1404, 'amps': [0.6, 1.0, 0.25], 'phase': 1.4778138076100062}": "52f256af6fa36665537ca84cd46f66beeeaa24cc2cade5f2c7b7b132498ddd03",
+          "{'pitch': -6, 'n': 1442, 'amps': [0.6, 1.0, 0.25], 'phase': 1.4778138076100062}": "3af0ef2d7bb3a175494f15874e4f69484b0ed228706783cc85b65058aeee9e19",
+          "{'pitch': -7, 'n': 1476, 'amps': [0.6, 1.0, 0.25], 'phase': 1.4778138076100062}": "a299382fc7c66545f48d9db60003ce8588d93e97eaa5cc6ae0507a3e8926dbd8",
+          "{'pitch': 0, 'n': 1442, 'amps': [0.6, 1.0, 0.25], 'phase': 1.4778138076100062}": "69d08316f4c9a7e548c07b1362b4615dae130eca555c2a634d08301894ab828c",
+          "{'pitch': 2, 'n': 1476, 'amps': [0.6, 1.0, 0.25], 'phase': 1.4778138076100062}": "265d3689a12ae56fcd67af724a575a20f132b4bfb67bdeefc3ba2b9fec5ad2c7",
+          "{'pitch': -7, 'n': 1404, 'amps': [0.6, 1.0, 0.25], 'phase': 1.4778138076100062}": "0246d4acd76d8a7da25784ca102908e3ebae14a84480205eb24403fcb3397b38"
+        }
+      },
+      "transpose": {
+        "durations": [
+          1363,
+          1476,
+          1404,
+          1442
+        ],
+        "phase": 1.4778138076100062,
+        "demo_harmonics": [
+          0.6,
+          1.0,
+          0.25
+        ],
+        "cue_harmonics": [
+          0.6,
+          1.0,
+          0.25
+        ],
+        "shift": 3,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 0, 'n': 1363, 'amps': [0.6, 1.0, 0.25], 'phase': 1.4778138076100062}": "54a0dee4c35657b8a2bd2cf8cf72ca864a0f19cd8dbb98500cb555f7fdfe244c",
+          "{'pitch': -2, 'n': 1476, 'amps': [0.6, 1.0, 0.25], 'phase': 1.4778138076100062}": "45c55461e200f7f37ec09a9258a8dede0cba26598fa0aae39d928a6f85e4870f",
+          "{'pitch': -3, 'n': 1404, 'amps': [0.6, 1.0, 0.25], 'phase': 1.4778138076100062}": "52f256af6fa36665537ca84cd46f66beeeaa24cc2cade5f2c7b7b132498ddd03",
+          "{'pitch': -6, 'n': 1442, 'amps': [0.6, 1.0, 0.25], 'phase': 1.4778138076100062}": "3af0ef2d7bb3a175494f15874e4f69484b0ed228706783cc85b65058aeee9e19",
+          "{'pitch': -7, 'n': 1476, 'amps': [0.6, 1.0, 0.25], 'phase': 1.4778138076100062}": "a299382fc7c66545f48d9db60003ce8588d93e97eaa5cc6ae0507a3e8926dbd8",
+          "{'pitch': 0, 'n': 1442, 'amps': [0.6, 1.0, 0.25], 'phase': 1.4778138076100062}": "69d08316f4c9a7e548c07b1362b4615dae130eca555c2a634d08301894ab828c",
+          "{'pitch': 3, 'n': 1363, 'amps': [0.6, 1.0, 0.25], 'phase': 1.4778138076100062}": "5f34c109b5e77b1cff887bac689299d2765219b2e6c1c0780e62c0898fe2ccd9",
+          "{'pitch': 1, 'n': 1476, 'amps': [0.6, 1.0, 0.25], 'phase': 1.4778138076100062}": "4b501de7fc66f055ec5779d1ef0a7011fb069075548740db7c38eb48350e516b",
+          "{'pitch': 0, 'n': 1404, 'amps': [0.6, 1.0, 0.25], 'phase': 1.4778138076100062}": "08ab2f34bcf6139eef134d0421996b309d0818448c6d807441aafadd7796890d"
+        }
+      },
+      "stretch": {
+        "durations": [
+          1363,
+          1476,
+          1404,
+          1442
+        ],
+        "phase": 1.4778138076100062,
+        "demo_harmonics": [
+          0.6,
+          1.0,
+          0.25
+        ],
+        "cue_harmonics": [
+          0.6,
+          1.0,
+          0.25
+        ],
+        "shift": 0,
+        "ratio": 1.25,
+        "source_cache_hashes": {
+          "{'pitch': 0, 'n': 1363, 'amps': [0.6, 1.0, 0.25], 'phase': 1.4778138076100062}": "54a0dee4c35657b8a2bd2cf8cf72ca864a0f19cd8dbb98500cb555f7fdfe244c",
+          "{'pitch': -2, 'n': 1476, 'amps': [0.6, 1.0, 0.25], 'phase': 1.4778138076100062}": "45c55461e200f7f37ec09a9258a8dede0cba26598fa0aae39d928a6f85e4870f",
+          "{'pitch': -3, 'n': 1404, 'amps': [0.6, 1.0, 0.25], 'phase': 1.4778138076100062}": "52f256af6fa36665537ca84cd46f66beeeaa24cc2cade5f2c7b7b132498ddd03",
+          "{'pitch': -6, 'n': 1442, 'amps': [0.6, 1.0, 0.25], 'phase': 1.4778138076100062}": "3af0ef2d7bb3a175494f15874e4f69484b0ed228706783cc85b65058aeee9e19",
+          "{'pitch': -7, 'n': 1476, 'amps': [0.6, 1.0, 0.25], 'phase': 1.4778138076100062}": "a299382fc7c66545f48d9db60003ce8588d93e97eaa5cc6ae0507a3e8926dbd8",
+          "{'pitch': 0, 'n': 1442, 'amps': [0.6, 1.0, 0.25], 'phase': 1.4778138076100062}": "69d08316f4c9a7e548c07b1362b4615dae130eca555c2a634d08301894ab828c",
+          "{'pitch': 0, 'n': 1704, 'amps': [0.6, 1.0, 0.25], 'phase': 1.4778138076100062}": "260d4474a3e488ad12b971eaca9609c6f5db0462d10b2e6aea952d711ff33c1a",
+          "{'pitch': -2, 'n': 1845, 'amps': [0.6, 1.0, 0.25], 'phase': 1.4778138076100062}": "967859dea80a3f2d050562dba4572ee1ea2e6c8a6b147711432399f1b4556b4c",
+          "{'pitch': -3, 'n': 1755, 'amps': [0.6, 1.0, 0.25], 'phase': 1.4778138076100062}": "a2a67ad0ff7605c575ed9ca8bfa621f0f4c8f324919c35b08ccb80ea6982f509"
+        }
+      },
+      "timbre": {
+        "durations": [
+          1363,
+          1476,
+          1404,
+          1442
+        ],
+        "phase": 1.4778138076100062,
+        "demo_harmonics": [
+          0.6,
+          1.0,
+          0.25
+        ],
+        "cue_harmonics": [
+          1.0,
+          0.04,
+          0.01
+        ],
+        "shift": 0,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 0, 'n': 1363, 'amps': [0.6, 1.0, 0.25], 'phase': 1.4778138076100062}": "54a0dee4c35657b8a2bd2cf8cf72ca864a0f19cd8dbb98500cb555f7fdfe244c",
+          "{'pitch': -2, 'n': 1476, 'amps': [0.6, 1.0, 0.25], 'phase': 1.4778138076100062}": "45c55461e200f7f37ec09a9258a8dede0cba26598fa0aae39d928a6f85e4870f",
+          "{'pitch': -3, 'n': 1404, 'amps': [0.6, 1.0, 0.25], 'phase': 1.4778138076100062}": "52f256af6fa36665537ca84cd46f66beeeaa24cc2cade5f2c7b7b132498ddd03",
+          "{'pitch': -6, 'n': 1442, 'amps': [0.6, 1.0, 0.25], 'phase': 1.4778138076100062}": "3af0ef2d7bb3a175494f15874e4f69484b0ed228706783cc85b65058aeee9e19",
+          "{'pitch': -7, 'n': 1476, 'amps': [0.6, 1.0, 0.25], 'phase': 1.4778138076100062}": "a299382fc7c66545f48d9db60003ce8588d93e97eaa5cc6ae0507a3e8926dbd8",
+          "{'pitch': 0, 'n': 1442, 'amps': [0.6, 1.0, 0.25], 'phase': 1.4778138076100062}": "69d08316f4c9a7e548c07b1362b4615dae130eca555c2a634d08301894ab828c",
+          "{'pitch': 0, 'n': 1363, 'amps': [1.0, 0.04, 0.01], 'phase': 1.4778138076100062}": "f2824d6e2db83644bdc47f2a68d7b0567261ce80a6cb352003958b40e6345239",
+          "{'pitch': -2, 'n': 1476, 'amps': [1.0, 0.04, 0.01], 'phase': 1.4778138076100062}": "a3eb9c26d1afc71e0c6ec501fb3ca94ece1508ebb48cf1c7c0aad43723a69fb9",
+          "{'pitch': -3, 'n': 1404, 'amps': [1.0, 0.04, 0.01], 'phase': 1.4778138076100062}": "bf608ae493d215956d6c96ea6c413b8cdbd4b3532090014dcd8e81ce1a452eec"
+        }
+      }
+    }
+  },
+  {
+    "group": {
+      "group_id": "sp-03",
+      "split": "development",
+      "seed": 202609219103,
+      "motif": [
+        4,
+        -1,
+        9,
+        6
+      ],
+      "order": 1,
+      "direction": 1,
+      "register": 0,
+      "rich": false,
+      "family": "pure",
+      "index": 3,
+      "normalized_identity": [
+        4,
+        5,
+        9,
+        6
+      ],
+      "transpose": 5,
+      "stretch": 1.25
+    },
+    "cells": {
+      "unchanged": {
+        "durations": [
+          1366,
+          1479,
+          1407,
+          1445
+        ],
+        "phase": -0.3808159137131142,
+        "demo_harmonics": [
+          1.0
+        ],
+        "cue_harmonics": [
+          1.0
+        ],
+        "shift": 0,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 0, 'n': 1366, 'amps': [1.0], 'phase': -0.3808159137131142}": "76a2ca646d83cfef8576a6287304dc1d12a4e77476798bf5cf0a6e5e5ac039b2",
+          "{'pitch': 4, 'n': 1479, 'amps': [1.0], 'phase': -0.3808159137131142}": "24f1edf7e2f19c1faf488b1aef3052453a283e27c9d5ffb65441bf66542f5c33",
+          "{'pitch': 5, 'n': 1407, 'amps': [1.0], 'phase': -0.3808159137131142}": "60b605f34fc8830661ca3f27045541df35464620ad0a8c635618781314d6344b",
+          "{'pitch': -1, 'n': 1445, 'amps': [1.0], 'phase': -0.3808159137131142}": "8f6272e773a28b178b41131e5b0606a202d55934b09e98e89a4eb2b12190d0b4",
+          "{'pitch': 9, 'n': 1479, 'amps': [1.0], 'phase': -0.3808159137131142}": "d9f7cb3349ae4c59431455cdb4ed108817cba0bc518a9170b554aaef4fd3ad82",
+          "{'pitch': 11, 'n': 1445, 'amps': [1.0], 'phase': -0.3808159137131142}": "e815934340a3a29d4cb8737e710740b7dd1ac40c1de730b5facd714f50fdd138",
+          "{'pitch': -2, 'n': 1479, 'amps': [1.0], 'phase': -0.3808159137131142}": "c48cb53a6a26da48765b326c0ea37ce8b99a6b53aa78d5dcdf0267494ca6b40e",
+          "{'pitch': 7, 'n': 1407, 'amps': [1.0], 'phase': -0.3808159137131142}": "eee66ed06f52c42302604eee03b82f5111f281e81fb1436490c149c2469578a3"
+        }
+      },
+      "transpose": {
+        "durations": [
+          1366,
+          1479,
+          1407,
+          1445
+        ],
+        "phase": -0.3808159137131142,
+        "demo_harmonics": [
+          1.0
+        ],
+        "cue_harmonics": [
+          1.0
+        ],
+        "shift": 5,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 0, 'n': 1366, 'amps': [1.0], 'phase': -0.3808159137131142}": "76a2ca646d83cfef8576a6287304dc1d12a4e77476798bf5cf0a6e5e5ac039b2",
+          "{'pitch': 4, 'n': 1479, 'amps': [1.0], 'phase': -0.3808159137131142}": "24f1edf7e2f19c1faf488b1aef3052453a283e27c9d5ffb65441bf66542f5c33",
+          "{'pitch': 5, 'n': 1407, 'amps': [1.0], 'phase': -0.3808159137131142}": "60b605f34fc8830661ca3f27045541df35464620ad0a8c635618781314d6344b",
+          "{'pitch': -1, 'n': 1445, 'amps': [1.0], 'phase': -0.3808159137131142}": "8f6272e773a28b178b41131e5b0606a202d55934b09e98e89a4eb2b12190d0b4",
+          "{'pitch': 9, 'n': 1479, 'amps': [1.0], 'phase': -0.3808159137131142}": "d9f7cb3349ae4c59431455cdb4ed108817cba0bc518a9170b554aaef4fd3ad82",
+          "{'pitch': 11, 'n': 1445, 'amps': [1.0], 'phase': -0.3808159137131142}": "e815934340a3a29d4cb8737e710740b7dd1ac40c1de730b5facd714f50fdd138",
+          "{'pitch': 5, 'n': 1366, 'amps': [1.0], 'phase': -0.3808159137131142}": "d67a01d3076bf112e7610df95d0f5c48fd1d4a0b214102e20f1403f6a46866a1",
+          "{'pitch': 10, 'n': 1407, 'amps': [1.0], 'phase': -0.3808159137131142}": "d2a11aaebf13a9828e989427d396bd939092e7f4de4e9690985cbe3ec1b7544a"
+        }
+      },
+      "stretch": {
+        "durations": [
+          1366,
+          1479,
+          1407,
+          1445
+        ],
+        "phase": -0.3808159137131142,
+        "demo_harmonics": [
+          1.0
+        ],
+        "cue_harmonics": [
+          1.0
+        ],
+        "shift": 0,
+        "ratio": 1.25,
+        "source_cache_hashes": {
+          "{'pitch': 0, 'n': 1366, 'amps': [1.0], 'phase': -0.3808159137131142}": "76a2ca646d83cfef8576a6287304dc1d12a4e77476798bf5cf0a6e5e5ac039b2",
+          "{'pitch': 4, 'n': 1479, 'amps': [1.0], 'phase': -0.3808159137131142}": "24f1edf7e2f19c1faf488b1aef3052453a283e27c9d5ffb65441bf66542f5c33",
+          "{'pitch': 5, 'n': 1407, 'amps': [1.0], 'phase': -0.3808159137131142}": "60b605f34fc8830661ca3f27045541df35464620ad0a8c635618781314d6344b",
+          "{'pitch': -1, 'n': 1445, 'amps': [1.0], 'phase': -0.3808159137131142}": "8f6272e773a28b178b41131e5b0606a202d55934b09e98e89a4eb2b12190d0b4",
+          "{'pitch': 9, 'n': 1479, 'amps': [1.0], 'phase': -0.3808159137131142}": "d9f7cb3349ae4c59431455cdb4ed108817cba0bc518a9170b554aaef4fd3ad82",
+          "{'pitch': 11, 'n': 1445, 'amps': [1.0], 'phase': -0.3808159137131142}": "e815934340a3a29d4cb8737e710740b7dd1ac40c1de730b5facd714f50fdd138",
+          "{'pitch': 0, 'n': 1708, 'amps': [1.0], 'phase': -0.3808159137131142}": "eb6613ea5d0ca4a5b2e911e02dc7621e2a7e66d1e47a5586b5d5ce404783272e",
+          "{'pitch': 4, 'n': 1849, 'amps': [1.0], 'phase': -0.3808159137131142}": "ce541475d8d7bfabb1b9f9bb3f7f2354be66203ee8b544000223e8895059202d",
+          "{'pitch': 5, 'n': 1759, 'amps': [1.0], 'phase': -0.3808159137131142}": "c0b680ab315a70eabb6ae3a4cd5fd420cff777defdc0d90f74fd28be094e7e5b"
+        }
+      },
+      "timbre": {
+        "durations": [
+          1366,
+          1479,
+          1407,
+          1445
+        ],
+        "phase": -0.3808159137131142,
+        "demo_harmonics": [
+          1.0
+        ],
+        "cue_harmonics": [
+          1.0,
+          0.5,
+          0.3
+        ],
+        "shift": 0,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 0, 'n': 1366, 'amps': [1.0], 'phase': -0.3808159137131142}": "76a2ca646d83cfef8576a6287304dc1d12a4e77476798bf5cf0a6e5e5ac039b2",
+          "{'pitch': 4, 'n': 1479, 'amps': [1.0], 'phase': -0.3808159137131142}": "24f1edf7e2f19c1faf488b1aef3052453a283e27c9d5ffb65441bf66542f5c33",
+          "{'pitch': 5, 'n': 1407, 'amps': [1.0], 'phase': -0.3808159137131142}": "60b605f34fc8830661ca3f27045541df35464620ad0a8c635618781314d6344b",
+          "{'pitch': -1, 'n': 1445, 'amps': [1.0], 'phase': -0.3808159137131142}": "8f6272e773a28b178b41131e5b0606a202d55934b09e98e89a4eb2b12190d0b4",
+          "{'pitch': 9, 'n': 1479, 'amps': [1.0], 'phase': -0.3808159137131142}": "d9f7cb3349ae4c59431455cdb4ed108817cba0bc518a9170b554aaef4fd3ad82",
+          "{'pitch': 11, 'n': 1445, 'amps': [1.0], 'phase': -0.3808159137131142}": "e815934340a3a29d4cb8737e710740b7dd1ac40c1de730b5facd714f50fdd138",
+          "{'pitch': 0, 'n': 1366, 'amps': [1.0, 0.5, 0.3], 'phase': -0.3808159137131142}": "43b7e39c33195fbb75a841b976ea485314097e04ddeed79bbe66cefaf850fb41",
+          "{'pitch': 4, 'n': 1479, 'amps': [1.0, 0.5, 0.3], 'phase': -0.3808159137131142}": "2ba82e0aac6fc1f0d95dedfd52422ebc996df43e6f3e8319fb0dbf4b1e969c66",
+          "{'pitch': 5, 'n': 1407, 'amps': [1.0, 0.5, 0.3], 'phase': -0.3808159137131142}": "972d142c839b0ca4c83085d94e68f1fb812cd9a1232302894a248637dec3ffb8"
+        }
+      }
+    }
+  },
+  {
+    "group": {
+      "group_id": "sp-04",
+      "split": "development",
+      "seed": 202609219104,
+      "motif": [
+        6,
+        -3,
+        8,
+        4
+      ],
+      "order": 0,
+      "direction": 0,
+      "register": 3,
+      "rich": false,
+      "family": "fundamental",
+      "index": 4,
+      "normalized_identity": [
+        -6,
+        -9,
+        -8,
+        4
+      ],
+      "transpose": -5,
+      "stretch": 0.8
+    },
+    "cells": {
+      "unchanged": {
+        "durations": [
+          1369,
+          1482,
+          1410,
+          1448
+        ],
+        "phase": 1.32328352211248,
+        "demo_harmonics": [
+          1.0,
+          0.12,
+          0.04
+        ],
+        "cue_harmonics": [
+          1.0,
+          0.12,
+          0.04
+        ],
+        "shift": 0,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 3, 'n': 1369, 'amps': [1.0, 0.12, 0.04], 'phase': 1.32328352211248}": "022127769fb705fb49a81fb6e52b322fc161472c87d1d52d1284b5ec4eb82c25",
+          "{'pitch': -3, 'n': 1482, 'amps': [1.0, 0.12, 0.04], 'phase': 1.32328352211248}": "b10b66dba7ed5890e2e2b79ae02a346297d77ff704b516b168790009c45ffbd2",
+          "{'pitch': -6, 'n': 1410, 'amps': [1.0, 0.12, 0.04], 'phase': 1.32328352211248}": "47492c6b371f32bea1d2b32542d98e7020ec7d7acc4f38b3d50469ed7c904742",
+          "{'pitch': -10, 'n': 1448, 'amps': [1.0, 0.12, 0.04], 'phase': 1.32328352211248}": "1e058167ff32aa17da4e2a56331a0f9de50ca1173379e25191c28a33e01b8707",
+          "{'pitch': -5, 'n': 1482, 'amps': [1.0, 0.12, 0.04], 'phase': 1.32328352211248}": "7866ff18ffdd3de87ae732ca1b9caedaa8fb2253efe7144cd4081c0da640bd67",
+          "{'pitch': -2, 'n': 1448, 'amps': [1.0, 0.12, 0.04], 'phase': 1.32328352211248}": "0dc93eebf1b0013c4923209d0cb243ead0e914caa08091fffa238c88b8111dcb",
+          "{'pitch': 5, 'n': 1482, 'amps': [1.0, 0.12, 0.04], 'phase': 1.32328352211248}": "fc7e22abc1451adba034ce812b08877849284659bd8c0de73571d72af98acad0",
+          "{'pitch': -4, 'n': 1410, 'amps': [1.0, 0.12, 0.04], 'phase': 1.32328352211248}": "901ecbba48b84b765f2cbf1a6c5f040aefdac377f4fbd9cb3670ecf37a491da7"
+        }
+      },
+      "transpose": {
+        "durations": [
+          1369,
+          1482,
+          1410,
+          1448
+        ],
+        "phase": 1.32328352211248,
+        "demo_harmonics": [
+          1.0,
+          0.12,
+          0.04
+        ],
+        "cue_harmonics": [
+          1.0,
+          0.12,
+          0.04
+        ],
+        "shift": -5,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 3, 'n': 1369, 'amps': [1.0, 0.12, 0.04], 'phase': 1.32328352211248}": "022127769fb705fb49a81fb6e52b322fc161472c87d1d52d1284b5ec4eb82c25",
+          "{'pitch': -3, 'n': 1482, 'amps': [1.0, 0.12, 0.04], 'phase': 1.32328352211248}": "b10b66dba7ed5890e2e2b79ae02a346297d77ff704b516b168790009c45ffbd2",
+          "{'pitch': -6, 'n': 1410, 'amps': [1.0, 0.12, 0.04], 'phase': 1.32328352211248}": "47492c6b371f32bea1d2b32542d98e7020ec7d7acc4f38b3d50469ed7c904742",
+          "{'pitch': -10, 'n': 1448, 'amps': [1.0, 0.12, 0.04], 'phase': 1.32328352211248}": "1e058167ff32aa17da4e2a56331a0f9de50ca1173379e25191c28a33e01b8707",
+          "{'pitch': -5, 'n': 1482, 'amps': [1.0, 0.12, 0.04], 'phase': 1.32328352211248}": "7866ff18ffdd3de87ae732ca1b9caedaa8fb2253efe7144cd4081c0da640bd67",
+          "{'pitch': -2, 'n': 1448, 'amps': [1.0, 0.12, 0.04], 'phase': 1.32328352211248}": "0dc93eebf1b0013c4923209d0cb243ead0e914caa08091fffa238c88b8111dcb",
+          "{'pitch': -2, 'n': 1369, 'amps': [1.0, 0.12, 0.04], 'phase': 1.32328352211248}": "6c51bfe1a10f83a2681047c9e7b72db36f9bfab62bf432a6dddac32742e76c4d",
+          "{'pitch': -8, 'n': 1482, 'amps': [1.0, 0.12, 0.04], 'phase': 1.32328352211248}": "e3daf55bf4147cb2d439475f75a639536b95f2ac7d04218038313166d0dc9097",
+          "{'pitch': -11, 'n': 1410, 'amps': [1.0, 0.12, 0.04], 'phase': 1.32328352211248}": "c5374b52d650ed192b8405d6f9d3daff5f549dfa2e5f2c05158417a3801d8ba9"
+        }
+      },
+      "stretch": {
+        "durations": [
+          1369,
+          1482,
+          1410,
+          1448
+        ],
+        "phase": 1.32328352211248,
+        "demo_harmonics": [
+          1.0,
+          0.12,
+          0.04
+        ],
+        "cue_harmonics": [
+          1.0,
+          0.12,
+          0.04
+        ],
+        "shift": 0,
+        "ratio": 0.8,
+        "source_cache_hashes": {
+          "{'pitch': 3, 'n': 1369, 'amps': [1.0, 0.12, 0.04], 'phase': 1.32328352211248}": "022127769fb705fb49a81fb6e52b322fc161472c87d1d52d1284b5ec4eb82c25",
+          "{'pitch': -3, 'n': 1482, 'amps': [1.0, 0.12, 0.04], 'phase': 1.32328352211248}": "b10b66dba7ed5890e2e2b79ae02a346297d77ff704b516b168790009c45ffbd2",
+          "{'pitch': -6, 'n': 1410, 'amps': [1.0, 0.12, 0.04], 'phase': 1.32328352211248}": "47492c6b371f32bea1d2b32542d98e7020ec7d7acc4f38b3d50469ed7c904742",
+          "{'pitch': -10, 'n': 1448, 'amps': [1.0, 0.12, 0.04], 'phase': 1.32328352211248}": "1e058167ff32aa17da4e2a56331a0f9de50ca1173379e25191c28a33e01b8707",
+          "{'pitch': -5, 'n': 1482, 'amps': [1.0, 0.12, 0.04], 'phase': 1.32328352211248}": "7866ff18ffdd3de87ae732ca1b9caedaa8fb2253efe7144cd4081c0da640bd67",
+          "{'pitch': -2, 'n': 1448, 'amps': [1.0, 0.12, 0.04], 'phase': 1.32328352211248}": "0dc93eebf1b0013c4923209d0cb243ead0e914caa08091fffa238c88b8111dcb",
+          "{'pitch': 3, 'n': 1095, 'amps': [1.0, 0.12, 0.04], 'phase': 1.32328352211248}": "0dcd3255f40a468ab1cdd1752f284e84510594253d836c1afaa009f82db46999",
+          "{'pitch': -3, 'n': 1186, 'amps': [1.0, 0.12, 0.04], 'phase': 1.32328352211248}": "3e70a6337742ce86102e77dacbe6a7004d673c629f0e939cb679c0afabee2b63",
+          "{'pitch': -6, 'n': 1128, 'amps': [1.0, 0.12, 0.04], 'phase': 1.32328352211248}": "28e7aef420837087cb9b625ffd4ee48a617b6e1e8a35de64d1049991215745e2"
+        }
+      },
+      "timbre": {
+        "durations": [
+          1369,
+          1482,
+          1410,
+          1448
+        ],
+        "phase": 1.32328352211248,
+        "demo_harmonics": [
+          1.0,
+          0.12,
+          0.04
+        ],
+        "cue_harmonics": [
+          1.0,
+          0.04,
+          0.01
+        ],
+        "shift": 0,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 3, 'n': 1369, 'amps': [1.0, 0.12, 0.04], 'phase': 1.32328352211248}": "022127769fb705fb49a81fb6e52b322fc161472c87d1d52d1284b5ec4eb82c25",
+          "{'pitch': -3, 'n': 1482, 'amps': [1.0, 0.12, 0.04], 'phase': 1.32328352211248}": "b10b66dba7ed5890e2e2b79ae02a346297d77ff704b516b168790009c45ffbd2",
+          "{'pitch': -6, 'n': 1410, 'amps': [1.0, 0.12, 0.04], 'phase': 1.32328352211248}": "47492c6b371f32bea1d2b32542d98e7020ec7d7acc4f38b3d50469ed7c904742",
+          "{'pitch': -10, 'n': 1448, 'amps': [1.0, 0.12, 0.04], 'phase': 1.32328352211248}": "1e058167ff32aa17da4e2a56331a0f9de50ca1173379e25191c28a33e01b8707",
+          "{'pitch': -5, 'n': 1482, 'amps': [1.0, 0.12, 0.04], 'phase': 1.32328352211248}": "7866ff18ffdd3de87ae732ca1b9caedaa8fb2253efe7144cd4081c0da640bd67",
+          "{'pitch': -2, 'n': 1448, 'amps': [1.0, 0.12, 0.04], 'phase': 1.32328352211248}": "0dc93eebf1b0013c4923209d0cb243ead0e914caa08091fffa238c88b8111dcb",
+          "{'pitch': 3, 'n': 1369, 'amps': [1.0, 0.04, 0.01], 'phase': 1.32328352211248}": "258e5fe4e49e0a38ced693123d8ad84e739330738b142ef95ffd158f028c5ab0",
+          "{'pitch': -3, 'n': 1482, 'amps': [1.0, 0.04, 0.01], 'phase': 1.32328352211248}": "1f19bd1b07b5f955e7fe91d8ab2292f111b7e7ba541f9538bbfb67958198360b",
+          "{'pitch': -6, 'n': 1410, 'amps': [1.0, 0.04, 0.01], 'phase': 1.32328352211248}": "4e5784d5edc433e6049d1f909b93a21f511861be208e4c03905ba45a170ddbf7"
+        }
+      }
+    }
+  },
+  {
+    "group": {
+      "group_id": "sp-05",
+      "split": "development",
+      "seed": 202609219105,
+      "motif": [
+        3,
+        -5,
+        8,
+        5
+      ],
+      "order": 0,
+      "direction": 1,
+      "register": 3,
+      "rich": true,
+      "family": "overtone",
+      "index": 5,
+      "normalized_identity": [
+        3,
+        8,
+        8,
+        5
+      ],
+      "transpose": -3,
+      "stretch": 0.8
+    },
+    "cells": {
+      "unchanged": {
+        "durations": [
+          1372,
+          1485,
+          1413,
+          1451
+        ],
+        "phase": 1.2027478302827062,
+        "demo_harmonics": [
+          0.6,
+          1.0,
+          0.25
+        ],
+        "cue_harmonics": [
+          0.6,
+          1.0,
+          0.25
+        ],
+        "shift": 0,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 3, 'n': 1372, 'amps': [0.6, 1.0, 0.25], 'phase': 1.2027478302827062}": "49a18e99e66d71b5edce0e1fc2d0fcbc0dacaa65f51007fc60179f59674dd151",
+          "{'pitch': 6, 'n': 1485, 'amps': [0.6, 1.0, 0.25], 'phase': 1.2027478302827062}": "41321f99c7b0bd5cbd7f644464a047d827253d7d0daeb867727ba2e9bd53049f",
+          "{'pitch': 11, 'n': 1413, 'amps': [0.6, 1.0, 0.25], 'phase': 1.2027478302827062}": "52d8c65c5797c3cbb5ae8402abd0ab7e8386053b63996aa5bafb8c32758041b8",
+          "{'pitch': 6, 'n': 1451, 'amps': [0.6, 1.0, 0.25], 'phase': 1.2027478302827062}": "8d02f5a569c1315379ea7fc83f3aa2ef1b3b106e7e7e3adac6dc1f7f502ab3f9",
+          "{'pitch': 11, 'n': 1485, 'amps': [0.6, 1.0, 0.25], 'phase': 1.2027478302827062}": "7a61749d23116c732635fa9bb73c0c407b88ed2882767fbadce1716c6fcdec1c",
+          "{'pitch': 16, 'n': 1451, 'amps': [0.6, 1.0, 0.25], 'phase': 1.2027478302827062}": "f497d899ef5e55a6a53310d88b97d7d1f2b749fca268be15e2366a74e5a6b4bc",
+          "{'pitch': 1, 'n': 1485, 'amps': [0.6, 1.0, 0.25], 'phase': 1.2027478302827062}": "91737757c68ed9ec64e2393bb45e22f9beadf8cb54fda19a8d9933dde65e1e4a",
+          "{'pitch': 10, 'n': 1413, 'amps': [0.6, 1.0, 0.25], 'phase': 1.2027478302827062}": "c5ef2bc6f24eda3307a66c31d1bce097948a1bf8a7819fc5274102bbd4210cc8"
+        }
+      },
+      "transpose": {
+        "durations": [
+          1372,
+          1485,
+          1413,
+          1451
+        ],
+        "phase": 1.2027478302827062,
+        "demo_harmonics": [
+          0.6,
+          1.0,
+          0.25
+        ],
+        "cue_harmonics": [
+          0.6,
+          1.0,
+          0.25
+        ],
+        "shift": -3,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 3, 'n': 1372, 'amps': [0.6, 1.0, 0.25], 'phase': 1.2027478302827062}": "49a18e99e66d71b5edce0e1fc2d0fcbc0dacaa65f51007fc60179f59674dd151",
+          "{'pitch': 6, 'n': 1485, 'amps': [0.6, 1.0, 0.25], 'phase': 1.2027478302827062}": "41321f99c7b0bd5cbd7f644464a047d827253d7d0daeb867727ba2e9bd53049f",
+          "{'pitch': 11, 'n': 1413, 'amps': [0.6, 1.0, 0.25], 'phase': 1.2027478302827062}": "52d8c65c5797c3cbb5ae8402abd0ab7e8386053b63996aa5bafb8c32758041b8",
+          "{'pitch': 6, 'n': 1451, 'amps': [0.6, 1.0, 0.25], 'phase': 1.2027478302827062}": "8d02f5a569c1315379ea7fc83f3aa2ef1b3b106e7e7e3adac6dc1f7f502ab3f9",
+          "{'pitch': 11, 'n': 1485, 'amps': [0.6, 1.0, 0.25], 'phase': 1.2027478302827062}": "7a61749d23116c732635fa9bb73c0c407b88ed2882767fbadce1716c6fcdec1c",
+          "{'pitch': 16, 'n': 1451, 'amps': [0.6, 1.0, 0.25], 'phase': 1.2027478302827062}": "f497d899ef5e55a6a53310d88b97d7d1f2b749fca268be15e2366a74e5a6b4bc",
+          "{'pitch': 0, 'n': 1372, 'amps': [0.6, 1.0, 0.25], 'phase': 1.2027478302827062}": "5d5a9c29899de148a41b8cf0af4b55f3c23562b002a8ec37909e1e63c85f6e50",
+          "{'pitch': 3, 'n': 1485, 'amps': [0.6, 1.0, 0.25], 'phase': 1.2027478302827062}": "ff736a73c00be4cf389c27d8db3ce2b2db357817cee00047af4ac4d370035cf5",
+          "{'pitch': 8, 'n': 1413, 'amps': [0.6, 1.0, 0.25], 'phase': 1.2027478302827062}": "62e5d4bad71dd543da4ef45b53e2867057d4814a3bec16342cef5c214fc8e013"
+        }
+      },
+      "stretch": {
+        "durations": [
+          1372,
+          1485,
+          1413,
+          1451
+        ],
+        "phase": 1.2027478302827062,
+        "demo_harmonics": [
+          0.6,
+          1.0,
+          0.25
+        ],
+        "cue_harmonics": [
+          0.6,
+          1.0,
+          0.25
+        ],
+        "shift": 0,
+        "ratio": 0.8,
+        "source_cache_hashes": {
+          "{'pitch': 3, 'n': 1372, 'amps': [0.6, 1.0, 0.25], 'phase': 1.2027478302827062}": "49a18e99e66d71b5edce0e1fc2d0fcbc0dacaa65f51007fc60179f59674dd151",
+          "{'pitch': 6, 'n': 1485, 'amps': [0.6, 1.0, 0.25], 'phase': 1.2027478302827062}": "41321f99c7b0bd5cbd7f644464a047d827253d7d0daeb867727ba2e9bd53049f",
+          "{'pitch': 11, 'n': 1413, 'amps': [0.6, 1.0, 0.25], 'phase': 1.2027478302827062}": "52d8c65c5797c3cbb5ae8402abd0ab7e8386053b63996aa5bafb8c32758041b8",
+          "{'pitch': 6, 'n': 1451, 'amps': [0.6, 1.0, 0.25], 'phase': 1.2027478302827062}": "8d02f5a569c1315379ea7fc83f3aa2ef1b3b106e7e7e3adac6dc1f7f502ab3f9",
+          "{'pitch': 11, 'n': 1485, 'amps': [0.6, 1.0, 0.25], 'phase': 1.2027478302827062}": "7a61749d23116c732635fa9bb73c0c407b88ed2882767fbadce1716c6fcdec1c",
+          "{'pitch': 16, 'n': 1451, 'amps': [0.6, 1.0, 0.25], 'phase': 1.2027478302827062}": "f497d899ef5e55a6a53310d88b97d7d1f2b749fca268be15e2366a74e5a6b4bc",
+          "{'pitch': 3, 'n': 1098, 'amps': [0.6, 1.0, 0.25], 'phase': 1.2027478302827062}": "87892f3abf9e55888cff516ca9cf56285abf326c1c21d3eff8dcf1f0b6210c22",
+          "{'pitch': 6, 'n': 1188, 'amps': [0.6, 1.0, 0.25], 'phase': 1.2027478302827062}": "0363e7fc264a041d5342d8aa962632b102836fabc16ffeecf53962b315e5f02f",
+          "{'pitch': 11, 'n': 1130, 'amps': [0.6, 1.0, 0.25], 'phase': 1.2027478302827062}": "a48ac1ae2572d83d6752c64617ad0d6ec412fbae1222954ff8b16c4d982ab909"
+        }
+      },
+      "timbre": {
+        "durations": [
+          1372,
+          1485,
+          1413,
+          1451
+        ],
+        "phase": 1.2027478302827062,
+        "demo_harmonics": [
+          0.6,
+          1.0,
+          0.25
+        ],
+        "cue_harmonics": [
+          1.0,
+          0.04,
+          0.01
+        ],
+        "shift": 0,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 3, 'n': 1372, 'amps': [0.6, 1.0, 0.25], 'phase': 1.2027478302827062}": "49a18e99e66d71b5edce0e1fc2d0fcbc0dacaa65f51007fc60179f59674dd151",
+          "{'pitch': 6, 'n': 1485, 'amps': [0.6, 1.0, 0.25], 'phase': 1.2027478302827062}": "41321f99c7b0bd5cbd7f644464a047d827253d7d0daeb867727ba2e9bd53049f",
+          "{'pitch': 11, 'n': 1413, 'amps': [0.6, 1.0, 0.25], 'phase': 1.2027478302827062}": "52d8c65c5797c3cbb5ae8402abd0ab7e8386053b63996aa5bafb8c32758041b8",
+          "{'pitch': 6, 'n': 1451, 'amps': [0.6, 1.0, 0.25], 'phase': 1.2027478302827062}": "8d02f5a569c1315379ea7fc83f3aa2ef1b3b106e7e7e3adac6dc1f7f502ab3f9",
+          "{'pitch': 11, 'n': 1485, 'amps': [0.6, 1.0, 0.25], 'phase': 1.2027478302827062}": "7a61749d23116c732635fa9bb73c0c407b88ed2882767fbadce1716c6fcdec1c",
+          "{'pitch': 16, 'n': 1451, 'amps': [0.6, 1.0, 0.25], 'phase': 1.2027478302827062}": "f497d899ef5e55a6a53310d88b97d7d1f2b749fca268be15e2366a74e5a6b4bc",
+          "{'pitch': 3, 'n': 1372, 'amps': [1.0, 0.04, 0.01], 'phase': 1.2027478302827062}": "47630adee80d5cd8d1a46e014cb6864609330a3b9cadcc6b6e3ba03577911cb4",
+          "{'pitch': 6, 'n': 1485, 'amps': [1.0, 0.04, 0.01], 'phase': 1.2027478302827062}": "163305b439f090beb0034a66018e580605f4cee86596d1e8fdf446886d3be49d",
+          "{'pitch': 11, 'n': 1413, 'amps': [1.0, 0.04, 0.01], 'phase': 1.2027478302827062}": "6e29944afa2f3b166a2681b31a4bea0c126aa74f2af64ada4eac941c7f815dca"
+        }
+      }
+    }
+  },
+  {
+    "group": {
+      "group_id": "sp-06",
+      "split": "development",
+      "seed": 202609219106,
+      "motif": [
+        7,
+        -4,
+        4,
+        3
+      ],
+      "order": 1,
+      "direction": 0,
+      "register": 3,
+      "rich": false,
+      "family": "pure",
+      "index": 6,
+      "normalized_identity": [
+        -7,
+        -11,
+        -4,
+        3
+      ],
+      "transpose": 3,
+      "stretch": 1.25
+    },
+    "cells": {
+      "unchanged": {
+        "durations": [
+          1375,
+          1488,
+          1416,
+          1454
+        ],
+        "phase": -0.7580776525694604,
+        "demo_harmonics": [
+          1.0
+        ],
+        "cue_harmonics": [
+          1.0
+        ],
+        "shift": 0,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 3, 'n': 1375, 'amps': [1.0], 'phase': -0.7580776525694604}": "231cdd70dc92e20bf1393bc88c5005217cf7128badf16e8d9e66d7eef18cfeb9",
+          "{'pitch': -4, 'n': 1488, 'amps': [1.0], 'phase': -0.7580776525694604}": "acce1b2265ab8b36202497af34d7b320da1dca1350e17ddae921e1f9ca9a9c19",
+          "{'pitch': -8, 'n': 1416, 'amps': [1.0], 'phase': -0.7580776525694604}": "1833b27194b1613f2724cafa6ac78091520860a5f58228ad0d5102219946cb0d",
+          "{'pitch': -11, 'n': 1454, 'amps': [1.0], 'phase': -0.7580776525694604}": "65abc2642bb05e493563d1b8ba194a68d1ce3271f2c43952687bb993778a9b25",
+          "{'pitch': -1, 'n': 1488, 'amps': [1.0], 'phase': -0.7580776525694604}": "9949a1d025bd91af2bc7989d2c77fdbdea2d1cb76bc8f1f5a952778c1f6d625f",
+          "{'pitch': -5, 'n': 1454, 'amps': [1.0], 'phase': -0.7580776525694604}": "d9e067d3105df7e5a899b5badf0827f7cce8d6176cf16dff54528a77c30ca887",
+          "{'pitch': 5, 'n': 1488, 'amps': [1.0], 'phase': -0.7580776525694604}": "8244f6a1dc7486cd8b171bd752a0820160e0b329291f346200141a289ad3c259",
+          "{'pitch': -4, 'n': 1416, 'amps': [1.0], 'phase': -0.7580776525694604}": "26c0146692f70686c16d4a6576730f4f9b7764fd2eef72ec8adb2ad8c9ae5839"
+        }
+      },
+      "transpose": {
+        "durations": [
+          1375,
+          1488,
+          1416,
+          1454
+        ],
+        "phase": -0.7580776525694604,
+        "demo_harmonics": [
+          1.0
+        ],
+        "cue_harmonics": [
+          1.0
+        ],
+        "shift": 3,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 3, 'n': 1375, 'amps': [1.0], 'phase': -0.7580776525694604}": "231cdd70dc92e20bf1393bc88c5005217cf7128badf16e8d9e66d7eef18cfeb9",
+          "{'pitch': -4, 'n': 1488, 'amps': [1.0], 'phase': -0.7580776525694604}": "acce1b2265ab8b36202497af34d7b320da1dca1350e17ddae921e1f9ca9a9c19",
+          "{'pitch': -8, 'n': 1416, 'amps': [1.0], 'phase': -0.7580776525694604}": "1833b27194b1613f2724cafa6ac78091520860a5f58228ad0d5102219946cb0d",
+          "{'pitch': -11, 'n': 1454, 'amps': [1.0], 'phase': -0.7580776525694604}": "65abc2642bb05e493563d1b8ba194a68d1ce3271f2c43952687bb993778a9b25",
+          "{'pitch': -1, 'n': 1488, 'amps': [1.0], 'phase': -0.7580776525694604}": "9949a1d025bd91af2bc7989d2c77fdbdea2d1cb76bc8f1f5a952778c1f6d625f",
+          "{'pitch': -5, 'n': 1454, 'amps': [1.0], 'phase': -0.7580776525694604}": "d9e067d3105df7e5a899b5badf0827f7cce8d6176cf16dff54528a77c30ca887",
+          "{'pitch': 6, 'n': 1375, 'amps': [1.0], 'phase': -0.7580776525694604}": "7fa635e701b4e4a853625ab660b3fd53acf7769ba08cd25097bcc665dc14d5b6",
+          "{'pitch': -5, 'n': 1416, 'amps': [1.0], 'phase': -0.7580776525694604}": "4afe79d9f3646459d28250f1ff6a4adf8e39efe73d6c832d9c000666c4a7aff8"
+        }
+      },
+      "stretch": {
+        "durations": [
+          1375,
+          1488,
+          1416,
+          1454
+        ],
+        "phase": -0.7580776525694604,
+        "demo_harmonics": [
+          1.0
+        ],
+        "cue_harmonics": [
+          1.0
+        ],
+        "shift": 0,
+        "ratio": 1.25,
+        "source_cache_hashes": {
+          "{'pitch': 3, 'n': 1375, 'amps': [1.0], 'phase': -0.7580776525694604}": "231cdd70dc92e20bf1393bc88c5005217cf7128badf16e8d9e66d7eef18cfeb9",
+          "{'pitch': -4, 'n': 1488, 'amps': [1.0], 'phase': -0.7580776525694604}": "acce1b2265ab8b36202497af34d7b320da1dca1350e17ddae921e1f9ca9a9c19",
+          "{'pitch': -8, 'n': 1416, 'amps': [1.0], 'phase': -0.7580776525694604}": "1833b27194b1613f2724cafa6ac78091520860a5f58228ad0d5102219946cb0d",
+          "{'pitch': -11, 'n': 1454, 'amps': [1.0], 'phase': -0.7580776525694604}": "65abc2642bb05e493563d1b8ba194a68d1ce3271f2c43952687bb993778a9b25",
+          "{'pitch': -1, 'n': 1488, 'amps': [1.0], 'phase': -0.7580776525694604}": "9949a1d025bd91af2bc7989d2c77fdbdea2d1cb76bc8f1f5a952778c1f6d625f",
+          "{'pitch': -5, 'n': 1454, 'amps': [1.0], 'phase': -0.7580776525694604}": "d9e067d3105df7e5a899b5badf0827f7cce8d6176cf16dff54528a77c30ca887",
+          "{'pitch': 3, 'n': 1719, 'amps': [1.0], 'phase': -0.7580776525694604}": "a30dd58855992272a630a3ef19bee824a6cec4baf95901323f1a176072b5ad71",
+          "{'pitch': -4, 'n': 1860, 'amps': [1.0], 'phase': -0.7580776525694604}": "5aac4dab81df29fbee573089d97654aec6094ab66112fe56d94ede527fed8685",
+          "{'pitch': -8, 'n': 1770, 'amps': [1.0], 'phase': -0.7580776525694604}": "c27463f83266a2a2e6aef13d6d6149b6fd3fd59d917a41db0adad0185c5e930d"
+        }
+      },
+      "timbre": {
+        "durations": [
+          1375,
+          1488,
+          1416,
+          1454
+        ],
+        "phase": -0.7580776525694604,
+        "demo_harmonics": [
+          1.0
+        ],
+        "cue_harmonics": [
+          1.0,
+          0.5,
+          0.3
+        ],
+        "shift": 0,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 3, 'n': 1375, 'amps': [1.0], 'phase': -0.7580776525694604}": "231cdd70dc92e20bf1393bc88c5005217cf7128badf16e8d9e66d7eef18cfeb9",
+          "{'pitch': -4, 'n': 1488, 'amps': [1.0], 'phase': -0.7580776525694604}": "acce1b2265ab8b36202497af34d7b320da1dca1350e17ddae921e1f9ca9a9c19",
+          "{'pitch': -8, 'n': 1416, 'amps': [1.0], 'phase': -0.7580776525694604}": "1833b27194b1613f2724cafa6ac78091520860a5f58228ad0d5102219946cb0d",
+          "{'pitch': -11, 'n': 1454, 'amps': [1.0], 'phase': -0.7580776525694604}": "65abc2642bb05e493563d1b8ba194a68d1ce3271f2c43952687bb993778a9b25",
+          "{'pitch': -1, 'n': 1488, 'amps': [1.0], 'phase': -0.7580776525694604}": "9949a1d025bd91af2bc7989d2c77fdbdea2d1cb76bc8f1f5a952778c1f6d625f",
+          "{'pitch': -5, 'n': 1454, 'amps': [1.0], 'phase': -0.7580776525694604}": "d9e067d3105df7e5a899b5badf0827f7cce8d6176cf16dff54528a77c30ca887",
+          "{'pitch': 3, 'n': 1375, 'amps': [1.0, 0.5, 0.3], 'phase': -0.7580776525694604}": "5e0ff5731f8ca14269c28acdb68d627127919e5dab2c2516c64e390e936c6d42",
+          "{'pitch': -4, 'n': 1488, 'amps': [1.0, 0.5, 0.3], 'phase': -0.7580776525694604}": "5735b66ab1413b5ddb6925de420406c68f11b17724a945abe776ecd2eb74ebdc",
+          "{'pitch': -8, 'n': 1416, 'amps': [1.0, 0.5, 0.3], 'phase': -0.7580776525694604}": "87e6fe8354e90f3dbe20cfc8df8f4c8fd1c74fb341086d2a1e1cb14d1165dd2e"
+        }
+      }
+    }
+  },
+  {
+    "group": {
+      "group_id": "sp-07",
+      "split": "development",
+      "seed": 202609219107,
+      "motif": [
+        8,
+        -4,
+        9,
+        3
+      ],
+      "order": 1,
+      "direction": 1,
+      "register": 3,
+      "rich": false,
+      "family": "fundamental",
+      "index": 7,
+      "normalized_identity": [
+        8,
+        12,
+        9,
+        3
+      ],
+      "transpose": 5,
+      "stretch": 1.25
+    },
+    "cells": {
+      "unchanged": {
+        "durations": [
+          1378,
+          1491,
+          1419,
+          1457
+        ],
+        "phase": 0.10594618245557497,
+        "demo_harmonics": [
+          1.0,
+          0.12,
+          0.04
+        ],
+        "cue_harmonics": [
+          1.0,
+          0.12,
+          0.04
+        ],
+        "shift": 0,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 3, 'n': 1378, 'amps': [1.0, 0.12, 0.04], 'phase': 0.10594618245557497}": "565bb8d5c3974a0e6c867582b84d8a72653d0e34c38a955fcd71163b1b0f559b",
+          "{'pitch': 11, 'n': 1491, 'amps': [1.0, 0.12, 0.04], 'phase': 0.10594618245557497}": "ea256760e14f6e3acf72323b04d934c24900661d83c00778f9497d9097285f86",
+          "{'pitch': 15, 'n': 1419, 'amps': [1.0, 0.12, 0.04], 'phase': 0.10594618245557497}": "f4fa3194f2a593368ddae6c28404f6818318aadaf010c7d06f1174699643c7cd",
+          "{'pitch': 12, 'n': 1457, 'amps': [1.0, 0.12, 0.04], 'phase': 0.10594618245557497}": "8346698123b9a0e4eaab8b9ceb8d10e4c3ed620d4548dd94909625abddacfff9",
+          "{'pitch': 12, 'n': 1491, 'amps': [1.0, 0.12, 0.04], 'phase': 0.10594618245557497}": "6da1ac92c951e4d138bb7398388f145944367ff795203dfc4765f07a4868afe8",
+          "{'pitch': 18, 'n': 1457, 'amps': [1.0, 0.12, 0.04], 'phase': 0.10594618245557497}": "3af6d79198350c7c919cdc58bb6b861b4ced7b55f83ff118a150d54cd4c3d78d",
+          "{'pitch': 1, 'n': 1491, 'amps': [1.0, 0.12, 0.04], 'phase': 0.10594618245557497}": "73c09ea3bcb5eb364b1f8e84e035590983cb4e27d410db215e3024ef83bd1cde",
+          "{'pitch': 10, 'n': 1419, 'amps': [1.0, 0.12, 0.04], 'phase': 0.10594618245557497}": "d1ca1884a3e6ec92f768692037243c342bbbe7399ad53134bbc109f6c6397d8c"
+        }
+      },
+      "transpose": {
+        "durations": [
+          1378,
+          1491,
+          1419,
+          1457
+        ],
+        "phase": 0.10594618245557497,
+        "demo_harmonics": [
+          1.0,
+          0.12,
+          0.04
+        ],
+        "cue_harmonics": [
+          1.0,
+          0.12,
+          0.04
+        ],
+        "shift": 5,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 3, 'n': 1378, 'amps': [1.0, 0.12, 0.04], 'phase': 0.10594618245557497}": "565bb8d5c3974a0e6c867582b84d8a72653d0e34c38a955fcd71163b1b0f559b",
+          "{'pitch': 11, 'n': 1491, 'amps': [1.0, 0.12, 0.04], 'phase': 0.10594618245557497}": "ea256760e14f6e3acf72323b04d934c24900661d83c00778f9497d9097285f86",
+          "{'pitch': 15, 'n': 1419, 'amps': [1.0, 0.12, 0.04], 'phase': 0.10594618245557497}": "f4fa3194f2a593368ddae6c28404f6818318aadaf010c7d06f1174699643c7cd",
+          "{'pitch': 12, 'n': 1457, 'amps': [1.0, 0.12, 0.04], 'phase': 0.10594618245557497}": "8346698123b9a0e4eaab8b9ceb8d10e4c3ed620d4548dd94909625abddacfff9",
+          "{'pitch': 12, 'n': 1491, 'amps': [1.0, 0.12, 0.04], 'phase': 0.10594618245557497}": "6da1ac92c951e4d138bb7398388f145944367ff795203dfc4765f07a4868afe8",
+          "{'pitch': 18, 'n': 1457, 'amps': [1.0, 0.12, 0.04], 'phase': 0.10594618245557497}": "3af6d79198350c7c919cdc58bb6b861b4ced7b55f83ff118a150d54cd4c3d78d",
+          "{'pitch': 8, 'n': 1378, 'amps': [1.0, 0.12, 0.04], 'phase': 0.10594618245557497}": "3403daab62a3a8983b2077c68e55965cb0a9b3aa2f1bb2a884f140017de4cd1e",
+          "{'pitch': 16, 'n': 1491, 'amps': [1.0, 0.12, 0.04], 'phase': 0.10594618245557497}": "835434bb5ac1a1fb5326227315db22cfc54d5a868d98e46c83a7330ad7511a8b",
+          "{'pitch': 20, 'n': 1419, 'amps': [1.0, 0.12, 0.04], 'phase': 0.10594618245557497}": "bbb4dccf82aefc37b73ff757f18e1d467891e0bd7ad140a88dbab50fff696401"
+        }
+      },
+      "stretch": {
+        "durations": [
+          1378,
+          1491,
+          1419,
+          1457
+        ],
+        "phase": 0.10594618245557497,
+        "demo_harmonics": [
+          1.0,
+          0.12,
+          0.04
+        ],
+        "cue_harmonics": [
+          1.0,
+          0.12,
+          0.04
+        ],
+        "shift": 0,
+        "ratio": 1.25,
+        "source_cache_hashes": {
+          "{'pitch': 3, 'n': 1378, 'amps': [1.0, 0.12, 0.04], 'phase': 0.10594618245557497}": "565bb8d5c3974a0e6c867582b84d8a72653d0e34c38a955fcd71163b1b0f559b",
+          "{'pitch': 11, 'n': 1491, 'amps': [1.0, 0.12, 0.04], 'phase': 0.10594618245557497}": "ea256760e14f6e3acf72323b04d934c24900661d83c00778f9497d9097285f86",
+          "{'pitch': 15, 'n': 1419, 'amps': [1.0, 0.12, 0.04], 'phase': 0.10594618245557497}": "f4fa3194f2a593368ddae6c28404f6818318aadaf010c7d06f1174699643c7cd",
+          "{'pitch': 12, 'n': 1457, 'amps': [1.0, 0.12, 0.04], 'phase': 0.10594618245557497}": "8346698123b9a0e4eaab8b9ceb8d10e4c3ed620d4548dd94909625abddacfff9",
+          "{'pitch': 12, 'n': 1491, 'amps': [1.0, 0.12, 0.04], 'phase': 0.10594618245557497}": "6da1ac92c951e4d138bb7398388f145944367ff795203dfc4765f07a4868afe8",
+          "{'pitch': 18, 'n': 1457, 'amps': [1.0, 0.12, 0.04], 'phase': 0.10594618245557497}": "3af6d79198350c7c919cdc58bb6b861b4ced7b55f83ff118a150d54cd4c3d78d",
+          "{'pitch': 3, 'n': 1722, 'amps': [1.0, 0.12, 0.04], 'phase': 0.10594618245557497}": "b44dfb4c36d9b5232170fdea647985d03e75ebd4f5a654aae16abf8fef275cf3",
+          "{'pitch': 11, 'n': 1864, 'amps': [1.0, 0.12, 0.04], 'phase': 0.10594618245557497}": "1c18b42b7dbd67908414fa3091a5137c70054d62a93faab4d61a9b0607d66f8c",
+          "{'pitch': 15, 'n': 1774, 'amps': [1.0, 0.12, 0.04], 'phase': 0.10594618245557497}": "f5c270a461cf584cc722a2846f55e58bfc9e001b3b45e989723b8b8c39d80f5a"
+        }
+      },
+      "timbre": {
+        "durations": [
+          1378,
+          1491,
+          1419,
+          1457
+        ],
+        "phase": 0.10594618245557497,
+        "demo_harmonics": [
+          1.0,
+          0.12,
+          0.04
+        ],
+        "cue_harmonics": [
+          1.0,
+          0.04,
+          0.01
+        ],
+        "shift": 0,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 3, 'n': 1378, 'amps': [1.0, 0.12, 0.04], 'phase': 0.10594618245557497}": "565bb8d5c3974a0e6c867582b84d8a72653d0e34c38a955fcd71163b1b0f559b",
+          "{'pitch': 11, 'n': 1491, 'amps': [1.0, 0.12, 0.04], 'phase': 0.10594618245557497}": "ea256760e14f6e3acf72323b04d934c24900661d83c00778f9497d9097285f86",
+          "{'pitch': 15, 'n': 1419, 'amps': [1.0, 0.12, 0.04], 'phase': 0.10594618245557497}": "f4fa3194f2a593368ddae6c28404f6818318aadaf010c7d06f1174699643c7cd",
+          "{'pitch': 12, 'n': 1457, 'amps': [1.0, 0.12, 0.04], 'phase': 0.10594618245557497}": "8346698123b9a0e4eaab8b9ceb8d10e4c3ed620d4548dd94909625abddacfff9",
+          "{'pitch': 12, 'n': 1491, 'amps': [1.0, 0.12, 0.04], 'phase': 0.10594618245557497}": "6da1ac92c951e4d138bb7398388f145944367ff795203dfc4765f07a4868afe8",
+          "{'pitch': 18, 'n': 1457, 'amps': [1.0, 0.12, 0.04], 'phase': 0.10594618245557497}": "3af6d79198350c7c919cdc58bb6b861b4ced7b55f83ff118a150d54cd4c3d78d",
+          "{'pitch': 3, 'n': 1378, 'amps': [1.0, 0.04, 0.01], 'phase': 0.10594618245557497}": "3cede049545cc85113b7c9c40518032384e217d50b997d3c6dd6d446e014a139",
+          "{'pitch': 11, 'n': 1491, 'amps': [1.0, 0.04, 0.01], 'phase': 0.10594618245557497}": "48c274026da623835b4f6af4d8770ad85493803a0134c45a691869ef2bb8f024",
+          "{'pitch': 15, 'n': 1419, 'amps': [1.0, 0.04, 0.01], 'phase': 0.10594618245557497}": "7340cb3bbb07129dcb71adb82355b474f2fbe209360535f38cb256e81a830712"
+        }
+      }
+    }
+  }
+]

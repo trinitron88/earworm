@@ -1,0 +1,10 @@
+{
+  "all_pass": true,
+  "historical_files": 874,
+  "development_frozen_files": 31,
+  "heldout_frozen_files": 37,
+  "execution_revision": "d7586c0ca6667806bd99c859f83a1feee722649c",
+  "failed_analyzer_unchanged": true,
+  "streams": 960,
+  "no_missing_result_fabrication": true
+}

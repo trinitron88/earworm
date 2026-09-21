@@ -1,0 +1,25 @@
+{
+  "grid": [
+    {
+      "temperature": 0.015,
+      "log_loss": "+Infinity",
+      "brier": 0.27040326106388746
+    },
+    {
+      "temperature": 0.025,
+      "log_loss": "+Infinity",
+      "brier": 0.2756825470743659
+    },
+    {
+      "temperature": 0.05,
+      "log_loss": "+Infinity",
+      "brier": 0.28210846523328653
+    }
+  ],
+  "selected": {
+    "temperature": 0.015,
+    "log_loss": "+Infinity",
+    "brier": 0.27040326106388746
+  },
+  "rule": "min mean intact logloss; Brier tie break; closest initial temperature then lower"
+}

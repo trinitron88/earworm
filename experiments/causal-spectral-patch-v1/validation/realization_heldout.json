@@ -1,0 +1,8 @@
+{
+  "all_pass": true,
+  "matches_checked": 1108,
+  "capture_status_records": 9852,
+  "maximum_energy_residual_error": 2.220446049250313e-16,
+  "no_acoustic_model_calls": true,
+  "scope": "Supplemental post-run implementation of already-frozen realization/capture preservation requirements; no criteria or source changes."
+}

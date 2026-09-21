@@ -1,0 +1,2402 @@
+[
+  {
+    "group": "sp-16",
+    "cell": "unchanged",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 21504,
+    "chunks": 21,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-16",
+    "cell": "unchanged",
+    "condition": "reset",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 21504,
+    "chunks": 21,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-16",
+    "cell": "unchanged",
+    "condition": "removal",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 21504,
+    "chunks": 21,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-16",
+    "cell": "unchanged",
+    "condition": "swap",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 21504,
+    "chunks": 21,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-16",
+    "cell": "unchanged",
+    "condition": "shuffle",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 21504,
+    "chunks": 21,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-16",
+    "cell": "unchanged",
+    "condition": "ambiguous",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 21504,
+    "chunks": 21,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-16",
+    "cell": "unchanged",
+    "condition": "unrelated",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 21504,
+    "chunks": 21,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-16",
+    "cell": "transpose",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 21504,
+    "chunks": 21,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-16",
+    "cell": "stretch",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 21504,
+    "chunks": 21,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-16",
+    "cell": "timbre",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 21504,
+    "chunks": 21,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-17",
+    "cell": "unchanged",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 21504,
+    "chunks": 21,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-17",
+    "cell": "unchanged",
+    "condition": "reset",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 21504,
+    "chunks": 21,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-17",
+    "cell": "unchanged",
+    "condition": "removal",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 21504,
+    "chunks": 21,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-17",
+    "cell": "unchanged",
+    "condition": "swap",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 21504,
+    "chunks": 21,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-17",
+    "cell": "unchanged",
+    "condition": "shuffle",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 21504,
+    "chunks": 21,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-17",
+    "cell": "unchanged",
+    "condition": "ambiguous",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 21504,
+    "chunks": 21,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-17",
+    "cell": "unchanged",
+    "condition": "unrelated",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 21504,
+    "chunks": 21,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-17",
+    "cell": "transpose",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 21504,
+    "chunks": 21,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-17",
+    "cell": "stretch",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 21504,
+    "chunks": 21,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-17",
+    "cell": "timbre",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 21504,
+    "chunks": 21,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-18",
+    "cell": "unchanged",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-18",
+    "cell": "unchanged",
+    "condition": "reset",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-18",
+    "cell": "unchanged",
+    "condition": "removal",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-18",
+    "cell": "unchanged",
+    "condition": "swap",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-18",
+    "cell": "unchanged",
+    "condition": "shuffle",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-18",
+    "cell": "unchanged",
+    "condition": "ambiguous",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-18",
+    "cell": "unchanged",
+    "condition": "unrelated",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-18",
+    "cell": "transpose",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-18",
+    "cell": "stretch",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 23552,
+    "chunks": 23,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-18",
+    "cell": "timbre",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-19",
+    "cell": "unchanged",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-19",
+    "cell": "unchanged",
+    "condition": "reset",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-19",
+    "cell": "unchanged",
+    "condition": "removal",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-19",
+    "cell": "unchanged",
+    "condition": "swap",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-19",
+    "cell": "unchanged",
+    "condition": "shuffle",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-19",
+    "cell": "unchanged",
+    "condition": "ambiguous",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-19",
+    "cell": "unchanged",
+    "condition": "unrelated",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-19",
+    "cell": "transpose",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-19",
+    "cell": "stretch",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 23552,
+    "chunks": 23,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-19",
+    "cell": "timbre",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-20",
+    "cell": "unchanged",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-20",
+    "cell": "unchanged",
+    "condition": "reset",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-20",
+    "cell": "unchanged",
+    "condition": "removal",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-20",
+    "cell": "unchanged",
+    "condition": "swap",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-20",
+    "cell": "unchanged",
+    "condition": "shuffle",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-20",
+    "cell": "unchanged",
+    "condition": "ambiguous",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-20",
+    "cell": "unchanged",
+    "condition": "unrelated",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-20",
+    "cell": "transpose",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-20",
+    "cell": "stretch",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 21504,
+    "chunks": 21,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-20",
+    "cell": "timbre",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-21",
+    "cell": "unchanged",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-21",
+    "cell": "unchanged",
+    "condition": "reset",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-21",
+    "cell": "unchanged",
+    "condition": "removal",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-21",
+    "cell": "unchanged",
+    "condition": "swap",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-21",
+    "cell": "unchanged",
+    "condition": "shuffle",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-21",
+    "cell": "unchanged",
+    "condition": "ambiguous",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-21",
+    "cell": "unchanged",
+    "condition": "unrelated",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-21",
+    "cell": "transpose",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-21",
+    "cell": "stretch",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 21504,
+    "chunks": 21,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-21",
+    "cell": "timbre",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-22",
+    "cell": "unchanged",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-22",
+    "cell": "unchanged",
+    "condition": "reset",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-22",
+    "cell": "unchanged",
+    "condition": "removal",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-22",
+    "cell": "unchanged",
+    "condition": "swap",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-22",
+    "cell": "unchanged",
+    "condition": "shuffle",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-22",
+    "cell": "unchanged",
+    "condition": "ambiguous",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-22",
+    "cell": "unchanged",
+    "condition": "unrelated",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-22",
+    "cell": "transpose",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-22",
+    "cell": "stretch",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 23552,
+    "chunks": 23,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-22",
+    "cell": "timbre",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-23",
+    "cell": "unchanged",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-23",
+    "cell": "unchanged",
+    "condition": "reset",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-23",
+    "cell": "unchanged",
+    "condition": "removal",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-23",
+    "cell": "unchanged",
+    "condition": "swap",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-23",
+    "cell": "unchanged",
+    "condition": "shuffle",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-23",
+    "cell": "unchanged",
+    "condition": "ambiguous",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-23",
+    "cell": "unchanged",
+    "condition": "unrelated",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-23",
+    "cell": "transpose",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-23",
+    "cell": "stretch",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 23552,
+    "chunks": 23,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-23",
+    "cell": "timbre",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-24",
+    "cell": "unchanged",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-24",
+    "cell": "unchanged",
+    "condition": "reset",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-24",
+    "cell": "unchanged",
+    "condition": "removal",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-24",
+    "cell": "unchanged",
+    "condition": "swap",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-24",
+    "cell": "unchanged",
+    "condition": "shuffle",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-24",
+    "cell": "unchanged",
+    "condition": "ambiguous",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-24",
+    "cell": "unchanged",
+    "condition": "unrelated",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-24",
+    "cell": "transpose",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-24",
+    "cell": "stretch",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 21504,
+    "chunks": 21,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-24",
+    "cell": "timbre",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-25",
+    "cell": "unchanged",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-25",
+    "cell": "unchanged",
+    "condition": "reset",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-25",
+    "cell": "unchanged",
+    "condition": "removal",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-25",
+    "cell": "unchanged",
+    "condition": "swap",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-25",
+    "cell": "unchanged",
+    "condition": "shuffle",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-25",
+    "cell": "unchanged",
+    "condition": "ambiguous",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-25",
+    "cell": "unchanged",
+    "condition": "unrelated",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-25",
+    "cell": "transpose",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-25",
+    "cell": "stretch",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 21504,
+    "chunks": 21,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-25",
+    "cell": "timbre",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-26",
+    "cell": "unchanged",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-26",
+    "cell": "unchanged",
+    "condition": "reset",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-26",
+    "cell": "unchanged",
+    "condition": "removal",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-26",
+    "cell": "unchanged",
+    "condition": "swap",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-26",
+    "cell": "unchanged",
+    "condition": "shuffle",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-26",
+    "cell": "unchanged",
+    "condition": "ambiguous",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-26",
+    "cell": "unchanged",
+    "condition": "unrelated",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-26",
+    "cell": "transpose",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-26",
+    "cell": "stretch",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 23552,
+    "chunks": 23,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-26",
+    "cell": "timbre",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-27",
+    "cell": "unchanged",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-27",
+    "cell": "unchanged",
+    "condition": "reset",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-27",
+    "cell": "unchanged",
+    "condition": "removal",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-27",
+    "cell": "unchanged",
+    "condition": "swap",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-27",
+    "cell": "unchanged",
+    "condition": "shuffle",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-27",
+    "cell": "unchanged",
+    "condition": "ambiguous",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-27",
+    "cell": "unchanged",
+    "condition": "unrelated",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-27",
+    "cell": "transpose",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-27",
+    "cell": "stretch",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 23552,
+    "chunks": 23,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-27",
+    "cell": "timbre",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-28",
+    "cell": "unchanged",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-28",
+    "cell": "unchanged",
+    "condition": "reset",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-28",
+    "cell": "unchanged",
+    "condition": "removal",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-28",
+    "cell": "unchanged",
+    "condition": "swap",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-28",
+    "cell": "unchanged",
+    "condition": "shuffle",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-28",
+    "cell": "unchanged",
+    "condition": "ambiguous",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-28",
+    "cell": "unchanged",
+    "condition": "unrelated",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-28",
+    "cell": "transpose",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-28",
+    "cell": "stretch",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 21504,
+    "chunks": 21,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-28",
+    "cell": "timbre",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-29",
+    "cell": "unchanged",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-29",
+    "cell": "unchanged",
+    "condition": "reset",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-29",
+    "cell": "unchanged",
+    "condition": "removal",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-29",
+    "cell": "unchanged",
+    "condition": "swap",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-29",
+    "cell": "unchanged",
+    "condition": "shuffle",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-29",
+    "cell": "unchanged",
+    "condition": "ambiguous",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-29",
+    "cell": "unchanged",
+    "condition": "unrelated",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-29",
+    "cell": "transpose",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-29",
+    "cell": "stretch",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 21504,
+    "chunks": 21,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-29",
+    "cell": "timbre",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-30",
+    "cell": "unchanged",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-30",
+    "cell": "unchanged",
+    "condition": "reset",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-30",
+    "cell": "unchanged",
+    "condition": "removal",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-30",
+    "cell": "unchanged",
+    "condition": "swap",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-30",
+    "cell": "unchanged",
+    "condition": "shuffle",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-30",
+    "cell": "unchanged",
+    "condition": "ambiguous",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-30",
+    "cell": "unchanged",
+    "condition": "unrelated",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-30",
+    "cell": "transpose",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-30",
+    "cell": "stretch",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 23552,
+    "chunks": 23,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-30",
+    "cell": "timbre",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-31",
+    "cell": "unchanged",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-31",
+    "cell": "unchanged",
+    "condition": "reset",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-31",
+    "cell": "unchanged",
+    "condition": "removal",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-31",
+    "cell": "unchanged",
+    "condition": "swap",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-31",
+    "cell": "unchanged",
+    "condition": "shuffle",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-31",
+    "cell": "unchanged",
+    "condition": "ambiguous",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-31",
+    "cell": "unchanged",
+    "condition": "unrelated",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-31",
+    "cell": "transpose",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-31",
+    "cell": "stretch",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 23552,
+    "chunks": 23,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-31",
+    "cell": "timbre",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-32",
+    "cell": "unchanged",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-32",
+    "cell": "unchanged",
+    "condition": "reset",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-32",
+    "cell": "unchanged",
+    "condition": "removal",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-32",
+    "cell": "unchanged",
+    "condition": "swap",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-32",
+    "cell": "unchanged",
+    "condition": "shuffle",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-32",
+    "cell": "unchanged",
+    "condition": "ambiguous",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-32",
+    "cell": "unchanged",
+    "condition": "unrelated",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-32",
+    "cell": "transpose",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-32",
+    "cell": "stretch",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 21504,
+    "chunks": 21,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-32",
+    "cell": "timbre",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-33",
+    "cell": "unchanged",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-33",
+    "cell": "unchanged",
+    "condition": "reset",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-33",
+    "cell": "unchanged",
+    "condition": "removal",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-33",
+    "cell": "unchanged",
+    "condition": "swap",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-33",
+    "cell": "unchanged",
+    "condition": "shuffle",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-33",
+    "cell": "unchanged",
+    "condition": "ambiguous",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-33",
+    "cell": "unchanged",
+    "condition": "unrelated",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-33",
+    "cell": "transpose",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-33",
+    "cell": "stretch",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 21504,
+    "chunks": 21,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-33",
+    "cell": "timbre",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-34",
+    "cell": "unchanged",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-34",
+    "cell": "unchanged",
+    "condition": "reset",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-34",
+    "cell": "unchanged",
+    "condition": "removal",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-34",
+    "cell": "unchanged",
+    "condition": "swap",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-34",
+    "cell": "unchanged",
+    "condition": "shuffle",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-34",
+    "cell": "unchanged",
+    "condition": "ambiguous",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-34",
+    "cell": "unchanged",
+    "condition": "unrelated",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-34",
+    "cell": "transpose",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-34",
+    "cell": "stretch",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 23552,
+    "chunks": 23,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-34",
+    "cell": "timbre",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-35",
+    "cell": "unchanged",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-35",
+    "cell": "unchanged",
+    "condition": "reset",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-35",
+    "cell": "unchanged",
+    "condition": "removal",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-35",
+    "cell": "unchanged",
+    "condition": "swap",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-35",
+    "cell": "unchanged",
+    "condition": "shuffle",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-35",
+    "cell": "unchanged",
+    "condition": "ambiguous",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-35",
+    "cell": "unchanged",
+    "condition": "unrelated",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-35",
+    "cell": "transpose",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-35",
+    "cell": "stretch",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 23552,
+    "chunks": 23,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-35",
+    "cell": "timbre",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-36",
+    "cell": "unchanged",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-36",
+    "cell": "unchanged",
+    "condition": "reset",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-36",
+    "cell": "unchanged",
+    "condition": "removal",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-36",
+    "cell": "unchanged",
+    "condition": "swap",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-36",
+    "cell": "unchanged",
+    "condition": "shuffle",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-36",
+    "cell": "unchanged",
+    "condition": "ambiguous",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-36",
+    "cell": "unchanged",
+    "condition": "unrelated",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-36",
+    "cell": "transpose",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-36",
+    "cell": "stretch",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 21504,
+    "chunks": 21,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-36",
+    "cell": "timbre",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-37",
+    "cell": "unchanged",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-37",
+    "cell": "unchanged",
+    "condition": "reset",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-37",
+    "cell": "unchanged",
+    "condition": "removal",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-37",
+    "cell": "unchanged",
+    "condition": "swap",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-37",
+    "cell": "unchanged",
+    "condition": "shuffle",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-37",
+    "cell": "unchanged",
+    "condition": "ambiguous",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-37",
+    "cell": "unchanged",
+    "condition": "unrelated",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-37",
+    "cell": "transpose",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-37",
+    "cell": "stretch",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 21504,
+    "chunks": 21,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-37",
+    "cell": "timbre",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-38",
+    "cell": "unchanged",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-38",
+    "cell": "unchanged",
+    "condition": "reset",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-38",
+    "cell": "unchanged",
+    "condition": "removal",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-38",
+    "cell": "unchanged",
+    "condition": "swap",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-38",
+    "cell": "unchanged",
+    "condition": "shuffle",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-38",
+    "cell": "unchanged",
+    "condition": "ambiguous",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-38",
+    "cell": "unchanged",
+    "condition": "unrelated",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-38",
+    "cell": "transpose",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-38",
+    "cell": "stretch",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 23552,
+    "chunks": 23,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-38",
+    "cell": "timbre",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-39",
+    "cell": "unchanged",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-39",
+    "cell": "unchanged",
+    "condition": "reset",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-39",
+    "cell": "unchanged",
+    "condition": "removal",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-39",
+    "cell": "unchanged",
+    "condition": "swap",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-39",
+    "cell": "unchanged",
+    "condition": "shuffle",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-39",
+    "cell": "unchanged",
+    "condition": "ambiguous",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-39",
+    "cell": "unchanged",
+    "condition": "unrelated",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-39",
+    "cell": "transpose",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-39",
+    "cell": "stretch",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 23552,
+    "chunks": 23,
+    "boundary_on_chunk_fraction": 0.0
+  },
+  {
+    "group": "sp-39",
+    "cell": "timbre",
+    "condition": "intact",
+    "source_unit_byte_multiset": true,
+    "probe_and_tail_identical": true,
+    "samples": 22528,
+    "chunks": 22,
+    "boundary_on_chunk_fraction": 0.0
+  }
+]

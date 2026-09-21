@@ -1,0 +1,26 @@
+{
+  "candidates": [
+    {
+      "id": "single",
+      "source": 0.828125,
+      "brier": 0.31607437610905104,
+      "mean_serialized_channels_bytes": 429107.75,
+      "mean_readout_ns": 7772782.53125
+    },
+    {
+      "id": "multi",
+      "source": 0.859375,
+      "brier": 0.2283466452479284,
+      "mean_serialized_channels_bytes": 885069.125,
+      "mean_readout_ns": 11112062.53125
+    }
+  ],
+  "selected": {
+    "id": "multi",
+    "source": 0.859375,
+    "brier": 0.2283466452479284,
+    "mean_serialized_channels_bytes": 885069.125,
+    "mean_readout_ns": 11112062.53125
+  },
+  "rule": "validity; max correct source across balanced cells; min forecast Brier; least measured state then compute"
+}

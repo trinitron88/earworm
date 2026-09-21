@@ -1,0 +1,24 @@
+{
+  "assignment": "earworm-causal-spectral-patch-v1",
+  "status": "invalid_reporting_snapshot_preparing_publication",
+  "streams_consumed": 960,
+  "development_completed": true,
+  "calibration_completed": true,
+  "heldout_completed": true,
+  "heldout_integrity_passed": true,
+  "reporting_completed": false,
+  "failure": {
+    "branch": "invalid",
+    "stage": "frozen_saved_reporting",
+    "execution_integrity_passed": true,
+    "complete_scientific_gate_decision_available": false,
+    "error_type": "KeyError",
+    "missing_lookup": "sp-16/joint/ambiguous/0",
+    "actual_control_cell": "unchanged",
+    "source": "analyze.py:63",
+    "execution_revision": "d7586c0ca6667806bd99c859f83a1feee722649c",
+    "receipt_authored_after_failure": true,
+    "resolution": "Preserve frozen analyzer and saved evidence; no repair, retry, acoustic rerun, threshold change or forced scientific branch. Await review and an explicit bounded PM decision."
+  },
+  "next": "Publish complete saved evidence once; await review and stop."
+}

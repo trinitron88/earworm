@@ -1,0 +1,18 @@
+{
+  "assignment": "earworm-causal-spectral-patch-v1",
+  "assignment_comment": 5755164534,
+  "assignment_version": "2026-09-21T03:55:02Z",
+  "base": "7de087d4dc60ce09ec6d59e50457d44a3d6735da",
+  "development_execution": "5cc14365a2bb73212eb6ef221eac50b523128db3",
+  "calibration_execution": "1214631a222ea84d0d97f9093eefb4ab108cff86",
+  "heldout_execution": "d7586c0ca6667806bd99c859f83a1feee722649c",
+  "publication_revision": "The completed-snapshot commit is distinct from the above execution revisions; see PR2 completion receipt for its exact SHA.",
+  "preregistration_comment": 5755482725,
+  "no_scientific_code_change_after_development": true,
+  "historical_files": 874,
+  "frozen_comparators": "frozen_lattice.py and imported prior implementations are byte-identical; only new front/broker/validation/scoring orchestration is new.",
+  "post_run_validation": "validation/realization_checks.py implements additional checks of the predeclared residual/capture invariants using saved evidence only. It is publication-time code, not executed by the listener.",
+  "archives": "records.py writes sequential lossless gzip shards at64MiB compressed. Keep every .partNNN.gz beside its base .jsonl.gz; records.read_lines joins all record lines in order. No recompression, omitted evidence or model replay.",
+  "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "numpy": "2.5.3"
+}

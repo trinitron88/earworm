@@ -1,0 +1,9 @@
+{
+  "comment_id": 5755482725,
+  "created_at": "2026-09-21T04:38:58Z",
+  "url": "https://github.com/trinitron88/earworm/pull/2#issuecomment-5755482725",
+  "protocol_sha256": "9f130af29499059ac1d7480849253b3d1670eeef8580b99553073df5645883d5",
+  "execution_revision": "d7586c0ca6667806bd99c859f83a1feee722649c",
+  "updated_at": "2026-09-21T04:39:32Z",
+  "note": "Before heldout, corrected descriptive calibration record count from8224 to8228; no criterion/source change."
+}
