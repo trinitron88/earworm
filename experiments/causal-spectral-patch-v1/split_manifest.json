@@ -1,0 +1,1007 @@
+{
+  "groups": [
+    {
+      "group_id": "sp-00",
+      "split": "development",
+      "seed": 202609219100,
+      "motif": [
+        7,
+        -1,
+        9,
+        6
+      ],
+      "order": 0,
+      "direction": 0,
+      "register": 0,
+      "rich": false,
+      "family": "pure",
+      "index": 0,
+      "normalized_identity": [
+        -7,
+        -8,
+        -9,
+        6
+      ],
+      "transpose": -5,
+      "stretch": 0.8
+    },
+    {
+      "group_id": "sp-01",
+      "split": "development",
+      "seed": 202609219101,
+      "motif": [
+        9,
+        -3,
+        5,
+        4
+      ],
+      "order": 0,
+      "direction": 1,
+      "register": 0,
+      "rich": false,
+      "family": "fundamental",
+      "index": 1,
+      "normalized_identity": [
+        9,
+        12,
+        5,
+        4
+      ],
+      "transpose": -3,
+      "stretch": 0.8
+    },
+    {
+      "group_id": "sp-02",
+      "split": "development",
+      "seed": 202609219102,
+      "motif": [
+        2,
+        -1,
+        7,
+        3
+      ],
+      "order": 1,
+      "direction": 0,
+      "register": 0,
+      "rich": true,
+      "family": "overtone",
+      "index": 2,
+      "normalized_identity": [
+        -2,
+        -3,
+        -7,
+        3
+      ],
+      "transpose": 3,
+      "stretch": 1.25
+    },
+    {
+      "group_id": "sp-03",
+      "split": "development",
+      "seed": 202609219103,
+      "motif": [
+        4,
+        -1,
+        9,
+        6
+      ],
+      "order": 1,
+      "direction": 1,
+      "register": 0,
+      "rich": false,
+      "family": "pure",
+      "index": 3,
+      "normalized_identity": [
+        4,
+        5,
+        9,
+        6
+      ],
+      "transpose": 5,
+      "stretch": 1.25
+    },
+    {
+      "group_id": "sp-04",
+      "split": "development",
+      "seed": 202609219104,
+      "motif": [
+        6,
+        -3,
+        8,
+        4
+      ],
+      "order": 0,
+      "direction": 0,
+      "register": 3,
+      "rich": false,
+      "family": "fundamental",
+      "index": 4,
+      "normalized_identity": [
+        -6,
+        -9,
+        -8,
+        4
+      ],
+      "transpose": -5,
+      "stretch": 0.8
+    },
+    {
+      "group_id": "sp-05",
+      "split": "development",
+      "seed": 202609219105,
+      "motif": [
+        3,
+        -5,
+        8,
+        5
+      ],
+      "order": 0,
+      "direction": 1,
+      "register": 3,
+      "rich": true,
+      "family": "overtone",
+      "index": 5,
+      "normalized_identity": [
+        3,
+        8,
+        8,
+        5
+      ],
+      "transpose": -3,
+      "stretch": 0.8
+    },
+    {
+      "group_id": "sp-06",
+      "split": "development",
+      "seed": 202609219106,
+      "motif": [
+        7,
+        -4,
+        4,
+        3
+      ],
+      "order": 1,
+      "direction": 0,
+      "register": 3,
+      "rich": false,
+      "family": "pure",
+      "index": 6,
+      "normalized_identity": [
+        -7,
+        -11,
+        -4,
+        3
+      ],
+      "transpose": 3,
+      "stretch": 1.25
+    },
+    {
+      "group_id": "sp-07",
+      "split": "development",
+      "seed": 202609219107,
+      "motif": [
+        8,
+        -4,
+        9,
+        3
+      ],
+      "order": 1,
+      "direction": 1,
+      "register": 3,
+      "rich": false,
+      "family": "fundamental",
+      "index": 7,
+      "normalized_identity": [
+        8,
+        12,
+        9,
+        3
+      ],
+      "transpose": 5,
+      "stretch": 1.25
+    },
+    {
+      "group_id": "sp-08",
+      "split": "calibration",
+      "seed": 202609219108,
+      "motif": [
+        8,
+        1,
+        3,
+        6
+      ],
+      "order": 0,
+      "direction": 0,
+      "register": 6,
+      "rich": true,
+      "family": "overtone",
+      "index": 8,
+      "normalized_identity": [
+        -8,
+        -7,
+        -3,
+        6
+      ],
+      "transpose": -5,
+      "stretch": 0.8
+    },
+    {
+      "group_id": "sp-09",
+      "split": "calibration",
+      "seed": 202609219109,
+      "motif": [
+        2,
+        -3,
+        5,
+        6
+      ],
+      "order": 0,
+      "direction": 1,
+      "register": 6,
+      "rich": false,
+      "family": "pure",
+      "index": 9,
+      "normalized_identity": [
+        2,
+        5,
+        5,
+        6
+      ],
+      "transpose": -3,
+      "stretch": 0.8
+    },
+    {
+      "group_id": "sp-10",
+      "split": "calibration",
+      "seed": 202609219110,
+      "motif": [
+        7,
+        -5,
+        6,
+        5
+      ],
+      "order": 1,
+      "direction": 0,
+      "register": 6,
+      "rich": false,
+      "family": "fundamental",
+      "index": 10,
+      "normalized_identity": [
+        -7,
+        -12,
+        -6,
+        5
+      ],
+      "transpose": 3,
+      "stretch": 1.25
+    },
+    {
+      "group_id": "sp-11",
+      "split": "calibration",
+      "seed": 202609219111,
+      "motif": [
+        4,
+        3,
+        8,
+        6
+      ],
+      "order": 1,
+      "direction": 1,
+      "register": 6,
+      "rich": true,
+      "family": "overtone",
+      "index": 11,
+      "normalized_identity": [
+        4,
+        1,
+        8,
+        6
+      ],
+      "transpose": 5,
+      "stretch": 1.25
+    },
+    {
+      "group_id": "sp-12",
+      "split": "calibration",
+      "seed": 202609219112,
+      "motif": [
+        7,
+        -4,
+        6,
+        5
+      ],
+      "order": 0,
+      "direction": 0,
+      "register": 9,
+      "rich": false,
+      "family": "pure",
+      "index": 12,
+      "normalized_identity": [
+        -7,
+        -11,
+        -6,
+        5
+      ],
+      "transpose": -5,
+      "stretch": 0.8
+    },
+    {
+      "group_id": "sp-13",
+      "split": "calibration",
+      "seed": 202609219113,
+      "motif": [
+        6,
+        7,
+        3,
+        5
+      ],
+      "order": 0,
+      "direction": 1,
+      "register": 9,
+      "rich": false,
+      "family": "fundamental",
+      "index": 13,
+      "normalized_identity": [
+        6,
+        -1,
+        3,
+        5
+      ],
+      "transpose": -3,
+      "stretch": 0.8
+    },
+    {
+      "group_id": "sp-14",
+      "split": "calibration",
+      "seed": 202609219114,
+      "motif": [
+        8,
+        -2,
+        4,
+        4
+      ],
+      "order": 1,
+      "direction": 0,
+      "register": 9,
+      "rich": true,
+      "family": "overtone",
+      "index": 14,
+      "normalized_identity": [
+        -8,
+        -10,
+        -4,
+        4
+      ],
+      "transpose": 3,
+      "stretch": 1.25
+    },
+    {
+      "group_id": "sp-15",
+      "split": "calibration",
+      "seed": 202609219115,
+      "motif": [
+        9,
+        -4,
+        3,
+        3
+      ],
+      "order": 1,
+      "direction": 1,
+      "register": 9,
+      "rich": false,
+      "family": "pure",
+      "index": 15,
+      "normalized_identity": [
+        9,
+        13,
+        3,
+        3
+      ],
+      "transpose": 5,
+      "stretch": 1.25
+    },
+    {
+      "group_id": "sp-16",
+      "split": "heldout",
+      "seed": 202609219116,
+      "motif": [
+        5,
+        2,
+        3,
+        4
+      ],
+      "order": 0,
+      "direction": 0,
+      "register": 0,
+      "rich": false,
+      "family": "fundamental",
+      "index": 16,
+      "normalized_identity": [
+        -5,
+        -3,
+        -3,
+        4
+      ],
+      "transpose": -5,
+      "stretch": 0.8
+    },
+    {
+      "group_id": "sp-17",
+      "split": "heldout",
+      "seed": 202609219117,
+      "motif": [
+        7,
+        7,
+        5,
+        3
+      ],
+      "order": 0,
+      "direction": 1,
+      "register": 0,
+      "rich": true,
+      "family": "overtone",
+      "index": 17,
+      "normalized_identity": [
+        7,
+        0,
+        5,
+        3
+      ],
+      "transpose": -3,
+      "stretch": 0.8
+    },
+    {
+      "group_id": "sp-18",
+      "split": "heldout",
+      "seed": 202609219118,
+      "motif": [
+        7,
+        -3,
+        3,
+        5
+      ],
+      "order": 1,
+      "direction": 0,
+      "register": 0,
+      "rich": false,
+      "family": "pure",
+      "index": 18,
+      "normalized_identity": [
+        -7,
+        -10,
+        -3,
+        5
+      ],
+      "transpose": 3,
+      "stretch": 1.25
+    },
+    {
+      "group_id": "sp-19",
+      "split": "heldout",
+      "seed": 202609219119,
+      "motif": [
+        5,
+        -4,
+        3,
+        3
+      ],
+      "order": 1,
+      "direction": 1,
+      "register": 0,
+      "rich": false,
+      "family": "fundamental",
+      "index": 19,
+      "normalized_identity": [
+        5,
+        9,
+        3,
+        3
+      ],
+      "transpose": 5,
+      "stretch": 1.25
+    },
+    {
+      "group_id": "sp-20",
+      "split": "heldout",
+      "seed": 202609219120,
+      "motif": [
+        6,
+        -5,
+        9,
+        3
+      ],
+      "order": 0,
+      "direction": 0,
+      "register": 3,
+      "rich": true,
+      "family": "overtone",
+      "index": 20,
+      "normalized_identity": [
+        -6,
+        -11,
+        -9,
+        3
+      ],
+      "transpose": -5,
+      "stretch": 0.8
+    },
+    {
+      "group_id": "sp-21",
+      "split": "heldout",
+      "seed": 202609219121,
+      "motif": [
+        5,
+        4,
+        8,
+        5
+      ],
+      "order": 0,
+      "direction": 1,
+      "register": 3,
+      "rich": false,
+      "family": "pure",
+      "index": 21,
+      "normalized_identity": [
+        5,
+        1,
+        8,
+        5
+      ],
+      "transpose": -3,
+      "stretch": 0.8
+    },
+    {
+      "group_id": "sp-22",
+      "split": "heldout",
+      "seed": 202609219122,
+      "motif": [
+        6,
+        -5,
+        5,
+        4
+      ],
+      "order": 1,
+      "direction": 0,
+      "register": 3,
+      "rich": false,
+      "family": "fundamental",
+      "index": 22,
+      "normalized_identity": [
+        -6,
+        -11,
+        -5,
+        4
+      ],
+      "transpose": 3,
+      "stretch": 1.25
+    },
+    {
+      "group_id": "sp-23",
+      "split": "heldout",
+      "seed": 202609219123,
+      "motif": [
+        7,
+        -3,
+        3,
+        6
+      ],
+      "order": 1,
+      "direction": 1,
+      "register": 3,
+      "rich": true,
+      "family": "overtone",
+      "index": 23,
+      "normalized_identity": [
+        7,
+        10,
+        3,
+        6
+      ],
+      "transpose": 5,
+      "stretch": 1.25
+    },
+    {
+      "group_id": "sp-24",
+      "split": "heldout",
+      "seed": 202609219124,
+      "motif": [
+        2,
+        5,
+        7,
+        4
+      ],
+      "order": 0,
+      "direction": 0,
+      "register": 6,
+      "rich": false,
+      "family": "pure",
+      "index": 24,
+      "normalized_identity": [
+        -2,
+        3,
+        -7,
+        4
+      ],
+      "transpose": -5,
+      "stretch": 0.8
+    },
+    {
+      "group_id": "sp-25",
+      "split": "heldout",
+      "seed": 202609219125,
+      "motif": [
+        6,
+        7,
+        5,
+        4
+      ],
+      "order": 0,
+      "direction": 1,
+      "register": 6,
+      "rich": false,
+      "family": "fundamental",
+      "index": 25,
+      "normalized_identity": [
+        6,
+        -1,
+        5,
+        4
+      ],
+      "transpose": -3,
+      "stretch": 0.8
+    },
+    {
+      "group_id": "sp-26",
+      "split": "heldout",
+      "seed": 202609219126,
+      "motif": [
+        5,
+        3,
+        6,
+        3
+      ],
+      "order": 1,
+      "direction": 0,
+      "register": 6,
+      "rich": true,
+      "family": "overtone",
+      "index": 26,
+      "normalized_identity": [
+        -5,
+        -2,
+        -6,
+        3
+      ],
+      "transpose": 3,
+      "stretch": 1.25
+    },
+    {
+      "group_id": "sp-27",
+      "split": "heldout",
+      "seed": 202609219127,
+      "motif": [
+        7,
+        -4,
+        3,
+        6
+      ],
+      "order": 1,
+      "direction": 1,
+      "register": 6,
+      "rich": false,
+      "family": "pure",
+      "index": 27,
+      "normalized_identity": [
+        7,
+        11,
+        3,
+        6
+      ],
+      "transpose": 5,
+      "stretch": 1.25
+    },
+    {
+      "group_id": "sp-28",
+      "split": "heldout",
+      "seed": 202609219128,
+      "motif": [
+        7,
+        2,
+        8,
+        5
+      ],
+      "order": 0,
+      "direction": 0,
+      "register": 9,
+      "rich": false,
+      "family": "fundamental",
+      "index": 28,
+      "normalized_identity": [
+        -7,
+        -5,
+        -8,
+        5
+      ],
+      "transpose": -5,
+      "stretch": 0.8
+    },
+    {
+      "group_id": "sp-29",
+      "split": "heldout",
+      "seed": 202609219129,
+      "motif": [
+        4,
+        7,
+        2,
+        6
+      ],
+      "order": 0,
+      "direction": 1,
+      "register": 9,
+      "rich": true,
+      "family": "overtone",
+      "index": 29,
+      "normalized_identity": [
+        4,
+        -3,
+        2,
+        6
+      ],
+      "transpose": -3,
+      "stretch": 0.8
+    },
+    {
+      "group_id": "sp-30",
+      "split": "heldout",
+      "seed": 202609219130,
+      "motif": [
+        2,
+        -1,
+        5,
+        3
+      ],
+      "order": 1,
+      "direction": 0,
+      "register": 9,
+      "rich": false,
+      "family": "pure",
+      "index": 30,
+      "normalized_identity": [
+        -2,
+        -3,
+        -5,
+        3
+      ],
+      "transpose": 3,
+      "stretch": 1.25
+    },
+    {
+      "group_id": "sp-31",
+      "split": "heldout",
+      "seed": 202609219131,
+      "motif": [
+        5,
+        5,
+        7,
+        4
+      ],
+      "order": 1,
+      "direction": 1,
+      "register": 9,
+      "rich": false,
+      "family": "fundamental",
+      "index": 31,
+      "normalized_identity": [
+        5,
+        0,
+        7,
+        4
+      ],
+      "transpose": 5,
+      "stretch": 1.25
+    },
+    {
+      "group_id": "sp-32",
+      "split": "heldout",
+      "seed": 202609219132,
+      "motif": [
+        2,
+        7,
+        8,
+        6
+      ],
+      "order": 0,
+      "direction": 0,
+      "register": 0,
+      "rich": true,
+      "family": "overtone",
+      "index": 32,
+      "normalized_identity": [
+        -2,
+        5,
+        -8,
+        6
+      ],
+      "transpose": -5,
+      "stretch": 0.8
+    },
+    {
+      "group_id": "sp-33",
+      "split": "heldout",
+      "seed": 202609219133,
+      "motif": [
+        6,
+        -1,
+        3,
+        4
+      ],
+      "order": 0,
+      "direction": 1,
+      "register": 0,
+      "rich": false,
+      "family": "pure",
+      "index": 33,
+      "normalized_identity": [
+        6,
+        7,
+        3,
+        4
+      ],
+      "transpose": -3,
+      "stretch": 0.8
+    },
+    {
+      "group_id": "sp-34",
+      "split": "heldout",
+      "seed": 202609219134,
+      "motif": [
+        6,
+        -1,
+        4,
+        4
+      ],
+      "order": 1,
+      "direction": 0,
+      "register": 0,
+      "rich": false,
+      "family": "fundamental",
+      "index": 34,
+      "normalized_identity": [
+        -6,
+        -7,
+        -4,
+        4
+      ],
+      "transpose": 3,
+      "stretch": 1.25
+    },
+    {
+      "group_id": "sp-35",
+      "split": "heldout",
+      "seed": 202609219135,
+      "motif": [
+        4,
+        -3,
+        3,
+        6
+      ],
+      "order": 1,
+      "direction": 1,
+      "register": 0,
+      "rich": true,
+      "family": "overtone",
+      "index": 35,
+      "normalized_identity": [
+        4,
+        7,
+        3,
+        6
+      ],
+      "transpose": 5,
+      "stretch": 1.25
+    },
+    {
+      "group_id": "sp-36",
+      "split": "heldout",
+      "seed": 202609219136,
+      "motif": [
+        9,
+        4,
+        7,
+        3
+      ],
+      "order": 0,
+      "direction": 0,
+      "register": 3,
+      "rich": false,
+      "family": "pure",
+      "index": 36,
+      "normalized_identity": [
+        -9,
+        -5,
+        -7,
+        3
+      ],
+      "transpose": -5,
+      "stretch": 0.8
+    },
+    {
+      "group_id": "sp-37",
+      "split": "heldout",
+      "seed": 202609219137,
+      "motif": [
+        4,
+        -4,
+        3,
+        6
+      ],
+      "order": 0,
+      "direction": 1,
+      "register": 3,
+      "rich": false,
+      "family": "fundamental",
+      "index": 37,
+      "normalized_identity": [
+        4,
+        8,
+        3,
+        6
+      ],
+      "transpose": -3,
+      "stretch": 0.8
+    },
+    {
+      "group_id": "sp-38",
+      "split": "heldout",
+      "seed": 202609219138,
+      "motif": [
+        7,
+        6,
+        3,
+        6
+      ],
+      "order": 1,
+      "direction": 0,
+      "register": 3,
+      "rich": true,
+      "family": "overtone",
+      "index": 38,
+      "normalized_identity": [
+        -7,
+        -1,
+        -3,
+        6
+      ],
+      "transpose": 3,
+      "stretch": 1.25
+    },
+    {
+      "group_id": "sp-39",
+      "split": "heldout",
+      "seed": 202609219139,
+      "motif": [
+        4,
+        6,
+        7,
+        5
+      ],
+      "order": 1,
+      "direction": 1,
+      "register": 3,
+      "rich": false,
+      "family": "pure",
+      "index": 39,
+      "normalized_identity": [
+        4,
+        -2,
+        7,
+        5
+      ],
+      "transpose": 5,
+      "stretch": 1.25
+    }
+  ],
+  "excluded_identities": 309,
+  "seed_disjoint": true,
+  "factor_aliases": "Offsets/signs/stretch balanced within split; families not perfectly crossed; report per-family, no independent causal attribution to family."
+}
