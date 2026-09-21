@@ -1,0 +1,10 @@
+{
+  "assignment_id": "earworm-frame-lattice-init-repair-v1",
+  "status": "invalid_calibration_pending_review",
+  "branch": "invalid",
+  "preflight_passed": true,
+  "development_completed": true,
+  "calibration_completed_but_invalid": true,
+  "heldout_started": false,
+  "next": "One complete publication then await review. No second repair or rerun."
+}

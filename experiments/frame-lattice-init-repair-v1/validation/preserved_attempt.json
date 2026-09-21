@@ -1,0 +1,49 @@
+{
+  "failure_evidence_passes": true,
+  "scientific_validity_passed": false,
+  "scientific_files_unchanged": 16,
+  "historical_files_unchanged": 685,
+  "guard_and_worker_loop_unchanged": true,
+  "preflight_passed": true,
+  "chains": {
+    "development": {
+      "records": 8192,
+      "record_kinds": {
+        "start": 160,
+        "chunk_dispatch": 3508,
+        "arrival": 3508,
+        "forecast_dispatch": 160,
+        "forecast_commit": 160,
+        "future_invariance": 32,
+        "save_restore": 8,
+        "oracle_boundary_forecast_commit": 160,
+        "reveal": 160,
+        "revealed_observation": 160,
+        "score": 160,
+        "reset": 16
+      },
+      "last_sha256": "edd1bd3015acdb33bfede63c4c721f2cf55fcb85743a64ee62b57158de1b3845"
+    },
+    "calibration": {
+      "records": 8216,
+      "record_kinds": {
+        "start": 160,
+        "chunk_dispatch": 3520,
+        "arrival": 3520,
+        "forecast_dispatch": 160,
+        "forecast_commit": 160,
+        "future_invariance": 32,
+        "save_restore": 8,
+        "oracle_boundary_forecast_commit": 160,
+        "reveal": 160,
+        "revealed_observation": 160,
+        "score": 160,
+        "reset": 16
+      },
+      "last_sha256": "e8d5df537557749b615472437e82f6971c31bb986320c3117907fadcdc27135f"
+    }
+  },
+  "heldout_started": false,
+  "calibration_integrity_failure_retained": true,
+  "no_acoustic_or_worker_calls": true
+}

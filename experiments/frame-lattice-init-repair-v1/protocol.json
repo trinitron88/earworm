@@ -1,0 +1,54 @@
+{
+  "assignment_id": "earworm-frame-lattice-init-repair-v1",
+  "base": "b09080567f46adedd1b1f3901a1afab100d3dc2b",
+  "authoritative_assignment": "assignment.json",
+  "candidate_grid": "Exactly f32/f48/f64: completed32/48/64ms windows,8ms hop. No event gating/cropping/aggregation in lattice path. Frozen event fronts run separately as comparators.",
+  "features": "Frozen NSDF full candidate evidence, spectral peak/shape8 normalized power bands, RMS, pitch candidate probability=clamped selected periodicity (unknown remainder), window indices/hash and actual computation/availability. No expected-pitch snapping.",
+  "selection": "Validity and group mean matched-query coverage>=.50; maximize intact correct-source retrieval; minimize intact reference Brier; shortest window. If no feasible configuration, stop before calibration/evaluation with failed feasibility evidence.",
+  "calibration": "No fitted parameter. uncertainty scalar fixed1 with singleton range[1]; integrity checks only. No representation or retrieval selection.",
+  "retrieval": "Fixed recent24-frame suffix ending at last frame RMS>=.01. It is a query-selection rule, no discrete event inference. Search earlier lengths19/24/29 using linear monotone nearest-index mapping within5-frame endpoint-length band. Source continuation at+4,+5,+6,+7 frames must precede query. Valid paired pitch coverage>=.75; cost=mean abs pitch residual+2*(1-coverage)+.05*mean spectral total variation+.02*mean absolute log RMS ratio. Absolute path shift0; relative path one median pitch offset. Accept cost<=.6; two lowest-cost nonoverlapping source windows, deterministic cost/start/end ordering. Weights exp(-cost/.1). Prediction is median continuation pitch+offset; Gaussian interval sigma.08 with.001 floor. Single-window comparator same rule with length1. Unknown1 if no match. No training.",
+  "state_budget": "256 frames per active config, at most768 candidate alignments per readout,24 correspondence indices each, two retained matches; track actual serialized candidate scratch and listener data. Shared raw buffer and comparator states counted, zero eviction. Heap/RSS not inferred from serialization.",
+  "baselines": "Lattice marginal/present, recency, transition1/2/3 from frozen simple frame-history forecast; absolute sequence, relative sequence, fixed single-window matching. Preserve trim16, PR13 MAP and uncertainty mixture, whole-span and fixed64ms fronts, plus evaluator-only boundary oracle. Strongest comparator=max joint accuracy over all non-oracle models excluding selected lattice/reference; deterministic model-name tie break.",
+  "fresh_groups": "40 fresh normalized identities excluding269 prior and all prior seeds,8/8/24; seeds202609217000+i.",
+  "controls": "Same four cells; joint intact/reset/removal/swap/whole-figure shuffle/ambiguity plus similar-unrelated current shape control. Current probe byte-identical within pairs, source inventories balanced. Unrelated probe [base,base+2sign,base-7sign], source histories unchanged, target interval\u00b1d around probe end; no matching prior-source region.",
+  "recognition_labels": "Evaluator only: acceptable source is earlier Q-prefix occurrence, matched interval overlap>=.80 and end within64ms; reset/unrelated have no source region. Source retrieval gates on intact figures, rejection on unrelated. Memory removal keeps prefix recognition possible but removes continuation evidence. Ambiguous permits either earlier Q occurrence.",
+  "transformation_labels": "Changed conditions duration/joint: jointly correct source, uniform pitch offset within.35 semitone and query/source duration ratio within.20. Actual uniform pitch offset is0 in this controlled task. This does not test nonzero transposition generalization. Spectral/energy and alignment residuals reported separately, no timbre category claim.",
+  "probability_coordinates": "Frozen relative bins-24..24+unknown, scored in absolute semitone bins-48..72+unknown; source/transformation separate from forecast. Targets are next independently rendered note, disjoint from arrived prefix. Missing/unknown predictions fail known-note accuracy; infinity loss explicit, no clipping.",
+  "metrics": "Every forecast front/model/cell/control accuracy,paired success,logloss,Brier,entropy,unknown mass,confidence and fixed10-bin reliability. Separate source/rejection/transformation/coverage/end-error for lattice sequence readouts; comparator source labels not invented. Equal groups.",
+  "bootstrap": {
+    "seed": 2026092160,
+    "resamples": 5000,
+    "unit": "paired equal groups",
+    "ordinary": [
+      0.025,
+      0.975
+    ],
+    "four_cell_familywise": [
+      0.00625,
+      0.99375
+    ],
+    "quantile": "inverted_cdf"
+  },
+  "gates": "Full assignment gates explicit analyze.py: source>=.90overall/.80each,unrelatedfalse<=.10,transform>=.80changed,paired>=.80each,NI lower>=-.10each,joint lower>0overpresent and strongest,proper increases<=.10/.02,allcontrols,familyloss<=.10. No event-F1 gate for lattice.",
+  "latency": "Completed-frame audio-availability delay<=160ms AND forecast dispatch-to-commit walltime<=160ms. Context is all arrived chunks at forecast request; report frame computation and dispatch separately. No backdating.",
+  "branch_precedence": "Invalid first; C if oracle,source,transformation,non-ambiguity causal controls,safety,positive advantage or latency fails. A if allremaining gates pass. B only prerequisites pass but proper/ambiguity/pair/noninferiority fail. No forced choice or nonsignificance-as-equivalence.",
+  "integrity": "Arrived-only worker API, audit guard, prereveal fsync hash chain, future invariance, save/restore trusted serialized listener state reproduces exact forecast bytes (one probe/group), independently reconstructed saved alignments/forecast/scoring, immutable historical hashes exact; numerical tolerance1e-12.",
+  "resources": {
+    "development_streams": 192,
+    "calibration_streams": 192,
+    "heldout_streams": 576,
+    "scientific_total": 960,
+    "prior_entered_failed_streams": 1,
+    "fixed_smoke_streams": 1,
+    "conservative_all_stream_count": 962,
+    "cap": 1000,
+    "save_restore": "One already-counted future-invariance probe per group; no extra scientific stream.",
+    "prior_compute_charge_seconds": 840.093,
+    "additional_seconds_limit": 6300,
+    "combined_artifact_bytes": 2147483648,
+    "chunks": 32,
+    "unit_seconds": 2
+  },
+  "stop": "One guarded preflight already passed, finite development/calibration,one frozenheldout,one complete successor then awaitreview. Any further invalid execution stops without secondrepair/retry. Scientificbranchrules unchanged.",
+  "runtime_repair": "Only worker initialization-order change: np.median on fixed odd/even arrays before byte-identical audit guard. One disposable smoke passed; no scientific audio used."
+}
