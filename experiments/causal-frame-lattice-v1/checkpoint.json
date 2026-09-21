@@ -1,0 +1,10 @@
+{
+  "assignment_id": "earworm-causal-frame-lattice-v1",
+  "status": "invalid_attempt_pending_review",
+  "branch": "invalid",
+  "started_development_streams": 1,
+  "completed_forecasts": 0,
+  "calibration_started": false,
+  "heldout_started": false,
+  "next": "Publish once then await review; no repair/rerun authorized by this artifact."
+}

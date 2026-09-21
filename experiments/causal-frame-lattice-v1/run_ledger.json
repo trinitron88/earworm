@@ -1,0 +1,7 @@
+[
+  {
+    "split": "development",
+    "allocated_streams": 200,
+    "start_utc_ns": 1789950837020768000
+  }
+]

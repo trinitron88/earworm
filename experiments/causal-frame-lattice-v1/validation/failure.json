@@ -1,0 +1,25 @@
+{
+  "saved_failure_evidence_passes": true,
+  "scientific_validity_passed": false,
+  "records": 44,
+  "arrived_chunks": 21,
+  "arrived_samples": 21504,
+  "completed_forecasts": 0,
+  "reveals": 0,
+  "completed_episodes": 0,
+  "started_streams": 1,
+  "allocated_development_budget": 200,
+  "calibration_started": false,
+  "heldout_started": false,
+  "source_matches_attempted_execution": true,
+  "historical_files_unchanged": 645,
+  "last_record_sha256": "4a9d34cf93d8e38601546c80cdea901e0c95fe19c0302f8cfa0d1e1300bc95ff",
+  "unavailable_due_to_failure": [
+    "forecast outputs",
+    "source/transform/prediction metrics",
+    "worker final extraction counters",
+    "full waveform archive",
+    "save/restore and future-invariance results"
+  ],
+  "note": "No runtime.json was written. Do not treat failure-evidence verification as scientific validation. No extraction or rerun performed."
+}
