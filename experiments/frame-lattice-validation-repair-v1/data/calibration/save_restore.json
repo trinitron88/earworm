@@ -1,0 +1,42 @@
+[
+  {
+    "episode": "fir-08/detached/intact/0",
+    "same_forecast_bytes": true,
+    "state_sha256": "779ffd35b0dfc0ede94735eb2785eeb2f6252e8cdc99cf27041a23ddf87bdd3e"
+  },
+  {
+    "episode": "fir-09/detached/intact/0",
+    "same_forecast_bytes": true,
+    "state_sha256": "6ceb211e791c13657309fce4428422d48f1e06a97504e3520877e2e0c30e3543"
+  },
+  {
+    "episode": "fir-10/detached/intact/0",
+    "same_forecast_bytes": true,
+    "state_sha256": "ab79c0425d409eae6820e8f515745746dbb37d897a6fc94f5b23d2477a143aa9"
+  },
+  {
+    "episode": "fir-11/detached/intact/0",
+    "same_forecast_bytes": true,
+    "state_sha256": "a640c12e5f84bb41f941d634caa06ce2db40744d8dec76996e0d8047719362a7"
+  },
+  {
+    "episode": "fir-12/detached/intact/0",
+    "same_forecast_bytes": true,
+    "state_sha256": "48bf212136fc1cabf9f1975d202b259cfdf136feb21833f950b7f396ca35c39c"
+  },
+  {
+    "episode": "fir-13/detached/intact/0",
+    "same_forecast_bytes": true,
+    "state_sha256": "0e6647e09d00df7326df97bfc2e2235761a5a48120afbbb4c95df659e67c5ba5"
+  },
+  {
+    "episode": "fir-14/detached/intact/0",
+    "same_forecast_bytes": true,
+    "state_sha256": "d302b1979b535092717cfdf9207a80d0e49cc367cae17b49f2ae801c2f42a383"
+  },
+  {
+    "episode": "fir-15/detached/intact/0",
+    "same_forecast_bytes": true,
+    "state_sha256": "8d4e17923c09e183ead655bee0fbd653ae25b1880cbad2de089f7ff13c12411e"
+  }
+]

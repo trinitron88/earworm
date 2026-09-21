@@ -1,0 +1,28 @@
+{
+  "branch": "invalid",
+  "validity_passed": false,
+  "oracle_pass": true,
+  "source_accuracy": 0.4375,
+  "unrelated_false_match": 0.0,
+  "source_pass": false,
+  "transformation_accuracy_changed": 0.0,
+  "transformation_pass": false,
+  "paired_success_pass": false,
+  "noninferiority": false,
+  "strongest_comparator": "trim16/transition3",
+  "joint_gain": -0.5625,
+  "joint_gain_lower95": -0.8125,
+  "joint_gain_upper95": -0.3125,
+  "joint_present_lower95": 0.0625,
+  "proper_score_increases": {
+    "log_loss": "+Infinity",
+    "brier": 0.9749914474112524
+  },
+  "causal_controls_pass": false,
+  "ambiguity_pass": false,
+  "safety_pass": false,
+  "max_feature_sample_latency_s": 0.056,
+  "max_forecast_compute_s": 0.05388725,
+  "latency_pass": true,
+  "next": "Preserve evidence and stop."
+}

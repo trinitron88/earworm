@@ -1,0 +1,11 @@
+{
+  "assignment": "earworm-frame-lattice-validation-repair-v1",
+  "base": "9c468da5cebe513119320fac436cf28c3b9a0008",
+  "prior_compute_seconds": 1547.20676,
+  "prior_streams": 386,
+  "maximum_additional_streams": 576,
+  "maximum_additional_seconds": 5652.79324,
+  "maximum_combined_bytes": 2147483648,
+  "started_at": "2026-09-21T03:35:12.727029+00:00",
+  "scientific_protocol": "protocol.json is byte-identical to PR15; this continuation authorizes saved validation only then the reserved heldout stage if fully valid. No dev/cal outcome alteration or reselection."
+}
