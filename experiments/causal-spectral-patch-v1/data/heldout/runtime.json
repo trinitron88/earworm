@@ -1,0 +1,19 @@
+{
+  "patch_candidates": 1,
+  "patch_silence_missing_probes": 24,
+  "split": "heldout",
+  "episodes": 480,
+  "support_observation_calls": 5611,
+  "aggregation_window_calls": 70022,
+  "lattice_observation_calls": 82608,
+  "save_restore_probes": 24,
+  "additional_future_probes": 96,
+  "elapsed_seconds": 161.45437191601377,
+  "execution_revision": "d7586c0ca6667806bd99c859f83a1feee722649c",
+  "execution_code_sha256": "08ad0f8ab94efc6f6e85e9f8a272535c9b865d2fb0dbcb122ec0a800fd0aab76",
+  "model_sha256": "b4f3851f4509a4bb273adf2e9d2213e2527b28bfca30c0439f281b00bd8737b6",
+  "retained_bytes": 907815004,
+  "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "numpy": "2.5.3",
+  "end_utc_ns": 1789965750737663000
+}

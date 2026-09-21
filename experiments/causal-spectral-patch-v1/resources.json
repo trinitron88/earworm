@@ -1,0 +1,50 @@
+{
+  "counted_streams": 960,
+  "episodes": 800,
+  "future_invariance_probes": 160,
+  "save_restore_checks_within_existing_probes": 40,
+  "silence_missing_transactions_within_existing_probes": 40,
+  "development_candidate_main_readouts": {
+    "single": 160,
+    "multi": 160
+  },
+  "calibration_candidate_main_readouts": {
+    "multi": 160
+  },
+  "heldout_candidate_main_readouts": {
+    "multi": 480
+  },
+  "duplicate_PCM_stream_passes": 0,
+  "new_smoke_streams": 0,
+  "split_runtimes_s": {
+    "development": 52.347091208037455,
+    "calibration": 52.77159037499223,
+    "heldout": 161.45437191601377
+  },
+  "measured_scientific_runtime_s": 266.57305349904345,
+  "conservative_elapsed_charge_s_through_report": 2100.599118,
+  "compute_cap_s": 7200,
+  "new_bytes_through_report": 913815017,
+  "artifact_cap_bytes": 2147483648,
+  "stream_cap": 1000,
+  "planned_scientific_streams": 960,
+  "paid_compute": 0,
+  "observation_calls": {
+    "development": {
+      "support_observation_calls": 1755,
+      "aggregation_window_calls": 22838,
+      "lattice_observation_calls": 26352
+    },
+    "calibration": {
+      "support_observation_calls": 1846,
+      "aggregation_window_calls": 22336,
+      "lattice_observation_calls": 26368
+    },
+    "heldout": {
+      "support_observation_calls": 5611,
+      "aggregation_window_calls": 70022,
+      "lattice_observation_calls": 82608
+    }
+  },
+  "counting_note": "Two development candidate forecasts share one arrival stream; all separate feature channels/readouts counted in saved accounting. Captured-zero/missing tests branch and restore an already-counted future probe without scientific audio replay. Accounting includes active elapsed validation/report time, not just acoustic runtime. Full saved predictor state and scratch are in validation/accounting_*.json; archives are evaluator-only."
+}

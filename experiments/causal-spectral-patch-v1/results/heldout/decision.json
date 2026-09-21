@@ -1,0 +1,13 @@
+{
+  "branch": "invalid",
+  "stage": "frozen_saved_reporting",
+  "execution_integrity_passed": true,
+  "complete_scientific_gate_decision_available": false,
+  "error_type": "KeyError",
+  "missing_lookup": "sp-16/joint/ambiguous/0",
+  "actual_control_cell": "unchanged",
+  "source": "analyze.py:63",
+  "execution_revision": "d7586c0ca6667806bd99c859f83a1feee722649c",
+  "receipt_authored_after_failure": true,
+  "resolution": "Preserve frozen analyzer and saved evidence; no repair, retry, acoustic rerun, threshold change or forced scientific branch. Await review and an explicit bounded PM decision."
+}

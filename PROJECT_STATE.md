@@ -6,17 +6,17 @@ Earworm's finish line is a reusable, stateful listener for continuous musical au
 
 ## Current evidence and decision
 
-**The support-consistent validation repair passes; the frozen f32 lattice fails its heldout advancement gates (branch C).** Independent reconstruction clears the four endpoint-only calibration frames without changing the listener or rerunning prior audio. The24 reserved heldout groups then ran once, with causal integrity, save/restore and timing checks passing.
+**The spectral-patch study completed its audio runs and independent validation, but its frozen report pipeline stopped on a stale condition-name lookup.** This is an invalid reporting checkpoint, not a completed A/B/C scientific decision. The worker preserved the error without a repair, retry or audio rerun and is publishing the full evidence for review.
 
-Correct-source recognition was115/192 (59.9%). On combined changes, f32 forecasts were25/48 correct versus46/48 for the strongest frozen comparator; the paired difference was−43.75 percentage points (95% interval−60.42 to−27.08). Transformation, proper-score, ambiguity and family-safety gates also failed. This rejects the current fixed lattice/readout for advancement; it does not establish that continuous features contain no useful information. No continuous listener is accepted.
+The predeclared development comparison selected multi-scale64/128ms spectral patches. They preserve normalized identity features separately from absolute spectral/energy evidence and report source,transformation and forecast separately. Partial independently checked heldout tables show48/48 correct forecasts for unchanged and transposed returns,40/48 for stretch and32/48 for timbre change; source localization and transformation labels differ. These descriptive results do not replace the unfinished controls/noninferiority/safety/gate report or justify adoption.
 
-The complete successor is being published for exact-head review. Development/calibration evidence and outcomes, PR15, E08 and all763 historical artifacts remain unchanged. No nonzero-transposition, natural-music, polyphony, long-term-memory or appreciation claim follows.
+All874 historical artifacts,including E08 and PRs8–16,remain unchanged. The previous f32/reference design remains rejected for advancement. No continuous listener is accepted; no natural-music,polyphony,long-term-memory or appreciation claim follows.
 
-- [Current report](experiments/frame-lattice-validation-repair-v1/REPORT.md)
-- [Heldout decision](experiments/frame-lattice-validation-repair-v1/results/heldout/decision.json)
-- [Validation correction](experiments/frame-lattice-validation-repair-v1/VALIDATION_CHANGE.md)
-- [Integrity checks](experiments/frame-lattice-validation-repair-v1/validation/heldout.json)
-- [Historical calibration stop](experiments/frame-lattice-init-repair-v1/REPORT.md)
+- [Current report and precise stop](experiments/causal-spectral-patch-v1/REPORT.md)
+- [Invalid reporting receipt](experiments/causal-spectral-patch-v1/results/heldout/decision.json)
+- [Saved integrity validation](experiments/causal-spectral-patch-v1/validation/heldout.json)
+- [Partial forecast tables](experiments/causal-spectral-patch-v1/results/heldout/summary.csv)
+- [Prior valid lattice branch C](experiments/frame-lattice-validation-repair-v1/REPORT.md)
 
 ## Finite capability checklist
 
@@ -34,15 +34,15 @@ The complete successor is being published for exact-head review. Development/cal
 
 A reusable listener release must expose a continuous PCM input and persistent listening-state interface, with explicit measured memory/compute/latency limits, immutable evidence references and separately labeled measurements/interpretations/forecasts. It must pass **all six functional rows above**, on fresh controlled interventions and independently reviewed held-out musical material appropriate to its declared scope. A combined score cannot hide lost detail, failed calibration or forgetting. The substantial Bach milestone additionally requires the seventh row's progression; success on isolated voices cannot be advertised as complete-fugue listening.
 
-The PM must freeze concrete thresholds, datasets, horizons and delays in bounded assignments before each acceptance test. This checklist is a finite release gate, not authorization for seven immediate experiments or an open-ended audit sequence. No release is currently accepted. The next unresolved prerequisite is a reliable event representation; subsequent stages require explicit PM assignments after review.
+The PM must freeze concrete thresholds, datasets, horizons and delays in bounded assignments before each acceptance test. This checklist is a finite release gate, not authorization for seven immediate experiments or an open-ended audit sequence. No release is currently accepted. The next unresolved prerequisite is a reliable continuous representation; subsequent stages require explicit PM assignments after review.
 
 ## Preserved history and next action
 
-PR #10's supplied-boundary observation repair passed its scoped test; PR #9 identified the octave-anchor prerequisite; PR #8 selected the simpler transformation-aware retrieval reference. E08 ranking and acceptance remain distinct results. PR #11 established the event-window prerequisite; all763 historical artifacts are preserved.
+PR #10's supplied-boundary observation repair passed its scoped test; PR #9 identified the octave-anchor prerequisite; PR #8 selected the simpler transformation-aware retrieval reference. E08 ranking and acceptance remain distinct results. PR #11 established the event-window prerequisite; all874 historical artifacts are preserved.
 
 - [Observation repair](experiments/fundamental-observation-repair-v1/REPORT.md)
 - [Controlled robustness](experiments/controlled-motif-robustness-v1/REPORT.md)
 - [History prediction](experiments/history-prediction-v1/REPORT.md)
 - [Original E08 state](review/experiment08/original-snapshot-PROJECT_STATE.md)
 
-Publish the complete branch-C successor and stop awaiting review. The authorized validation correction and reserved heldout run are complete. The PM may assign a justified next bounded action after review; this report authorizes none. Do not return to boundary/window/crop/aggregation micro-repairs or infer adoption of a comparator. No new experiment, architecture change, spending, MERT change, historical rewrite or worker merge is started here.
+Publish this complete invalid-reporting successor and stop awaiting review. The authorized audio work is complete and all saved inputs needed for a reporting correction are preserved. Any saved-only repair requires the PM's next explicit bounded assignment; none is executed here. The assignment's scientific C branch would end the handcrafted synthetic-front sequence, but a complete scientific branch has not yet been produced. No new experiment,architecture change,spending,MERT change,historical rewrite or worker merge is started here.

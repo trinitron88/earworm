@@ -1,0 +1,25 @@
+{
+  "episodes": 480,
+  "retained_channel_frames": 72096,
+  "patch_search_readouts": 960,
+  "silence_missing_transactions": 24,
+  "maxima": {
+    "raw_buffer_bytes": 94208,
+    "serialized_output_bytes": 2532873,
+    "patch_frames": 85,
+    "patch_channel_frames": 170,
+    "candidate_alignments": 1755,
+    "reported_search_array_bytes": 1917872,
+    "forecast_dispatch_commit_s": 0.075539375,
+    "frame_dispatch_computation_s": 0.009343,
+    "frame_audio_availability_s": 0.048,
+    "saved_full_state_bytes": 5641772,
+    "chunks": 23,
+    "evictions": 0
+  },
+  "fixed_filter_matrix_bytes": 2212920,
+  "serialized_configuration_bytes": 1129962,
+  "temporary_array_conservative_upper_bytes": 7671488,
+  "candidate_scalar_record_upper_bytes": 10240000,
+  "accounting_note": "Reported search arrays omit temporary products; conservative4x upper covers arrays and reductions, plus up to5000 scalar candidate records at2048 serialized bytes each. Full pickle snapshots include raw,all comparator/patch state,filter matrix,config,cache,status,counters at one existing probe/group. Snapshot maximum is across those probes, not every process instant. Serialized output counts duplicated shared references; not heap/RSS. Evaluation archives inaccessible; zero eviction."
+}

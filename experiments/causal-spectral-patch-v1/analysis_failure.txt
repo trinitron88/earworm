@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "experiments/causal-spectral-patch-v1/analyze.py", line 89, in <module>
+    import sys;main(sys.argv[1])
+               ^^^^^^^^^^^^^^^^^
+  File "experiments/causal-spectral-patch-v1/analyze.py", line 63, in main
+    t=truth[f'{g}/joint/ambiguous/{v}'];p=absolute_distribution(pred[(model,g,'unchanged','ambiguous',v)]);ix=[round(t['prefix_true_pitches'][-1]+delta)+48 for delta in t['outcome_intervals']];mass=sum(p[i] for i in ix);dev=max(abs(p[i]-.5) for i in ix);mx=max(p);ar.append({'group':g,'variant':v,'mass':mass,'deviation':dev,'maximum':mx,'pass':mass>=.9 and dev<=.1 and mx<=.6})
+      ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'sp-16/joint/ambiguous/0'

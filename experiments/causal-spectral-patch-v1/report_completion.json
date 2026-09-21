@@ -1,0 +1,25 @@
+{
+  "complete": false,
+  "stage": "control_summary_lookup",
+  "error": "KeyError: sp-16/joint/ambiguous/0",
+  "preserved_partial_outputs": [
+    "calibration_bins.csv",
+    "decision.json",
+    "groups.csv",
+    "recognition_groups.csv",
+    "recognition_summary.csv",
+    "recognition_trials.csv",
+    "summary.csv",
+    "trials.csv"
+  ],
+  "not_produced": [
+    "controls.json",
+    "comparisons.csv",
+    "safety.json",
+    "complete scientific decision"
+  ],
+  "decision_receipt": "decision.json records the failure explicitly; not completed analyzer output.",
+  "scientific_code_unchanged": true,
+  "retry_performed": false,
+  "all_saved_inputs_available_for_future_authorized_saved_only_correction": true
+}
