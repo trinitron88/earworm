@@ -1,0 +1,14 @@
+{
+  "all_pass": true,
+  "baseline_validation": "baseline_calibration.json",
+  "patch_forecasts": 1120,
+  "spectral_channel_frames": 22864,
+  "maximum_identity_error": 2.220446049250313e-16,
+  "maximum_forecast_error": 4.440892098500626e-16,
+  "silence_missing_probes": 8,
+  "query_committed_before_retrieval": true,
+  "future_generation_after_commit": true,
+  "raw_identity_realization_preserved": true,
+  "independent_full_search": true,
+  "tolerance": "Band power abs1e-9 plus relative1e-12; identity/RMS/forecast1e-12; hashes exact."
+}

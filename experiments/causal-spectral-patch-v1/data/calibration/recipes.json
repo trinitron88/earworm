@@ -1,0 +1,1206 @@
+[
+  {
+    "group": {
+      "group_id": "sp-08",
+      "split": "calibration",
+      "seed": 202609219108,
+      "motif": [
+        8,
+        1,
+        3,
+        6
+      ],
+      "order": 0,
+      "direction": 0,
+      "register": 6,
+      "rich": true,
+      "family": "overtone",
+      "index": 8,
+      "normalized_identity": [
+        -8,
+        -7,
+        -3,
+        6
+      ],
+      "transpose": -5,
+      "stretch": 0.8
+    },
+    "cells": {
+      "unchanged": {
+        "durations": [
+          1381,
+          1494,
+          1422,
+          1460
+        ],
+        "phase": 0.46840486544568716,
+        "demo_harmonics": [
+          0.6,
+          1.0,
+          0.25
+        ],
+        "cue_harmonics": [
+          0.6,
+          1.0,
+          0.25
+        ],
+        "shift": 0,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 6, 'n': 1381, 'amps': [0.6, 1.0, 0.25], 'phase': 0.46840486544568716}": "fa677eb72086b87e57b4d31ad4f1ff86bb954313bf249d8bdb188637b3d4c247",
+          "{'pitch': -2, 'n': 1494, 'amps': [0.6, 1.0, 0.25], 'phase': 0.46840486544568716}": "6b25646bc12c2cb41f89eda3383429babf1d76ed867752ca4e200063af333280",
+          "{'pitch': -1, 'n': 1422, 'amps': [0.6, 1.0, 0.25], 'phase': 0.46840486544568716}": "44d15605e332076ea76e0f38700adcb1caf99ae9555d08a13e3acf515dc80b3f",
+          "{'pitch': -7, 'n': 1460, 'amps': [0.6, 1.0, 0.25], 'phase': 0.46840486544568716}": "750779c5e254f38cfa523e2c71a92991e72bc97b4e1b36bbba345ead63371b74",
+          "{'pitch': 3, 'n': 1494, 'amps': [0.6, 1.0, 0.25], 'phase': 0.46840486544568716}": "9cd53911c99c13776ccc86eff59c293564424bd4bfa5d375bbd203ea091eea39",
+          "{'pitch': 5, 'n': 1460, 'amps': [0.6, 1.0, 0.25], 'phase': 0.46840486544568716}": "aef97ff626c00a63f0ee986e3e642234e0921bf5ac3b81f9ede70e61e1482b87",
+          "{'pitch': 8, 'n': 1494, 'amps': [0.6, 1.0, 0.25], 'phase': 0.46840486544568716}": "e03d4c18ea0530d72e42b00ac1eecdebafe9b51a6a44c96821a3fb5fffcb31f8"
+        }
+      },
+      "transpose": {
+        "durations": [
+          1381,
+          1494,
+          1422,
+          1460
+        ],
+        "phase": 0.46840486544568716,
+        "demo_harmonics": [
+          0.6,
+          1.0,
+          0.25
+        ],
+        "cue_harmonics": [
+          0.6,
+          1.0,
+          0.25
+        ],
+        "shift": -5,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 6, 'n': 1381, 'amps': [0.6, 1.0, 0.25], 'phase': 0.46840486544568716}": "fa677eb72086b87e57b4d31ad4f1ff86bb954313bf249d8bdb188637b3d4c247",
+          "{'pitch': -2, 'n': 1494, 'amps': [0.6, 1.0, 0.25], 'phase': 0.46840486544568716}": "6b25646bc12c2cb41f89eda3383429babf1d76ed867752ca4e200063af333280",
+          "{'pitch': -1, 'n': 1422, 'amps': [0.6, 1.0, 0.25], 'phase': 0.46840486544568716}": "44d15605e332076ea76e0f38700adcb1caf99ae9555d08a13e3acf515dc80b3f",
+          "{'pitch': -7, 'n': 1460, 'amps': [0.6, 1.0, 0.25], 'phase': 0.46840486544568716}": "750779c5e254f38cfa523e2c71a92991e72bc97b4e1b36bbba345ead63371b74",
+          "{'pitch': 3, 'n': 1494, 'amps': [0.6, 1.0, 0.25], 'phase': 0.46840486544568716}": "9cd53911c99c13776ccc86eff59c293564424bd4bfa5d375bbd203ea091eea39",
+          "{'pitch': 5, 'n': 1460, 'amps': [0.6, 1.0, 0.25], 'phase': 0.46840486544568716}": "aef97ff626c00a63f0ee986e3e642234e0921bf5ac3b81f9ede70e61e1482b87",
+          "{'pitch': 1, 'n': 1381, 'amps': [0.6, 1.0, 0.25], 'phase': 0.46840486544568716}": "ff67dce47b0ce46b7aa0ff6b4182bc08256f8bfbdce34ede27756e1e2dbb39a7",
+          "{'pitch': -7, 'n': 1494, 'amps': [0.6, 1.0, 0.25], 'phase': 0.46840486544568716}": "3cbb6ba2fd699a18cf0dbf49351f95b7665efa5a8690716367ee72fb93db1e25",
+          "{'pitch': -6, 'n': 1422, 'amps': [0.6, 1.0, 0.25], 'phase': 0.46840486544568716}": "b82317370bebca167512b60cd1e8eb23706978ba30e4337575c0da570201c04d"
+        }
+      },
+      "stretch": {
+        "durations": [
+          1381,
+          1494,
+          1422,
+          1460
+        ],
+        "phase": 0.46840486544568716,
+        "demo_harmonics": [
+          0.6,
+          1.0,
+          0.25
+        ],
+        "cue_harmonics": [
+          0.6,
+          1.0,
+          0.25
+        ],
+        "shift": 0,
+        "ratio": 0.8,
+        "source_cache_hashes": {
+          "{'pitch': 6, 'n': 1381, 'amps': [0.6, 1.0, 0.25], 'phase': 0.46840486544568716}": "fa677eb72086b87e57b4d31ad4f1ff86bb954313bf249d8bdb188637b3d4c247",
+          "{'pitch': -2, 'n': 1494, 'amps': [0.6, 1.0, 0.25], 'phase': 0.46840486544568716}": "6b25646bc12c2cb41f89eda3383429babf1d76ed867752ca4e200063af333280",
+          "{'pitch': -1, 'n': 1422, 'amps': [0.6, 1.0, 0.25], 'phase': 0.46840486544568716}": "44d15605e332076ea76e0f38700adcb1caf99ae9555d08a13e3acf515dc80b3f",
+          "{'pitch': -7, 'n': 1460, 'amps': [0.6, 1.0, 0.25], 'phase': 0.46840486544568716}": "750779c5e254f38cfa523e2c71a92991e72bc97b4e1b36bbba345ead63371b74",
+          "{'pitch': 3, 'n': 1494, 'amps': [0.6, 1.0, 0.25], 'phase': 0.46840486544568716}": "9cd53911c99c13776ccc86eff59c293564424bd4bfa5d375bbd203ea091eea39",
+          "{'pitch': 5, 'n': 1460, 'amps': [0.6, 1.0, 0.25], 'phase': 0.46840486544568716}": "aef97ff626c00a63f0ee986e3e642234e0921bf5ac3b81f9ede70e61e1482b87",
+          "{'pitch': 6, 'n': 1105, 'amps': [0.6, 1.0, 0.25], 'phase': 0.46840486544568716}": "d59fed405be5ffdb00f4fbc7eaab2dd4f09395f29932605c70f6d5fa9bbf23bf",
+          "{'pitch': -2, 'n': 1195, 'amps': [0.6, 1.0, 0.25], 'phase': 0.46840486544568716}": "6f8d476ee413d9fc0cf4e10609dc136145921211f039d4e4e2b250480ee9d33b",
+          "{'pitch': -1, 'n': 1138, 'amps': [0.6, 1.0, 0.25], 'phase': 0.46840486544568716}": "87506ce87480a6a03458f58aef31d3cf83800f0e14cd7d9930297b932a7bcfbc"
+        }
+      },
+      "timbre": {
+        "durations": [
+          1381,
+          1494,
+          1422,
+          1460
+        ],
+        "phase": 0.46840486544568716,
+        "demo_harmonics": [
+          0.6,
+          1.0,
+          0.25
+        ],
+        "cue_harmonics": [
+          1.0,
+          0.04,
+          0.01
+        ],
+        "shift": 0,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 6, 'n': 1381, 'amps': [0.6, 1.0, 0.25], 'phase': 0.46840486544568716}": "fa677eb72086b87e57b4d31ad4f1ff86bb954313bf249d8bdb188637b3d4c247",
+          "{'pitch': -2, 'n': 1494, 'amps': [0.6, 1.0, 0.25], 'phase': 0.46840486544568716}": "6b25646bc12c2cb41f89eda3383429babf1d76ed867752ca4e200063af333280",
+          "{'pitch': -1, 'n': 1422, 'amps': [0.6, 1.0, 0.25], 'phase': 0.46840486544568716}": "44d15605e332076ea76e0f38700adcb1caf99ae9555d08a13e3acf515dc80b3f",
+          "{'pitch': -7, 'n': 1460, 'amps': [0.6, 1.0, 0.25], 'phase': 0.46840486544568716}": "750779c5e254f38cfa523e2c71a92991e72bc97b4e1b36bbba345ead63371b74",
+          "{'pitch': 3, 'n': 1494, 'amps': [0.6, 1.0, 0.25], 'phase': 0.46840486544568716}": "9cd53911c99c13776ccc86eff59c293564424bd4bfa5d375bbd203ea091eea39",
+          "{'pitch': 5, 'n': 1460, 'amps': [0.6, 1.0, 0.25], 'phase': 0.46840486544568716}": "aef97ff626c00a63f0ee986e3e642234e0921bf5ac3b81f9ede70e61e1482b87",
+          "{'pitch': 6, 'n': 1381, 'amps': [1.0, 0.04, 0.01], 'phase': 0.46840486544568716}": "6b72d4afc35d935e53c9c8f2dfb555a18faa3bc5ff5359e8a0483270383eee96",
+          "{'pitch': -2, 'n': 1494, 'amps': [1.0, 0.04, 0.01], 'phase': 0.46840486544568716}": "27768fc101d86fd8aa73651684ec6113e774118035bd1484bf81d4b4c09bd841",
+          "{'pitch': -1, 'n': 1422, 'amps': [1.0, 0.04, 0.01], 'phase': 0.46840486544568716}": "8ab0dff904813543abf6f92ab94ea38a70682fcf3a4253fc55a1b02d00bc3ac4"
+        }
+      }
+    }
+  },
+  {
+    "group": {
+      "group_id": "sp-09",
+      "split": "calibration",
+      "seed": 202609219109,
+      "motif": [
+        2,
+        -3,
+        5,
+        6
+      ],
+      "order": 0,
+      "direction": 1,
+      "register": 6,
+      "rich": false,
+      "family": "pure",
+      "index": 9,
+      "normalized_identity": [
+        2,
+        5,
+        5,
+        6
+      ],
+      "transpose": -3,
+      "stretch": 0.8
+    },
+    "cells": {
+      "unchanged": {
+        "durations": [
+          1384,
+          1497,
+          1425,
+          1463
+        ],
+        "phase": -1.3746467431530176,
+        "demo_harmonics": [
+          1.0
+        ],
+        "cue_harmonics": [
+          1.0
+        ],
+        "shift": 0,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 6, 'n': 1384, 'amps': [1.0], 'phase': -1.3746467431530176}": "122d59c1215520b2a7918a84171f1e9442b6c6f16f47049fd9ddefccf0d403b6",
+          "{'pitch': 8, 'n': 1497, 'amps': [1.0], 'phase': -1.3746467431530176}": "0cfaabf47e024c41a6a42e0b944fbec9398c16ae9945bf46f0f7c07953fe7541",
+          "{'pitch': 11, 'n': 1425, 'amps': [1.0], 'phase': -1.3746467431530176}": "c17578e9c62b0e539968d9c870529cbb6ee6b53e4eb5c8a4bb69fbc7a489bc56",
+          "{'pitch': 5, 'n': 1463, 'amps': [1.0], 'phase': -1.3746467431530176}": "93ca59964120156f277503dfba8df5aebf0306968519f79ad3fdb2f74e819a24",
+          "{'pitch': 11, 'n': 1497, 'amps': [1.0], 'phase': -1.3746467431530176}": "a5f0b28976d313380e3793ffca55dbc31b8de0bc6bf8320847b80ae669c42a02",
+          "{'pitch': 17, 'n': 1463, 'amps': [1.0], 'phase': -1.3746467431530176}": "043e8d671853d9a56898ce30d2bd42c2be684c9631a244c8e1f552ff2b1fb9a5",
+          "{'pitch': 4, 'n': 1497, 'amps': [1.0], 'phase': -1.3746467431530176}": "0c2b255a83097f83ad7a46be0cf177f34e4ff28135da57f007883d15e2dce81a",
+          "{'pitch': 13, 'n': 1425, 'amps': [1.0], 'phase': -1.3746467431530176}": "7fe6ea32d5c22a96480bbd299a218ebc031c611078aba33ef1041a7bc2bf9bd3"
+        }
+      },
+      "transpose": {
+        "durations": [
+          1384,
+          1497,
+          1425,
+          1463
+        ],
+        "phase": -1.3746467431530176,
+        "demo_harmonics": [
+          1.0
+        ],
+        "cue_harmonics": [
+          1.0
+        ],
+        "shift": -3,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 6, 'n': 1384, 'amps': [1.0], 'phase': -1.3746467431530176}": "122d59c1215520b2a7918a84171f1e9442b6c6f16f47049fd9ddefccf0d403b6",
+          "{'pitch': 8, 'n': 1497, 'amps': [1.0], 'phase': -1.3746467431530176}": "0cfaabf47e024c41a6a42e0b944fbec9398c16ae9945bf46f0f7c07953fe7541",
+          "{'pitch': 11, 'n': 1425, 'amps': [1.0], 'phase': -1.3746467431530176}": "c17578e9c62b0e539968d9c870529cbb6ee6b53e4eb5c8a4bb69fbc7a489bc56",
+          "{'pitch': 5, 'n': 1463, 'amps': [1.0], 'phase': -1.3746467431530176}": "93ca59964120156f277503dfba8df5aebf0306968519f79ad3fdb2f74e819a24",
+          "{'pitch': 11, 'n': 1497, 'amps': [1.0], 'phase': -1.3746467431530176}": "a5f0b28976d313380e3793ffca55dbc31b8de0bc6bf8320847b80ae669c42a02",
+          "{'pitch': 17, 'n': 1463, 'amps': [1.0], 'phase': -1.3746467431530176}": "043e8d671853d9a56898ce30d2bd42c2be684c9631a244c8e1f552ff2b1fb9a5",
+          "{'pitch': 3, 'n': 1384, 'amps': [1.0], 'phase': -1.3746467431530176}": "d84562d8f0dc85657617a7e727812908877ce11f4596a95f1b2e024a6fe74d8e",
+          "{'pitch': 5, 'n': 1497, 'amps': [1.0], 'phase': -1.3746467431530176}": "d5e374dd55f18aef0e4ddb1c9e1eece63da803c2064acf8f5a00e92310051480",
+          "{'pitch': 8, 'n': 1425, 'amps': [1.0], 'phase': -1.3746467431530176}": "8523b5db1b48e95de9d74475ec1b9320c58de62aa472a106930466a4dd7f164d"
+        }
+      },
+      "stretch": {
+        "durations": [
+          1384,
+          1497,
+          1425,
+          1463
+        ],
+        "phase": -1.3746467431530176,
+        "demo_harmonics": [
+          1.0
+        ],
+        "cue_harmonics": [
+          1.0
+        ],
+        "shift": 0,
+        "ratio": 0.8,
+        "source_cache_hashes": {
+          "{'pitch': 6, 'n': 1384, 'amps': [1.0], 'phase': -1.3746467431530176}": "122d59c1215520b2a7918a84171f1e9442b6c6f16f47049fd9ddefccf0d403b6",
+          "{'pitch': 8, 'n': 1497, 'amps': [1.0], 'phase': -1.3746467431530176}": "0cfaabf47e024c41a6a42e0b944fbec9398c16ae9945bf46f0f7c07953fe7541",
+          "{'pitch': 11, 'n': 1425, 'amps': [1.0], 'phase': -1.3746467431530176}": "c17578e9c62b0e539968d9c870529cbb6ee6b53e4eb5c8a4bb69fbc7a489bc56",
+          "{'pitch': 5, 'n': 1463, 'amps': [1.0], 'phase': -1.3746467431530176}": "93ca59964120156f277503dfba8df5aebf0306968519f79ad3fdb2f74e819a24",
+          "{'pitch': 11, 'n': 1497, 'amps': [1.0], 'phase': -1.3746467431530176}": "a5f0b28976d313380e3793ffca55dbc31b8de0bc6bf8320847b80ae669c42a02",
+          "{'pitch': 17, 'n': 1463, 'amps': [1.0], 'phase': -1.3746467431530176}": "043e8d671853d9a56898ce30d2bd42c2be684c9631a244c8e1f552ff2b1fb9a5",
+          "{'pitch': 6, 'n': 1107, 'amps': [1.0], 'phase': -1.3746467431530176}": "61a644471764c5a4e0f984ab34f60c9dee7bd9ccf93f225148c379b28fa94a69",
+          "{'pitch': 8, 'n': 1198, 'amps': [1.0], 'phase': -1.3746467431530176}": "bbdf58e0f5ed1da9d936bff3307bdbb266e51bf45982304b58c18dd201c072c2",
+          "{'pitch': 11, 'n': 1140, 'amps': [1.0], 'phase': -1.3746467431530176}": "940b173831184e3cda0a66405c747236da51fb110122225dae85a3a52a90f485"
+        }
+      },
+      "timbre": {
+        "durations": [
+          1384,
+          1497,
+          1425,
+          1463
+        ],
+        "phase": -1.3746467431530176,
+        "demo_harmonics": [
+          1.0
+        ],
+        "cue_harmonics": [
+          1.0,
+          0.5,
+          0.3
+        ],
+        "shift": 0,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 6, 'n': 1384, 'amps': [1.0], 'phase': -1.3746467431530176}": "122d59c1215520b2a7918a84171f1e9442b6c6f16f47049fd9ddefccf0d403b6",
+          "{'pitch': 8, 'n': 1497, 'amps': [1.0], 'phase': -1.3746467431530176}": "0cfaabf47e024c41a6a42e0b944fbec9398c16ae9945bf46f0f7c07953fe7541",
+          "{'pitch': 11, 'n': 1425, 'amps': [1.0], 'phase': -1.3746467431530176}": "c17578e9c62b0e539968d9c870529cbb6ee6b53e4eb5c8a4bb69fbc7a489bc56",
+          "{'pitch': 5, 'n': 1463, 'amps': [1.0], 'phase': -1.3746467431530176}": "93ca59964120156f277503dfba8df5aebf0306968519f79ad3fdb2f74e819a24",
+          "{'pitch': 11, 'n': 1497, 'amps': [1.0], 'phase': -1.3746467431530176}": "a5f0b28976d313380e3793ffca55dbc31b8de0bc6bf8320847b80ae669c42a02",
+          "{'pitch': 17, 'n': 1463, 'amps': [1.0], 'phase': -1.3746467431530176}": "043e8d671853d9a56898ce30d2bd42c2be684c9631a244c8e1f552ff2b1fb9a5",
+          "{'pitch': 6, 'n': 1384, 'amps': [1.0, 0.5, 0.3], 'phase': -1.3746467431530176}": "9d6064762e5606f9f802c5964ad01f3304e557995ea8ab596ddcfdf393367fc7",
+          "{'pitch': 8, 'n': 1497, 'amps': [1.0, 0.5, 0.3], 'phase': -1.3746467431530176}": "efb5ffe955cc53e5a5ddea673dceffdb019d446a044f93ab85e6551fe06fea00",
+          "{'pitch': 11, 'n': 1425, 'amps': [1.0, 0.5, 0.3], 'phase': -1.3746467431530176}": "7f6935d3821976f3f9890741171912042336ed83ca90ac838e929c9dde434d08"
+        }
+      }
+    }
+  },
+  {
+    "group": {
+      "group_id": "sp-10",
+      "split": "calibration",
+      "seed": 202609219110,
+      "motif": [
+        7,
+        -5,
+        6,
+        5
+      ],
+      "order": 1,
+      "direction": 0,
+      "register": 6,
+      "rich": false,
+      "family": "fundamental",
+      "index": 10,
+      "normalized_identity": [
+        -7,
+        -12,
+        -6,
+        5
+      ],
+      "transpose": 3,
+      "stretch": 1.25
+    },
+    "cells": {
+      "unchanged": {
+        "durations": [
+          1387,
+          1500,
+          1428,
+          1466
+        ],
+        "phase": 1.909015306804546,
+        "demo_harmonics": [
+          1.0,
+          0.12,
+          0.04
+        ],
+        "cue_harmonics": [
+          1.0,
+          0.12,
+          0.04
+        ],
+        "shift": 0,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 6, 'n': 1387, 'amps': [1.0, 0.12, 0.04], 'phase': 1.909015306804546}": "81b26eb207eadf8dad25e9876e0a045f6a093eb60cd8c3dce43886fad7d542b6",
+          "{'pitch': -1, 'n': 1500, 'amps': [1.0, 0.12, 0.04], 'phase': 1.909015306804546}": "b2821035eb5e029cd8932f7d08cd0f7900362eb885f65a7f20c0c50270060dbc",
+          "{'pitch': -6, 'n': 1428, 'amps': [1.0, 0.12, 0.04], 'phase': 1.909015306804546}": "7d97e87dd4d4ec2ba9a43032148d16215bf8a940e2d89efc894a9f5c4a0e4531",
+          "{'pitch': -11, 'n': 1466, 'amps': [1.0, 0.12, 0.04], 'phase': 1.909015306804546}": "2fed2332e92b43eda693853b53174fa7526fedabee2de3472d07c4bb14277583",
+          "{'pitch': 0, 'n': 1500, 'amps': [1.0, 0.12, 0.04], 'phase': 1.909015306804546}": "cf2a14d6a128f14cd386f8632ddb35708075ab89244c7824cfec5b492496da24",
+          "{'pitch': -1, 'n': 1466, 'amps': [1.0, 0.12, 0.04], 'phase': 1.909015306804546}": "fd7107e5d790b18f23b3ab2237092b7019842ce0dead0170aba1e9ffa6186f0c",
+          "{'pitch': 8, 'n': 1500, 'amps': [1.0, 0.12, 0.04], 'phase': 1.909015306804546}": "fa813bd979b03463b620d7c76c1cc84ace9962c26699deff816dfa1f7a00ea25",
+          "{'pitch': -1, 'n': 1428, 'amps': [1.0, 0.12, 0.04], 'phase': 1.909015306804546}": "dadf6eb78a868d07deeac031376e0279522f3b57dfe909f99447817d67048f5b"
+        }
+      },
+      "transpose": {
+        "durations": [
+          1387,
+          1500,
+          1428,
+          1466
+        ],
+        "phase": 1.909015306804546,
+        "demo_harmonics": [
+          1.0,
+          0.12,
+          0.04
+        ],
+        "cue_harmonics": [
+          1.0,
+          0.12,
+          0.04
+        ],
+        "shift": 3,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 6, 'n': 1387, 'amps': [1.0, 0.12, 0.04], 'phase': 1.909015306804546}": "81b26eb207eadf8dad25e9876e0a045f6a093eb60cd8c3dce43886fad7d542b6",
+          "{'pitch': -1, 'n': 1500, 'amps': [1.0, 0.12, 0.04], 'phase': 1.909015306804546}": "b2821035eb5e029cd8932f7d08cd0f7900362eb885f65a7f20c0c50270060dbc",
+          "{'pitch': -6, 'n': 1428, 'amps': [1.0, 0.12, 0.04], 'phase': 1.909015306804546}": "7d97e87dd4d4ec2ba9a43032148d16215bf8a940e2d89efc894a9f5c4a0e4531",
+          "{'pitch': -11, 'n': 1466, 'amps': [1.0, 0.12, 0.04], 'phase': 1.909015306804546}": "2fed2332e92b43eda693853b53174fa7526fedabee2de3472d07c4bb14277583",
+          "{'pitch': 0, 'n': 1500, 'amps': [1.0, 0.12, 0.04], 'phase': 1.909015306804546}": "cf2a14d6a128f14cd386f8632ddb35708075ab89244c7824cfec5b492496da24",
+          "{'pitch': -1, 'n': 1466, 'amps': [1.0, 0.12, 0.04], 'phase': 1.909015306804546}": "fd7107e5d790b18f23b3ab2237092b7019842ce0dead0170aba1e9ffa6186f0c",
+          "{'pitch': 9, 'n': 1387, 'amps': [1.0, 0.12, 0.04], 'phase': 1.909015306804546}": "507199cb24474b24bd5c6cf6480be7ca7cce285892da5a668c9379d6d25b2359",
+          "{'pitch': 2, 'n': 1500, 'amps': [1.0, 0.12, 0.04], 'phase': 1.909015306804546}": "52fb923ef727b197ed48f57de0e3cd65cebd94a1df75ea8f61dc7aaa9145c1bd",
+          "{'pitch': -3, 'n': 1428, 'amps': [1.0, 0.12, 0.04], 'phase': 1.909015306804546}": "a1da41c382ae0e1fa3e68f420162b61b52d3d6d38a3c84300b2b1449f5af2e25"
+        }
+      },
+      "stretch": {
+        "durations": [
+          1387,
+          1500,
+          1428,
+          1466
+        ],
+        "phase": 1.909015306804546,
+        "demo_harmonics": [
+          1.0,
+          0.12,
+          0.04
+        ],
+        "cue_harmonics": [
+          1.0,
+          0.12,
+          0.04
+        ],
+        "shift": 0,
+        "ratio": 1.25,
+        "source_cache_hashes": {
+          "{'pitch': 6, 'n': 1387, 'amps': [1.0, 0.12, 0.04], 'phase': 1.909015306804546}": "81b26eb207eadf8dad25e9876e0a045f6a093eb60cd8c3dce43886fad7d542b6",
+          "{'pitch': -1, 'n': 1500, 'amps': [1.0, 0.12, 0.04], 'phase': 1.909015306804546}": "b2821035eb5e029cd8932f7d08cd0f7900362eb885f65a7f20c0c50270060dbc",
+          "{'pitch': -6, 'n': 1428, 'amps': [1.0, 0.12, 0.04], 'phase': 1.909015306804546}": "7d97e87dd4d4ec2ba9a43032148d16215bf8a940e2d89efc894a9f5c4a0e4531",
+          "{'pitch': -11, 'n': 1466, 'amps': [1.0, 0.12, 0.04], 'phase': 1.909015306804546}": "2fed2332e92b43eda693853b53174fa7526fedabee2de3472d07c4bb14277583",
+          "{'pitch': 0, 'n': 1500, 'amps': [1.0, 0.12, 0.04], 'phase': 1.909015306804546}": "cf2a14d6a128f14cd386f8632ddb35708075ab89244c7824cfec5b492496da24",
+          "{'pitch': -1, 'n': 1466, 'amps': [1.0, 0.12, 0.04], 'phase': 1.909015306804546}": "fd7107e5d790b18f23b3ab2237092b7019842ce0dead0170aba1e9ffa6186f0c",
+          "{'pitch': 6, 'n': 1734, 'amps': [1.0, 0.12, 0.04], 'phase': 1.909015306804546}": "b65b56c2c060534f52c97f134ec98dd9b4f6f2aee1771373b69540d3605cad99",
+          "{'pitch': -1, 'n': 1875, 'amps': [1.0, 0.12, 0.04], 'phase': 1.909015306804546}": "fe815309840eac8c2212bcf03522772a3fb1f0da780ae834ae3140351590bbf6",
+          "{'pitch': -6, 'n': 1785, 'amps': [1.0, 0.12, 0.04], 'phase': 1.909015306804546}": "6a911306cb3dbe46f87e9a9018739b1616b74fa7c84e36f0da5a7ab1cb7b6f74"
+        }
+      },
+      "timbre": {
+        "durations": [
+          1387,
+          1500,
+          1428,
+          1466
+        ],
+        "phase": 1.909015306804546,
+        "demo_harmonics": [
+          1.0,
+          0.12,
+          0.04
+        ],
+        "cue_harmonics": [
+          1.0,
+          0.04,
+          0.01
+        ],
+        "shift": 0,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 6, 'n': 1387, 'amps': [1.0, 0.12, 0.04], 'phase': 1.909015306804546}": "81b26eb207eadf8dad25e9876e0a045f6a093eb60cd8c3dce43886fad7d542b6",
+          "{'pitch': -1, 'n': 1500, 'amps': [1.0, 0.12, 0.04], 'phase': 1.909015306804546}": "b2821035eb5e029cd8932f7d08cd0f7900362eb885f65a7f20c0c50270060dbc",
+          "{'pitch': -6, 'n': 1428, 'amps': [1.0, 0.12, 0.04], 'phase': 1.909015306804546}": "7d97e87dd4d4ec2ba9a43032148d16215bf8a940e2d89efc894a9f5c4a0e4531",
+          "{'pitch': -11, 'n': 1466, 'amps': [1.0, 0.12, 0.04], 'phase': 1.909015306804546}": "2fed2332e92b43eda693853b53174fa7526fedabee2de3472d07c4bb14277583",
+          "{'pitch': 0, 'n': 1500, 'amps': [1.0, 0.12, 0.04], 'phase': 1.909015306804546}": "cf2a14d6a128f14cd386f8632ddb35708075ab89244c7824cfec5b492496da24",
+          "{'pitch': -1, 'n': 1466, 'amps': [1.0, 0.12, 0.04], 'phase': 1.909015306804546}": "fd7107e5d790b18f23b3ab2237092b7019842ce0dead0170aba1e9ffa6186f0c",
+          "{'pitch': 6, 'n': 1387, 'amps': [1.0, 0.04, 0.01], 'phase': 1.909015306804546}": "14c87cd04cbd86e04aa172ed1700a90a77ac84d958d3d445bb782110e1b226e8",
+          "{'pitch': -1, 'n': 1500, 'amps': [1.0, 0.04, 0.01], 'phase': 1.909015306804546}": "2e210062f4c499e9e60ea7dbf51711f111f490f38ee0fbb48876f79b50f854c2",
+          "{'pitch': -6, 'n': 1428, 'amps': [1.0, 0.04, 0.01], 'phase': 1.909015306804546}": "a38555816d9c7340b0912e7c478e98e422141d4f5598d5af45c612d1ca4f360d"
+        }
+      }
+    }
+  },
+  {
+    "group": {
+      "group_id": "sp-11",
+      "split": "calibration",
+      "seed": 202609219111,
+      "motif": [
+        4,
+        3,
+        8,
+        6
+      ],
+      "order": 1,
+      "direction": 1,
+      "register": 6,
+      "rich": true,
+      "family": "overtone",
+      "index": 11,
+      "normalized_identity": [
+        4,
+        1,
+        8,
+        6
+      ],
+      "transpose": 5,
+      "stretch": 1.25
+    },
+    "cells": {
+      "unchanged": {
+        "durations": [
+          1390,
+          1503,
+          1431,
+          1469
+        ],
+        "phase": 0.9930789768065402,
+        "demo_harmonics": [
+          0.6,
+          1.0,
+          0.25
+        ],
+        "cue_harmonics": [
+          0.6,
+          1.0,
+          0.25
+        ],
+        "shift": 0,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 6, 'n': 1390, 'amps': [0.6, 1.0, 0.25], 'phase': 0.9930789768065402}": "a41e8adf194f7288811d3e87655b8d53875522753bf886a2af1975ab5aa07364",
+          "{'pitch': 10, 'n': 1503, 'amps': [0.6, 1.0, 0.25], 'phase': 0.9930789768065402}": "25143412121fec875e12e54031bfa37f5f381d4451177a8901bece6db4b0917b",
+          "{'pitch': 7, 'n': 1431, 'amps': [0.6, 1.0, 0.25], 'phase': 0.9930789768065402}": "08f74f89bb668c8f17acc7a5573ab3248513e156b04871c980fbbb11dff6c5ed",
+          "{'pitch': 1, 'n': 1469, 'amps': [0.6, 1.0, 0.25], 'phase': 0.9930789768065402}": "46eac438c45ad9d72d1dd8d92ec6c201d59b175789e696e5c44f4526589d301b",
+          "{'pitch': 14, 'n': 1503, 'amps': [0.6, 1.0, 0.25], 'phase': 0.9930789768065402}": "6f00c90363e01ca4018a6c1172e57ec6aaf75d157adabdd3a70209be07f9f2eb",
+          "{'pitch': 13, 'n': 1469, 'amps': [0.6, 1.0, 0.25], 'phase': 0.9930789768065402}": "cb6d39e931024bc006ce1a263cfa2687341b5f458c9710a8810742eedef0ac80",
+          "{'pitch': 4, 'n': 1503, 'amps': [0.6, 1.0, 0.25], 'phase': 0.9930789768065402}": "4db911debb41a5a5f34f01705be6db0148fb438a7d779a6ccf977f270362a890",
+          "{'pitch': 13, 'n': 1431, 'amps': [0.6, 1.0, 0.25], 'phase': 0.9930789768065402}": "27c5b2381cbd57c9f30e18597490a74f83830b21e22d5420b29c205d31efc4aa"
+        }
+      },
+      "transpose": {
+        "durations": [
+          1390,
+          1503,
+          1431,
+          1469
+        ],
+        "phase": 0.9930789768065402,
+        "demo_harmonics": [
+          0.6,
+          1.0,
+          0.25
+        ],
+        "cue_harmonics": [
+          0.6,
+          1.0,
+          0.25
+        ],
+        "shift": 5,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 6, 'n': 1390, 'amps': [0.6, 1.0, 0.25], 'phase': 0.9930789768065402}": "a41e8adf194f7288811d3e87655b8d53875522753bf886a2af1975ab5aa07364",
+          "{'pitch': 10, 'n': 1503, 'amps': [0.6, 1.0, 0.25], 'phase': 0.9930789768065402}": "25143412121fec875e12e54031bfa37f5f381d4451177a8901bece6db4b0917b",
+          "{'pitch': 7, 'n': 1431, 'amps': [0.6, 1.0, 0.25], 'phase': 0.9930789768065402}": "08f74f89bb668c8f17acc7a5573ab3248513e156b04871c980fbbb11dff6c5ed",
+          "{'pitch': 1, 'n': 1469, 'amps': [0.6, 1.0, 0.25], 'phase': 0.9930789768065402}": "46eac438c45ad9d72d1dd8d92ec6c201d59b175789e696e5c44f4526589d301b",
+          "{'pitch': 14, 'n': 1503, 'amps': [0.6, 1.0, 0.25], 'phase': 0.9930789768065402}": "6f00c90363e01ca4018a6c1172e57ec6aaf75d157adabdd3a70209be07f9f2eb",
+          "{'pitch': 13, 'n': 1469, 'amps': [0.6, 1.0, 0.25], 'phase': 0.9930789768065402}": "cb6d39e931024bc006ce1a263cfa2687341b5f458c9710a8810742eedef0ac80",
+          "{'pitch': 11, 'n': 1390, 'amps': [0.6, 1.0, 0.25], 'phase': 0.9930789768065402}": "0423c9a7ef28e7fe10c74940b835e01f3c34ebe7072e11ae3697309eb6515924",
+          "{'pitch': 15, 'n': 1503, 'amps': [0.6, 1.0, 0.25], 'phase': 0.9930789768065402}": "34d31639132ded5c8be487689926af753c3dbf7905de6df2ccc6f1e82032953c",
+          "{'pitch': 12, 'n': 1431, 'amps': [0.6, 1.0, 0.25], 'phase': 0.9930789768065402}": "fae04b9e8ab68f479f158f704f767c7b2de89857695d47587cdcd303d54a8199"
+        }
+      },
+      "stretch": {
+        "durations": [
+          1390,
+          1503,
+          1431,
+          1469
+        ],
+        "phase": 0.9930789768065402,
+        "demo_harmonics": [
+          0.6,
+          1.0,
+          0.25
+        ],
+        "cue_harmonics": [
+          0.6,
+          1.0,
+          0.25
+        ],
+        "shift": 0,
+        "ratio": 1.25,
+        "source_cache_hashes": {
+          "{'pitch': 6, 'n': 1390, 'amps': [0.6, 1.0, 0.25], 'phase': 0.9930789768065402}": "a41e8adf194f7288811d3e87655b8d53875522753bf886a2af1975ab5aa07364",
+          "{'pitch': 10, 'n': 1503, 'amps': [0.6, 1.0, 0.25], 'phase': 0.9930789768065402}": "25143412121fec875e12e54031bfa37f5f381d4451177a8901bece6db4b0917b",
+          "{'pitch': 7, 'n': 1431, 'amps': [0.6, 1.0, 0.25], 'phase': 0.9930789768065402}": "08f74f89bb668c8f17acc7a5573ab3248513e156b04871c980fbbb11dff6c5ed",
+          "{'pitch': 1, 'n': 1469, 'amps': [0.6, 1.0, 0.25], 'phase': 0.9930789768065402}": "46eac438c45ad9d72d1dd8d92ec6c201d59b175789e696e5c44f4526589d301b",
+          "{'pitch': 14, 'n': 1503, 'amps': [0.6, 1.0, 0.25], 'phase': 0.9930789768065402}": "6f00c90363e01ca4018a6c1172e57ec6aaf75d157adabdd3a70209be07f9f2eb",
+          "{'pitch': 13, 'n': 1469, 'amps': [0.6, 1.0, 0.25], 'phase': 0.9930789768065402}": "cb6d39e931024bc006ce1a263cfa2687341b5f458c9710a8810742eedef0ac80",
+          "{'pitch': 6, 'n': 1738, 'amps': [0.6, 1.0, 0.25], 'phase': 0.9930789768065402}": "dd1ee137ab98966adc962bc282c996278ead6240347c789371290d8b0e6505d8",
+          "{'pitch': 10, 'n': 1879, 'amps': [0.6, 1.0, 0.25], 'phase': 0.9930789768065402}": "ddd9cff98136393021f3582bce02bca285830622e339179aa0303b72ef97afe0",
+          "{'pitch': 7, 'n': 1789, 'amps': [0.6, 1.0, 0.25], 'phase': 0.9930789768065402}": "4ee5f7b776e18793ecb1d0e0d4f1655c1aa924a9d2fbc87168725e73168b96dd"
+        }
+      },
+      "timbre": {
+        "durations": [
+          1390,
+          1503,
+          1431,
+          1469
+        ],
+        "phase": 0.9930789768065402,
+        "demo_harmonics": [
+          0.6,
+          1.0,
+          0.25
+        ],
+        "cue_harmonics": [
+          1.0,
+          0.04,
+          0.01
+        ],
+        "shift": 0,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 6, 'n': 1390, 'amps': [0.6, 1.0, 0.25], 'phase': 0.9930789768065402}": "a41e8adf194f7288811d3e87655b8d53875522753bf886a2af1975ab5aa07364",
+          "{'pitch': 10, 'n': 1503, 'amps': [0.6, 1.0, 0.25], 'phase': 0.9930789768065402}": "25143412121fec875e12e54031bfa37f5f381d4451177a8901bece6db4b0917b",
+          "{'pitch': 7, 'n': 1431, 'amps': [0.6, 1.0, 0.25], 'phase': 0.9930789768065402}": "08f74f89bb668c8f17acc7a5573ab3248513e156b04871c980fbbb11dff6c5ed",
+          "{'pitch': 1, 'n': 1469, 'amps': [0.6, 1.0, 0.25], 'phase': 0.9930789768065402}": "46eac438c45ad9d72d1dd8d92ec6c201d59b175789e696e5c44f4526589d301b",
+          "{'pitch': 14, 'n': 1503, 'amps': [0.6, 1.0, 0.25], 'phase': 0.9930789768065402}": "6f00c90363e01ca4018a6c1172e57ec6aaf75d157adabdd3a70209be07f9f2eb",
+          "{'pitch': 13, 'n': 1469, 'amps': [0.6, 1.0, 0.25], 'phase': 0.9930789768065402}": "cb6d39e931024bc006ce1a263cfa2687341b5f458c9710a8810742eedef0ac80",
+          "{'pitch': 6, 'n': 1390, 'amps': [1.0, 0.04, 0.01], 'phase': 0.9930789768065402}": "af7d7a3ad6ab826941aad543f857e9d8fb5a9bcded2ad5ee9fff4ed6e01ecfa2",
+          "{'pitch': 10, 'n': 1503, 'amps': [1.0, 0.04, 0.01], 'phase': 0.9930789768065402}": "cd4483261cf9d7781e01ad4428f3d70a86055c207dc2a4e2def89b5938f343da",
+          "{'pitch': 7, 'n': 1431, 'amps': [1.0, 0.04, 0.01], 'phase': 0.9930789768065402}": "d6edc9f5f36893bc3f814152f5dfcdfcf256c6dd3621ebb602d8d28b4d41d0e0"
+        }
+      }
+    }
+  },
+  {
+    "group": {
+      "group_id": "sp-12",
+      "split": "calibration",
+      "seed": 202609219112,
+      "motif": [
+        7,
+        -4,
+        6,
+        5
+      ],
+      "order": 0,
+      "direction": 0,
+      "register": 9,
+      "rich": false,
+      "family": "pure",
+      "index": 12,
+      "normalized_identity": [
+        -7,
+        -11,
+        -6,
+        5
+      ],
+      "transpose": -5,
+      "stretch": 0.8
+    },
+    "cells": {
+      "unchanged": {
+        "durations": [
+          1393,
+          1506,
+          1434,
+          1472
+        ],
+        "phase": 1.8700781438974503,
+        "demo_harmonics": [
+          1.0
+        ],
+        "cue_harmonics": [
+          1.0
+        ],
+        "shift": 0,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 9, 'n': 1393, 'amps': [1.0], 'phase': 1.8700781438974503}": "06e8c382db27c5b4bf497222cdc9f44aab30a2c8208524e510568c65649a7293",
+          "{'pitch': 2, 'n': 1506, 'amps': [1.0], 'phase': 1.8700781438974503}": "767acd9257b2576eaa406f17f52ad08d473d1c76ccca0a46ecbb50c8cdccf27e",
+          "{'pitch': -2, 'n': 1434, 'amps': [1.0], 'phase': 1.8700781438974503}": "b160ee33aca2bc86ebbbef0fc7fe25f9344999f8a1966eaaf96f76d31ff72796",
+          "{'pitch': -7, 'n': 1472, 'amps': [1.0], 'phase': 1.8700781438974503}": "ae5f0aa800705036565ea72abb4ec7c2003f647e2ba0306e38b73440dddec29f",
+          "{'pitch': 3, 'n': 1506, 'amps': [1.0], 'phase': 1.8700781438974503}": "a5fd1aad578639058f76a8a227fc144469b09ad97a00ca1fb2954ee65351168b",
+          "{'pitch': 3, 'n': 1472, 'amps': [1.0], 'phase': 1.8700781438974503}": "d1e55f217180dbc7eb089d1745e9ca9b6c622878fddaafb663d1717bc1efb8aa",
+          "{'pitch': 11, 'n': 1506, 'amps': [1.0], 'phase': 1.8700781438974503}": "5564c7f63e62b73b672813371c8694c092ff1cb357b9630038ea23cce93d1710",
+          "{'pitch': 2, 'n': 1434, 'amps': [1.0], 'phase': 1.8700781438974503}": "b7d01a6cff60be9686f705dcf6fae331100f96ae2069830abbc5436eddd223b0"
+        }
+      },
+      "transpose": {
+        "durations": [
+          1393,
+          1506,
+          1434,
+          1472
+        ],
+        "phase": 1.8700781438974503,
+        "demo_harmonics": [
+          1.0
+        ],
+        "cue_harmonics": [
+          1.0
+        ],
+        "shift": -5,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 9, 'n': 1393, 'amps': [1.0], 'phase': 1.8700781438974503}": "06e8c382db27c5b4bf497222cdc9f44aab30a2c8208524e510568c65649a7293",
+          "{'pitch': 2, 'n': 1506, 'amps': [1.0], 'phase': 1.8700781438974503}": "767acd9257b2576eaa406f17f52ad08d473d1c76ccca0a46ecbb50c8cdccf27e",
+          "{'pitch': -2, 'n': 1434, 'amps': [1.0], 'phase': 1.8700781438974503}": "b160ee33aca2bc86ebbbef0fc7fe25f9344999f8a1966eaaf96f76d31ff72796",
+          "{'pitch': -7, 'n': 1472, 'amps': [1.0], 'phase': 1.8700781438974503}": "ae5f0aa800705036565ea72abb4ec7c2003f647e2ba0306e38b73440dddec29f",
+          "{'pitch': 3, 'n': 1506, 'amps': [1.0], 'phase': 1.8700781438974503}": "a5fd1aad578639058f76a8a227fc144469b09ad97a00ca1fb2954ee65351168b",
+          "{'pitch': 3, 'n': 1472, 'amps': [1.0], 'phase': 1.8700781438974503}": "d1e55f217180dbc7eb089d1745e9ca9b6c622878fddaafb663d1717bc1efb8aa",
+          "{'pitch': 4, 'n': 1393, 'amps': [1.0], 'phase': 1.8700781438974503}": "eeab0a553cf225f218e7f4fcf88bf0ab41a56fd90283ef270d2b4f578675d714",
+          "{'pitch': -3, 'n': 1506, 'amps': [1.0], 'phase': 1.8700781438974503}": "89f6f669b028a3d4904d1ab9226710c3c925e34b9729fbc3eb3c36c03b31d9e1",
+          "{'pitch': -7, 'n': 1434, 'amps': [1.0], 'phase': 1.8700781438974503}": "c5eaa573e699dfda6c2d0aa2f81b21b9f344e5e0aecf83fc0fe1defeca66d986"
+        }
+      },
+      "stretch": {
+        "durations": [
+          1393,
+          1506,
+          1434,
+          1472
+        ],
+        "phase": 1.8700781438974503,
+        "demo_harmonics": [
+          1.0
+        ],
+        "cue_harmonics": [
+          1.0
+        ],
+        "shift": 0,
+        "ratio": 0.8,
+        "source_cache_hashes": {
+          "{'pitch': 9, 'n': 1393, 'amps': [1.0], 'phase': 1.8700781438974503}": "06e8c382db27c5b4bf497222cdc9f44aab30a2c8208524e510568c65649a7293",
+          "{'pitch': 2, 'n': 1506, 'amps': [1.0], 'phase': 1.8700781438974503}": "767acd9257b2576eaa406f17f52ad08d473d1c76ccca0a46ecbb50c8cdccf27e",
+          "{'pitch': -2, 'n': 1434, 'amps': [1.0], 'phase': 1.8700781438974503}": "b160ee33aca2bc86ebbbef0fc7fe25f9344999f8a1966eaaf96f76d31ff72796",
+          "{'pitch': -7, 'n': 1472, 'amps': [1.0], 'phase': 1.8700781438974503}": "ae5f0aa800705036565ea72abb4ec7c2003f647e2ba0306e38b73440dddec29f",
+          "{'pitch': 3, 'n': 1506, 'amps': [1.0], 'phase': 1.8700781438974503}": "a5fd1aad578639058f76a8a227fc144469b09ad97a00ca1fb2954ee65351168b",
+          "{'pitch': 3, 'n': 1472, 'amps': [1.0], 'phase': 1.8700781438974503}": "d1e55f217180dbc7eb089d1745e9ca9b6c622878fddaafb663d1717bc1efb8aa",
+          "{'pitch': 9, 'n': 1114, 'amps': [1.0], 'phase': 1.8700781438974503}": "17f2ef1cdc59606d9cd26764044c5cdd1dc22ec8754b4aaf9e7680db1e6988fd",
+          "{'pitch': 2, 'n': 1205, 'amps': [1.0], 'phase': 1.8700781438974503}": "72815778612249f9c74201e8f43e81e68b7d32a1985905afb721923c0b35f67a",
+          "{'pitch': -2, 'n': 1147, 'amps': [1.0], 'phase': 1.8700781438974503}": "9d9b229fb9e4d42d318872cec8d68682048c0be1e3fec2ff7a3dce96a786692c"
+        }
+      },
+      "timbre": {
+        "durations": [
+          1393,
+          1506,
+          1434,
+          1472
+        ],
+        "phase": 1.8700781438974503,
+        "demo_harmonics": [
+          1.0
+        ],
+        "cue_harmonics": [
+          1.0,
+          0.5,
+          0.3
+        ],
+        "shift": 0,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 9, 'n': 1393, 'amps': [1.0], 'phase': 1.8700781438974503}": "06e8c382db27c5b4bf497222cdc9f44aab30a2c8208524e510568c65649a7293",
+          "{'pitch': 2, 'n': 1506, 'amps': [1.0], 'phase': 1.8700781438974503}": "767acd9257b2576eaa406f17f52ad08d473d1c76ccca0a46ecbb50c8cdccf27e",
+          "{'pitch': -2, 'n': 1434, 'amps': [1.0], 'phase': 1.8700781438974503}": "b160ee33aca2bc86ebbbef0fc7fe25f9344999f8a1966eaaf96f76d31ff72796",
+          "{'pitch': -7, 'n': 1472, 'amps': [1.0], 'phase': 1.8700781438974503}": "ae5f0aa800705036565ea72abb4ec7c2003f647e2ba0306e38b73440dddec29f",
+          "{'pitch': 3, 'n': 1506, 'amps': [1.0], 'phase': 1.8700781438974503}": "a5fd1aad578639058f76a8a227fc144469b09ad97a00ca1fb2954ee65351168b",
+          "{'pitch': 3, 'n': 1472, 'amps': [1.0], 'phase': 1.8700781438974503}": "d1e55f217180dbc7eb089d1745e9ca9b6c622878fddaafb663d1717bc1efb8aa",
+          "{'pitch': 9, 'n': 1393, 'amps': [1.0, 0.5, 0.3], 'phase': 1.8700781438974503}": "54a4422c39980bd72578a1f5acb3fb696c4329ca6755be66fc76b389af2c375a",
+          "{'pitch': 2, 'n': 1506, 'amps': [1.0, 0.5, 0.3], 'phase': 1.8700781438974503}": "5dd531818ebed7161ceee72e5c113778a22fbfc2765c50b8203aa7c5439c196b",
+          "{'pitch': -2, 'n': 1434, 'amps': [1.0, 0.5, 0.3], 'phase': 1.8700781438974503}": "d8a2874e193a3092026378a678ec7deac978584e922ae5ac2dce130ecf273786"
+        }
+      }
+    }
+  },
+  {
+    "group": {
+      "group_id": "sp-13",
+      "split": "calibration",
+      "seed": 202609219113,
+      "motif": [
+        6,
+        7,
+        3,
+        5
+      ],
+      "order": 0,
+      "direction": 1,
+      "register": 9,
+      "rich": false,
+      "family": "fundamental",
+      "index": 13,
+      "normalized_identity": [
+        6,
+        -1,
+        3,
+        5
+      ],
+      "transpose": -3,
+      "stretch": 0.8
+    },
+    "cells": {
+      "unchanged": {
+        "durations": [
+          1396,
+          1509,
+          1437,
+          1475
+        ],
+        "phase": 0.28741924937481045,
+        "demo_harmonics": [
+          1.0,
+          0.12,
+          0.04
+        ],
+        "cue_harmonics": [
+          1.0,
+          0.12,
+          0.04
+        ],
+        "shift": 0,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 9, 'n': 1396, 'amps': [1.0, 0.12, 0.04], 'phase': 0.28741924937481045}": "c6eade596135bee17b508fa9287f12b2b26062b4f14617beee8412d06fde5745",
+          "{'pitch': 15, 'n': 1509, 'amps': [1.0, 0.12, 0.04], 'phase': 0.28741924937481045}": "f841f52a0f88a03c655e4c3ec41568fee4b746bb37ccbda02c5dbe0bbf761867",
+          "{'pitch': 8, 'n': 1437, 'amps': [1.0, 0.12, 0.04], 'phase': 0.28741924937481045}": "0e5950b8a33067fe543ff083a552308c7cc186f33b860ec1e2bd0feff19f7d40",
+          "{'pitch': 3, 'n': 1475, 'amps': [1.0, 0.12, 0.04], 'phase': 0.28741924937481045}": "313f05bddfe5bd79dad01ec7a8c9767813499346cc4dfc350f40eb1f497a5f88",
+          "{'pitch': 12, 'n': 1509, 'amps': [1.0, 0.12, 0.04], 'phase': 0.28741924937481045}": "38af9d7bdf00f2547124e426c33ff0bf3e75195f7bc3f4d186cedc44f7293224",
+          "{'pitch': 13, 'n': 1475, 'amps': [1.0, 0.12, 0.04], 'phase': 0.28741924937481045}": "88a92abbc4594fd8cd11f6f1d66eeca5f9f80a43b7a77b65890e8a4d37a4a614",
+          "{'pitch': 7, 'n': 1509, 'amps': [1.0, 0.12, 0.04], 'phase': 0.28741924937481045}": "2bb4254090dfd7acf6e666a2b5d4917f466864c6019c99ea4b84e3971092234c",
+          "{'pitch': 16, 'n': 1437, 'amps': [1.0, 0.12, 0.04], 'phase': 0.28741924937481045}": "6bddba5b0309e97d750876cb4417c71b73116adad52cc32892d2ba718c57cfa5"
+        }
+      },
+      "transpose": {
+        "durations": [
+          1396,
+          1509,
+          1437,
+          1475
+        ],
+        "phase": 0.28741924937481045,
+        "demo_harmonics": [
+          1.0,
+          0.12,
+          0.04
+        ],
+        "cue_harmonics": [
+          1.0,
+          0.12,
+          0.04
+        ],
+        "shift": -3,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 9, 'n': 1396, 'amps': [1.0, 0.12, 0.04], 'phase': 0.28741924937481045}": "c6eade596135bee17b508fa9287f12b2b26062b4f14617beee8412d06fde5745",
+          "{'pitch': 15, 'n': 1509, 'amps': [1.0, 0.12, 0.04], 'phase': 0.28741924937481045}": "f841f52a0f88a03c655e4c3ec41568fee4b746bb37ccbda02c5dbe0bbf761867",
+          "{'pitch': 8, 'n': 1437, 'amps': [1.0, 0.12, 0.04], 'phase': 0.28741924937481045}": "0e5950b8a33067fe543ff083a552308c7cc186f33b860ec1e2bd0feff19f7d40",
+          "{'pitch': 3, 'n': 1475, 'amps': [1.0, 0.12, 0.04], 'phase': 0.28741924937481045}": "313f05bddfe5bd79dad01ec7a8c9767813499346cc4dfc350f40eb1f497a5f88",
+          "{'pitch': 12, 'n': 1509, 'amps': [1.0, 0.12, 0.04], 'phase': 0.28741924937481045}": "38af9d7bdf00f2547124e426c33ff0bf3e75195f7bc3f4d186cedc44f7293224",
+          "{'pitch': 13, 'n': 1475, 'amps': [1.0, 0.12, 0.04], 'phase': 0.28741924937481045}": "88a92abbc4594fd8cd11f6f1d66eeca5f9f80a43b7a77b65890e8a4d37a4a614",
+          "{'pitch': 6, 'n': 1396, 'amps': [1.0, 0.12, 0.04], 'phase': 0.28741924937481045}": "b807b3238ca9ebdd42bc6afd208492ac8fad9e0acf95c5cf3f8f6099fed13111",
+          "{'pitch': 5, 'n': 1437, 'amps': [1.0, 0.12, 0.04], 'phase': 0.28741924937481045}": "b644df701dbe4da9ec2be647c6a5cf17bed936edf4bc31356f4fc79d02b61d22"
+        }
+      },
+      "stretch": {
+        "durations": [
+          1396,
+          1509,
+          1437,
+          1475
+        ],
+        "phase": 0.28741924937481045,
+        "demo_harmonics": [
+          1.0,
+          0.12,
+          0.04
+        ],
+        "cue_harmonics": [
+          1.0,
+          0.12,
+          0.04
+        ],
+        "shift": 0,
+        "ratio": 0.8,
+        "source_cache_hashes": {
+          "{'pitch': 9, 'n': 1396, 'amps': [1.0, 0.12, 0.04], 'phase': 0.28741924937481045}": "c6eade596135bee17b508fa9287f12b2b26062b4f14617beee8412d06fde5745",
+          "{'pitch': 15, 'n': 1509, 'amps': [1.0, 0.12, 0.04], 'phase': 0.28741924937481045}": "f841f52a0f88a03c655e4c3ec41568fee4b746bb37ccbda02c5dbe0bbf761867",
+          "{'pitch': 8, 'n': 1437, 'amps': [1.0, 0.12, 0.04], 'phase': 0.28741924937481045}": "0e5950b8a33067fe543ff083a552308c7cc186f33b860ec1e2bd0feff19f7d40",
+          "{'pitch': 3, 'n': 1475, 'amps': [1.0, 0.12, 0.04], 'phase': 0.28741924937481045}": "313f05bddfe5bd79dad01ec7a8c9767813499346cc4dfc350f40eb1f497a5f88",
+          "{'pitch': 12, 'n': 1509, 'amps': [1.0, 0.12, 0.04], 'phase': 0.28741924937481045}": "38af9d7bdf00f2547124e426c33ff0bf3e75195f7bc3f4d186cedc44f7293224",
+          "{'pitch': 13, 'n': 1475, 'amps': [1.0, 0.12, 0.04], 'phase': 0.28741924937481045}": "88a92abbc4594fd8cd11f6f1d66eeca5f9f80a43b7a77b65890e8a4d37a4a614",
+          "{'pitch': 9, 'n': 1117, 'amps': [1.0, 0.12, 0.04], 'phase': 0.28741924937481045}": "d0db011135e5afff7c8773f7eef2900d74230f350c6b61e4262249e85430c21a",
+          "{'pitch': 15, 'n': 1207, 'amps': [1.0, 0.12, 0.04], 'phase': 0.28741924937481045}": "a65a4f4f08d389957626637c5071a6e009b9843a27d8ace0e77db58fb9281475",
+          "{'pitch': 8, 'n': 1150, 'amps': [1.0, 0.12, 0.04], 'phase': 0.28741924937481045}": "2e2d7aea1dbee5ec52231ac62b09f7ad41ee62e9e7c527dcf9a81e1ca15949d7"
+        }
+      },
+      "timbre": {
+        "durations": [
+          1396,
+          1509,
+          1437,
+          1475
+        ],
+        "phase": 0.28741924937481045,
+        "demo_harmonics": [
+          1.0,
+          0.12,
+          0.04
+        ],
+        "cue_harmonics": [
+          1.0,
+          0.04,
+          0.01
+        ],
+        "shift": 0,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 9, 'n': 1396, 'amps': [1.0, 0.12, 0.04], 'phase': 0.28741924937481045}": "c6eade596135bee17b508fa9287f12b2b26062b4f14617beee8412d06fde5745",
+          "{'pitch': 15, 'n': 1509, 'amps': [1.0, 0.12, 0.04], 'phase': 0.28741924937481045}": "f841f52a0f88a03c655e4c3ec41568fee4b746bb37ccbda02c5dbe0bbf761867",
+          "{'pitch': 8, 'n': 1437, 'amps': [1.0, 0.12, 0.04], 'phase': 0.28741924937481045}": "0e5950b8a33067fe543ff083a552308c7cc186f33b860ec1e2bd0feff19f7d40",
+          "{'pitch': 3, 'n': 1475, 'amps': [1.0, 0.12, 0.04], 'phase': 0.28741924937481045}": "313f05bddfe5bd79dad01ec7a8c9767813499346cc4dfc350f40eb1f497a5f88",
+          "{'pitch': 12, 'n': 1509, 'amps': [1.0, 0.12, 0.04], 'phase': 0.28741924937481045}": "38af9d7bdf00f2547124e426c33ff0bf3e75195f7bc3f4d186cedc44f7293224",
+          "{'pitch': 13, 'n': 1475, 'amps': [1.0, 0.12, 0.04], 'phase': 0.28741924937481045}": "88a92abbc4594fd8cd11f6f1d66eeca5f9f80a43b7a77b65890e8a4d37a4a614",
+          "{'pitch': 9, 'n': 1396, 'amps': [1.0, 0.04, 0.01], 'phase': 0.28741924937481045}": "e3378fcefeb6dd422c32be56eeb715d6bb71f6861a3c08cb5f8808045e49e504",
+          "{'pitch': 15, 'n': 1509, 'amps': [1.0, 0.04, 0.01], 'phase': 0.28741924937481045}": "c15777aa2957ff1c1e212f655f9814b6cab35dca9d0923303e0c1b431ef14c35",
+          "{'pitch': 8, 'n': 1437, 'amps': [1.0, 0.04, 0.01], 'phase': 0.28741924937481045}": "06918e58bee193e8e285aa327bd165af60ae1e1a55f5e13ebc6060cc3b474a7f"
+        }
+      }
+    }
+  },
+  {
+    "group": {
+      "group_id": "sp-14",
+      "split": "calibration",
+      "seed": 202609219114,
+      "motif": [
+        8,
+        -2,
+        4,
+        4
+      ],
+      "order": 1,
+      "direction": 0,
+      "register": 9,
+      "rich": true,
+      "family": "overtone",
+      "index": 14,
+      "normalized_identity": [
+        -8,
+        -10,
+        -4,
+        4
+      ],
+      "transpose": 3,
+      "stretch": 1.25
+    },
+    "cells": {
+      "unchanged": {
+        "durations": [
+          1399,
+          1512,
+          1440,
+          1478
+        ],
+        "phase": -0.7038356410197029,
+        "demo_harmonics": [
+          0.6,
+          1.0,
+          0.25
+        ],
+        "cue_harmonics": [
+          0.6,
+          1.0,
+          0.25
+        ],
+        "shift": 0,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 9, 'n': 1399, 'amps': [0.6, 1.0, 0.25], 'phase': -0.7038356410197029}": "84972efc36c88ec584577ff80b51cd397ac7c70343d7821579b23537a9bae712",
+          "{'pitch': 1, 'n': 1512, 'amps': [0.6, 1.0, 0.25], 'phase': -0.7038356410197029}": "27874c07e3a35feab95803b24cbffb32253d43885ff7084eff8071962f90722c",
+          "{'pitch': -1, 'n': 1440, 'amps': [0.6, 1.0, 0.25], 'phase': -0.7038356410197029}": "90096fa31696c206ee9e5f6c4f317ba1a241cb917eeba9958ab025650f76271c",
+          "{'pitch': -5, 'n': 1478, 'amps': [0.6, 1.0, 0.25], 'phase': -0.7038356410197029}": "8435fabd17520799c634079bbbb88926df46c3f05948487b60fc8be8c4a3f7ff",
+          "{'pitch': 5, 'n': 1512, 'amps': [0.6, 1.0, 0.25], 'phase': -0.7038356410197029}": "cb80a24d753a7a97ffe45a2b1f99086e20580eba7a0d66575a5516cb8de298b0",
+          "{'pitch': 3, 'n': 1478, 'amps': [0.6, 1.0, 0.25], 'phase': -0.7038356410197029}": "b2585abb6d4c61de2a9e6cb12eda97ed727cc704273bcd16bed352d635dba9b9",
+          "{'pitch': 11, 'n': 1512, 'amps': [0.6, 1.0, 0.25], 'phase': -0.7038356410197029}": "b1a1e28bcdc4a2c7c7bc0b4580c90630a1ac2f8a281a827d98a43a20a32d4457",
+          "{'pitch': 2, 'n': 1440, 'amps': [0.6, 1.0, 0.25], 'phase': -0.7038356410197029}": "11ee8c6e3d4513a7edd3f0441f13ad776683ca198a44ecd4582b77580202d5d7"
+        }
+      },
+      "transpose": {
+        "durations": [
+          1399,
+          1512,
+          1440,
+          1478
+        ],
+        "phase": -0.7038356410197029,
+        "demo_harmonics": [
+          0.6,
+          1.0,
+          0.25
+        ],
+        "cue_harmonics": [
+          0.6,
+          1.0,
+          0.25
+        ],
+        "shift": 3,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 9, 'n': 1399, 'amps': [0.6, 1.0, 0.25], 'phase': -0.7038356410197029}": "84972efc36c88ec584577ff80b51cd397ac7c70343d7821579b23537a9bae712",
+          "{'pitch': 1, 'n': 1512, 'amps': [0.6, 1.0, 0.25], 'phase': -0.7038356410197029}": "27874c07e3a35feab95803b24cbffb32253d43885ff7084eff8071962f90722c",
+          "{'pitch': -1, 'n': 1440, 'amps': [0.6, 1.0, 0.25], 'phase': -0.7038356410197029}": "90096fa31696c206ee9e5f6c4f317ba1a241cb917eeba9958ab025650f76271c",
+          "{'pitch': -5, 'n': 1478, 'amps': [0.6, 1.0, 0.25], 'phase': -0.7038356410197029}": "8435fabd17520799c634079bbbb88926df46c3f05948487b60fc8be8c4a3f7ff",
+          "{'pitch': 5, 'n': 1512, 'amps': [0.6, 1.0, 0.25], 'phase': -0.7038356410197029}": "cb80a24d753a7a97ffe45a2b1f99086e20580eba7a0d66575a5516cb8de298b0",
+          "{'pitch': 3, 'n': 1478, 'amps': [0.6, 1.0, 0.25], 'phase': -0.7038356410197029}": "b2585abb6d4c61de2a9e6cb12eda97ed727cc704273bcd16bed352d635dba9b9",
+          "{'pitch': 12, 'n': 1399, 'amps': [0.6, 1.0, 0.25], 'phase': -0.7038356410197029}": "d4a26d42e0726b53d49c31c8bccb191c8fc5f0748f7585a0c0ff0c15fb80a853",
+          "{'pitch': 4, 'n': 1512, 'amps': [0.6, 1.0, 0.25], 'phase': -0.7038356410197029}": "170a28d5e63276205c2501d1c6a6d9b834b25ad6a33b365530f688b5bf1a1187",
+          "{'pitch': 2, 'n': 1440, 'amps': [0.6, 1.0, 0.25], 'phase': -0.7038356410197029}": "11ee8c6e3d4513a7edd3f0441f13ad776683ca198a44ecd4582b77580202d5d7"
+        }
+      },
+      "stretch": {
+        "durations": [
+          1399,
+          1512,
+          1440,
+          1478
+        ],
+        "phase": -0.7038356410197029,
+        "demo_harmonics": [
+          0.6,
+          1.0,
+          0.25
+        ],
+        "cue_harmonics": [
+          0.6,
+          1.0,
+          0.25
+        ],
+        "shift": 0,
+        "ratio": 1.25,
+        "source_cache_hashes": {
+          "{'pitch': 9, 'n': 1399, 'amps': [0.6, 1.0, 0.25], 'phase': -0.7038356410197029}": "84972efc36c88ec584577ff80b51cd397ac7c70343d7821579b23537a9bae712",
+          "{'pitch': 1, 'n': 1512, 'amps': [0.6, 1.0, 0.25], 'phase': -0.7038356410197029}": "27874c07e3a35feab95803b24cbffb32253d43885ff7084eff8071962f90722c",
+          "{'pitch': -1, 'n': 1440, 'amps': [0.6, 1.0, 0.25], 'phase': -0.7038356410197029}": "90096fa31696c206ee9e5f6c4f317ba1a241cb917eeba9958ab025650f76271c",
+          "{'pitch': -5, 'n': 1478, 'amps': [0.6, 1.0, 0.25], 'phase': -0.7038356410197029}": "8435fabd17520799c634079bbbb88926df46c3f05948487b60fc8be8c4a3f7ff",
+          "{'pitch': 5, 'n': 1512, 'amps': [0.6, 1.0, 0.25], 'phase': -0.7038356410197029}": "cb80a24d753a7a97ffe45a2b1f99086e20580eba7a0d66575a5516cb8de298b0",
+          "{'pitch': 3, 'n': 1478, 'amps': [0.6, 1.0, 0.25], 'phase': -0.7038356410197029}": "b2585abb6d4c61de2a9e6cb12eda97ed727cc704273bcd16bed352d635dba9b9",
+          "{'pitch': 9, 'n': 1749, 'amps': [0.6, 1.0, 0.25], 'phase': -0.7038356410197029}": "dc984bf2183730d6d3a1966d7978e578807b75a08528cb38ddf180aded0b54f9",
+          "{'pitch': 1, 'n': 1890, 'amps': [0.6, 1.0, 0.25], 'phase': -0.7038356410197029}": "fa3f0541c446cf81cbed4b9e47a3ca0334f773e29ff4bfa6ed3913566a6315a2",
+          "{'pitch': -1, 'n': 1800, 'amps': [0.6, 1.0, 0.25], 'phase': -0.7038356410197029}": "fb755c871d02a66b08d452c87efb60120558c9b455e673695915a5bed8d88182"
+        }
+      },
+      "timbre": {
+        "durations": [
+          1399,
+          1512,
+          1440,
+          1478
+        ],
+        "phase": -0.7038356410197029,
+        "demo_harmonics": [
+          0.6,
+          1.0,
+          0.25
+        ],
+        "cue_harmonics": [
+          1.0,
+          0.04,
+          0.01
+        ],
+        "shift": 0,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 9, 'n': 1399, 'amps': [0.6, 1.0, 0.25], 'phase': -0.7038356410197029}": "84972efc36c88ec584577ff80b51cd397ac7c70343d7821579b23537a9bae712",
+          "{'pitch': 1, 'n': 1512, 'amps': [0.6, 1.0, 0.25], 'phase': -0.7038356410197029}": "27874c07e3a35feab95803b24cbffb32253d43885ff7084eff8071962f90722c",
+          "{'pitch': -1, 'n': 1440, 'amps': [0.6, 1.0, 0.25], 'phase': -0.7038356410197029}": "90096fa31696c206ee9e5f6c4f317ba1a241cb917eeba9958ab025650f76271c",
+          "{'pitch': -5, 'n': 1478, 'amps': [0.6, 1.0, 0.25], 'phase': -0.7038356410197029}": "8435fabd17520799c634079bbbb88926df46c3f05948487b60fc8be8c4a3f7ff",
+          "{'pitch': 5, 'n': 1512, 'amps': [0.6, 1.0, 0.25], 'phase': -0.7038356410197029}": "cb80a24d753a7a97ffe45a2b1f99086e20580eba7a0d66575a5516cb8de298b0",
+          "{'pitch': 3, 'n': 1478, 'amps': [0.6, 1.0, 0.25], 'phase': -0.7038356410197029}": "b2585abb6d4c61de2a9e6cb12eda97ed727cc704273bcd16bed352d635dba9b9",
+          "{'pitch': 9, 'n': 1399, 'amps': [1.0, 0.04, 0.01], 'phase': -0.7038356410197029}": "a08dc2c51053491671b83a0b8785b2594316a7fefbd1619941b2a91174cbc975",
+          "{'pitch': 1, 'n': 1512, 'amps': [1.0, 0.04, 0.01], 'phase': -0.7038356410197029}": "cd03459605d782e7aaf338c4b222135ea49c454bbf32c738cb4c51a6b64a37f9",
+          "{'pitch': -1, 'n': 1440, 'amps': [1.0, 0.04, 0.01], 'phase': -0.7038356410197029}": "dc82ceaaa3a52aec1588a997b08193056c24cc2324beaacdaf2d43b201fa9a00"
+        }
+      }
+    }
+  },
+  {
+    "group": {
+      "group_id": "sp-15",
+      "split": "calibration",
+      "seed": 202609219115,
+      "motif": [
+        9,
+        -4,
+        3,
+        3
+      ],
+      "order": 1,
+      "direction": 1,
+      "register": 9,
+      "rich": false,
+      "family": "pure",
+      "index": 15,
+      "normalized_identity": [
+        9,
+        13,
+        3,
+        3
+      ],
+      "transpose": 5,
+      "stretch": 1.25
+    },
+    "cells": {
+      "unchanged": {
+        "durations": [
+          1402,
+          1515,
+          1443,
+          1481
+        ],
+        "phase": 1.6820397909967775,
+        "demo_harmonics": [
+          1.0
+        ],
+        "cue_harmonics": [
+          1.0
+        ],
+        "shift": 0,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 9, 'n': 1402, 'amps': [1.0], 'phase': 1.6820397909967775}": "1625164a95f2dfd939bf876b2d8b64ba26130cd935790229fc807510416698a9",
+          "{'pitch': 18, 'n': 1515, 'amps': [1.0], 'phase': 1.6820397909967775}": "0986d0d9a43f8fdd39c870e244ea54df790b6f67b7360e5edbefb1086e5c0100",
+          "{'pitch': 22, 'n': 1443, 'amps': [1.0], 'phase': 1.6820397909967775}": "91864ec21fcf0e9fa443a8d5f5506fb474ebee7b20a2cb922cc63b5c9ca78287",
+          "{'pitch': 19, 'n': 1481, 'amps': [1.0], 'phase': 1.6820397909967775}": "3b0f04910c4564d3dd5f121359b2575050a9e56f991fceb4c7a4d3fdfcca38a3",
+          "{'pitch': 12, 'n': 1515, 'amps': [1.0], 'phase': 1.6820397909967775}": "7c52660fa820689c84306dce019b6310ce971297444fed083517a12d11d0dfd0",
+          "{'pitch': 25, 'n': 1481, 'amps': [1.0], 'phase': 1.6820397909967775}": "bf24e0ed976b604cd43176bca019e92ae17dc1140e8b4086677d788c4b92e148",
+          "{'pitch': 7, 'n': 1515, 'amps': [1.0], 'phase': 1.6820397909967775}": "6349c54469a8b291b8d4cd0fe99260cacaf82c6a6e1364d660be48a5448fd73a",
+          "{'pitch': 16, 'n': 1443, 'amps': [1.0], 'phase': 1.6820397909967775}": "57bcb48972b58fed07392ac245956e63e577cc831383f1cb275996b2e6c726ce"
+        }
+      },
+      "transpose": {
+        "durations": [
+          1402,
+          1515,
+          1443,
+          1481
+        ],
+        "phase": 1.6820397909967775,
+        "demo_harmonics": [
+          1.0
+        ],
+        "cue_harmonics": [
+          1.0
+        ],
+        "shift": 5,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 9, 'n': 1402, 'amps': [1.0], 'phase': 1.6820397909967775}": "1625164a95f2dfd939bf876b2d8b64ba26130cd935790229fc807510416698a9",
+          "{'pitch': 18, 'n': 1515, 'amps': [1.0], 'phase': 1.6820397909967775}": "0986d0d9a43f8fdd39c870e244ea54df790b6f67b7360e5edbefb1086e5c0100",
+          "{'pitch': 22, 'n': 1443, 'amps': [1.0], 'phase': 1.6820397909967775}": "91864ec21fcf0e9fa443a8d5f5506fb474ebee7b20a2cb922cc63b5c9ca78287",
+          "{'pitch': 19, 'n': 1481, 'amps': [1.0], 'phase': 1.6820397909967775}": "3b0f04910c4564d3dd5f121359b2575050a9e56f991fceb4c7a4d3fdfcca38a3",
+          "{'pitch': 12, 'n': 1515, 'amps': [1.0], 'phase': 1.6820397909967775}": "7c52660fa820689c84306dce019b6310ce971297444fed083517a12d11d0dfd0",
+          "{'pitch': 25, 'n': 1481, 'amps': [1.0], 'phase': 1.6820397909967775}": "bf24e0ed976b604cd43176bca019e92ae17dc1140e8b4086677d788c4b92e148",
+          "{'pitch': 14, 'n': 1402, 'amps': [1.0], 'phase': 1.6820397909967775}": "10bcb953e87c37b26ebe532f9488496dcaa93e9fb28c8e8284f96c20e125a52b",
+          "{'pitch': 23, 'n': 1515, 'amps': [1.0], 'phase': 1.6820397909967775}": "1743732874271397d4c7745c01a8ff3d1b0462621d2ca4e1f00651e34c8f75ed",
+          "{'pitch': 27, 'n': 1443, 'amps': [1.0], 'phase': 1.6820397909967775}": "1e3620122c9c45da2066220e0359bcff414fe4fe310827827b9d044fe576e412"
+        }
+      },
+      "stretch": {
+        "durations": [
+          1402,
+          1515,
+          1443,
+          1481
+        ],
+        "phase": 1.6820397909967775,
+        "demo_harmonics": [
+          1.0
+        ],
+        "cue_harmonics": [
+          1.0
+        ],
+        "shift": 0,
+        "ratio": 1.25,
+        "source_cache_hashes": {
+          "{'pitch': 9, 'n': 1402, 'amps': [1.0], 'phase': 1.6820397909967775}": "1625164a95f2dfd939bf876b2d8b64ba26130cd935790229fc807510416698a9",
+          "{'pitch': 18, 'n': 1515, 'amps': [1.0], 'phase': 1.6820397909967775}": "0986d0d9a43f8fdd39c870e244ea54df790b6f67b7360e5edbefb1086e5c0100",
+          "{'pitch': 22, 'n': 1443, 'amps': [1.0], 'phase': 1.6820397909967775}": "91864ec21fcf0e9fa443a8d5f5506fb474ebee7b20a2cb922cc63b5c9ca78287",
+          "{'pitch': 19, 'n': 1481, 'amps': [1.0], 'phase': 1.6820397909967775}": "3b0f04910c4564d3dd5f121359b2575050a9e56f991fceb4c7a4d3fdfcca38a3",
+          "{'pitch': 12, 'n': 1515, 'amps': [1.0], 'phase': 1.6820397909967775}": "7c52660fa820689c84306dce019b6310ce971297444fed083517a12d11d0dfd0",
+          "{'pitch': 25, 'n': 1481, 'amps': [1.0], 'phase': 1.6820397909967775}": "bf24e0ed976b604cd43176bca019e92ae17dc1140e8b4086677d788c4b92e148",
+          "{'pitch': 9, 'n': 1752, 'amps': [1.0], 'phase': 1.6820397909967775}": "0238cea7787573b31084cf63d836495240f15120652db1447f2de6c5280ec438",
+          "{'pitch': 18, 'n': 1894, 'amps': [1.0], 'phase': 1.6820397909967775}": "24d435b746bf1b038ea8972f19c5b41052d446806fd0f5f2d6c281a8ec9291b7",
+          "{'pitch': 22, 'n': 1804, 'amps': [1.0], 'phase': 1.6820397909967775}": "4b5371cc24ed3406a5bd516165df8f8385b51b38a08d22cc20fdcd9accd44330"
+        }
+      },
+      "timbre": {
+        "durations": [
+          1402,
+          1515,
+          1443,
+          1481
+        ],
+        "phase": 1.6820397909967775,
+        "demo_harmonics": [
+          1.0
+        ],
+        "cue_harmonics": [
+          1.0,
+          0.5,
+          0.3
+        ],
+        "shift": 0,
+        "ratio": 1.0,
+        "source_cache_hashes": {
+          "{'pitch': 9, 'n': 1402, 'amps': [1.0], 'phase': 1.6820397909967775}": "1625164a95f2dfd939bf876b2d8b64ba26130cd935790229fc807510416698a9",
+          "{'pitch': 18, 'n': 1515, 'amps': [1.0], 'phase': 1.6820397909967775}": "0986d0d9a43f8fdd39c870e244ea54df790b6f67b7360e5edbefb1086e5c0100",
+          "{'pitch': 22, 'n': 1443, 'amps': [1.0], 'phase': 1.6820397909967775}": "91864ec21fcf0e9fa443a8d5f5506fb474ebee7b20a2cb922cc63b5c9ca78287",
+          "{'pitch': 19, 'n': 1481, 'amps': [1.0], 'phase': 1.6820397909967775}": "3b0f04910c4564d3dd5f121359b2575050a9e56f991fceb4c7a4d3fdfcca38a3",
+          "{'pitch': 12, 'n': 1515, 'amps': [1.0], 'phase': 1.6820397909967775}": "7c52660fa820689c84306dce019b6310ce971297444fed083517a12d11d0dfd0",
+          "{'pitch': 25, 'n': 1481, 'amps': [1.0], 'phase': 1.6820397909967775}": "bf24e0ed976b604cd43176bca019e92ae17dc1140e8b4086677d788c4b92e148",
+          "{'pitch': 9, 'n': 1402, 'amps': [1.0, 0.5, 0.3], 'phase': 1.6820397909967775}": "d78697f345b6c010f30739dd5c0344d655b4734ace82b2259b09d0cf66245e5a",
+          "{'pitch': 18, 'n': 1515, 'amps': [1.0, 0.5, 0.3], 'phase': 1.6820397909967775}": "58f0fdeb550c1880bc5b0026abddb73e1d005a9f5561f37313be738e7321f635",
+          "{'pitch': 22, 'n': 1443, 'amps': [1.0, 0.5, 0.3], 'phase': 1.6820397909967775}": "d41f307e1450cab9925e032aacd128720ed37cec99be4e30f1ae6149a391ba8c"
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "episode": "sp-08/unchanged/intact/0",
+    "same_forecast_bytes": true,
+    "state_sha256": "d6e21586a787ca6b48652148f7c8e158c0a7cc45373b1e3c6f774f3666268aac",
+    "serialized_state_bytes": 5559846
+  },
+  {
+    "episode": "sp-09/unchanged/intact/0",
+    "same_forecast_bytes": true,
+    "state_sha256": "cf88f2b7ac19d974329b7e0b59ee10ccae630327dab6b0234e6609917c8af018",
+    "serialized_state_bytes": 5550908
+  },
+  {
+    "episode": "sp-10/unchanged/intact/0",
+    "same_forecast_bytes": true,
+    "state_sha256": "7bd6fb0ec7ce8e0ce67aaa22754f87d7b7b36c2928203faecba2d74cb28cc37c",
+    "serialized_state_bytes": 5504620
+  },
+  {
+    "episode": "sp-11/unchanged/intact/0",
+    "same_forecast_bytes": true,
+    "state_sha256": "9107b470ed43d1fdfc8d4e5e4d33ff02240165775054c7417b136f44ea54461c",
+    "serialized_state_bytes": 5588023
+  },
+  {
+    "episode": "sp-12/unchanged/intact/0",
+    "same_forecast_bytes": true,
+    "state_sha256": "13afd4a5a17454e136e0e9cfe660267fc1872c806f5f3ae8ae1461ce9c81e345",
+    "serialized_state_bytes": 5517909
+  },
+  {
+    "episode": "sp-13/unchanged/intact/0",
+    "same_forecast_bytes": true,
+    "state_sha256": "2ab62725bb5ac0062181916e38bcda608d3a98b90fa0a2da33c163791cf963cb",
+    "serialized_state_bytes": 5544968
+  },
+  {
+    "episode": "sp-14/unchanged/intact/0",
+    "same_forecast_bytes": true,
+    "state_sha256": "c427a2665119a43e828f0190f81fb127d8a1b7749e7a912088949c667d50e694",
+    "serialized_state_bytes": 5562281
+  },
+  {
+    "episode": "sp-15/unchanged/intact/0",
+    "same_forecast_bytes": true,
+    "state_sha256": "8f170194b36fb07fde1c9bd0d7baa823a55775e95dbc56b346f3145d7b412534",
+    "serialized_state_bytes": 5585133
+  }
+]
