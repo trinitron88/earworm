@@ -1,0 +1,1218 @@
+[
+  {
+    "group": "bach-bwv774",
+    "cell": "unchanged",
+    "source": {
+      "spectral_centroid_midi_units": 66.7016268123409,
+      "absolute_rms": 0.1318307973341174,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999994
+    },
+    "query": {
+      "spectral_centroid_midi_units": 66.70031792660838,
+      "absolute_rms": 0.13138745237887922,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": -0.0013088857325271874,
+    "rms_ratio": 0.9966370152938198,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "bach-bwv774",
+    "cell": "transpose",
+    "source": {
+      "spectral_centroid_midi_units": 66.7016268123409,
+      "absolute_rms": 0.1318307973341174,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999994
+    },
+    "query": {
+      "spectral_centroid_midi_units": 61.709516759878085,
+      "absolute_rms": 0.131390186790594,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": -4.99211005246282,
+    "rms_ratio": 0.9966577571217543,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "bach-bwv774",
+    "cell": "stretch",
+    "source": {
+      "spectral_centroid_midi_units": 66.7016268123409,
+      "absolute_rms": 0.1318307973341174,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999994
+    },
+    "query": {
+      "spectral_centroid_midi_units": 66.62020672684444,
+      "absolute_rms": 0.1305815789612279,
+      "duration_seconds": 2.3999999999999986,
+      "covered_seconds": 2.3999999999998636
+    },
+    "register_difference": -0.08142008549646107,
+    "rms_ratio": 0.9905240778471254,
+    "duration_ratio": 0.7999999999999995
+  },
+  {
+    "group": "bach-bwv774",
+    "cell": "foil",
+    "source": {
+      "spectral_centroid_midi_units": 66.7016268123409,
+      "absolute_rms": 0.1318307973341174,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999994
+    },
+    "query": {
+      "spectral_centroid_midi_units": 66.54820993192648,
+      "absolute_rms": 0.1313924044537271,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": -0.1534168804144258,
+    "rms_ratio": 0.9966745791631737,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "bach-bwv776",
+    "cell": "unchanged",
+    "source": {
+      "spectral_centroid_midi_units": 68.08610418317517,
+      "absolute_rms": 0.12716954495517158,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999993
+    },
+    "query": {
+      "spectral_centroid_midi_units": 68.08610418317518,
+      "absolute_rms": 0.12716954495517158,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": 1.4210854715202004e-14,
+    "rms_ratio": 1.0,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "bach-bwv776",
+    "cell": "transpose",
+    "source": {
+      "spectral_centroid_midi_units": 68.08610418317517,
+      "absolute_rms": 0.12716954495517158,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999993
+    },
+    "query": {
+      "spectral_centroid_midi_units": 66.09510026967833,
+      "absolute_rms": 0.12717015337056986,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": -1.99100391349684,
+    "rms_ratio": 1.000004784285408,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "bach-bwv776",
+    "cell": "stretch",
+    "source": {
+      "spectral_centroid_midi_units": 68.08610418317517,
+      "absolute_rms": 0.12716954495517158,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999993
+    },
+    "query": {
+      "spectral_centroid_midi_units": 68.0732247206772,
+      "absolute_rms": 0.12730687045896216,
+      "duration_seconds": 3.75,
+      "covered_seconds": 3.749999999999787
+    },
+    "register_difference": -0.012879462497963345,
+    "rms_ratio": 1.001079861564646,
+    "duration_ratio": 1.25
+  },
+  {
+    "group": "bach-bwv776",
+    "cell": "foil",
+    "source": {
+      "spectral_centroid_midi_units": 68.08610418317517,
+      "absolute_rms": 0.12716954495517158,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999993
+    },
+    "query": {
+      "spectral_centroid_midi_units": 67.15323839592325,
+      "absolute_rms": 0.12716935140769764,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": -0.932865787251913,
+    "rms_ratio": 0.9999984780359636,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "bach-bwv779",
+    "cell": "unchanged",
+    "source": {
+      "spectral_centroid_midi_units": 71.56465611915371,
+      "absolute_rms": 0.13182751313847216,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 71.58657274264503,
+      "absolute_rms": 0.13142239657029123,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": 0.02191662349132173,
+    "rms_ratio": 0.9969269194378613,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "bach-bwv779",
+    "cell": "transpose",
+    "source": {
+      "spectral_centroid_midi_units": 71.56465611915371,
+      "absolute_rms": 0.13182751313847216,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 73.57853168877479,
+      "absolute_rms": 0.1314286956517372,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": 2.013875569621078,
+    "rms_ratio": 0.9969747021904598,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "bach-bwv779",
+    "cell": "stretch",
+    "source": {
+      "spectral_centroid_midi_units": 71.56465611915371,
+      "absolute_rms": 0.13182751313847216,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 71.54832763368114,
+      "absolute_rms": 0.13062998988910635,
+      "duration_seconds": 2.3999999999999986,
+      "covered_seconds": 2.3999999999998636
+    },
+    "register_difference": -0.016328485472570264,
+    "rms_ratio": 0.990915983918259,
+    "duration_ratio": 0.7999999999999995
+  },
+  {
+    "group": "bach-bwv779",
+    "cell": "foil",
+    "source": {
+      "spectral_centroid_midi_units": 71.56465611915371,
+      "absolute_rms": 0.13182751313847216,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 72.54205311549053,
+      "absolute_rms": 0.13142154825306288,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": 0.9773969963368216,
+    "rms_ratio": 0.9969204843833862,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "bach-bwv782",
+    "cell": "unchanged",
+    "source": {
+      "spectral_centroid_midi_units": 67.54070897791821,
+      "absolute_rms": 0.13182939467806568,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 67.58314347233726,
+      "absolute_rms": 0.13131632589529957,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": 0.0424344944190409,
+    "rms_ratio": 0.9961080851200216,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "bach-bwv782",
+    "cell": "transpose",
+    "source": {
+      "spectral_centroid_midi_units": 67.54070897791821,
+      "absolute_rms": 0.13182939467806568,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 72.54448658674633,
+      "absolute_rms": 0.13132277330066833,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": 5.003777608828116,
+    "rms_ratio": 0.9961569923108989,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "bach-bwv782",
+    "cell": "stretch",
+    "source": {
+      "spectral_centroid_midi_units": 67.54070897791821,
+      "absolute_rms": 0.13182939467806568,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 67.5910125991949,
+      "absolute_rms": 0.1322002586396756,
+      "duration_seconds": 3.75,
+      "covered_seconds": 3.749999999999794
+    },
+    "register_difference": 0.050303621276682975,
+    "rms_ratio": 1.0028132114428319,
+    "duration_ratio": 1.25
+  },
+  {
+    "group": "bach-bwv782",
+    "cell": "foil",
+    "source": {
+      "spectral_centroid_midi_units": 67.54070897791821,
+      "absolute_rms": 0.13182939467806568,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 67.56879794534808,
+      "absolute_rms": 0.13132247421135304,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": 0.02808896742986633,
+    "rms_ratio": 0.9961547235504603,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "bach-bwv784",
+    "cell": "unchanged",
+    "source": {
+      "spectral_centroid_midi_units": 72.53183176007336,
+      "absolute_rms": 0.13183795540525478,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999994
+    },
+    "query": {
+      "spectral_centroid_midi_units": 72.6056068262221,
+      "absolute_rms": 0.13138344584742673,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": 0.07377506614874108,
+    "rms_ratio": 0.9965525136033023,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "bach-bwv784",
+    "cell": "transpose",
+    "source": {
+      "spectral_centroid_midi_units": 72.53183176007336,
+      "absolute_rms": 0.13183795540525478,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999994
+    },
+    "query": {
+      "spectral_centroid_midi_units": 67.62373473207045,
+      "absolute_rms": 0.13137352250329126,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": -4.9080970280029135,
+    "rms_ratio": 0.9964772443524635,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "bach-bwv784",
+    "cell": "stretch",
+    "source": {
+      "spectral_centroid_midi_units": 72.53183176007336,
+      "absolute_rms": 0.13183795540525478,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999994
+    },
+    "query": {
+      "spectral_centroid_midi_units": 72.61915926704737,
+      "absolute_rms": 0.1305720568357271,
+      "duration_seconds": 2.3999999999999986,
+      "covered_seconds": 2.3999999999998636
+    },
+    "register_difference": 0.08732750697400604,
+    "rms_ratio": 0.9903980718933598,
+    "duration_ratio": 0.7999999999999995
+  },
+  {
+    "group": "bach-bwv784",
+    "cell": "foil",
+    "source": {
+      "spectral_centroid_midi_units": 72.53183176007336,
+      "absolute_rms": 0.13183795540525478,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999994
+    },
+    "query": {
+      "spectral_centroid_midi_units": 72.35637236055744,
+      "absolute_rms": 0.13137431622738363,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": -0.1754593995159155,
+    "rms_ratio": 0.99648326480454,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "bach-bwv785",
+    "cell": "unchanged",
+    "source": {
+      "spectral_centroid_midi_units": 76.23475001989615,
+      "absolute_rms": 0.13182751063725745,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999993
+    },
+    "query": {
+      "spectral_centroid_midi_units": 76.23475001989618,
+      "absolute_rms": 0.13182751063725745,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": 2.842170943040401e-14,
+    "rms_ratio": 1.0,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "bach-bwv785",
+    "cell": "transpose",
+    "source": {
+      "spectral_centroid_midi_units": 76.23475001989615,
+      "absolute_rms": 0.13182751063725745,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999993
+    },
+    "query": {
+      "spectral_centroid_midi_units": 74.2605134381381,
+      "absolute_rms": 0.13182788632740494,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": -1.9742365817580492,
+    "rms_ratio": 1.0000028498615021,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "bach-bwv785",
+    "cell": "stretch",
+    "source": {
+      "spectral_centroid_midi_units": 76.23475001989615,
+      "absolute_rms": 0.13182751063725745,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999993
+    },
+    "query": {
+      "spectral_centroid_midi_units": 76.31558903218448,
+      "absolute_rms": 0.1319640838591355,
+      "duration_seconds": 3.75,
+      "covered_seconds": 3.749999999999787
+    },
+    "register_difference": 0.08083901228832246,
+    "rms_ratio": 1.0010359993996538,
+    "duration_ratio": 1.25
+  },
+  {
+    "group": "bach-bwv785",
+    "cell": "foil",
+    "source": {
+      "spectral_centroid_midi_units": 76.23475001989615,
+      "absolute_rms": 0.13182751063725745,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999993
+    },
+    "query": {
+      "spectral_centroid_midi_units": 76.19836234728515,
+      "absolute_rms": 0.13182742662145863,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": -0.03638767261099929,
+    "rms_ratio": 0.9999993626838707,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "bach-bwv786",
+    "cell": "unchanged",
+    "source": {
+      "spectral_centroid_midi_units": 69.23835368474496,
+      "absolute_rms": 0.1318259228409332,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 69.19200204095426,
+      "absolute_rms": 0.13142460567454084,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": -0.046351643790700336,
+    "rms_ratio": 0.9969557037209092,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "bach-bwv786",
+    "cell": "transpose",
+    "source": {
+      "spectral_centroid_midi_units": 69.23835368474496,
+      "absolute_rms": 0.1318259228409332,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 71.16724117283991,
+      "absolute_rms": 0.1314281031034157,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": 1.9288874880949436,
+    "rms_ratio": 0.9969822343819469,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "bach-bwv786",
+    "cell": "stretch",
+    "source": {
+      "spectral_centroid_midi_units": 69.23835368474496,
+      "absolute_rms": 0.1318259228409332,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 69.16349679904503,
+      "absolute_rms": 0.1306340549894236,
+      "duration_seconds": 2.3999999999999986,
+      "covered_seconds": 2.3999999999998636
+    },
+    "register_difference": -0.07485688569992988,
+    "rms_ratio": 0.9909587748310493,
+    "duration_ratio": 0.7999999999999995
+  },
+  {
+    "group": "bach-bwv786",
+    "cell": "foil",
+    "source": {
+      "spectral_centroid_midi_units": 69.23835368474496,
+      "absolute_rms": 0.1318259228409332,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 69.42958166470379,
+      "absolute_rms": 0.13142626787338887,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": 0.1912279799588248,
+    "rms_ratio": 0.9969683127648076,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "bach-bwv787",
+    "cell": "unchanged",
+    "source": {
+      "spectral_centroid_midi_units": 76.34880290765362,
+      "absolute_rms": 0.13182970106467456,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 76.42248640117191,
+      "absolute_rms": 0.13132121531101743,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": 0.0736834935182884,
+    "rms_ratio": 0.9961428589342877,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "bach-bwv787",
+    "cell": "transpose",
+    "source": {
+      "spectral_centroid_midi_units": 76.34880290765362,
+      "absolute_rms": 0.13182970106467456,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 81.30334852688121,
+      "absolute_rms": 0.1313197902149217,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": 4.954545619227588,
+    "rms_ratio": 0.9961320488051271,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "bach-bwv787",
+    "cell": "stretch",
+    "source": {
+      "spectral_centroid_midi_units": 76.34880290765362,
+      "absolute_rms": 0.13182970106467456,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 76.4356381197181,
+      "absolute_rms": 0.13220233459036443,
+      "duration_seconds": 3.75,
+      "covered_seconds": 3.749999999999794
+    },
+    "register_difference": 0.08683521206448575,
+    "rms_ratio": 1.0028266280108384,
+    "duration_ratio": 1.25
+  },
+  {
+    "group": "bach-bwv787",
+    "cell": "foil",
+    "source": {
+      "spectral_centroid_midi_units": 76.34880290765362,
+      "absolute_rms": 0.13182970106467456,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 76.5121926599426,
+      "absolute_rms": 0.13132390659524368,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": 0.16338975228897823,
+    "rms_ratio": 0.9961632737892446,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "novel-evaluation-01",
+    "cell": "unchanged",
+    "source": {
+      "spectral_centroid_midi_units": 71.57447205546275,
+      "absolute_rms": 0.1318286414330485,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999994
+    },
+    "query": {
+      "spectral_centroid_midi_units": 71.63860339782984,
+      "absolute_rms": 0.13138157204794354,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": 0.06413134236709084,
+    "rms_ratio": 0.9966087082424192,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "novel-evaluation-01",
+    "cell": "transpose",
+    "source": {
+      "spectral_centroid_midi_units": 71.57447205546275,
+      "absolute_rms": 0.1318286414330485,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999994
+    },
+    "query": {
+      "spectral_centroid_midi_units": 66.67247032736502,
+      "absolute_rms": 0.13137511520404285,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": -4.90200172809773,
+    "rms_ratio": 0.9965597291751201,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "novel-evaluation-01",
+    "cell": "stretch",
+    "source": {
+      "spectral_centroid_midi_units": 71.57447205546275,
+      "absolute_rms": 0.1318286414330485,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999994
+    },
+    "query": {
+      "spectral_centroid_midi_units": 71.64301854635542,
+      "absolute_rms": 0.13057796401726546,
+      "duration_seconds": 2.3999999999999986,
+      "covered_seconds": 2.3999999999998636
+    },
+    "register_difference": 0.06854649089267184,
+    "rms_ratio": 0.990512855156607,
+    "duration_ratio": 0.7999999999999995
+  },
+  {
+    "group": "novel-evaluation-01",
+    "cell": "foil",
+    "source": {
+      "spectral_centroid_midi_units": 71.57447205546275,
+      "absolute_rms": 0.1318286414330485,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999994
+    },
+    "query": {
+      "spectral_centroid_midi_units": 72.20909303354179,
+      "absolute_rms": 0.13138130704806894,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": 0.6346209780790417,
+    "rms_ratio": 0.9966066980580487,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "novel-evaluation-02",
+    "cell": "unchanged",
+    "source": {
+      "spectral_centroid_midi_units": 72.7040089289634,
+      "absolute_rms": 0.13182795369032005,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999993
+    },
+    "query": {
+      "spectral_centroid_midi_units": 72.7040089289634,
+      "absolute_rms": 0.13182795369032005,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": 0.0,
+    "rms_ratio": 1.0,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "novel-evaluation-02",
+    "cell": "transpose",
+    "source": {
+      "spectral_centroid_midi_units": 72.7040089289634,
+      "absolute_rms": 0.13182795369032005,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999993
+    },
+    "query": {
+      "spectral_centroid_midi_units": 70.70666127773077,
+      "absolute_rms": 0.1318277092270306,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": -1.99734765123263,
+    "rms_ratio": 0.9999981455883779,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "novel-evaluation-02",
+    "cell": "stretch",
+    "source": {
+      "spectral_centroid_midi_units": 72.7040089289634,
+      "absolute_rms": 0.13182795369032005,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999993
+    },
+    "query": {
+      "spectral_centroid_midi_units": 72.57157864992924,
+      "absolute_rms": 0.13196667949324406,
+      "duration_seconds": 3.75,
+      "covered_seconds": 3.749999999999787
+    },
+    "register_difference": -0.1324302790341676,
+    "rms_ratio": 1.0010523246325274,
+    "duration_ratio": 1.25
+  },
+  {
+    "group": "novel-evaluation-02",
+    "cell": "foil",
+    "source": {
+      "spectral_centroid_midi_units": 72.7040089289634,
+      "absolute_rms": 0.13182795369032005,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999993
+    },
+    "query": {
+      "spectral_centroid_midi_units": 71.57871264116892,
+      "absolute_rms": 0.1318282811014696,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": -1.1252962877944839,
+    "rms_ratio": 1.000002483624606,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "novel-evaluation-03",
+    "cell": "unchanged",
+    "source": {
+      "spectral_centroid_midi_units": 58.98534756791437,
+      "absolute_rms": 0.13181045999418783,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 58.96810951953009,
+      "absolute_rms": 0.13141589628912628,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": -0.01723804838427867,
+    "rms_ratio": 0.9970065827470829,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "novel-evaluation-03",
+    "cell": "transpose",
+    "source": {
+      "spectral_centroid_midi_units": 58.98534756791437,
+      "absolute_rms": 0.13181045999418783,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 60.96502889243836,
+      "absolute_rms": 0.13142585765273793,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": 1.9796813245239946,
+    "rms_ratio": 0.9970821561394531,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "novel-evaluation-03",
+    "cell": "stretch",
+    "source": {
+      "spectral_centroid_midi_units": 58.98534756791437,
+      "absolute_rms": 0.13181045999418783,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 58.9195976246251,
+      "absolute_rms": 0.13063191545182842,
+      "duration_seconds": 2.3999999999999986,
+      "covered_seconds": 2.3999999999998636
+    },
+    "register_difference": -0.0657499432892692,
+    "rms_ratio": 0.9910587934947547,
+    "duration_ratio": 0.7999999999999995
+  },
+  {
+    "group": "novel-evaluation-03",
+    "cell": "foil",
+    "source": {
+      "spectral_centroid_midi_units": 58.98534756791437,
+      "absolute_rms": 0.13181045999418783,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 59.89785164843426,
+      "absolute_rms": 0.1314285816443471,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": 0.912504080519895,
+    "rms_ratio": 0.9971028221139842,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "novel-evaluation-04",
+    "cell": "unchanged",
+    "source": {
+      "spectral_centroid_midi_units": 62.611425946636906,
+      "absolute_rms": 0.13182453477084474,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 62.57291313325543,
+      "absolute_rms": 0.1313117547887821,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": -0.038512813381473165,
+    "rms_ratio": 0.9961101324351038,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "novel-evaluation-04",
+    "cell": "transpose",
+    "source": {
+      "spectral_centroid_midi_units": 62.611425946636906,
+      "absolute_rms": 0.13182453477084474,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 67.51450901648215,
+      "absolute_rms": 0.13132080896177897,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": 4.903083069845245,
+    "rms_ratio": 0.9961788159545458,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "novel-evaluation-04",
+    "cell": "stretch",
+    "source": {
+      "spectral_centroid_midi_units": 62.611425946636906,
+      "absolute_rms": 0.13182453477084474,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 62.51137519714475,
+      "absolute_rms": 0.13219897317617416,
+      "duration_seconds": 3.75,
+      "covered_seconds": 3.749999999999794
+    },
+    "register_difference": -0.10005074949215498,
+    "rms_ratio": 1.002840430318835,
+    "duration_ratio": 1.25
+  },
+  {
+    "group": "novel-evaluation-04",
+    "cell": "foil",
+    "source": {
+      "spectral_centroid_midi_units": 62.611425946636906,
+      "absolute_rms": 0.13182453477084474,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 62.42961446498109,
+      "absolute_rms": 0.13131063616677288,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": -0.18181148165581362,
+    "rms_ratio": 0.996101646746069,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "novel-evaluation-05",
+    "cell": "unchanged",
+    "source": {
+      "spectral_centroid_midi_units": 62.69595254644568,
+      "absolute_rms": 0.13183273596402906,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999994
+    },
+    "query": {
+      "spectral_centroid_midi_units": 62.64246185133801,
+      "absolute_rms": 0.13138499669235906,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": -0.05349069510766924,
+    "rms_ratio": 0.9966037322339107,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "novel-evaluation-05",
+    "cell": "transpose",
+    "source": {
+      "spectral_centroid_midi_units": 62.69595254644568,
+      "absolute_rms": 0.13183273596402906,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999994
+    },
+    "query": {
+      "spectral_centroid_midi_units": 57.639863580083976,
+      "absolute_rms": 0.131401776462992,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": -5.056088966361706,
+    "rms_ratio": 0.9967310129924434,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "novel-evaluation-05",
+    "cell": "stretch",
+    "source": {
+      "spectral_centroid_midi_units": 62.69595254644568,
+      "absolute_rms": 0.13183273596402906,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999994
+    },
+    "query": {
+      "spectral_centroid_midi_units": 62.660403981216895,
+      "absolute_rms": 0.13057328551709255,
+      "duration_seconds": 2.3999999999999986,
+      "covered_seconds": 2.3999999999998636
+    },
+    "register_difference": -0.0355485652287868,
+    "rms_ratio": 0.9904466031314092,
+    "duration_ratio": 0.7999999999999995
+  },
+  {
+    "group": "novel-evaluation-05",
+    "cell": "foil",
+    "source": {
+      "spectral_centroid_midi_units": 62.69595254644568,
+      "absolute_rms": 0.13183273596402906,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999994
+    },
+    "query": {
+      "spectral_centroid_midi_units": 61.85188383585731,
+      "absolute_rms": 0.13138345348169495,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": -0.844068710588374,
+    "rms_ratio": 0.9965920264109766,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "novel-evaluation-06",
+    "cell": "unchanged",
+    "source": {
+      "spectral_centroid_midi_units": 74.56233254731119,
+      "absolute_rms": 0.13182813962758197,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999993
+    },
+    "query": {
+      "spectral_centroid_midi_units": 74.56233254731119,
+      "absolute_rms": 0.131828139627582,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": 0.0,
+    "rms_ratio": 1.0000000000000002,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "novel-evaluation-06",
+    "cell": "transpose",
+    "source": {
+      "spectral_centroid_midi_units": 74.56233254731119,
+      "absolute_rms": 0.13182813962758197,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999993
+    },
+    "query": {
+      "spectral_centroid_midi_units": 72.56775027782919,
+      "absolute_rms": 0.13182766619083097,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": -1.9945822694819952,
+    "rms_ratio": 0.9999964086821499,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "novel-evaluation-06",
+    "cell": "stretch",
+    "source": {
+      "spectral_centroid_midi_units": 74.56233254731119,
+      "absolute_rms": 0.13182813962758197,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999993
+    },
+    "query": {
+      "spectral_centroid_midi_units": 74.49350749186482,
+      "absolute_rms": 0.13196412351537778,
+      "duration_seconds": 3.75,
+      "covered_seconds": 3.749999999999787
+    },
+    "register_difference": -0.06882505544636786,
+    "rms_ratio": 1.0010315239840293,
+    "duration_ratio": 1.25
+  },
+  {
+    "group": "novel-evaluation-06",
+    "cell": "foil",
+    "source": {
+      "spectral_centroid_midi_units": 74.56233254731119,
+      "absolute_rms": 0.13182813962758197,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999993
+    },
+    "query": {
+      "spectral_centroid_midi_units": 73.45072330338516,
+      "absolute_rms": 0.13182769842948786,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": -1.1116092439260257,
+    "rms_ratio": 0.9999966532327972,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "novel-evaluation-07",
+    "cell": "unchanged",
+    "source": {
+      "spectral_centroid_midi_units": 61.618414828930405,
+      "absolute_rms": 0.13182894730217481,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 61.54532051489484,
+      "absolute_rms": 0.13142638095338874,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": -0.07309431403556488,
+    "rms_ratio": 0.9969462977819028,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "novel-evaluation-07",
+    "cell": "transpose",
+    "source": {
+      "spectral_centroid_midi_units": 61.618414828930405,
+      "absolute_rms": 0.13182894730217481,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 63.55403446602028,
+      "absolute_rms": 0.13142156678231764,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": 1.9356196370898786,
+    "rms_ratio": 0.9969097794665432,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "novel-evaluation-07",
+    "cell": "stretch",
+    "source": {
+      "spectral_centroid_midi_units": 61.618414828930405,
+      "absolute_rms": 0.13182894730217481,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 61.605202358256925,
+      "absolute_rms": 0.1306402773820922,
+      "duration_seconds": 2.3999999999999986,
+      "covered_seconds": 2.3999999999998636
+    },
+    "register_difference": -0.01321247067347997,
+    "rms_ratio": 0.990983240445985,
+    "duration_ratio": 0.7999999999999995
+  },
+  {
+    "group": "novel-evaluation-07",
+    "cell": "foil",
+    "source": {
+      "spectral_centroid_midi_units": 61.618414828930405,
+      "absolute_rms": 0.13182894730217481,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 61.557747978873934,
+      "absolute_rms": 0.13141824300244376,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": -0.06066685005647088,
+    "rms_ratio": 0.9968845666438522,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "novel-evaluation-08",
+    "cell": "unchanged",
+    "source": {
+      "spectral_centroid_midi_units": 61.862702270495724,
+      "absolute_rms": 0.13183634727802013,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 61.75868282223722,
+      "absolute_rms": 0.13131907498738044,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": -0.10401944825850507,
+    "rms_ratio": 0.9960764060798131,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "novel-evaluation-08",
+    "cell": "transpose",
+    "source": {
+      "spectral_centroid_midi_units": 61.862702270495724,
+      "absolute_rms": 0.13183634727802013,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 66.690550814051,
+      "absolute_rms": 0.13131428715089605,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": 4.82784854355527,
+    "rms_ratio": 0.9960400895663232,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "novel-evaluation-08",
+    "cell": "stretch",
+    "source": {
+      "spectral_centroid_midi_units": 61.862702270495724,
+      "absolute_rms": 0.13183634727802013,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 61.85607255175052,
+      "absolute_rms": 0.1321947726875302,
+      "duration_seconds": 3.75,
+      "covered_seconds": 3.749999999999794
+    },
+    "register_difference": -0.00662971874520224,
+    "rms_ratio": 1.002718714655786,
+    "duration_ratio": 1.25
+  },
+  {
+    "group": "novel-evaluation-08",
+    "cell": "foil",
+    "source": {
+      "spectral_centroid_midi_units": 61.862702270495724,
+      "absolute_rms": 0.13183634727802013,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 61.242527826690264,
+      "absolute_rms": 0.13132394193224595,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": -0.6201744438054604,
+    "rms_ratio": 0.9961133226431584,
+    "duration_ratio": 1.0
+  }
+]

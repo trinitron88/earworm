@@ -6,16 +6,21 @@ Earworm's finish line is a reusable, stateful listener for continuous musical au
 
 ## Current evidence and decision
 
-Brian authorized one borrowed-recurrence comparison, followed by one route decision. The closed handcrafted continuous-front sequence is preserved. This branch compares a disclosed CENS/DTW variant and unchanged local MERT temporal features, with a separate clean-score ceiling. Each phrase is heard once, followed by 32 seconds of interference and actual four-second raw-buffer eviction.
+**The authorized borrowed-recurrence comparison is complete: computed Result C, awaiting the existing exact-head reviewer.** Its implementation, provenance, access, eviction, timing and preservation checks all pass. Neither audio route meets the complete acceptance gates, and the clean-score reference also misses the transformation-estimation requirement. This is a valid negative comparison, not the historical reporting failure and not proof of an acoustic-memory failure.
 
-Preparation acquired twelve explicitly public-domain Mutopia Bach editions (123,847 source bytes), fixed disjoint piece splits, and completed 32 development sessions. Each route is measured with full state, recent-only state and removal of source-linked records. The two MERT layer candidates and thresholds are selected on development only. The 16 held-out families remain unopened until the execution freeze and PR #2 receipt.
+On 16 fresh held-out families (eight Bach works and eight newly composed motifs), the standard CENS/DTW variant identifies 16/16 unchanged returns, 12/16 transposed returns and 12/16 stretched returns, while falsely accepting 2/16 unrelated foils. Frozen MERT layer12 identifies 16/16 unchanged returns, 0/16 transposed returns and 4/16 stretched returns. The clean-score reference identifies all48 returning occurrences but achieves only12/16 joint identity-and-transformation successes in each changed cell, below the frozen80% requirement. Localization remains a separate diagnostic.
 
-This test concerns rendered isolated score figures and newly composed motifs. No continuous listener, natural-performance transfer, polyphony, perceptual identity or musical appreciation claim follows. Its temporary two-second query window and simple alignment readout are explicit limitations. No memory-capacity pressure is claimed when FIFO replacement does not occur.
+History helps all routes: source audio is genuinely absent from the four-second raw buffer, and removing source-linked persistent records eliminates source recovery. The common absolute spectral/energy/time evidence independently reconstructs within tolerance. These sessions did not create FIFO replacement pressure. This establishes a limited delay/interference result, not full-capacity memory robustness.
 
-- [Frozen comparison protocol](experiments/borrowed-recurrence-feasibility-v1/PROTOCOL.md)
-- [Public-domain source manifest](experiments/borrowed-recurrence-feasibility-v1/sources/manifest.json)
-- [Development evidence](experiments/borrowed-recurrence-feasibility-v1/results/development/)
-- [Historical invalid reporting checkpoint](experiments/causal-spectral-patch-v1/REPORT.md)
+The 96 unique development/evaluation sessions produced960 music readouts. With a conservative40-probe qualification charge, the1000-execution ceiling is fully allocated. No extra trial, repair or model change follows. MERT stayed frozen; paid compute was$0. All historical experiment artifacts remain unchanged.
+
+These are analytical isolated Bach score renders and constructed motifs. No natural-performance transfer, polyphony, human perceptual identity, fugue comprehension or musical appreciation claim follows. The fixed two-second query fragment and simple alignment-derived stretch estimate are declared limitations; the clean-input result prevents treating the failure as an encoder-only diagnosis.
+
+- [Held-out report](experiments/borrowed-recurrence-feasibility-v1/results/evaluation/REPORT.md)
+- [All metrics, controls and confidence intervals](experiments/borrowed-recurrence-feasibility-v1/results/evaluation/analysis.json)
+- [Independent validation](experiments/borrowed-recurrence-feasibility-v1/results/evaluation/validation.json)
+- [Protocol and exact freeze](experiments/borrowed-recurrence-feasibility-v1/PROTOCOL.md)
+- [Publication and resource provenance](experiments/borrowed-recurrence-feasibility-v1/publication.json)
 
 ## Finite capability checklist
 
@@ -23,7 +28,7 @@ This test concerns rendered isolated score figures and newly composed motifs. No
 |---|---|---|
 | Continuous input and causal event/voice organization | Chunk-only API/timing validated; trim/aggregation sequence ended without adoption | Pass frozen prediction, event, uncertainty and safety gates without supplied boundaries |
 | History-improved calibrated forecasts at multiple meaningful horizons | Single-step synthetic supplied-boundary prediction demonstrated | Fresh non-overlapping horizon tests against strong present/transition/retrieval baselines |
-| Long-term transformed recognition | Early short-history transformation evidence only | Separate transformations, actual recent-buffer eviction, all accessible storage counted, unfamiliar motifs and relevant-memory removal |
+| Long-term transformed recognition | 32-second rendered recurrence/control evidence; neither borrowed audio route qualifies | Separate transformations, actual recent-buffer eviction, all accessible storage counted, unfamiliar motifs and relevant-memory removal |
 | Retain realization details and detect change | Early controlled edit/representation evidence | Report recognition and retained pitch/timbre/rhythm detail separately for declared interference delays |
 | Uncertainty, contradiction and recovery | Controlled ambiguity checks only | Preserve immutable evidence, revise interpretations when new sound contradicts expectations, avoid silently filling missing audio |
 | Session continuity and bounded execution | Per-run causal logs and bounded short buffers | Save/restore listening state; distinguish captured silence from missing samples; measure actual availability and storage/compute |
@@ -33,7 +38,7 @@ This test concerns rendered isolated score figures and newly composed motifs. No
 
 A reusable listener release must expose a continuous PCM input and persistent listening-state interface, with explicit measured memory/compute/latency limits, immutable evidence references and separately labeled measurements/interpretations/forecasts. It must pass **all six functional rows above**, on fresh controlled interventions and independently reviewed held-out musical material appropriate to its declared scope. A combined score cannot hide lost detail, failed calibration or forgetting. The substantial Bach milestone additionally requires the seventh row's progression; success on isolated voices cannot be advertised as complete-fugue listening.
 
-The PM must freeze concrete thresholds, datasets, horizons and delays in bounded assignments before each acceptance test. This checklist is a finite release gate, not authorization for seven immediate experiments or an open-ended audit sequence. No release is currently accepted. The next unresolved prerequisite is a reliable continuous representation; subsequent stages require explicit PM assignments after review.
+The PM must freeze concrete thresholds, datasets, horizons and delays in bounded assignments before each acceptance test. This checklist is a finite release gate, not authorization for seven immediate experiments or an open-ended audit sequence. No release is currently accepted. The current comparison leaves the correspondence/readout design unresolved; subsequent stages require explicit PM assignments after review.
 
 ## Preserved history and next action
 
@@ -44,4 +49,4 @@ PR #10's supplied-boundary observation repair passed its scoped test; PR #9 iden
 - [History prediction](experiments/history-prediction-v1/REPORT.md)
 - [Original E08 state](review/experiment08/original-snapshot-PROJECT_STATE.md)
 
-The next authorized action is the single frozen borrowed-recurrence evaluation, after software/provenance/resource qualification and exact execution preregistration. Publish one complete successor PR and stop for the existing reviewer. A selects an adequate audio route; B identifies an observation/readout limitation when the clean ceiling succeeds; C reconsiders correspondence/test design when it does not; INVALID preserves failures without a scientific negative. No automatic repair chain, additional experiment, paid resource, training, MERT change, historical rewrite or worker merge is authorized.
+The authorized comparison is complete. Publish this complete successor and stop for the existing exact-head reviewer and PM disposition. Result C calls for reconsidering correspondence/test design before adding a memory controller; this is a decision boundary, not authorization for another local repair or experiment. The handcrafted continuous-front sequence remains closed. No merge, new training, paid resource, model download/change, historical rewrite or reviewer/poll change is performed.

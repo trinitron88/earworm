@@ -1,0 +1,39 @@
+{
+  "group": "novel-evaluation-07",
+  "cell": "foil",
+  "seconds": 40.0,
+  "session_wall_seconds": 1.9941717499750666,
+  "executions": 9,
+  "spectral_seconds": 0.01014816202223301,
+  "mert_seconds": 1.2702664157841355,
+  "preservation": {
+    "power_max_relative_error": 1.7716022467693253e-15,
+    "rms_max_relative_error": 2.906467689534458e-15,
+    "timestamp_support_pass": true,
+    "pass": true
+  },
+  "source_units_retained": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "source_frame_count": 30,
+  "source_pcm_evicted": true,
+  "finish": {
+    "peak_state_bytes": 2801856,
+    "raw_ring_start_sample": 864000,
+    "raw_ring_bytes": 384000,
+    "unit_replacements": 0,
+    "broker_received_monotonic": 476362.641826708
+  },
+  "peak_rss_bytes": 991821824,
+  "peak_raw_ring_chunks": 4,
+  "extraction_roundtrip_seconds": 1.3605815839837305,
+  "last_required_query_context": [
+    936000,
+    960000
+  ],
+  "input_sha256": "11d998e2ef3bda38c2bb0a035592c4b0c8651ec8a0d911f22636da3659183b59",
+  "measurements_sha256": "399cf8ee27d79ee68d33380197ad75c08fc87f1d758a2e96d3ecf30ef497533e"
+}
