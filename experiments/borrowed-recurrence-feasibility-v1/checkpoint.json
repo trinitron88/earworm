@@ -1,0 +1,11 @@
+{
+  "status": "awaiting_review",
+  "assignment_id": "earworm-borrowed-recurrence-feasibility-v1",
+  "execution_sha": "db33138b7eb6336fe99b7f9260558fc9a8a6b6b0",
+  "evaluation_complete": true,
+  "sessions_completed": 96,
+  "decision": "C",
+  "no_retest": true,
+  "resource_ledger": "publication.json",
+  "validation": "results/evaluation/validation.json"
+}

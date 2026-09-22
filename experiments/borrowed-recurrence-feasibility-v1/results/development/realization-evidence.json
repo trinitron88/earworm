@@ -1,0 +1,610 @@
+[
+  {
+    "group": "bach-bwv773",
+    "cell": "unchanged",
+    "source": {
+      "spectral_centroid_midi_units": 72.76430023867171,
+      "absolute_rms": 0.13182702565571752,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999994
+    },
+    "query": {
+      "spectral_centroid_midi_units": 72.75033838143187,
+      "absolute_rms": 0.13137746701563138,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": -0.013961857239834785,
+    "rms_ratio": 0.9965897839395981,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "bach-bwv773",
+    "cell": "transpose",
+    "source": {
+      "spectral_centroid_midi_units": 72.76430023867171,
+      "absolute_rms": 0.13182702565571752,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999994
+    },
+    "query": {
+      "spectral_centroid_midi_units": 67.7644689454084,
+      "absolute_rms": 0.1313726851040998,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": -4.999831293263313,
+    "rms_ratio": 0.9965535098030333,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "bach-bwv773",
+    "cell": "stretch",
+    "source": {
+      "spectral_centroid_midi_units": 72.76430023867171,
+      "absolute_rms": 0.13182702565571752,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999994
+    },
+    "query": {
+      "spectral_centroid_midi_units": 72.61159135594369,
+      "absolute_rms": 0.130570378761198,
+      "duration_seconds": 2.3999999999999986,
+      "covered_seconds": 2.3999999999998636
+    },
+    "register_difference": -0.15270888272802097,
+    "rms_ratio": 0.9904674562118894,
+    "duration_ratio": 0.7999999999999995
+  },
+  {
+    "group": "bach-bwv773",
+    "cell": "foil",
+    "source": {
+      "spectral_centroid_midi_units": 72.76430023867171,
+      "absolute_rms": 0.13182702565571752,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999994
+    },
+    "query": {
+      "spectral_centroid_midi_units": 72.56945658498026,
+      "absolute_rms": 0.1313766972381225,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": -0.19484365369144996,
+    "rms_ratio": 0.996583944639917,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "bach-bwv775",
+    "cell": "unchanged",
+    "source": {
+      "spectral_centroid_midi_units": 67.56417419972614,
+      "absolute_rms": 0.13182844036278296,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999993
+    },
+    "query": {
+      "spectral_centroid_midi_units": 67.56417419972614,
+      "absolute_rms": 0.13182844036278296,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": 0.0,
+    "rms_ratio": 1.0,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "bach-bwv775",
+    "cell": "transpose",
+    "source": {
+      "spectral_centroid_midi_units": 67.56417419972614,
+      "absolute_rms": 0.13182844036278296,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999993
+    },
+    "query": {
+      "spectral_centroid_midi_units": 65.57129557330356,
+      "absolute_rms": 0.13182818790432377,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": -1.9928786264225806,
+    "rms_ratio": 0.9999980849469318,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "bach-bwv775",
+    "cell": "stretch",
+    "source": {
+      "spectral_centroid_midi_units": 67.56417419972614,
+      "absolute_rms": 0.13182844036278296,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999993
+    },
+    "query": {
+      "spectral_centroid_midi_units": 67.58198520187418,
+      "absolute_rms": 0.13196248956751033,
+      "duration_seconds": 3.75,
+      "covered_seconds": 3.749999999999787
+    },
+    "register_difference": 0.017811002148036437,
+    "rms_ratio": 1.0010168458669348,
+    "duration_ratio": 1.25
+  },
+  {
+    "group": "bach-bwv775",
+    "cell": "foil",
+    "source": {
+      "spectral_centroid_midi_units": 67.56417419972614,
+      "absolute_rms": 0.13182844036278296,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999993
+    },
+    "query": {
+      "spectral_centroid_midi_units": 67.56529230021182,
+      "absolute_rms": 0.13182844036278296,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": 0.0011181004856837262,
+    "rms_ratio": 1.0,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "bach-bwv778",
+    "cell": "unchanged",
+    "source": {
+      "spectral_centroid_midi_units": 73.37241694492087,
+      "absolute_rms": 0.13182681682292485,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 73.31127364618675,
+      "absolute_rms": 0.1314305852716189,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": -0.061143298734123164,
+    "rms_ratio": 0.9969943023668836,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "bach-bwv778",
+    "cell": "transpose",
+    "source": {
+      "spectral_centroid_midi_units": 73.37241694492087,
+      "absolute_rms": 0.13182681682292485,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 75.28709262543765,
+      "absolute_rms": 0.13143251751863047,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": 1.9146756805167797,
+    "rms_ratio": 0.9970089598323228,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "bach-bwv778",
+    "cell": "stretch",
+    "source": {
+      "spectral_centroid_midi_units": 73.37241694492087,
+      "absolute_rms": 0.13182681682292485,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 73.32123267518126,
+      "absolute_rms": 0.1306409913428561,
+      "duration_seconds": 2.3999999999999986,
+      "covered_seconds": 2.3999999999998636
+    },
+    "register_difference": -0.05118426973960766,
+    "rms_ratio": 0.9910046718213517,
+    "duration_ratio": 0.7999999999999995
+  },
+  {
+    "group": "bach-bwv778",
+    "cell": "foil",
+    "source": {
+      "spectral_centroid_midi_units": 73.37241694492087,
+      "absolute_rms": 0.13182681682292485,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 72.48814451982179,
+      "absolute_rms": 0.13142601378138583,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": -0.8842724250990841,
+    "rms_ratio": 0.9969596243677992,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "bach-bwv781",
+    "cell": "unchanged",
+    "source": {
+      "spectral_centroid_midi_units": 74.64180061395135,
+      "absolute_rms": 0.13183063389480223,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 74.67982720543017,
+      "absolute_rms": 0.1313218768169567,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": 0.03802659147882537,
+    "rms_ratio": 0.996140828100307,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "bach-bwv781",
+    "cell": "transpose",
+    "source": {
+      "spectral_centroid_midi_units": 74.64180061395135,
+      "absolute_rms": 0.13183063389480223,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 79.58681429272747,
+      "absolute_rms": 0.13132110767807317,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": 4.945013678776121,
+    "rms_ratio": 0.9961349938047355,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "bach-bwv781",
+    "cell": "stretch",
+    "source": {
+      "spectral_centroid_midi_units": 74.64180061395135,
+      "absolute_rms": 0.13183063389480223,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 74.78793123898055,
+      "absolute_rms": 0.132201934740526,
+      "duration_seconds": 3.75,
+      "covered_seconds": 3.749999999999794
+    },
+    "register_difference": 0.14613062502920116,
+    "rms_ratio": 1.0028164989786823,
+    "duration_ratio": 1.25
+  },
+  {
+    "group": "bach-bwv781",
+    "cell": "foil",
+    "source": {
+      "spectral_centroid_midi_units": 74.64180061395135,
+      "absolute_rms": 0.13183063389480223,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 73.78600721499532,
+      "absolute_rms": 0.13132027622212,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": -0.855793398956024,
+    "rms_ratio": 0.9961286868036341,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "novel-development-01",
+    "cell": "unchanged",
+    "source": {
+      "spectral_centroid_midi_units": 62.06666331398643,
+      "absolute_rms": 0.13182804156652017,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999994
+    },
+    "query": {
+      "spectral_centroid_midi_units": 62.05311963034432,
+      "absolute_rms": 0.13138672881776164,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": -0.013543683642112114,
+    "rms_ratio": 0.9966523605788694,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "novel-development-01",
+    "cell": "transpose",
+    "source": {
+      "spectral_centroid_midi_units": 62.06666331398643,
+      "absolute_rms": 0.13182804156652017,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999994
+    },
+    "query": {
+      "spectral_centroid_midi_units": 57.03698083499249,
+      "absolute_rms": 0.13139802872212608,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": -5.029682478993941,
+    "rms_ratio": 0.9967380775798212,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "novel-development-01",
+    "cell": "stretch",
+    "source": {
+      "spectral_centroid_midi_units": 62.06666331398643,
+      "absolute_rms": 0.13182804156652017,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999994
+    },
+    "query": {
+      "spectral_centroid_midi_units": 61.820414060453686,
+      "absolute_rms": 0.1305906662460375,
+      "duration_seconds": 2.3999999999999986,
+      "covered_seconds": 2.3999999999998636
+    },
+    "register_difference": -0.24624925353274563,
+    "rms_ratio": 0.9906137168861884,
+    "duration_ratio": 0.7999999999999995
+  },
+  {
+    "group": "novel-development-01",
+    "cell": "foil",
+    "source": {
+      "spectral_centroid_midi_units": 62.06666331398643,
+      "absolute_rms": 0.13182804156652017,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999994
+    },
+    "query": {
+      "spectral_centroid_midi_units": 63.29398827545776,
+      "absolute_rms": 0.13138997807305378,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": 1.227324961471325,
+    "rms_ratio": 0.9966770082581758,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "novel-development-02",
+    "cell": "unchanged",
+    "source": {
+      "spectral_centroid_midi_units": 67.60029638402614,
+      "absolute_rms": 0.13182714422432226,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999993
+    },
+    "query": {
+      "spectral_centroid_midi_units": 67.60029638402617,
+      "absolute_rms": 0.13182714422432226,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": 2.842170943040401e-14,
+    "rms_ratio": 1.0,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "novel-development-02",
+    "cell": "transpose",
+    "source": {
+      "spectral_centroid_midi_units": 67.60029638402614,
+      "absolute_rms": 0.13182714422432226,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999993
+    },
+    "query": {
+      "spectral_centroid_midi_units": 65.62680395811968,
+      "absolute_rms": 0.1318280509500084,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": -1.973492425906457,
+    "rms_ratio": 1.000006878141004,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "novel-development-02",
+    "cell": "stretch",
+    "source": {
+      "spectral_centroid_midi_units": 67.60029638402614,
+      "absolute_rms": 0.13182714422432226,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999993
+    },
+    "query": {
+      "spectral_centroid_midi_units": 67.60513792254729,
+      "absolute_rms": 0.13196492542380106,
+      "duration_seconds": 3.75,
+      "covered_seconds": 3.749999999999787
+    },
+    "register_difference": 0.004841538521148436,
+    "rms_ratio": 1.001045165624193,
+    "duration_ratio": 1.25
+  },
+  {
+    "group": "novel-development-02",
+    "cell": "foil",
+    "source": {
+      "spectral_centroid_midi_units": 67.60029638402614,
+      "absolute_rms": 0.13182714422432226,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.999999999999993
+    },
+    "query": {
+      "spectral_centroid_midi_units": 67.60029705220161,
+      "absolute_rms": 0.13182714422432226,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": 6.681754740611723e-07,
+    "rms_ratio": 1.0,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "novel-development-03",
+    "cell": "unchanged",
+    "source": {
+      "spectral_centroid_midi_units": 69.15176085400552,
+      "absolute_rms": 0.1318288667459677,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 69.27098020659234,
+      "absolute_rms": 0.13143042032927205,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": 0.11921935258682481,
+    "rms_ratio": 0.9969775480398884,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "novel-development-03",
+    "cell": "transpose",
+    "source": {
+      "spectral_centroid_midi_units": 69.15176085400552,
+      "absolute_rms": 0.1318288667459677,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 71.23970684599722,
+      "absolute_rms": 0.1314283152454833,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": 2.0879459919917025,
+    "rms_ratio": 0.9969615797330924,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "novel-development-03",
+    "cell": "stretch",
+    "source": {
+      "spectral_centroid_midi_units": 69.15176085400552,
+      "absolute_rms": 0.1318288667459677,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 69.01965034218814,
+      "absolute_rms": 0.1306445695951083,
+      "duration_seconds": 2.3999999999999986,
+      "covered_seconds": 2.3999999999998636
+    },
+    "register_difference": -0.13211051181737332,
+    "rms_ratio": 0.9910164049794837,
+    "duration_ratio": 0.7999999999999995
+  },
+  {
+    "group": "novel-development-03",
+    "cell": "foil",
+    "source": {
+      "spectral_centroid_midi_units": 69.15176085400552,
+      "absolute_rms": 0.1318288667459677,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 69.15151749556375,
+      "absolute_rms": 0.131426281985937,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": -0.00024335844176448518,
+    "rms_ratio": 0.9969461562556973,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "novel-development-04",
+    "cell": "unchanged",
+    "source": {
+      "spectral_centroid_midi_units": 61.05623959891719,
+      "absolute_rms": 0.13181389752337389,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 61.031777030213476,
+      "absolute_rms": 0.13132436346595333,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": -0.02446256870371144,
+    "rms_ratio": 0.9962861726523659,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "novel-development-04",
+    "cell": "transpose",
+    "source": {
+      "spectral_centroid_midi_units": 61.05623959891719,
+      "absolute_rms": 0.13181389752337389,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 65.96545543050554,
+      "absolute_rms": 0.13132724079306027,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": 4.909215831588355,
+    "rms_ratio": 0.9963080013605748,
+    "duration_ratio": 1.0
+  },
+  {
+    "group": "novel-development-04",
+    "cell": "stretch",
+    "source": {
+      "spectral_centroid_midi_units": 61.05623959891719,
+      "absolute_rms": 0.13181389752337389,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 61.110966987176944,
+      "absolute_rms": 0.1322047074932376,
+      "duration_seconds": 3.75,
+      "covered_seconds": 3.749999999999794
+    },
+    "register_difference": 0.05472738825975654,
+    "rms_ratio": 1.002964861651211,
+    "duration_ratio": 1.25
+  },
+  {
+    "group": "novel-development-04",
+    "cell": "foil",
+    "source": {
+      "spectral_centroid_midi_units": 61.05623959891719,
+      "absolute_rms": 0.13181389752337389,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999999916
+    },
+    "query": {
+      "spectral_centroid_midi_units": 61.287137326611074,
+      "absolute_rms": 0.13133044141839115,
+      "duration_seconds": 3.0,
+      "covered_seconds": 2.9999999999998295
+    },
+    "register_difference": 0.23089772769388617,
+    "rms_ratio": 0.9963322827557162,
+    "duration_ratio": 1.0
+  }
+]

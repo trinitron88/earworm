@@ -1,0 +1,53 @@
+{
+  "executions": 1000,
+  "actual_music_readouts": 960,
+  "conservative_qualification_probe_charge": 40,
+  "qualification_note": "40 reserved/charged for all preparation, parser/matcher/material/analysis fixtures and saved-only verification calls; planned music readouts960 leave no extra audio/model execution allowance. Completed initial MERT probe is reused.",
+  "aggregate_compute_seconds": 3659.4250628293335,
+  "prior_conservative_charge_seconds": 861.146346,
+  "active_preparation_wall_seconds": 1975.697137,
+  "concurrent_run_additive_seconds": 792.5815798293334,
+  "run_charge_note": "Four times session wall seconds additionally charged for multithreaded/overlapping local computation; active preparation wall already includes these sessions.",
+  "additional_parallel_fixture_reserve_seconds": 30,
+  "new_artifact_bytes": 606135712,
+  "external_spend_usd": 0,
+  "acquisition_bytes": 123847,
+  "routes": {
+    "standard": {
+      "max_decision_latency_seconds": 1.2455403330340076,
+      "extraction_matching_rtf": 0.0025813604006543756,
+      "peak_persistent_bytes": 2871989,
+      "raw_ring_seconds": 4,
+      "raw_ring_chunks": 4,
+      "extraction_unit_seconds": 1,
+      "end_to_end_compute_seconds": 5.810426071053371,
+      "unit_replacements": 0,
+      "model_weights_bytes": 0
+    },
+    "mert12": {
+      "max_decision_latency_seconds": 1.2422240839758913,
+      "extraction_matching_rtf": 0.03502849475771654,
+      "peak_persistent_bytes": 2871989,
+      "raw_ring_seconds": 4,
+      "raw_ring_chunks": 4,
+      "extraction_unit_seconds": 1,
+      "end_to_end_compute_seconds": 87.24696185812354,
+      "unit_replacements": 0,
+      "model_weights_bytes": 377552987
+    },
+    "ceiling": {
+      "max_decision_latency_seconds": 1.1693633740022804,
+      "extraction_matching_rtf": 0.0002110572750098072,
+      "peak_persistent_bytes": 221864,
+      "raw_ring_seconds": 0,
+      "raw_ring_chunks": 0,
+      "extraction_unit_seconds": 1,
+      "end_to_end_compute_seconds": 0.2927374148275703,
+      "unit_replacements": 0,
+      "model_weights_bytes": 0
+    }
+  },
+  "peak_listener_rss_bytes": 991821824,
+  "scratch_note": "Listener peak RSS includes fixed encoder, raw ring, persistent state, temporary tensors and serialization/readout copies. Persistent state is separately structurally measured; RSS is not presented as an exact allocator scratch difference.",
+  "capacity_pressure": false
+}

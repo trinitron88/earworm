@@ -1,0 +1,39 @@
+{
+  "group": "bach-bwv773",
+  "cell": "foil",
+  "seconds": 40.0,
+  "session_wall_seconds": 2.16357766703004,
+  "executions": 12,
+  "spectral_seconds": 0.010026124073192477,
+  "mert_seconds": 1.2607128740055487,
+  "preservation": {
+    "power_max_relative_error": 1.5791867452868242e-15,
+    "rms_max_relative_error": 2.8297109954164146e-15,
+    "timestamp_support_pass": true,
+    "pass": true
+  },
+  "source_units_retained": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "source_frame_count": 30,
+  "source_pcm_evicted": true,
+  "finish": {
+    "peak_state_bytes": 2801856,
+    "raw_ring_start_sample": 864000,
+    "raw_ring_bytes": 384000,
+    "unit_replacements": 0,
+    "broker_received_monotonic": 475723.8211365
+  },
+  "peak_rss_bytes": 992296960,
+  "peak_raw_ring_chunks": 4,
+  "extraction_roundtrip_seconds": 1.3504452059278265,
+  "last_required_query_context": [
+    936000,
+    960000
+  ],
+  "input_sha256": "5731b5247d6abb7c9dfa9604fd4972a6868d35b63766ae46d50b5600dab3da63",
+  "measurements_sha256": "bb296fd9b301db2dc7097fa573ec8fbf9a5c50da371b09304330ad23b8cb1f5d"
+}

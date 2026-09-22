@@ -1,0 +1,39 @@
+{
+  "ready": true,
+  "metadata": {
+    "model_class": "HubertModel",
+    "device": "cpu",
+    "threads": 4,
+    "sample_rate": 24000,
+    "window_samples": 24000,
+    "layers": [
+      6,
+      12
+    ],
+    "native_layer_index_zero": "embedding output",
+    "pooled_shape_per_layer": [
+      10,
+      768
+    ],
+    "pooling": "fractional equal-duration overlap of uniformly spaced hidden rows",
+    "parameters": 94371712,
+    "trainable_parameters": 0,
+    "missing_keys": [],
+    "unexpected_keys": [],
+    "model_hashes": {
+      "config.json": "ea2627c4c7825cd66f3c944b6b966331604c35928174e0100cd4a82829424e32",
+      "preprocessor_config.json": "cc5a5e4a5d3b1a758a5ed984b2eaa15bb0522d811d44a9eed82bfca4baa0dc8f",
+      "pytorch_model.bin": "a2b8b747f72c06e0595aeae41ae5473f4364938c6b39b2c58be38c48e6bd3fcd"
+    },
+    "versions": {
+      "numpy": "2.5.3",
+      "torch": "2.14.0",
+      "transformers": "4.44.2"
+    },
+    "load_seconds": 0.7215962500195019,
+    "output_availability": "All 24000 samples arrived, then complete inference and pooling; all ten rows share this availability",
+    "retained_audio_between_calls": false,
+    "external_downloads": false
+  },
+  "broker_received_monotonic": 475717.990241625
+}

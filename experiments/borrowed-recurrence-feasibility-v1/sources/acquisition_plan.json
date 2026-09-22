@@ -1,0 +1,91 @@
+{
+  "created_utc": "2026-09-22T14:49:34.674736+00:00",
+  "piece_split_fixed_before_download": true,
+  "pieces": [
+    {
+      "bwv": 773,
+      "split": "development",
+      "mutopia_id": 58,
+      "stem": "bach-invention-02",
+      "voice_policy": "first nonempty MIDI note track; isolated voice; first 12 nonoverlapping note events; reject chords instead of silently selecting"
+    },
+    {
+      "bwv": 774,
+      "split": "evaluation",
+      "mutopia_id": 70,
+      "stem": "bach-invention-03",
+      "voice_policy": "first nonempty MIDI note track; isolated voice; first 12 nonoverlapping note events; reject chords instead of silently selecting"
+    },
+    {
+      "bwv": 775,
+      "split": "development",
+      "mutopia_id": 67,
+      "stem": "bach-invention-04",
+      "voice_policy": "first nonempty MIDI note track; isolated voice; first 12 nonoverlapping note events; reject chords instead of silently selecting"
+    },
+    {
+      "bwv": 776,
+      "split": "evaluation",
+      "mutopia_id": 55,
+      "stem": "bach-invention-05",
+      "voice_policy": "first nonempty MIDI note track; isolated voice; first 12 nonoverlapping note events; reject chords instead of silently selecting"
+    },
+    {
+      "bwv": 778,
+      "split": "development",
+      "mutopia_id": 73,
+      "stem": "bach-invention-07",
+      "voice_policy": "first nonempty MIDI note track; isolated voice; first 12 nonoverlapping note events; reject chords instead of silently selecting"
+    },
+    {
+      "bwv": 779,
+      "split": "evaluation",
+      "mutopia_id": 61,
+      "stem": "bach-invention-08",
+      "voice_policy": "first nonempty MIDI note track; isolated voice; first 12 nonoverlapping note events; reject chords instead of silently selecting"
+    },
+    {
+      "bwv": 781,
+      "split": "development",
+      "mutopia_id": 62,
+      "stem": "bach-invention-10",
+      "voice_policy": "first nonempty MIDI note track; isolated voice; first 12 nonoverlapping note events; reject chords instead of silently selecting"
+    },
+    {
+      "bwv": 782,
+      "split": "evaluation",
+      "mutopia_id": 71,
+      "stem": "bach-invention-11",
+      "voice_policy": "first nonempty MIDI note track; isolated voice; first 12 nonoverlapping note events; reject chords instead of silently selecting"
+    },
+    {
+      "bwv": 784,
+      "split": "evaluation",
+      "mutopia_id": 59,
+      "stem": "bach-invention-13",
+      "voice_policy": "first nonempty MIDI note track; isolated voice; first 12 nonoverlapping note events; reject chords instead of silently selecting"
+    },
+    {
+      "bwv": 785,
+      "split": "evaluation",
+      "mutopia_id": 72,
+      "stem": "bach-invention-14",
+      "voice_policy": "first nonempty MIDI note track; isolated voice; first 12 nonoverlapping note events; reject chords instead of silently selecting"
+    },
+    {
+      "bwv": 786,
+      "split": "evaluation",
+      "mutopia_id": 68,
+      "stem": "bach-invention-15",
+      "voice_policy": "first nonempty MIDI note track; isolated voice; first 12 nonoverlapping note events; reject chords instead of silently selecting"
+    },
+    {
+      "bwv": 787,
+      "split": "evaluation",
+      "mutopia_id": 142,
+      "stem": "bwv787",
+      "voice_policy": "first nonempty MIDI note track; isolated voice; first 12 nonoverlapping note events; reject chords instead of silently selecting"
+    }
+  ],
+  "evaluation_policy": "preserve bytes; do not parse evaluation notes or render evaluation audio before preregistration"
+}

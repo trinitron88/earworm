@@ -1,0 +1,169 @@
+{
+  "assignment_id": "earworm-borrowed-recurrence-feasibility-v1",
+  "instruction_version": 2,
+  "base_sha": "73606d03f8416a9fdc50e1c6fbe301546a66a6c5",
+  "frozen_utc": "2026-09-22T15:13:46.728170+00:00",
+  "evaluation_exposed": false,
+  "hashes": {
+    "PROTOCOL.md": "78306202ae530edcc4463d3f137b83b97d5bd042a5aff5cddf7daf50cb99595b",
+    "analyze.py": "9df8d84d036be8cfb1c6570e0a88df83ae38cd31b31b2151a7c3230f171717d7",
+    "features.py": "895e0dcab5dcb7fbdf7772c2c6d3155e561c5e790f0d726d1875bf3c892474b5",
+    "input_manifest.json": "a93d01dc18bb592e2a2d468c7ca9f5b61d660c02d3d5a37c2133a83a3c921ae1",
+    "labels-and-schedule.json": "e9b17e1c334857eeb5dbc984bfeb39361b5f286e8bcd6164c78afc84cd74d183",
+    "listener.py": "3a35f5b1b70ddf106c3fe3eea722dffb428648c9d0319ef6bccfee0d4c1755de",
+    "make_report.py": "b355cc0a4bced36d0e3b2234bfb2bc0f4e4f0f281047caeda9e3157dc9547385",
+    "matching.py": "52d12eba1f9c92b21c4c3c2261d14d7b87dd571ba8cea258758d9ded6db51c8a",
+    "materials.py": "c64ecd5af0e4cf0274599fe67e15e794a190576cc6ce03334dbe2bfc1ee68bcc",
+    "midi_reader.py": "2c519d202e0446105686caa3f34e32195e39f48f50abccabe478dabf8d6dd84f",
+    "preflight.json": "df1a73046207132c954bdb99901c9c2dcd74c8eb48e5fadf764e93d7aec80904",
+    "preparation/qualification.json": "446484782e2c66cc0f6808fbef5c91bc108eebedb130ea42a88194863bcc0f3c",
+    "provenance/mutopia-142.html": "ea1adb0cfe60707d893f8179e4dfc142adf083c71c993ad2c9e4328fe51a1829",
+    "provenance/mutopia-55.html": "b4bc11359dec0f82e1be6218f7aed70a2ed4f673e703e68e7ea113e6a80ac071",
+    "provenance/mutopia-58.html": "178d27bd95d41649be940f103ae3d623b969b04bb0f488e705d30d5d5562906f",
+    "provenance/mutopia-59.html": "8e880d8af1ec3e8d4c986c527c920c59ba71a85712056fd54734b6b39a19e39b",
+    "provenance/mutopia-61.html": "c565fa2833bde8f17dd5caba9e54e52ab7bcc6abbef40d6094d188337f20b773",
+    "provenance/mutopia-62.html": "15041267a09bcfb95b5ec47f1aca842e4c463357d1200ae61c32b482ab1d0d55",
+    "provenance/mutopia-67.html": "b1630d6a6709995bcf1f175d24c683bb2059e55b20e9040d771410cc755e5074",
+    "provenance/mutopia-68.html": "0a9589d5d20d708bca3783e91522ec4e80684b3b3e1a22b03d623cd437207c36",
+    "provenance/mutopia-70.html": "ec6a710ffa9edca2b2846e28ff02898c853fccf694f03cf27de585c0142c1d80",
+    "provenance/mutopia-71.html": "0307db0a4ae1a69cd6d14db80dcf51351d02cb1d7e16d1c72abc56932856c941",
+    "provenance/mutopia-72.html": "d8be336b32870a4c330989eca8efce396942988dea8c2d01a61a6bcac24b7b7b",
+    "provenance/mutopia-73.html": "da2c701bc981a4554dff87e769256993b5f6bc8945bfa06f05373610a342a1b1",
+    "provenance/mutopia-legal.html": "21dd9566f45b2b238be3e79c449d03fb964854e85e5d1d6e6c244d3352136aa3",
+    "results/development/analysis.json": "4f6a815fd1406d252e7204d07e0925910f68b879739dae10311c4ce95751bf04",
+    "results/development/resources.json": "81b1d2cc8e7282d5353eeb6bab3b146ffb6f58105d641824704f6695e55000a5",
+    "results/development/validation.json": "eeef6728f1994b8dcada2a89a31f9198a8c03fbbbdbbe8f1fb8d736a6b3bb70e",
+    "runner.py": "ef9fc556ca9ed75a5db094becaede7e4340c4ae2b7f846dbb494e5c01c2cadbe",
+    "selection.json": "7dbc9e709039de70cd19290f037702feb02960c2f8fc8079ea036a4ff436951b",
+    "sources/BWV773.ly": "e0620dcc2b529283b7e84e60fe12e19e940f95e690ca252d7e70b656b737e003",
+    "sources/BWV773.mid": "b61e1e4d4a42ca70efd0eb8a65de3ed0ca0ee9c31556354608f6caa360e78e98",
+    "sources/BWV774.ly": "812b4c29b122cc9a20ebba96305072f378bb1a177cb1adaee3f74cb53d455551",
+    "sources/BWV774.mid": "602579a39b5b0e13ab4740dcff36342302553dcbd3619066e678f0074890c268",
+    "sources/BWV775.ly": "69d93bdf27f257b2699f352c582e1b004a0a0d48f60b95065dad6cedc4a0538b",
+    "sources/BWV775.mid": "5ecc06eb04d56ea40bd4db64bfd49ac9bff523e46d134912fa5bd07aea1db1c7",
+    "sources/BWV776.ly": "c3487a5f27cad0b03903ec6087ad5ad60df31bddf5d3300b4d0370937d9e743c",
+    "sources/BWV776.mid": "8085d87bd49012a20afd59f79fd8a9864c4634b6303a7606e2e7a61b9e007542",
+    "sources/BWV778.ly": "87b3a05f14adba1d7113d00b06f7634043e00fb2f660c7b1e698d49c73476248",
+    "sources/BWV778.mid": "ee5e02d6a43cd9a45f6c10e3c6b3905190ed42521b1de7487fee8a98c3735eb6",
+    "sources/BWV779.ly": "ddc634821a618e9a5e9ffcefbd96005bd02bd1f12573e2fefc4e6e6653d83ebe",
+    "sources/BWV779.mid": "07238719180171f76283756405ee43a0319226e869283bf29affb9e4c360e6f8",
+    "sources/BWV781.ly": "233799d59551acc87f19d6c999b82e0bfb0c00b4cf04309e07a5ea44b3cb8329",
+    "sources/BWV781.mid": "64eed7d404ddbf668bef6a7e1d227390081e13731b9f2bf6c07792d6562eb822",
+    "sources/BWV782.ly": "02689b8760752b9490598de3683c8b7064b6d13d2019561fa0b0ee4c2a569bee",
+    "sources/BWV782.mid": "9f6fce0e5c6f4e8eb28c7decf45e1f1de4474771619bf22884bac12646c49a5e",
+    "sources/BWV784.ly": "dabd266006e9dd5ae8584daa1e00ac08460ee8ac90cae6d0472f620d2eaeb7b5",
+    "sources/BWV784.mid": "e5b4dd4790ee2f2fdadca75630790a373363e1f6cb4558838e34bbad907364f1",
+    "sources/BWV785.ly": "d3a03a1dafa1998c68c1fe389e92bcf8a5d711639b15e9f777af83551c4ae48e",
+    "sources/BWV785.mid": "8ef3606dc2b71c51c7c0e4438080ed641963e1a8e69d7b82aba42a04ebc5e9b9",
+    "sources/BWV786.ly": "7ae422f704d35a84dddec0e567264e310fb2d37b26900dbb68b9808aff971456",
+    "sources/BWV786.mid": "4b629b29d815d9f253600836a2801444780f20718b74892c502a044da6f85a88",
+    "sources/BWV787.ly": "631a3a467bcec353f500e618e5d23deaf9d4806e198327b3a45527c290b5c812",
+    "sources/BWV787.mid": "3cc099f4a5c85f02ef388d4b91f03cb24f3d98af5e78b1ebfe4ca2f73a3650d9",
+    "sources/acquisition_plan.json": "aca6dd6a047080e756baa5a238f642186b196db213952d35021ed381c81e6e36",
+    "sources/manifest.json": "ad906478f406bbc7cfb8a13e8155a451f7869fda48a77c0aa7fd4a7aed16bc63",
+    "split.json": "55525dac818853939f05dadf1aa628fdcc07e36aa0c2dfdc8b9b8d0e85196aba",
+    "summarize.py": "319e9f64efc774276489839c8dea42b99c47eae1eaf82ea6d25671efcb28cc4d",
+    "validate.py": "77148af8f4348540f9c97023f1f6200ec9973bd4b594c9718d8a9b07575aa71e"
+  },
+  "model": {
+    "model_class": "HubertModel",
+    "device": "cpu",
+    "threads": 4,
+    "sample_rate": 24000,
+    "window_samples": 24000,
+    "layers": [
+      6,
+      12
+    ],
+    "native_layer_index_zero": "embedding output",
+    "pooled_shape_per_layer": [
+      10,
+      768
+    ],
+    "pooling": "fractional equal-duration overlap of uniformly spaced hidden rows",
+    "parameters": 94371712,
+    "trainable_parameters": 0,
+    "missing_keys": [],
+    "unexpected_keys": [],
+    "model_hashes": {
+      "config.json": "ea2627c4c7825cd66f3c944b6b966331604c35928174e0100cd4a82829424e32",
+      "preprocessor_config.json": "cc5a5e4a5d3b1a758a5ed984b2eaa15bb0522d811d44a9eed82bfca4baa0dc8f",
+      "pytorch_model.bin": "a2b8b747f72c06e0595aeae41ae5473f4364938c6b39b2c58be38c48e6bd3fcd"
+    },
+    "versions": {
+      "numpy": "2.5.3",
+      "torch": "2.14.0",
+      "transformers": "4.44.2"
+    },
+    "load_seconds": 0.7215962500195019,
+    "output_availability": "All 24000 samples arrived, then complete inference and pooling; all ten rows share this availability",
+    "retained_audio_between_calls": false,
+    "external_downloads": false
+  },
+  "selection": {
+    "thresholds": {
+      "standard": 0.05,
+      "mert6": 0.06,
+      "mert12": 0.1,
+      "ceiling": 0.0
+    },
+    "selected_mert": "mert12",
+    "diagnostics": {
+      "standard": {
+        "selection_feasible": true,
+        "positive_identity": 0.875,
+        "positive_joint": 0.5,
+        "foil_false_accept": 0.0,
+        "full_records": 32,
+        "feasible_grid_members": 7
+      },
+      "mert6": {
+        "selection_feasible": true,
+        "positive_identity": 0.3333333333333333,
+        "positive_joint": 0.29166666666666663,
+        "foil_false_accept": 0.0,
+        "full_records": 32,
+        "feasible_grid_members": 15
+      },
+      "mert12": {
+        "selection_feasible": true,
+        "positive_identity": 0.41666666666666663,
+        "positive_joint": 0.3333333333333333,
+        "foil_false_accept": 0.0,
+        "full_records": 32,
+        "feasible_grid_members": 11
+      },
+      "ceiling": {
+        "selection_feasible": true,
+        "positive_identity": 1.0,
+        "positive_joint": 0.8333333333333334,
+        "foil_false_accept": 0.0,
+        "full_records": 32,
+        "feasible_grid_members": 10
+      }
+    },
+    "grid": {
+      "start": 0,
+      "stop": 1,
+      "step": 0.01
+    },
+    "selection_rule": "Maximize full-state equal-family positive identity subject to full-state overall foil FAR <= .1; threshold ties favor the smaller threshold. MERT: identity then joint then layer6. Null means no feasible grid member, explicit abstain-all."
+  },
+  "resource_preflight": {
+    "remaining_evaluation_sessions": 64,
+    "remaining_evaluation_readouts": 576,
+    "projected_total_executions": 1000,
+    "projected_artifact_bytes": 686711311,
+    "reserved_eval_compute_seconds": 1343.3752400055528,
+    "projected_aggregate_seconds": 4168.028271170122,
+    "fit": true,
+    "development_schema_complete": true,
+    "validation_pass": true
+  },
+  "execution_sha_location": "preregistration_receipt.json (created only after this freeze is committed and posted)",
+  "readout_policy": "960 planned music readouts+40 conservatively charged qualification=1000; evaluation576 only; no further trials or retuning",
+  "references": {
+    "assignment": "https://github.com/trinitron88/earworm/pull/2#issuecomment-5770330756",
+    "amendment": "https://github.com/trinitron88/earworm/pull/2#issuecomment-5778533993"
+  }
+}
