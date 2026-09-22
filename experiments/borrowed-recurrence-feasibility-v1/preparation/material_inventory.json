@@ -1,0 +1,14 @@
+{
+  "checked_at": "2026-09-22T02:31:48.770409+00:00",
+  "scope": "Original workspace, repository checkout and eight local reproducibility ZIPs",
+  "suitable_bach_material_found": false,
+  "findings": [
+    "No provenance-backed Bach score/transcription/isolated voice/recording in inspected project locations.",
+    "Original project WAVs are prior synthetic experiments.",
+    "Bach/BWV mentions are goals/literature, not musical source data."
+  ],
+  "consequence": "Required piece-separated Bach-connected groups unavailable under no-new-data-download rule.",
+  "next_needed": "Existing lawful local material with source identifiers/license, or explicit acquisition amendment.",
+  "heldout_generated": false,
+  "historical_artifacts_modified": false
+}

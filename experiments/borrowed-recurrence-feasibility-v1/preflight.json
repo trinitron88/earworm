@@ -1,0 +1,11 @@
+{
+  "remaining_evaluation_sessions": 64,
+  "remaining_evaluation_readouts": 576,
+  "projected_total_executions": 1000,
+  "projected_artifact_bytes": 686711311,
+  "reserved_eval_compute_seconds": 1343.3752400055528,
+  "projected_aggregate_seconds": 4168.028271170122,
+  "fit": true,
+  "development_schema_complete": true,
+  "validation_pass": true
+}

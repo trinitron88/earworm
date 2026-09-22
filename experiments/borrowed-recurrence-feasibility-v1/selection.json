@@ -1,0 +1,49 @@
+{
+  "thresholds": {
+    "standard": 0.05,
+    "mert6": 0.06,
+    "mert12": 0.1,
+    "ceiling": 0.0
+  },
+  "selected_mert": "mert12",
+  "diagnostics": {
+    "standard": {
+      "selection_feasible": true,
+      "positive_identity": 0.875,
+      "positive_joint": 0.5,
+      "foil_false_accept": 0.0,
+      "full_records": 32,
+      "feasible_grid_members": 7
+    },
+    "mert6": {
+      "selection_feasible": true,
+      "positive_identity": 0.3333333333333333,
+      "positive_joint": 0.29166666666666663,
+      "foil_false_accept": 0.0,
+      "full_records": 32,
+      "feasible_grid_members": 15
+    },
+    "mert12": {
+      "selection_feasible": true,
+      "positive_identity": 0.41666666666666663,
+      "positive_joint": 0.3333333333333333,
+      "foil_false_accept": 0.0,
+      "full_records": 32,
+      "feasible_grid_members": 11
+    },
+    "ceiling": {
+      "selection_feasible": true,
+      "positive_identity": 1.0,
+      "positive_joint": 0.8333333333333334,
+      "foil_false_accept": 0.0,
+      "full_records": 32,
+      "feasible_grid_members": 10
+    }
+  },
+  "grid": {
+    "start": 0,
+    "stop": 1,
+    "step": 0.01
+  },
+  "selection_rule": "Maximize full-state equal-family positive identity subject to full-state overall foil FAR <= .1; threshold ties favor the smaller threshold. MERT: identity then joint then layer6. Null means no feasible grid member, explicit abstain-all."
+}

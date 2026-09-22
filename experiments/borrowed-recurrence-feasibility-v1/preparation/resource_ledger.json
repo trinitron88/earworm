@@ -1,0 +1,15 @@
+{
+  "route_session_executions_or_probes": 1,
+  "music_sessions": 0,
+  "evaluation_exposed": false,
+  "verified_runtime_probe_seconds": 1.9026304580038413,
+  "current_preparation_wall_seconds": 261.146346,
+  "earlier_preparation_reserve_seconds": 600,
+  "reserve_note": "Conservative charge reserved for initial inspection/checkout preparation, not measured CPU time.",
+  "new_package_bytes": 7076,
+  "external_spending": 0,
+  "ceiling_compute_seconds": 7200,
+  "ceiling_executions": 1000,
+  "ceiling_new_artifact_bytes": 2147483648,
+  "conservative_charged_seconds": 861.146346
+}

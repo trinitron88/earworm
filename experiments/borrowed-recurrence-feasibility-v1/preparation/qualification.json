@@ -1,0 +1,15 @@
+{
+  "music_readouts": 384,
+  "non_music_probe_conservative_charge": 40,
+  "known_probes": {
+    "initial_MERT_runtime": 1,
+    "matching_fixtures": 3,
+    "materials_non_audio": 8,
+    "analyzer_scalar_calls": 5
+  },
+  "remaining_charge_covers": "MIDI parser fixtures, syntax checks, saved-only validation/analysis and final publication verification; no repeat of initial MERT probe.",
+  "software_edge_repaired_before_development": "Skip unreachable DTW endpoints in short remaining history; no evaluation exposed.",
+  "development_sessions": 32,
+  "evaluation_exposed": false,
+  "development_first_session_incremental_checkpoint": "First session qualified then remaining31; none repeated."
+}

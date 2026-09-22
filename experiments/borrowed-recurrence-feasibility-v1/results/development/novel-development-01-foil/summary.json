@@ -1,0 +1,39 @@
+{
+  "group": "novel-development-01",
+  "cell": "foil",
+  "seconds": 40.0,
+  "session_wall_seconds": 2.156460791011341,
+  "executions": 12,
+  "spectral_seconds": 0.010485089151188731,
+  "mert_seconds": 1.2749407509691082,
+  "preservation": {
+    "power_max_relative_error": 1.579570835209132e-15,
+    "rms_max_relative_error": 2.8718663550866624e-15,
+    "timestamp_support_pass": true,
+    "pass": true
+  },
+  "source_units_retained": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "source_frame_count": 30,
+  "source_pcm_evicted": true,
+  "finish": {
+    "peak_state_bytes": 2801856,
+    "raw_ring_start_sample": 864000,
+    "raw_ring_bytes": 384000,
+    "unit_replacements": 0,
+    "broker_received_monotonic": 475759.399227958
+  },
+  "peak_rss_bytes": 992296960,
+  "peak_raw_ring_chunks": 4,
+  "extraction_roundtrip_seconds": 1.3663357489276677,
+  "last_required_query_context": [
+    936000,
+    960000
+  ],
+  "input_sha256": "999846dbe39dec7b581726019c0bc73ae5d4f7628824c66978d838df358dd7dc",
+  "measurements_sha256": "27811a93df16925155bd916c522fb7be0f412e7df5b25ac37bc2f45363812b49"
+}

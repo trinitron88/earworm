@@ -1,0 +1,2018 @@
+[
+  {
+    "group": "bach-bwv773",
+    "split": "development",
+    "stratum": "bach",
+    "cell": "unchanged",
+    "source_onset": 1.13,
+    "source_offset": 4.13,
+    "query_onset": 36.13,
+    "query_offset": 39.13,
+    "decision_time": 40,
+    "shift": 0,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.13,
+        "offset": 4.13
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "bach-bwv773",
+    "split": "development",
+    "stratum": "bach",
+    "cell": "transpose",
+    "source_onset": 1.13,
+    "source_offset": 4.13,
+    "query_onset": 36.13,
+    "query_offset": 39.13,
+    "decision_time": 40,
+    "shift": -5,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.13,
+        "offset": 4.13
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "bach-bwv773",
+    "split": "development",
+    "stratum": "bach",
+    "cell": "stretch",
+    "source_onset": 1.13,
+    "source_offset": 4.13,
+    "query_onset": 36.13,
+    "query_offset": 38.53,
+    "decision_time": 39,
+    "shift": 0,
+    "stretch": 0.8,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.13,
+        "offset": 4.13
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "bach-bwv773",
+    "split": "development",
+    "stratum": "bach",
+    "cell": "foil",
+    "source_onset": 1.13,
+    "source_offset": 4.13,
+    "query_onset": 36.13,
+    "query_offset": 39.13,
+    "decision_time": 40,
+    "shift": null,
+    "stretch": null,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.13,
+        "offset": 4.13
+      }
+    ],
+    "construction_positive": false
+  },
+  {
+    "group": "bach-bwv775",
+    "split": "development",
+    "stratum": "bach",
+    "cell": "unchanged",
+    "source_onset": 1.2999999999999998,
+    "source_offset": 4.3,
+    "query_onset": 36.3,
+    "query_offset": 39.3,
+    "decision_time": 40,
+    "shift": 0,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.2999999999999998,
+        "offset": 4.3
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "bach-bwv775",
+    "split": "development",
+    "stratum": "bach",
+    "cell": "transpose",
+    "source_onset": 1.2999999999999998,
+    "source_offset": 4.3,
+    "query_onset": 36.3,
+    "query_offset": 39.3,
+    "decision_time": 40,
+    "shift": -2,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.2999999999999998,
+        "offset": 4.3
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "bach-bwv775",
+    "split": "development",
+    "stratum": "bach",
+    "cell": "stretch",
+    "source_onset": 1.2999999999999998,
+    "source_offset": 4.3,
+    "query_onset": 36.3,
+    "query_offset": 40.05,
+    "decision_time": 41,
+    "shift": 0,
+    "stretch": 1.25,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.2999999999999998,
+        "offset": 4.3
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "bach-bwv775",
+    "split": "development",
+    "stratum": "bach",
+    "cell": "foil",
+    "source_onset": 1.2999999999999998,
+    "source_offset": 4.3,
+    "query_onset": 36.3,
+    "query_offset": 39.3,
+    "decision_time": 40,
+    "shift": null,
+    "stretch": null,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.2999999999999998,
+        "offset": 4.3
+      }
+    ],
+    "construction_positive": false
+  },
+  {
+    "group": "bach-bwv778",
+    "split": "development",
+    "stratum": "bach",
+    "cell": "unchanged",
+    "source_onset": 1.47,
+    "source_offset": 4.47,
+    "query_onset": 36.47,
+    "query_offset": 39.47,
+    "decision_time": 40,
+    "shift": 0,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.47,
+        "offset": 4.47
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "bach-bwv778",
+    "split": "development",
+    "stratum": "bach",
+    "cell": "transpose",
+    "source_onset": 1.47,
+    "source_offset": 4.47,
+    "query_onset": 36.47,
+    "query_offset": 39.47,
+    "decision_time": 40,
+    "shift": 2,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.47,
+        "offset": 4.47
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "bach-bwv778",
+    "split": "development",
+    "stratum": "bach",
+    "cell": "stretch",
+    "source_onset": 1.47,
+    "source_offset": 4.47,
+    "query_onset": 36.47,
+    "query_offset": 38.87,
+    "decision_time": 40,
+    "shift": 0,
+    "stretch": 0.8,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.47,
+        "offset": 4.47
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "bach-bwv778",
+    "split": "development",
+    "stratum": "bach",
+    "cell": "foil",
+    "source_onset": 1.47,
+    "source_offset": 4.47,
+    "query_onset": 36.47,
+    "query_offset": 39.47,
+    "decision_time": 40,
+    "shift": null,
+    "stretch": null,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.47,
+        "offset": 4.47
+      }
+    ],
+    "construction_positive": false
+  },
+  {
+    "group": "bach-bwv781",
+    "split": "development",
+    "stratum": "bach",
+    "cell": "unchanged",
+    "source_onset": 1.64,
+    "source_offset": 4.64,
+    "query_onset": 36.64,
+    "query_offset": 39.64,
+    "decision_time": 40,
+    "shift": 0,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.64,
+        "offset": 4.64
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "bach-bwv781",
+    "split": "development",
+    "stratum": "bach",
+    "cell": "transpose",
+    "source_onset": 1.64,
+    "source_offset": 4.64,
+    "query_onset": 36.64,
+    "query_offset": 39.64,
+    "decision_time": 40,
+    "shift": 5,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.64,
+        "offset": 4.64
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "bach-bwv781",
+    "split": "development",
+    "stratum": "bach",
+    "cell": "stretch",
+    "source_onset": 1.64,
+    "source_offset": 4.64,
+    "query_onset": 36.64,
+    "query_offset": 40.39,
+    "decision_time": 41,
+    "shift": 0,
+    "stretch": 1.25,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.64,
+        "offset": 4.64
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "bach-bwv781",
+    "split": "development",
+    "stratum": "bach",
+    "cell": "foil",
+    "source_onset": 1.64,
+    "source_offset": 4.64,
+    "query_onset": 36.64,
+    "query_offset": 39.64,
+    "decision_time": 40,
+    "shift": null,
+    "stretch": null,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.64,
+        "offset": 4.64
+      }
+    ],
+    "construction_positive": false
+  },
+  {
+    "group": "novel-development-01",
+    "split": "development",
+    "stratum": "novel",
+    "cell": "unchanged",
+    "source_onset": 1.13,
+    "source_offset": 4.13,
+    "query_onset": 36.13,
+    "query_offset": 39.13,
+    "decision_time": 40,
+    "shift": 0,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.13,
+        "offset": 4.13
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "novel-development-01",
+    "split": "development",
+    "stratum": "novel",
+    "cell": "transpose",
+    "source_onset": 1.13,
+    "source_offset": 4.13,
+    "query_onset": 36.13,
+    "query_offset": 39.13,
+    "decision_time": 40,
+    "shift": -5,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.13,
+        "offset": 4.13
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "novel-development-01",
+    "split": "development",
+    "stratum": "novel",
+    "cell": "stretch",
+    "source_onset": 1.13,
+    "source_offset": 4.13,
+    "query_onset": 36.13,
+    "query_offset": 38.53,
+    "decision_time": 39,
+    "shift": 0,
+    "stretch": 0.8,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.13,
+        "offset": 4.13
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "novel-development-01",
+    "split": "development",
+    "stratum": "novel",
+    "cell": "foil",
+    "source_onset": 1.13,
+    "source_offset": 4.13,
+    "query_onset": 36.13,
+    "query_offset": 39.13,
+    "decision_time": 40,
+    "shift": null,
+    "stretch": null,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.13,
+        "offset": 4.13
+      }
+    ],
+    "construction_positive": false
+  },
+  {
+    "group": "novel-development-02",
+    "split": "development",
+    "stratum": "novel",
+    "cell": "unchanged",
+    "source_onset": 1.2999999999999998,
+    "source_offset": 4.3,
+    "query_onset": 36.3,
+    "query_offset": 39.3,
+    "decision_time": 40,
+    "shift": 0,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.2999999999999998,
+        "offset": 4.3
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "novel-development-02",
+    "split": "development",
+    "stratum": "novel",
+    "cell": "transpose",
+    "source_onset": 1.2999999999999998,
+    "source_offset": 4.3,
+    "query_onset": 36.3,
+    "query_offset": 39.3,
+    "decision_time": 40,
+    "shift": -2,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.2999999999999998,
+        "offset": 4.3
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "novel-development-02",
+    "split": "development",
+    "stratum": "novel",
+    "cell": "stretch",
+    "source_onset": 1.2999999999999998,
+    "source_offset": 4.3,
+    "query_onset": 36.3,
+    "query_offset": 40.05,
+    "decision_time": 41,
+    "shift": 0,
+    "stretch": 1.25,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.2999999999999998,
+        "offset": 4.3
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "novel-development-02",
+    "split": "development",
+    "stratum": "novel",
+    "cell": "foil",
+    "source_onset": 1.2999999999999998,
+    "source_offset": 4.3,
+    "query_onset": 36.3,
+    "query_offset": 39.3,
+    "decision_time": 40,
+    "shift": null,
+    "stretch": null,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.2999999999999998,
+        "offset": 4.3
+      }
+    ],
+    "construction_positive": false
+  },
+  {
+    "group": "novel-development-03",
+    "split": "development",
+    "stratum": "novel",
+    "cell": "unchanged",
+    "source_onset": 1.47,
+    "source_offset": 4.47,
+    "query_onset": 36.47,
+    "query_offset": 39.47,
+    "decision_time": 40,
+    "shift": 0,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.47,
+        "offset": 4.47
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "novel-development-03",
+    "split": "development",
+    "stratum": "novel",
+    "cell": "transpose",
+    "source_onset": 1.47,
+    "source_offset": 4.47,
+    "query_onset": 36.47,
+    "query_offset": 39.47,
+    "decision_time": 40,
+    "shift": 2,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.47,
+        "offset": 4.47
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "novel-development-03",
+    "split": "development",
+    "stratum": "novel",
+    "cell": "stretch",
+    "source_onset": 1.47,
+    "source_offset": 4.47,
+    "query_onset": 36.47,
+    "query_offset": 38.87,
+    "decision_time": 40,
+    "shift": 0,
+    "stretch": 0.8,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.47,
+        "offset": 4.47
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "novel-development-03",
+    "split": "development",
+    "stratum": "novel",
+    "cell": "foil",
+    "source_onset": 1.47,
+    "source_offset": 4.47,
+    "query_onset": 36.47,
+    "query_offset": 39.47,
+    "decision_time": 40,
+    "shift": null,
+    "stretch": null,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.47,
+        "offset": 4.47
+      }
+    ],
+    "construction_positive": false
+  },
+  {
+    "group": "novel-development-04",
+    "split": "development",
+    "stratum": "novel",
+    "cell": "unchanged",
+    "source_onset": 1.64,
+    "source_offset": 4.64,
+    "query_onset": 36.64,
+    "query_offset": 39.64,
+    "decision_time": 40,
+    "shift": 0,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.64,
+        "offset": 4.64
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "novel-development-04",
+    "split": "development",
+    "stratum": "novel",
+    "cell": "transpose",
+    "source_onset": 1.64,
+    "source_offset": 4.64,
+    "query_onset": 36.64,
+    "query_offset": 39.64,
+    "decision_time": 40,
+    "shift": 5,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.64,
+        "offset": 4.64
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "novel-development-04",
+    "split": "development",
+    "stratum": "novel",
+    "cell": "stretch",
+    "source_onset": 1.64,
+    "source_offset": 4.64,
+    "query_onset": 36.64,
+    "query_offset": 40.39,
+    "decision_time": 41,
+    "shift": 0,
+    "stretch": 1.25,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.64,
+        "offset": 4.64
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "novel-development-04",
+    "split": "development",
+    "stratum": "novel",
+    "cell": "foil",
+    "source_onset": 1.64,
+    "source_offset": 4.64,
+    "query_onset": 36.64,
+    "query_offset": 39.64,
+    "decision_time": 40,
+    "shift": null,
+    "stretch": null,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.64,
+        "offset": 4.64
+      }
+    ],
+    "construction_positive": false
+  },
+  {
+    "group": "bach-bwv774",
+    "split": "evaluation",
+    "stratum": "bach",
+    "cell": "unchanged",
+    "source_onset": 1.13,
+    "source_offset": 4.13,
+    "query_onset": 36.13,
+    "query_offset": 39.13,
+    "decision_time": 40,
+    "shift": 0,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.13,
+        "offset": 4.13
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "bach-bwv774",
+    "split": "evaluation",
+    "stratum": "bach",
+    "cell": "transpose",
+    "source_onset": 1.13,
+    "source_offset": 4.13,
+    "query_onset": 36.13,
+    "query_offset": 39.13,
+    "decision_time": 40,
+    "shift": -5,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.13,
+        "offset": 4.13
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "bach-bwv774",
+    "split": "evaluation",
+    "stratum": "bach",
+    "cell": "stretch",
+    "source_onset": 1.13,
+    "source_offset": 4.13,
+    "query_onset": 36.13,
+    "query_offset": 38.53,
+    "decision_time": 39,
+    "shift": 0,
+    "stretch": 0.8,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.13,
+        "offset": 4.13
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "bach-bwv774",
+    "split": "evaluation",
+    "stratum": "bach",
+    "cell": "foil",
+    "source_onset": 1.13,
+    "source_offset": 4.13,
+    "query_onset": 36.13,
+    "query_offset": 39.13,
+    "decision_time": 40,
+    "shift": null,
+    "stretch": null,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.13,
+        "offset": 4.13
+      }
+    ],
+    "construction_positive": false
+  },
+  {
+    "group": "bach-bwv776",
+    "split": "evaluation",
+    "stratum": "bach",
+    "cell": "unchanged",
+    "source_onset": 1.2999999999999998,
+    "source_offset": 4.3,
+    "query_onset": 36.3,
+    "query_offset": 39.3,
+    "decision_time": 40,
+    "shift": 0,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.2999999999999998,
+        "offset": 4.3
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "bach-bwv776",
+    "split": "evaluation",
+    "stratum": "bach",
+    "cell": "transpose",
+    "source_onset": 1.2999999999999998,
+    "source_offset": 4.3,
+    "query_onset": 36.3,
+    "query_offset": 39.3,
+    "decision_time": 40,
+    "shift": -2,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.2999999999999998,
+        "offset": 4.3
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "bach-bwv776",
+    "split": "evaluation",
+    "stratum": "bach",
+    "cell": "stretch",
+    "source_onset": 1.2999999999999998,
+    "source_offset": 4.3,
+    "query_onset": 36.3,
+    "query_offset": 40.05,
+    "decision_time": 41,
+    "shift": 0,
+    "stretch": 1.25,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.2999999999999998,
+        "offset": 4.3
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "bach-bwv776",
+    "split": "evaluation",
+    "stratum": "bach",
+    "cell": "foil",
+    "source_onset": 1.2999999999999998,
+    "source_offset": 4.3,
+    "query_onset": 36.3,
+    "query_offset": 39.3,
+    "decision_time": 40,
+    "shift": null,
+    "stretch": null,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.2999999999999998,
+        "offset": 4.3
+      }
+    ],
+    "construction_positive": false
+  },
+  {
+    "group": "bach-bwv779",
+    "split": "evaluation",
+    "stratum": "bach",
+    "cell": "unchanged",
+    "source_onset": 1.47,
+    "source_offset": 4.47,
+    "query_onset": 36.47,
+    "query_offset": 39.47,
+    "decision_time": 40,
+    "shift": 0,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.47,
+        "offset": 4.47
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "bach-bwv779",
+    "split": "evaluation",
+    "stratum": "bach",
+    "cell": "transpose",
+    "source_onset": 1.47,
+    "source_offset": 4.47,
+    "query_onset": 36.47,
+    "query_offset": 39.47,
+    "decision_time": 40,
+    "shift": 2,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.47,
+        "offset": 4.47
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "bach-bwv779",
+    "split": "evaluation",
+    "stratum": "bach",
+    "cell": "stretch",
+    "source_onset": 1.47,
+    "source_offset": 4.47,
+    "query_onset": 36.47,
+    "query_offset": 38.87,
+    "decision_time": 40,
+    "shift": 0,
+    "stretch": 0.8,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.47,
+        "offset": 4.47
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "bach-bwv779",
+    "split": "evaluation",
+    "stratum": "bach",
+    "cell": "foil",
+    "source_onset": 1.47,
+    "source_offset": 4.47,
+    "query_onset": 36.47,
+    "query_offset": 39.47,
+    "decision_time": 40,
+    "shift": null,
+    "stretch": null,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.47,
+        "offset": 4.47
+      }
+    ],
+    "construction_positive": false
+  },
+  {
+    "group": "bach-bwv782",
+    "split": "evaluation",
+    "stratum": "bach",
+    "cell": "unchanged",
+    "source_onset": 1.64,
+    "source_offset": 4.64,
+    "query_onset": 36.64,
+    "query_offset": 39.64,
+    "decision_time": 40,
+    "shift": 0,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.64,
+        "offset": 4.64
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "bach-bwv782",
+    "split": "evaluation",
+    "stratum": "bach",
+    "cell": "transpose",
+    "source_onset": 1.64,
+    "source_offset": 4.64,
+    "query_onset": 36.64,
+    "query_offset": 39.64,
+    "decision_time": 40,
+    "shift": 5,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.64,
+        "offset": 4.64
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "bach-bwv782",
+    "split": "evaluation",
+    "stratum": "bach",
+    "cell": "stretch",
+    "source_onset": 1.64,
+    "source_offset": 4.64,
+    "query_onset": 36.64,
+    "query_offset": 40.39,
+    "decision_time": 41,
+    "shift": 0,
+    "stretch": 1.25,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.64,
+        "offset": 4.64
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "bach-bwv782",
+    "split": "evaluation",
+    "stratum": "bach",
+    "cell": "foil",
+    "source_onset": 1.64,
+    "source_offset": 4.64,
+    "query_onset": 36.64,
+    "query_offset": 39.64,
+    "decision_time": 40,
+    "shift": null,
+    "stretch": null,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.64,
+        "offset": 4.64
+      }
+    ],
+    "construction_positive": false
+  },
+  {
+    "group": "bach-bwv784",
+    "split": "evaluation",
+    "stratum": "bach",
+    "cell": "unchanged",
+    "source_onset": 1.13,
+    "source_offset": 4.13,
+    "query_onset": 36.13,
+    "query_offset": 39.13,
+    "decision_time": 40,
+    "shift": 0,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.13,
+        "offset": 4.13
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "bach-bwv784",
+    "split": "evaluation",
+    "stratum": "bach",
+    "cell": "transpose",
+    "source_onset": 1.13,
+    "source_offset": 4.13,
+    "query_onset": 36.13,
+    "query_offset": 39.13,
+    "decision_time": 40,
+    "shift": -5,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.13,
+        "offset": 4.13
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "bach-bwv784",
+    "split": "evaluation",
+    "stratum": "bach",
+    "cell": "stretch",
+    "source_onset": 1.13,
+    "source_offset": 4.13,
+    "query_onset": 36.13,
+    "query_offset": 38.53,
+    "decision_time": 39,
+    "shift": 0,
+    "stretch": 0.8,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.13,
+        "offset": 4.13
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "bach-bwv784",
+    "split": "evaluation",
+    "stratum": "bach",
+    "cell": "foil",
+    "source_onset": 1.13,
+    "source_offset": 4.13,
+    "query_onset": 36.13,
+    "query_offset": 39.13,
+    "decision_time": 40,
+    "shift": null,
+    "stretch": null,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.13,
+        "offset": 4.13
+      }
+    ],
+    "construction_positive": false
+  },
+  {
+    "group": "bach-bwv785",
+    "split": "evaluation",
+    "stratum": "bach",
+    "cell": "unchanged",
+    "source_onset": 1.2999999999999998,
+    "source_offset": 4.3,
+    "query_onset": 36.3,
+    "query_offset": 39.3,
+    "decision_time": 40,
+    "shift": 0,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.2999999999999998,
+        "offset": 4.3
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "bach-bwv785",
+    "split": "evaluation",
+    "stratum": "bach",
+    "cell": "transpose",
+    "source_onset": 1.2999999999999998,
+    "source_offset": 4.3,
+    "query_onset": 36.3,
+    "query_offset": 39.3,
+    "decision_time": 40,
+    "shift": -2,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.2999999999999998,
+        "offset": 4.3
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "bach-bwv785",
+    "split": "evaluation",
+    "stratum": "bach",
+    "cell": "stretch",
+    "source_onset": 1.2999999999999998,
+    "source_offset": 4.3,
+    "query_onset": 36.3,
+    "query_offset": 40.05,
+    "decision_time": 41,
+    "shift": 0,
+    "stretch": 1.25,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.2999999999999998,
+        "offset": 4.3
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "bach-bwv785",
+    "split": "evaluation",
+    "stratum": "bach",
+    "cell": "foil",
+    "source_onset": 1.2999999999999998,
+    "source_offset": 4.3,
+    "query_onset": 36.3,
+    "query_offset": 39.3,
+    "decision_time": 40,
+    "shift": null,
+    "stretch": null,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.2999999999999998,
+        "offset": 4.3
+      }
+    ],
+    "construction_positive": false
+  },
+  {
+    "group": "bach-bwv786",
+    "split": "evaluation",
+    "stratum": "bach",
+    "cell": "unchanged",
+    "source_onset": 1.47,
+    "source_offset": 4.47,
+    "query_onset": 36.47,
+    "query_offset": 39.47,
+    "decision_time": 40,
+    "shift": 0,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.47,
+        "offset": 4.47
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "bach-bwv786",
+    "split": "evaluation",
+    "stratum": "bach",
+    "cell": "transpose",
+    "source_onset": 1.47,
+    "source_offset": 4.47,
+    "query_onset": 36.47,
+    "query_offset": 39.47,
+    "decision_time": 40,
+    "shift": 2,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.47,
+        "offset": 4.47
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "bach-bwv786",
+    "split": "evaluation",
+    "stratum": "bach",
+    "cell": "stretch",
+    "source_onset": 1.47,
+    "source_offset": 4.47,
+    "query_onset": 36.47,
+    "query_offset": 38.87,
+    "decision_time": 40,
+    "shift": 0,
+    "stretch": 0.8,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.47,
+        "offset": 4.47
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "bach-bwv786",
+    "split": "evaluation",
+    "stratum": "bach",
+    "cell": "foil",
+    "source_onset": 1.47,
+    "source_offset": 4.47,
+    "query_onset": 36.47,
+    "query_offset": 39.47,
+    "decision_time": 40,
+    "shift": null,
+    "stretch": null,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.47,
+        "offset": 4.47
+      }
+    ],
+    "construction_positive": false
+  },
+  {
+    "group": "bach-bwv787",
+    "split": "evaluation",
+    "stratum": "bach",
+    "cell": "unchanged",
+    "source_onset": 1.64,
+    "source_offset": 4.64,
+    "query_onset": 36.64,
+    "query_offset": 39.64,
+    "decision_time": 40,
+    "shift": 0,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.64,
+        "offset": 4.64
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "bach-bwv787",
+    "split": "evaluation",
+    "stratum": "bach",
+    "cell": "transpose",
+    "source_onset": 1.64,
+    "source_offset": 4.64,
+    "query_onset": 36.64,
+    "query_offset": 39.64,
+    "decision_time": 40,
+    "shift": 5,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.64,
+        "offset": 4.64
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "bach-bwv787",
+    "split": "evaluation",
+    "stratum": "bach",
+    "cell": "stretch",
+    "source_onset": 1.64,
+    "source_offset": 4.64,
+    "query_onset": 36.64,
+    "query_offset": 40.39,
+    "decision_time": 41,
+    "shift": 0,
+    "stretch": 1.25,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.64,
+        "offset": 4.64
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "bach-bwv787",
+    "split": "evaluation",
+    "stratum": "bach",
+    "cell": "foil",
+    "source_onset": 1.64,
+    "source_offset": 4.64,
+    "query_onset": 36.64,
+    "query_offset": 39.64,
+    "decision_time": 40,
+    "shift": null,
+    "stretch": null,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.64,
+        "offset": 4.64
+      }
+    ],
+    "construction_positive": false
+  },
+  {
+    "group": "novel-evaluation-01",
+    "split": "evaluation",
+    "stratum": "novel",
+    "cell": "unchanged",
+    "source_onset": 1.13,
+    "source_offset": 4.13,
+    "query_onset": 36.13,
+    "query_offset": 39.13,
+    "decision_time": 40,
+    "shift": 0,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.13,
+        "offset": 4.13
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "novel-evaluation-01",
+    "split": "evaluation",
+    "stratum": "novel",
+    "cell": "transpose",
+    "source_onset": 1.13,
+    "source_offset": 4.13,
+    "query_onset": 36.13,
+    "query_offset": 39.13,
+    "decision_time": 40,
+    "shift": -5,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.13,
+        "offset": 4.13
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "novel-evaluation-01",
+    "split": "evaluation",
+    "stratum": "novel",
+    "cell": "stretch",
+    "source_onset": 1.13,
+    "source_offset": 4.13,
+    "query_onset": 36.13,
+    "query_offset": 38.53,
+    "decision_time": 39,
+    "shift": 0,
+    "stretch": 0.8,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.13,
+        "offset": 4.13
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "novel-evaluation-01",
+    "split": "evaluation",
+    "stratum": "novel",
+    "cell": "foil",
+    "source_onset": 1.13,
+    "source_offset": 4.13,
+    "query_onset": 36.13,
+    "query_offset": 39.13,
+    "decision_time": 40,
+    "shift": null,
+    "stretch": null,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.13,
+        "offset": 4.13
+      }
+    ],
+    "construction_positive": false
+  },
+  {
+    "group": "novel-evaluation-02",
+    "split": "evaluation",
+    "stratum": "novel",
+    "cell": "unchanged",
+    "source_onset": 1.2999999999999998,
+    "source_offset": 4.3,
+    "query_onset": 36.3,
+    "query_offset": 39.3,
+    "decision_time": 40,
+    "shift": 0,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.2999999999999998,
+        "offset": 4.3
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "novel-evaluation-02",
+    "split": "evaluation",
+    "stratum": "novel",
+    "cell": "transpose",
+    "source_onset": 1.2999999999999998,
+    "source_offset": 4.3,
+    "query_onset": 36.3,
+    "query_offset": 39.3,
+    "decision_time": 40,
+    "shift": -2,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.2999999999999998,
+        "offset": 4.3
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "novel-evaluation-02",
+    "split": "evaluation",
+    "stratum": "novel",
+    "cell": "stretch",
+    "source_onset": 1.2999999999999998,
+    "source_offset": 4.3,
+    "query_onset": 36.3,
+    "query_offset": 40.05,
+    "decision_time": 41,
+    "shift": 0,
+    "stretch": 1.25,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.2999999999999998,
+        "offset": 4.3
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "novel-evaluation-02",
+    "split": "evaluation",
+    "stratum": "novel",
+    "cell": "foil",
+    "source_onset": 1.2999999999999998,
+    "source_offset": 4.3,
+    "query_onset": 36.3,
+    "query_offset": 39.3,
+    "decision_time": 40,
+    "shift": null,
+    "stretch": null,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.2999999999999998,
+        "offset": 4.3
+      }
+    ],
+    "construction_positive": false
+  },
+  {
+    "group": "novel-evaluation-03",
+    "split": "evaluation",
+    "stratum": "novel",
+    "cell": "unchanged",
+    "source_onset": 1.47,
+    "source_offset": 4.47,
+    "query_onset": 36.47,
+    "query_offset": 39.47,
+    "decision_time": 40,
+    "shift": 0,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.47,
+        "offset": 4.47
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "novel-evaluation-03",
+    "split": "evaluation",
+    "stratum": "novel",
+    "cell": "transpose",
+    "source_onset": 1.47,
+    "source_offset": 4.47,
+    "query_onset": 36.47,
+    "query_offset": 39.47,
+    "decision_time": 40,
+    "shift": 2,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.47,
+        "offset": 4.47
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "novel-evaluation-03",
+    "split": "evaluation",
+    "stratum": "novel",
+    "cell": "stretch",
+    "source_onset": 1.47,
+    "source_offset": 4.47,
+    "query_onset": 36.47,
+    "query_offset": 38.87,
+    "decision_time": 40,
+    "shift": 0,
+    "stretch": 0.8,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.47,
+        "offset": 4.47
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "novel-evaluation-03",
+    "split": "evaluation",
+    "stratum": "novel",
+    "cell": "foil",
+    "source_onset": 1.47,
+    "source_offset": 4.47,
+    "query_onset": 36.47,
+    "query_offset": 39.47,
+    "decision_time": 40,
+    "shift": null,
+    "stretch": null,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.47,
+        "offset": 4.47
+      }
+    ],
+    "construction_positive": false
+  },
+  {
+    "group": "novel-evaluation-04",
+    "split": "evaluation",
+    "stratum": "novel",
+    "cell": "unchanged",
+    "source_onset": 1.64,
+    "source_offset": 4.64,
+    "query_onset": 36.64,
+    "query_offset": 39.64,
+    "decision_time": 40,
+    "shift": 0,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.64,
+        "offset": 4.64
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "novel-evaluation-04",
+    "split": "evaluation",
+    "stratum": "novel",
+    "cell": "transpose",
+    "source_onset": 1.64,
+    "source_offset": 4.64,
+    "query_onset": 36.64,
+    "query_offset": 39.64,
+    "decision_time": 40,
+    "shift": 5,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.64,
+        "offset": 4.64
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "novel-evaluation-04",
+    "split": "evaluation",
+    "stratum": "novel",
+    "cell": "stretch",
+    "source_onset": 1.64,
+    "source_offset": 4.64,
+    "query_onset": 36.64,
+    "query_offset": 40.39,
+    "decision_time": 41,
+    "shift": 0,
+    "stretch": 1.25,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.64,
+        "offset": 4.64
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "novel-evaluation-04",
+    "split": "evaluation",
+    "stratum": "novel",
+    "cell": "foil",
+    "source_onset": 1.64,
+    "source_offset": 4.64,
+    "query_onset": 36.64,
+    "query_offset": 39.64,
+    "decision_time": 40,
+    "shift": null,
+    "stretch": null,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.64,
+        "offset": 4.64
+      }
+    ],
+    "construction_positive": false
+  },
+  {
+    "group": "novel-evaluation-05",
+    "split": "evaluation",
+    "stratum": "novel",
+    "cell": "unchanged",
+    "source_onset": 1.13,
+    "source_offset": 4.13,
+    "query_onset": 36.13,
+    "query_offset": 39.13,
+    "decision_time": 40,
+    "shift": 0,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.13,
+        "offset": 4.13
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "novel-evaluation-05",
+    "split": "evaluation",
+    "stratum": "novel",
+    "cell": "transpose",
+    "source_onset": 1.13,
+    "source_offset": 4.13,
+    "query_onset": 36.13,
+    "query_offset": 39.13,
+    "decision_time": 40,
+    "shift": -5,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.13,
+        "offset": 4.13
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "novel-evaluation-05",
+    "split": "evaluation",
+    "stratum": "novel",
+    "cell": "stretch",
+    "source_onset": 1.13,
+    "source_offset": 4.13,
+    "query_onset": 36.13,
+    "query_offset": 38.53,
+    "decision_time": 39,
+    "shift": 0,
+    "stretch": 0.8,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.13,
+        "offset": 4.13
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "novel-evaluation-05",
+    "split": "evaluation",
+    "stratum": "novel",
+    "cell": "foil",
+    "source_onset": 1.13,
+    "source_offset": 4.13,
+    "query_onset": 36.13,
+    "query_offset": 39.13,
+    "decision_time": 40,
+    "shift": null,
+    "stretch": null,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.13,
+        "offset": 4.13
+      }
+    ],
+    "construction_positive": false
+  },
+  {
+    "group": "novel-evaluation-06",
+    "split": "evaluation",
+    "stratum": "novel",
+    "cell": "unchanged",
+    "source_onset": 1.2999999999999998,
+    "source_offset": 4.3,
+    "query_onset": 36.3,
+    "query_offset": 39.3,
+    "decision_time": 40,
+    "shift": 0,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.2999999999999998,
+        "offset": 4.3
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "novel-evaluation-06",
+    "split": "evaluation",
+    "stratum": "novel",
+    "cell": "transpose",
+    "source_onset": 1.2999999999999998,
+    "source_offset": 4.3,
+    "query_onset": 36.3,
+    "query_offset": 39.3,
+    "decision_time": 40,
+    "shift": -2,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.2999999999999998,
+        "offset": 4.3
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "novel-evaluation-06",
+    "split": "evaluation",
+    "stratum": "novel",
+    "cell": "stretch",
+    "source_onset": 1.2999999999999998,
+    "source_offset": 4.3,
+    "query_onset": 36.3,
+    "query_offset": 40.05,
+    "decision_time": 41,
+    "shift": 0,
+    "stretch": 1.25,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.2999999999999998,
+        "offset": 4.3
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "novel-evaluation-06",
+    "split": "evaluation",
+    "stratum": "novel",
+    "cell": "foil",
+    "source_onset": 1.2999999999999998,
+    "source_offset": 4.3,
+    "query_onset": 36.3,
+    "query_offset": 39.3,
+    "decision_time": 40,
+    "shift": null,
+    "stretch": null,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.2999999999999998,
+        "offset": 4.3
+      }
+    ],
+    "construction_positive": false
+  },
+  {
+    "group": "novel-evaluation-07",
+    "split": "evaluation",
+    "stratum": "novel",
+    "cell": "unchanged",
+    "source_onset": 1.47,
+    "source_offset": 4.47,
+    "query_onset": 36.47,
+    "query_offset": 39.47,
+    "decision_time": 40,
+    "shift": 0,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.47,
+        "offset": 4.47
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "novel-evaluation-07",
+    "split": "evaluation",
+    "stratum": "novel",
+    "cell": "transpose",
+    "source_onset": 1.47,
+    "source_offset": 4.47,
+    "query_onset": 36.47,
+    "query_offset": 39.47,
+    "decision_time": 40,
+    "shift": 2,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.47,
+        "offset": 4.47
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "novel-evaluation-07",
+    "split": "evaluation",
+    "stratum": "novel",
+    "cell": "stretch",
+    "source_onset": 1.47,
+    "source_offset": 4.47,
+    "query_onset": 36.47,
+    "query_offset": 38.87,
+    "decision_time": 40,
+    "shift": 0,
+    "stretch": 0.8,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.47,
+        "offset": 4.47
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "novel-evaluation-07",
+    "split": "evaluation",
+    "stratum": "novel",
+    "cell": "foil",
+    "source_onset": 1.47,
+    "source_offset": 4.47,
+    "query_onset": 36.47,
+    "query_offset": 39.47,
+    "decision_time": 40,
+    "shift": null,
+    "stretch": null,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.47,
+        "offset": 4.47
+      }
+    ],
+    "construction_positive": false
+  },
+  {
+    "group": "novel-evaluation-08",
+    "split": "evaluation",
+    "stratum": "novel",
+    "cell": "unchanged",
+    "source_onset": 1.64,
+    "source_offset": 4.64,
+    "query_onset": 36.64,
+    "query_offset": 39.64,
+    "decision_time": 40,
+    "shift": 0,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.64,
+        "offset": 4.64
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "novel-evaluation-08",
+    "split": "evaluation",
+    "stratum": "novel",
+    "cell": "transpose",
+    "source_onset": 1.64,
+    "source_offset": 4.64,
+    "query_onset": 36.64,
+    "query_offset": 39.64,
+    "decision_time": 40,
+    "shift": 5,
+    "stretch": 1.0,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.64,
+        "offset": 4.64
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "novel-evaluation-08",
+    "split": "evaluation",
+    "stratum": "novel",
+    "cell": "stretch",
+    "source_onset": 1.64,
+    "source_offset": 4.64,
+    "query_onset": 36.64,
+    "query_offset": 40.39,
+    "decision_time": 41,
+    "shift": 0,
+    "stretch": 1.25,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.64,
+        "offset": 4.64
+      }
+    ],
+    "construction_positive": true
+  },
+  {
+    "group": "novel-evaluation-08",
+    "split": "evaluation",
+    "stratum": "novel",
+    "cell": "foil",
+    "source_onset": 1.64,
+    "source_offset": 4.64,
+    "query_onset": 36.64,
+    "query_offset": 39.64,
+    "decision_time": 40,
+    "shift": null,
+    "stretch": null,
+    "equivalent_occurrences": [
+      {
+        "id": "source",
+        "onset": 1.64,
+        "offset": 4.64
+      }
+    ],
+    "construction_positive": false
+  }
+]

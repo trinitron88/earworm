@@ -6,17 +6,16 @@ Earworm's finish line is a reusable, stateful listener for continuous musical au
 
 ## Current evidence and decision
 
-**The spectral-patch study completed its audio runs and independent validation, but its frozen report pipeline stopped on a stale condition-name lookup.** This is an invalid reporting checkpoint, not a completed A/B/C scientific decision. The worker preserved the error without a repair, retry or audio rerun and is publishing the full evidence for review.
+Brian authorized one borrowed-recurrence comparison, followed by one route decision. The closed handcrafted continuous-front sequence is preserved. This branch compares a disclosed CENS/DTW variant and unchanged local MERT temporal features, with a separate clean-score ceiling. Each phrase is heard once, followed by 32 seconds of interference and actual four-second raw-buffer eviction.
 
-The predeclared development comparison selected multi-scale64/128ms spectral patches. They preserve normalized identity features separately from absolute spectral/energy evidence and report source,transformation and forecast separately. Partial independently checked heldout tables show48/48 correct forecasts for unchanged and transposed returns,40/48 for stretch and32/48 for timbre change; source localization and transformation labels differ. These descriptive results do not replace the unfinished controls/noninferiority/safety/gate report or justify adoption.
+Preparation acquired twelve explicitly public-domain Mutopia Bach editions (123,847 source bytes), fixed disjoint piece splits, and completed 32 development sessions. Each route is measured with full state, recent-only state and removal of source-linked records. The two MERT layer candidates and thresholds are selected on development only. The 16 held-out families remain unopened until the execution freeze and PR #2 receipt.
 
-All874 historical artifacts,including E08 and PRs8–16,remain unchanged. The previous f32/reference design remains rejected for advancement. No continuous listener is accepted; no natural-music,polyphony,long-term-memory or appreciation claim follows.
+This test concerns rendered isolated score figures and newly composed motifs. No continuous listener, natural-performance transfer, polyphony, perceptual identity or musical appreciation claim follows. Its temporary two-second query window and simple alignment readout are explicit limitations. No memory-capacity pressure is claimed when FIFO replacement does not occur.
 
-- [Current report and precise stop](experiments/causal-spectral-patch-v1/REPORT.md)
-- [Invalid reporting receipt](experiments/causal-spectral-patch-v1/results/heldout/decision.json)
-- [Saved integrity validation](experiments/causal-spectral-patch-v1/validation/heldout.json)
-- [Partial forecast tables](experiments/causal-spectral-patch-v1/results/heldout/summary.csv)
-- [Prior valid lattice branch C](experiments/frame-lattice-validation-repair-v1/REPORT.md)
+- [Frozen comparison protocol](experiments/borrowed-recurrence-feasibility-v1/PROTOCOL.md)
+- [Public-domain source manifest](experiments/borrowed-recurrence-feasibility-v1/sources/manifest.json)
+- [Development evidence](experiments/borrowed-recurrence-feasibility-v1/results/development/)
+- [Historical invalid reporting checkpoint](experiments/causal-spectral-patch-v1/REPORT.md)
 
 ## Finite capability checklist
 
@@ -45,4 +44,4 @@ PR #10's supplied-boundary observation repair passed its scoped test; PR #9 iden
 - [History prediction](experiments/history-prediction-v1/REPORT.md)
 - [Original E08 state](review/experiment08/original-snapshot-PROJECT_STATE.md)
 
-Publish this complete invalid-reporting successor and stop awaiting review. The authorized audio work is complete and all saved inputs needed for a reporting correction are preserved. Any saved-only repair requires the PM's next explicit bounded assignment; none is executed here. The assignment's scientific C branch would end the handcrafted synthetic-front sequence, but a complete scientific branch has not yet been produced. No new experiment,architecture change,spending,MERT change,historical rewrite or worker merge is started here.
+The next authorized action is the single frozen borrowed-recurrence evaluation, after software/provenance/resource qualification and exact execution preregistration. Publish one complete successor PR and stop for the existing reviewer. A selects an adequate audio route; B identifies an observation/readout limitation when the clean ceiling succeeds; C reconsiders correspondence/test design when it does not; INVALID preserves failures without a scientific negative. No automatic repair chain, additional experiment, paid resource, training, MERT change, historical rewrite or worker merge is authorized.
