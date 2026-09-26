@@ -1,0 +1,22 @@
+{
+  "assignment_id": "earworm-correspondence-reference-choice-v1",
+  "instruction_comment": 5842993369,
+  "instruction_version": 1,
+  "instruction_url": "https://github.com/trinitron88/earworm/pull/2#issuecomment-5842993369",
+  "base_sha": "07651558671fdaf57b5685284079cea021b0ea88",
+  "preparation_snapshot_sha": "2bcf5cd9bde2a6ef827fcc0db60b7dae9b3c5706",
+  "musical_execution_sha": null,
+  "preregistration_receipt": null,
+  "explanation": "Construction stopped before preregistration/panel. This preparation commit was created after qualification/construction; it is not a retroactive pre-execution commit. The PR head identifies the complete publication.",
+  "status": "awaiting-review",
+  "disposition": "INVALID-construction",
+  "prepared_utc": "2026-09-26T04:45:46.128333+00:00",
+  "root_project_state_included": true,
+  "report_path": "experiments/correspondence-reference-choice-v1/REPORT.md",
+  "failure_path": "experiments/correspondence-reference-choice-v1/inputs/panel/construction-failure.json",
+  "validation_path": "experiments/correspondence-reference-choice-v1/saved-input-validation.json",
+  "qualification_path": "experiments/correspondence-reference-choice-v1/qualification/ledger.json",
+  "worker_stop": true,
+  "next_disposition_owner": "Project Earworm PM",
+  "resume_condition": "Explicit bounded PM decision specifying failure-evidence recovery and/or construction-guard changes and handling of already-generated development material."
+}
