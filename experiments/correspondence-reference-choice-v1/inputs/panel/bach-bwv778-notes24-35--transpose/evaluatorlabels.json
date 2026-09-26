@@ -1,0 +1,406 @@
+{
+  "cell": "transpose",
+  "decision_seconds": 40,
+  "decisive_observed_difference_centers": [],
+  "earlier_complete_source_signature_occurrences": [
+    2
+  ],
+  "group": "bach-bwv778-notes24-35",
+  "identity_definition": "Only the earlier stipulated complete source occurrence; partial collisions remain outcomes, not exclusions; no perceptual claim",
+  "interference_intervals": [
+    [
+      4.47,
+      8.469999999999999
+    ],
+    [
+      8.469999999999999,
+      12.469999999999999
+    ],
+    [
+      12.469999999999999,
+      16.47
+    ],
+    [
+      16.47,
+      20.47
+    ],
+    [
+      20.47,
+      24.47
+    ],
+    [
+      24.47,
+      28.47
+    ],
+    [
+      28.47,
+      32.47
+    ],
+    [
+      32.47,
+      36.47
+    ]
+  ],
+  "inventory_preserved": null,
+  "near_foil_changed_event_index": null,
+  "observed_query_centers": [
+    37.55,
+    37.65,
+    37.75,
+    37.85,
+    37.949999999999996,
+    38.05,
+    38.15,
+    38.25,
+    38.35,
+    38.45,
+    38.55,
+    38.65,
+    38.75,
+    38.85,
+    38.95,
+    39.05,
+    39.15,
+    39.25,
+    39.35,
+    39.45
+  ],
+  "observed_query_row_indices": [
+    375,
+    376,
+    377,
+    378,
+    379,
+    380,
+    381,
+    382,
+    383,
+    384,
+    385,
+    386,
+    387,
+    388,
+    389,
+    390,
+    391,
+    392,
+    393,
+    394
+  ],
+  "observed_query_support": [
+    37.5,
+    39.5
+  ],
+  "positive": true,
+  "query_events": [
+    [
+      0.0,
+      0.21428571428571427,
+      85.0
+    ],
+    [
+      0.21428571428571427,
+      0.42857142857142855,
+      83.0
+    ],
+    [
+      0.42857142857142855,
+      0.6428571428571428,
+      81.0
+    ],
+    [
+      0.6428571428571428,
+      0.8571428571428571,
+      80.0
+    ],
+    [
+      0.8571428571428571,
+      1.0714285714285714,
+      81.0
+    ],
+    [
+      1.0714285714285714,
+      1.2857142857142856,
+      78.0
+    ],
+    [
+      1.2857142857142856,
+      1.9285714285714284,
+      86.0
+    ],
+    [
+      1.9285714285714284,
+      2.142857142857143,
+      85.0
+    ],
+    [
+      2.142857142857143,
+      2.357142857142857,
+      83.0
+    ],
+    [
+      2.357142857142857,
+      2.571428571428571,
+      81.0
+    ],
+    [
+      2.571428571428571,
+      2.7857142857142856,
+      80.0
+    ],
+    [
+      2.7857142857142856,
+      3.0,
+      78.0
+    ]
+  ],
+  "query_interval": [
+    36.47,
+    39.47
+  ],
+  "query_interval_signature": [
+    -2,
+    -2,
+    -1,
+    1,
+    -3,
+    8,
+    -1,
+    -2,
+    -2,
+    -1,
+    -2
+  ],
+  "schema": "correspondence-reference-evaluator-labels-v1",
+  "seed": 202609261878,
+  "session_id": "bach-bwv778-notes24-35--transpose",
+  "source_dependent_units": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "source_events": [
+    [
+      0.0,
+      0.21428571428571427,
+      83.0
+    ],
+    [
+      0.21428571428571427,
+      0.42857142857142855,
+      81.0
+    ],
+    [
+      0.42857142857142855,
+      0.6428571428571428,
+      79.0
+    ],
+    [
+      0.6428571428571428,
+      0.8571428571428571,
+      78.0
+    ],
+    [
+      0.8571428571428571,
+      1.0714285714285714,
+      79.0
+    ],
+    [
+      1.0714285714285714,
+      1.2857142857142856,
+      76.0
+    ],
+    [
+      1.2857142857142856,
+      1.9285714285714284,
+      84.0
+    ],
+    [
+      1.9285714285714284,
+      2.142857142857143,
+      83.0
+    ],
+    [
+      2.142857142857143,
+      2.357142857142857,
+      81.0
+    ],
+    [
+      2.357142857142857,
+      2.571428571428571,
+      79.0
+    ],
+    [
+      2.571428571428571,
+      2.7857142857142856,
+      78.0
+    ],
+    [
+      2.7857142857142856,
+      3.0,
+      76.0
+    ]
+  ],
+  "source_interval": [
+    1.47,
+    4.47
+  ],
+  "source_interval_signature": [
+    -2,
+    -2,
+    -1,
+    1,
+    -3,
+    8,
+    -1,
+    -2,
+    -2,
+    -1,
+    -2
+  ],
+  "source_provenance": {
+    "bwv": 778,
+    "bytes": 4088,
+    "historical_range_overlap": false,
+    "midi_track_index": 1,
+    "midi_track_name": "one",
+    "mutopia_id": 73,
+    "note_indices": [
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "original_quarter_events": [
+      [
+        8.5,
+        8.75,
+        83,
+        127,
+        1
+      ],
+      [
+        8.75,
+        9.0,
+        81,
+        127,
+        1
+      ],
+      [
+        9.0,
+        9.25,
+        79,
+        127,
+        1
+      ],
+      [
+        9.25,
+        9.5,
+        78,
+        127,
+        1
+      ],
+      [
+        9.5,
+        9.75,
+        79,
+        127,
+        1
+      ],
+      [
+        9.75,
+        10.0,
+        76,
+        127,
+        1
+      ],
+      [
+        10.0,
+        10.75,
+        84,
+        127,
+        1
+      ],
+      [
+        10.75,
+        11.0,
+        83,
+        127,
+        1
+      ],
+      [
+        11.0,
+        11.25,
+        81,
+        127,
+        1
+      ],
+      [
+        11.25,
+        11.5,
+        79,
+        127,
+        1
+      ],
+      [
+        11.5,
+        11.75,
+        78,
+        127,
+        1
+      ],
+      [
+        11.75,
+        12.0,
+        76,
+        127,
+        1
+      ]
+    ],
+    "path": "sources/BWV778.mid",
+    "previous_note_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "quarter_span": [
+      8.5,
+      12.0
+    ],
+    "rendering": "None; exact events and sampled clean occupancy only",
+    "retrieved_utc": "2026-09-22T14:49:38.007383+00:00",
+    "rights_assertion": "Copyright: Public Domain",
+    "rights_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=73",
+    "rights_terms_url": "https://www.mutopiaproject.org/legal.html",
+    "sha256": "ee5e02d6a43cd9a45f6c10e3c6b3905190ed42521b1de7487fee8a98c3735eb6",
+    "source": "Mutopia Project",
+    "split": "development",
+    "stem": "bach-invention-07",
+    "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV778/bach-invention-07/bach-invention-07.mid",
+    "voice": "Same first nonempty note track; isolated score representation",
+    "voice_policy": "first nonempty MIDI note track; isolated voice; first 12 nonoverlapping note events; reject chords instead of silently selecting",
+    "work_title": "Invention BWV 778"
+  },
+  "split": "development",
+  "stratum": "bach",
+  "truth_shift": 2,
+  "truth_stretch": 1.0
+}

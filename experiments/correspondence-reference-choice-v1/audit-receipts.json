@@ -1,0 +1,13 @@
+{
+  "global_implementation_wall_seconds": 485,
+  "material_preparation_upper_bound_seconds": 440,
+  "first_static_audit_upper_bound_seconds": 266,
+  "second_static_audit_seconds": 172,
+  "publication_audit_seconds": 90,
+  "additional_material_audit_upper_bound_seconds": 120,
+  "additional_saved_validator_preparation_upper_bound_seconds": 120,
+  "conservative_aggregate_helper_allowance_seconds": 1800,
+  "qualification_calls_by_helpers": 0,
+  "candidate_or_generator_repairs_after_construction_failure": 0,
+  "publication_guard_wording_corrected": true
+}

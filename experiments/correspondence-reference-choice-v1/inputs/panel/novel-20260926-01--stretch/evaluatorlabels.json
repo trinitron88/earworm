@@ -1,0 +1,272 @@
+{
+  "cell": "stretch",
+  "decision_seconds": 39,
+  "decisive_observed_difference_centers": [],
+  "earlier_complete_source_signature_occurrences": [
+    2
+  ],
+  "group": "novel-20260926-01",
+  "identity_definition": "Only the earlier stipulated complete source occurrence; partial collisions remain outcomes, not exclusions; no perceptual claim",
+  "interference_intervals": [
+    [
+      4.13,
+      8.129999999999999
+    ],
+    [
+      8.129999999999999,
+      12.129999999999999
+    ],
+    [
+      12.129999999999999,
+      16.13
+    ],
+    [
+      16.13,
+      20.13
+    ],
+    [
+      20.13,
+      24.13
+    ],
+    [
+      24.13,
+      28.13
+    ],
+    [
+      28.13,
+      32.13
+    ],
+    [
+      32.13,
+      36.13
+    ]
+  ],
+  "inventory_preserved": null,
+  "near_foil_changed_event_index": null,
+  "observed_query_centers": [
+    36.55,
+    36.65,
+    36.75,
+    36.85,
+    36.949999999999996,
+    37.05,
+    37.15,
+    37.25,
+    37.35,
+    37.449999999999996,
+    37.55,
+    37.65,
+    37.75,
+    37.85,
+    37.949999999999996,
+    38.05,
+    38.15,
+    38.25,
+    38.35,
+    38.45
+  ],
+  "observed_query_row_indices": [
+    365,
+    366,
+    367,
+    368,
+    369,
+    370,
+    371,
+    372,
+    373,
+    374,
+    375,
+    376,
+    377,
+    378,
+    379,
+    380,
+    381,
+    382,
+    383,
+    384
+  ],
+  "observed_query_support": [
+    36.5,
+    38.5
+  ],
+  "positive": true,
+  "query_events": [
+    [
+      0.0,
+      0.4,
+      60.0
+    ],
+    [
+      0.4,
+      0.6000000000000001,
+      57.0
+    ],
+    [
+      0.6000000000000001,
+      0.8,
+      62.0
+    ],
+    [
+      0.8,
+      1.0,
+      60.0
+    ],
+    [
+      1.0,
+      1.2000000000000002,
+      57.0
+    ],
+    [
+      1.2000000000000002,
+      1.4000000000000001,
+      55.0
+    ],
+    [
+      1.4000000000000001,
+      1.5,
+      57.0
+    ],
+    [
+      1.5,
+      1.6,
+      55.0
+    ],
+    [
+      1.6,
+      1.8,
+      55.0
+    ],
+    [
+      1.8,
+      2.0,
+      55.0
+    ],
+    [
+      2.0,
+      2.2,
+      55.0
+    ],
+    [
+      2.2,
+      2.4000000000000004,
+      59.0
+    ]
+  ],
+  "query_interval": [
+    36.13,
+    38.53
+  ],
+  "query_interval_signature": [
+    -3,
+    5,
+    -2,
+    -3,
+    -2,
+    2,
+    -2,
+    0,
+    0,
+    0,
+    4
+  ],
+  "schema": "correspondence-reference-evaluator-labels-v1",
+  "seed": 202609260100,
+  "session_id": "novel-20260926-01--stretch",
+  "source_dependent_units": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "source_events": [
+    [
+      0.0,
+      0.5,
+      60.0
+    ],
+    [
+      0.5,
+      0.75,
+      57.0
+    ],
+    [
+      0.75,
+      1.0,
+      62.0
+    ],
+    [
+      1.0,
+      1.25,
+      60.0
+    ],
+    [
+      1.25,
+      1.5,
+      57.0
+    ],
+    [
+      1.5,
+      1.75,
+      55.0
+    ],
+    [
+      1.75,
+      1.875,
+      57.0
+    ],
+    [
+      1.875,
+      2.0,
+      55.0
+    ],
+    [
+      2.0,
+      2.25,
+      55.0
+    ],
+    [
+      2.25,
+      2.5,
+      55.0
+    ],
+    [
+      2.5,
+      2.75,
+      55.0
+    ],
+    [
+      2.75,
+      3.0,
+      59.0
+    ]
+  ],
+  "source_interval": [
+    1.13,
+    4.13
+  ],
+  "source_interval_signature": [
+    -3,
+    5,
+    -2,
+    -3,
+    -2,
+    2,
+    -2,
+    0,
+    0,
+    0,
+    4
+  ],
+  "source_provenance": {
+    "claim": "New construction, not a human or pretrained familiarity judgment",
+    "rights": "Original project-generated material",
+    "seed": 202609260100,
+    "type": "new deterministic diatonic motif"
+  },
+  "split": "development",
+  "stratum": "novel",
+  "truth_shift": 0,
+  "truth_stretch": 0.8
+}

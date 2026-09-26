@@ -1,0 +1,298 @@
+{
+  "cells": [
+    "unchanged",
+    "transpose",
+    "stretch",
+    "inventory_foil",
+    "near_foil"
+  ],
+  "completed_unit_availability": "floor(t)+1",
+  "construction_failure_policy": "Abort and retain completed artifacts plus construction-failure.json; never replace a family, seed, excerpt, foil or distractor",
+  "foil_policy": "Sort pitch positions stably, then cyclically shift sorted pitches by the largest pitch multiplicity; restore original positions; same exact pitch inventory and event timing",
+  "groups": [
+    {
+      "bwv": 773,
+      "group": "bach-bwv773-notes24-35",
+      "index_within_stratum": 0,
+      "note_indices": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "seed": 202609261873,
+      "source_onset_seconds": 1.13,
+      "source_provenance": {
+        "bwv": 773,
+        "bytes": 5366,
+        "mutopia_id": 58,
+        "path": "sources/BWV773.mid",
+        "retrieved_utc": "2026-09-22T14:49:35.379705+00:00",
+        "rights_assertion": "Copyright: Public Domain",
+        "rights_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=58",
+        "rights_terms_url": "https://www.mutopiaproject.org/legal.html",
+        "sha256": "b61e1e4d4a42ca70efd0eb8a65de3ed0ca0ee9c31556354608f6caa360e78e98",
+        "source": "Mutopia Project",
+        "split": "development",
+        "stem": "bach-invention-02",
+        "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV773/bach-invention-02/bach-invention-02.mid",
+        "voice_policy": "first nonempty MIDI note track; isolated voice; first 12 nonoverlapping note events; reject chords instead of silently selecting",
+        "work_title": "Invention BWV 773"
+      },
+      "split": "development",
+      "stratum": "bach",
+      "stretch_ratio": 0.8,
+      "transpose_semitones": -5
+    },
+    {
+      "bwv": 775,
+      "group": "bach-bwv775-notes24-35",
+      "index_within_stratum": 1,
+      "note_indices": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "seed": 202609261875,
+      "source_onset_seconds": 1.2999999999999998,
+      "source_provenance": {
+        "bwv": 775,
+        "bytes": 3793,
+        "mutopia_id": 67,
+        "path": "sources/BWV775.mid",
+        "retrieved_utc": "2026-09-22T14:49:36.685137+00:00",
+        "rights_assertion": "Copyright: Public Domain",
+        "rights_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=67",
+        "rights_terms_url": "https://www.mutopiaproject.org/legal.html",
+        "sha256": "5ecc06eb04d56ea40bd4db64bfd49ac9bff523e46d134912fa5bd07aea1db1c7",
+        "source": "Mutopia Project",
+        "split": "development",
+        "stem": "bach-invention-04",
+        "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV775/bach-invention-04/bach-invention-04.mid",
+        "voice_policy": "first nonempty MIDI note track; isolated voice; first 12 nonoverlapping note events; reject chords instead of silently selecting",
+        "work_title": "Invention BWV 775"
+      },
+      "split": "development",
+      "stratum": "bach",
+      "stretch_ratio": 1.25,
+      "transpose_semitones": -2
+    },
+    {
+      "bwv": 778,
+      "group": "bach-bwv778-notes24-35",
+      "index_within_stratum": 2,
+      "note_indices": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "seed": 202609261878,
+      "source_onset_seconds": 1.47,
+      "source_provenance": {
+        "bwv": 778,
+        "bytes": 4088,
+        "mutopia_id": 73,
+        "path": "sources/BWV778.mid",
+        "retrieved_utc": "2026-09-22T14:49:38.007383+00:00",
+        "rights_assertion": "Copyright: Public Domain",
+        "rights_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=73",
+        "rights_terms_url": "https://www.mutopiaproject.org/legal.html",
+        "sha256": "ee5e02d6a43cd9a45f6c10e3c6b3905190ed42521b1de7487fee8a98c3735eb6",
+        "source": "Mutopia Project",
+        "split": "development",
+        "stem": "bach-invention-07",
+        "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV778/bach-invention-07/bach-invention-07.mid",
+        "voice_policy": "first nonempty MIDI note track; isolated voice; first 12 nonoverlapping note events; reject chords instead of silently selecting",
+        "work_title": "Invention BWV 778"
+      },
+      "split": "development",
+      "stratum": "bach",
+      "stretch_ratio": 0.8,
+      "transpose_semitones": 2
+    },
+    {
+      "bwv": 781,
+      "group": "bach-bwv781-notes24-35",
+      "index_within_stratum": 3,
+      "note_indices": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "seed": 202609261881,
+      "source_onset_seconds": 1.64,
+      "source_provenance": {
+        "bwv": 781,
+        "bytes": 4147,
+        "mutopia_id": 62,
+        "path": "sources/BWV781.mid",
+        "retrieved_utc": "2026-09-22T14:49:39.300674+00:00",
+        "rights_assertion": "Copyright: Public Domain",
+        "rights_page": "https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=62",
+        "rights_terms_url": "https://www.mutopiaproject.org/legal.html",
+        "sha256": "64eed7d404ddbf668bef6a7e1d227390081e13731b9f2bf6c07792d6562eb822",
+        "source": "Mutopia Project",
+        "split": "development",
+        "stem": "bach-invention-10",
+        "url": "https://www.mutopiaproject.org/ftp/BachJS/BWV781/bach-invention-10/bach-invention-10.mid",
+        "voice_policy": "first nonempty MIDI note track; isolated voice; first 12 nonoverlapping note events; reject chords instead of silently selecting",
+        "work_title": "Invention BWV 781"
+      },
+      "split": "development",
+      "stratum": "bach",
+      "stretch_ratio": 1.25,
+      "transpose_semitones": 5
+    },
+    {
+      "group": "novel-20260926-01",
+      "index_within_stratum": 0,
+      "seed": 202609260100,
+      "source_onset_seconds": 1.13,
+      "source_provenance": {
+        "claim": "New construction, not a human or pretrained familiarity judgment",
+        "rights": "Original project-generated material",
+        "seed": 202609260100,
+        "type": "new deterministic diatonic motif"
+      },
+      "split": "development",
+      "stratum": "novel",
+      "stretch_ratio": 0.8,
+      "transpose_semitones": -5
+    },
+    {
+      "group": "novel-20260926-02",
+      "index_within_stratum": 1,
+      "seed": 202609260101,
+      "source_onset_seconds": 1.2999999999999998,
+      "source_provenance": {
+        "claim": "New construction, not a human or pretrained familiarity judgment",
+        "rights": "Original project-generated material",
+        "seed": 202609260101,
+        "type": "new deterministic diatonic motif"
+      },
+      "split": "development",
+      "stratum": "novel",
+      "stretch_ratio": 1.25,
+      "transpose_semitones": -2
+    },
+    {
+      "group": "novel-20260926-03",
+      "index_within_stratum": 2,
+      "seed": 202609260102,
+      "source_onset_seconds": 1.47,
+      "source_provenance": {
+        "claim": "New construction, not a human or pretrained familiarity judgment",
+        "rights": "Original project-generated material",
+        "seed": 202609260102,
+        "type": "new deterministic diatonic motif"
+      },
+      "split": "development",
+      "stratum": "novel",
+      "stretch_ratio": 0.8,
+      "transpose_semitones": 2
+    },
+    {
+      "group": "novel-20260926-04",
+      "index_within_stratum": 3,
+      "seed": 202609260103,
+      "source_onset_seconds": 1.64,
+      "source_provenance": {
+        "claim": "New construction, not a human or pretrained familiarity judgment",
+        "rights": "Original project-generated material",
+        "seed": 202609260103,
+        "type": "new deterministic diatonic motif"
+      },
+      "split": "development",
+      "stratum": "novel",
+      "stretch_ratio": 1.25,
+      "transpose_semitones": 5
+    }
+  ],
+  "historical_access_scope": "Only eight PR18 development unchanged-session labels; no evaluation files",
+  "historical_development_signature_inputs": [
+    {
+      "path": "experiments/borrowed-recurrence-feasibility-v1/results/development/bach-bwv773-unchanged/labels.json",
+      "sha256": "7cc76485e8e693f8b26486698d8f53ab0c411356d971d3490349b250bfeee19e"
+    },
+    {
+      "path": "experiments/borrowed-recurrence-feasibility-v1/results/development/bach-bwv775-unchanged/labels.json",
+      "sha256": "c6c569cebf70b5dbf2630e76c573a2d4c6eb6afd861c4b7ecadb5c6f3665b58d"
+    },
+    {
+      "path": "experiments/borrowed-recurrence-feasibility-v1/results/development/bach-bwv778-unchanged/labels.json",
+      "sha256": "f5fd419310c86e62375c602d744765a6bc6311966b26a1966e7d3260b7b5818e"
+    },
+    {
+      "path": "experiments/borrowed-recurrence-feasibility-v1/results/development/bach-bwv781-unchanged/labels.json",
+      "sha256": "1787bd1844ebf96e964cc4a3d80de18947c05fd17ee94860f862532cf1577eaf"
+    },
+    {
+      "path": "experiments/borrowed-recurrence-feasibility-v1/results/development/novel-development-01-unchanged/labels.json",
+      "sha256": "17329d3e73cee5178d9debfda1c0a0b9acb3e03ddb5fb9a306f0703f317100b9"
+    },
+    {
+      "path": "experiments/borrowed-recurrence-feasibility-v1/results/development/novel-development-02-unchanged/labels.json",
+      "sha256": "bea67c3dcbbf9d8a53e2c5edc0f2a8e2b9303cd0c0ac6c050f4684d4d3c536fd"
+    },
+    {
+      "path": "experiments/borrowed-recurrence-feasibility-v1/results/development/novel-development-03-unchanged/labels.json",
+      "sha256": "a65329a84e8c7d9b548edd97c49c520e97fefbd4f96d3c4c17534e35550dc73a"
+    },
+    {
+      "path": "experiments/borrowed-recurrence-feasibility-v1/results/development/novel-development-04-unchanged/labels.json",
+      "sha256": "91fb7d3bf3a0ed2c53027c8cdf5ef762ffb761d497dbf1c53c613bbd645bb987"
+    }
+  ],
+  "identity_claim": "Stipulated construction correspondence, not human perceptual identity",
+  "interference_policy": "Eight four-second figures: first four fixed cyclic source-pitch shifts1..4 with source timing scaled4/3; last four one-shot new diatonic motifs from seed+2000000; reject complete-signature collisions without replacements",
+  "interference_seconds": 32.0,
+  "midi_reader_sha256": "2c519d202e0446105686caa3f34e32195e39f48f50abccabe478dabf8d6dd84f",
+  "near_foil_policy": "Increase pitch by one semitone in the last source event containing a center in the fixed observed query; require at least one changed observed pitch row",
+  "novel_nonreuse_scope": "Compare every 12-event window in eight PR18 development unchanged histories and all new source signatures; historical evaluation is excluded",
+  "novel_policy": "One PCG64 draw per fixed new seed; twelve-event diatonic walk and durations; reject interval-signature collision without resampling",
+  "numpy_version": "2.5.3",
+  "occupancy_semantics": "rms is a score-derived 0/1 occupancy cue, not acoustic RMS",
+  "prediction_input_policy": "Rows NPZ contains no IDs, source labels, boundaries or exact notes; richer exact-events NPZ contains only ordered note triples and end-completion availability",
+  "query_rule": "Last 20 rows ending at the final occupied 100-ms center",
+  "row_centers_seconds": "0.05 + 0.1*k",
+  "schema": "correspondence-reference-material-manifest-v1",
+  "sessions": 40,
+  "source_manifest_sha256": "ad906478f406bbc7cfb8a13e8155a451f7869fda48a77c0aa7fd4a7aed16bc63",
+  "source_policy": "Same first nonempty note track as historical development; note indices24..35; normalize onset-to-offset span to three seconds; verify no event-range overlap with prior indices0..11",
+  "source_seconds": 3.0
+}
