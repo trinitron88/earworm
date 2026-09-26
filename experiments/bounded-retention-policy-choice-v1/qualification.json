@@ -1,0 +1,193 @@
+{
+  "planned": 15,
+  "completed": 15,
+  "passed": true,
+  "rows": [
+    {
+      "case": "transformed",
+      "policy": "fifo",
+      "checks": {
+        "acceptance": true,
+        "recent_eviction": true,
+        "capacity": true,
+        "availability": true,
+        "shift": true,
+        "scale": true,
+        "source": true
+      },
+      "passed": true
+    },
+    {
+      "case": "transformed",
+      "policy": "reservoir",
+      "checks": {
+        "acceptance": true,
+        "recent_eviction": true,
+        "capacity": true,
+        "availability": true,
+        "shift": true,
+        "scale": true,
+        "source": true
+      },
+      "passed": true
+    },
+    {
+      "case": "transformed",
+      "policy": "diversity",
+      "checks": {
+        "acceptance": true,
+        "recent_eviction": true,
+        "capacity": true,
+        "availability": true,
+        "shift": true,
+        "scale": true,
+        "source": true
+      },
+      "passed": true
+    },
+    {
+      "case": "transformed",
+      "policy": "unpressured",
+      "checks": {
+        "acceptance": true,
+        "recent_eviction": true,
+        "capacity": true,
+        "availability": true,
+        "shift": true,
+        "scale": true,
+        "source": true
+      },
+      "passed": true
+    },
+    {
+      "case": "transformed",
+      "policy": "present",
+      "checks": {
+        "acceptance": true,
+        "recent_eviction": true,
+        "capacity": true,
+        "availability": true
+      },
+      "passed": true
+    },
+    {
+      "case": "removed",
+      "policy": "fifo",
+      "checks": {
+        "acceptance": true,
+        "recent_eviction": true,
+        "capacity": true,
+        "availability": true,
+        "removed": true
+      },
+      "passed": true
+    },
+    {
+      "case": "removed",
+      "policy": "reservoir",
+      "checks": {
+        "acceptance": true,
+        "recent_eviction": true,
+        "capacity": true,
+        "availability": true,
+        "removed": true
+      },
+      "passed": true
+    },
+    {
+      "case": "removed",
+      "policy": "diversity",
+      "checks": {
+        "acceptance": true,
+        "recent_eviction": true,
+        "capacity": true,
+        "availability": true,
+        "removed": true
+      },
+      "passed": true
+    },
+    {
+      "case": "removed",
+      "policy": "unpressured",
+      "checks": {
+        "acceptance": true,
+        "recent_eviction": true,
+        "capacity": true,
+        "availability": true,
+        "removed": true
+      },
+      "passed": true
+    },
+    {
+      "case": "removed",
+      "policy": "present",
+      "checks": {
+        "acceptance": true,
+        "recent_eviction": true,
+        "capacity": true,
+        "availability": true,
+        "removed": true
+      },
+      "passed": true
+    },
+    {
+      "case": "ambiguous",
+      "policy": "fifo",
+      "checks": {
+        "acceptance": true,
+        "recent_eviction": true,
+        "capacity": true,
+        "availability": true,
+        "all_alternatives": true
+      },
+      "passed": true
+    },
+    {
+      "case": "ambiguous",
+      "policy": "reservoir",
+      "checks": {
+        "acceptance": true,
+        "recent_eviction": true,
+        "capacity": true,
+        "availability": true,
+        "all_alternatives": true
+      },
+      "passed": true
+    },
+    {
+      "case": "ambiguous",
+      "policy": "diversity",
+      "checks": {
+        "acceptance": true,
+        "recent_eviction": true,
+        "capacity": true,
+        "availability": true,
+        "all_alternatives": true
+      },
+      "passed": true
+    },
+    {
+      "case": "ambiguous",
+      "policy": "unpressured",
+      "checks": {
+        "acceptance": true,
+        "recent_eviction": true,
+        "capacity": true,
+        "availability": true,
+        "all_alternatives": true
+      },
+      "passed": true
+    },
+    {
+      "case": "ambiguous",
+      "policy": "present",
+      "checks": {
+        "acceptance": true,
+        "recent_eviction": true,
+        "capacity": true,
+        "availability": true
+      },
+      "passed": true
+    }
+  ]
+}

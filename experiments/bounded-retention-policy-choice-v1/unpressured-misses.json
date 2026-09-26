@@ -1,0 +1,292 @@
+{
+  "rows": [
+    {
+      "family": "bach-bwv774-notes36-47",
+      "cell": "stretch",
+      "reason": "no full-consistent occurrence",
+      "candidate_count": 0,
+      "source_record_retained": true,
+      "independent_full_event_affine_residual_seconds": 1.1368683772161603e-13,
+      "independent_shift": 0,
+      "independent_scale": 0.7999999999999924,
+      "response_path": "outputs/evaluation/s08-2/unpressured/full/response.json"
+    },
+    {
+      "family": "bach-bwv779-notes36-47",
+      "cell": "stretch",
+      "reason": "no full-consistent occurrence",
+      "candidate_count": 0,
+      "source_record_retained": true,
+      "independent_full_event_affine_residual_seconds": 1.1368683772161603e-13,
+      "independent_shift": 0,
+      "independent_scale": 0.7999999999999924,
+      "response_path": "outputs/evaluation/s10-2/unpressured/full/response.json"
+    },
+    {
+      "family": "bach-bwv782-notes36-47",
+      "cell": "unchanged",
+      "reason": "no full-consistent occurrence",
+      "candidate_count": 0,
+      "source_record_retained": true,
+      "independent_full_event_affine_residual_seconds": 0.0,
+      "independent_shift": 0,
+      "independent_scale": 1.0,
+      "response_path": "outputs/evaluation/s11-0/unpressured/full/response.json"
+    },
+    {
+      "family": "bach-bwv782-notes36-47",
+      "cell": "transpose",
+      "reason": "no full-consistent occurrence",
+      "candidate_count": 0,
+      "source_record_retained": true,
+      "independent_full_event_affine_residual_seconds": 0.0,
+      "independent_shift": 5,
+      "independent_scale": 1.0,
+      "response_path": "outputs/evaluation/s11-1/unpressured/full/response.json"
+    },
+    {
+      "family": "bach-bwv782-notes36-47",
+      "cell": "stretch",
+      "reason": "no full-consistent occurrence",
+      "candidate_count": 0,
+      "source_record_retained": true,
+      "independent_full_event_affine_residual_seconds": 0.0,
+      "independent_shift": 0,
+      "independent_scale": 1.25,
+      "response_path": "outputs/evaluation/s11-2/unpressured/full/response.json"
+    },
+    {
+      "family": "bach-bwv784-notes36-47",
+      "cell": "unchanged",
+      "reason": "no full-consistent occurrence",
+      "candidate_count": 0,
+      "source_record_retained": true,
+      "independent_full_event_affine_residual_seconds": 0.0,
+      "independent_shift": 0,
+      "independent_scale": 1.0,
+      "response_path": "outputs/evaluation/s12-0/unpressured/full/response.json"
+    },
+    {
+      "family": "bach-bwv784-notes36-47",
+      "cell": "transpose",
+      "reason": "no full-consistent occurrence",
+      "candidate_count": 0,
+      "source_record_retained": true,
+      "independent_full_event_affine_residual_seconds": 0.0,
+      "independent_shift": -5,
+      "independent_scale": 1.0,
+      "response_path": "outputs/evaluation/s12-1/unpressured/full/response.json"
+    },
+    {
+      "family": "bach-bwv784-notes36-47",
+      "cell": "stretch",
+      "reason": "no full-consistent occurrence",
+      "candidate_count": 0,
+      "source_record_retained": true,
+      "independent_full_event_affine_residual_seconds": 1.1368683772161603e-13,
+      "independent_shift": 0,
+      "independent_scale": 0.7999999999999924,
+      "response_path": "outputs/evaluation/s12-2/unpressured/full/response.json"
+    },
+    {
+      "family": "bach-bwv785-notes36-47",
+      "cell": "unchanged",
+      "reason": "no full-consistent occurrence",
+      "candidate_count": 0,
+      "source_record_retained": true,
+      "independent_full_event_affine_residual_seconds": 0.0,
+      "independent_shift": 0,
+      "independent_scale": 1.0,
+      "response_path": "outputs/evaluation/s13-0/unpressured/full/response.json"
+    },
+    {
+      "family": "bach-bwv785-notes36-47",
+      "cell": "transpose",
+      "reason": "no full-consistent occurrence",
+      "candidate_count": 0,
+      "source_record_retained": true,
+      "independent_full_event_affine_residual_seconds": 0.0,
+      "independent_shift": -2,
+      "independent_scale": 1.0,
+      "response_path": "outputs/evaluation/s13-1/unpressured/full/response.json"
+    },
+    {
+      "family": "bach-bwv786-notes36-47",
+      "cell": "stretch",
+      "reason": "no full-consistent occurrence",
+      "candidate_count": 0,
+      "source_record_retained": true,
+      "independent_full_event_affine_residual_seconds": 1.1368683772161603e-13,
+      "independent_shift": 0,
+      "independent_scale": 0.7999999999999924,
+      "response_path": "outputs/evaluation/s14-2/unpressured/full/response.json"
+    },
+    {
+      "family": "bach-bwv787-notes69-80",
+      "cell": "unchanged",
+      "reason": "no full-consistent occurrence",
+      "candidate_count": 0,
+      "source_record_retained": true,
+      "independent_full_event_affine_residual_seconds": 0.0,
+      "independent_shift": 0,
+      "independent_scale": 1.0,
+      "response_path": "outputs/evaluation/s15-0/unpressured/full/response.json"
+    },
+    {
+      "family": "bach-bwv787-notes69-80",
+      "cell": "transpose",
+      "reason": "no full-consistent occurrence",
+      "candidate_count": 0,
+      "source_record_retained": true,
+      "independent_full_event_affine_residual_seconds": 0.0,
+      "independent_shift": 5,
+      "independent_scale": 1.0,
+      "response_path": "outputs/evaluation/s15-1/unpressured/full/response.json"
+    },
+    {
+      "family": "novel-evaluation-01",
+      "cell": "unchanged",
+      "reason": "no full-consistent occurrence",
+      "candidate_count": 0,
+      "source_record_retained": true,
+      "independent_full_event_affine_residual_seconds": 0.0,
+      "independent_shift": 0,
+      "independent_scale": 1.0,
+      "response_path": "outputs/evaluation/s16-0/unpressured/full/response.json"
+    },
+    {
+      "family": "novel-evaluation-01",
+      "cell": "transpose",
+      "reason": "no full-consistent occurrence",
+      "candidate_count": 0,
+      "source_record_retained": true,
+      "independent_full_event_affine_residual_seconds": 0.0,
+      "independent_shift": -5,
+      "independent_scale": 1.0,
+      "response_path": "outputs/evaluation/s16-1/unpressured/full/response.json"
+    },
+    {
+      "family": "novel-evaluation-01",
+      "cell": "stretch",
+      "reason": "no full-consistent occurrence",
+      "candidate_count": 0,
+      "source_record_retained": true,
+      "independent_full_event_affine_residual_seconds": 0.0,
+      "independent_shift": 0,
+      "independent_scale": 0.7999999999999924,
+      "response_path": "outputs/evaluation/s16-2/unpressured/full/response.json"
+    },
+    {
+      "family": "novel-evaluation-03",
+      "cell": "stretch",
+      "reason": "no full-consistent occurrence",
+      "candidate_count": 0,
+      "source_record_retained": true,
+      "independent_full_event_affine_residual_seconds": 1.1368683772161603e-13,
+      "independent_shift": 0,
+      "independent_scale": 0.7999999999999924,
+      "response_path": "outputs/evaluation/s18-2/unpressured/full/response.json"
+    },
+    {
+      "family": "novel-evaluation-04",
+      "cell": "unchanged",
+      "reason": "no full-consistent occurrence",
+      "candidate_count": 0,
+      "source_record_retained": true,
+      "independent_full_event_affine_residual_seconds": 0.0,
+      "independent_shift": 0,
+      "independent_scale": 1.0,
+      "response_path": "outputs/evaluation/s19-0/unpressured/full/response.json"
+    },
+    {
+      "family": "novel-evaluation-04",
+      "cell": "transpose",
+      "reason": "no full-consistent occurrence",
+      "candidate_count": 0,
+      "source_record_retained": true,
+      "independent_full_event_affine_residual_seconds": 0.0,
+      "independent_shift": 5,
+      "independent_scale": 1.0,
+      "response_path": "outputs/evaluation/s19-1/unpressured/full/response.json"
+    },
+    {
+      "family": "novel-evaluation-05",
+      "cell": "unchanged",
+      "reason": "no full-consistent occurrence",
+      "candidate_count": 0,
+      "source_record_retained": true,
+      "independent_full_event_affine_residual_seconds": 0.0,
+      "independent_shift": 0,
+      "independent_scale": 1.0,
+      "response_path": "outputs/evaluation/s20-0/unpressured/full/response.json"
+    },
+    {
+      "family": "novel-evaluation-05",
+      "cell": "transpose",
+      "reason": "no full-consistent occurrence",
+      "candidate_count": 0,
+      "source_record_retained": true,
+      "independent_full_event_affine_residual_seconds": 0.0,
+      "independent_shift": -5,
+      "independent_scale": 1.0,
+      "response_path": "outputs/evaluation/s20-1/unpressured/full/response.json"
+    },
+    {
+      "family": "novel-evaluation-05",
+      "cell": "stretch",
+      "reason": "no full-consistent occurrence",
+      "candidate_count": 0,
+      "source_record_retained": true,
+      "independent_full_event_affine_residual_seconds": 1.1368683772161603e-13,
+      "independent_shift": 0,
+      "independent_scale": 0.7999999999999924,
+      "response_path": "outputs/evaluation/s20-2/unpressured/full/response.json"
+    },
+    {
+      "family": "novel-evaluation-06",
+      "cell": "unchanged",
+      "reason": "no full-consistent occurrence",
+      "candidate_count": 0,
+      "source_record_retained": true,
+      "independent_full_event_affine_residual_seconds": 0.0,
+      "independent_shift": 0,
+      "independent_scale": 1.0,
+      "response_path": "outputs/evaluation/s21-0/unpressured/full/response.json"
+    },
+    {
+      "family": "novel-evaluation-06",
+      "cell": "transpose",
+      "reason": "no full-consistent occurrence",
+      "candidate_count": 0,
+      "source_record_retained": true,
+      "independent_full_event_affine_residual_seconds": 0.0,
+      "independent_shift": -2,
+      "independent_scale": 1.0,
+      "response_path": "outputs/evaluation/s21-1/unpressured/full/response.json"
+    },
+    {
+      "family": "novel-evaluation-06",
+      "cell": "stretch",
+      "reason": "no full-consistent occurrence",
+      "candidate_count": 0,
+      "source_record_retained": true,
+      "independent_full_event_affine_residual_seconds": 0.0,
+      "independent_shift": 0,
+      "independent_scale": 1.25,
+      "response_path": "outputs/evaluation/s21-2/unpressured/full/response.json"
+    },
+    {
+      "family": "novel-evaluation-07",
+      "cell": "stretch",
+      "reason": "no full-consistent occurrence",
+      "candidate_count": 0,
+      "source_record_retained": true,
+      "independent_full_event_affine_residual_seconds": 1.1368683772161603e-13,
+      "independent_shift": 0,
+      "independent_scale": 0.7999999999999924,
+      "response_path": "outputs/evaluation/s22-2/unpressured/full/response.json"
+    }
+  ],
+  "count": 26,
+  "interpretation": "Source evidence survives but frozen G returns no candidate despite independently compatible full construction under arithmetic tolerance. Does not isolate a cause; no counterfactual matcher call or repair."
+}

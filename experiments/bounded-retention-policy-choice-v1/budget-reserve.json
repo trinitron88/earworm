@@ -1,0 +1,18 @@
+{
+  "measured_development_calibration_readouts": 280,
+  "sum_elapsed_seconds": 93.89470220776275,
+  "max_readout_seconds": 1.2505207089707255,
+  "qualification_used": 15,
+  "scientific_used": 280,
+  "remaining_evaluation_readouts": 560,
+  "planned_total": 855,
+  "call_cap": 900,
+  "aggregate_charged_at_measurement": 3440.912072,
+  "evaluation_seconds_reserved": 1050.4373955354095,
+  "validation_publication_seconds_reserved": 600,
+  "total_cap": 7200,
+  "remaining_seconds": 3759.087928,
+  "current_artifact_bytes": 62562054,
+  "artifact_cap": 2147483648,
+  "evaluation_exposed": false
+}

@@ -1,0 +1,967 @@
+{
+  "candidate_readouts_run": 0,
+  "schema": "bounded-retention-input-manifest-v1",
+  "sessions": [
+    {
+      "cell": "unchanged",
+      "family_id": "bach-bwv773-notes36-47",
+      "labels_sha256": "add8bdc980fe9cf1f4c5859d4ab4ebdd6830f6d753bcd3d93d3dafab7b51aa4a",
+      "observations_sha256": "5f2152ba2f00e5971640e81611aaf1622ca2b4185af2ce3ac0ecd8b830347332",
+      "path": "inputs/development/s00-0",
+      "session_id": "s00-0",
+      "split": "development",
+      "stratum": "bach"
+    },
+    {
+      "cell": "transpose",
+      "family_id": "bach-bwv773-notes36-47",
+      "labels_sha256": "04e58760266889122763c8387f4b101312031d3692f4eac2f1549a8dca4ca5bb",
+      "observations_sha256": "dc402eb40431ff38cc836acfd1042bc289760ea03a196f2ac424b666c349ba84",
+      "path": "inputs/development/s00-1",
+      "session_id": "s00-1",
+      "split": "development",
+      "stratum": "bach"
+    },
+    {
+      "cell": "stretch",
+      "family_id": "bach-bwv773-notes36-47",
+      "labels_sha256": "2233ada41b7809e81bfc063f4d3a4f3a399fdeea077617791f6e9540b68a5170",
+      "observations_sha256": "0b3184dd10e500d2ea1118b764e41ad6ee7108be5c533f6100ebd59256d57428",
+      "path": "inputs/development/s00-2",
+      "session_id": "s00-2",
+      "split": "development",
+      "stratum": "bach"
+    },
+    {
+      "cell": "foil",
+      "family_id": "bach-bwv773-notes36-47",
+      "labels_sha256": "b4536d4f717dc8e53a4226366245972877209675849f87f058142b343bed7ed2",
+      "observations_sha256": "96b30fb7091d8752f89ec6eb7beceb8dd1b63ff6393356e8d8ea356af1a71a4a",
+      "path": "inputs/development/s00-3",
+      "session_id": "s00-3",
+      "split": "development",
+      "stratum": "bach"
+    },
+    {
+      "cell": "unchanged",
+      "family_id": "bach-bwv775-notes36-47",
+      "labels_sha256": "7bca765d0a1f7f810e0c12726e2af3640c7a3d277bcd2c24dc0a0b6eff589973",
+      "observations_sha256": "193788fdb72c7396c56373c3a0578565c60644b11112e0320994cea67b116b81",
+      "path": "inputs/development/s01-0",
+      "session_id": "s01-0",
+      "split": "development",
+      "stratum": "bach"
+    },
+    {
+      "cell": "transpose",
+      "family_id": "bach-bwv775-notes36-47",
+      "labels_sha256": "e9769365006fd97bd4bf14334283e8660585bf492017b5a392ae93f9c872dc2f",
+      "observations_sha256": "e873100fc51cc72b991b7f23d23d5ccaf8328321f32a6fd68fe9d0e2ba72c90a",
+      "path": "inputs/development/s01-1",
+      "session_id": "s01-1",
+      "split": "development",
+      "stratum": "bach"
+    },
+    {
+      "cell": "stretch",
+      "family_id": "bach-bwv775-notes36-47",
+      "labels_sha256": "79a058eafe1313ce09e3bc3dfa52328c078e307cbb3bc737c6cbbf1e7de1ae4b",
+      "observations_sha256": "af8a6fad84f04ae94a5b07ac43d4ea56f9ae8740f32dc619e9aac0dec1ae78ad",
+      "path": "inputs/development/s01-2",
+      "session_id": "s01-2",
+      "split": "development",
+      "stratum": "bach"
+    },
+    {
+      "cell": "foil",
+      "family_id": "bach-bwv775-notes36-47",
+      "labels_sha256": "e74996a981388be7558e2165ef3ff840b39493e593ea514b001601890795b68a",
+      "observations_sha256": "12a0a78ef3fe6af0c3267ceae147596514c4ca1e64d13c6fe56d7e10d070c648",
+      "path": "inputs/development/s01-3",
+      "session_id": "s01-3",
+      "split": "development",
+      "stratum": "bach"
+    },
+    {
+      "cell": "unchanged",
+      "family_id": "novel-development-01",
+      "labels_sha256": "2eb30e9996590262b897da72413278687d3a11188093e082b1d73b7b746996be",
+      "observations_sha256": "0b03b661ff3a834dce255f0eba657e3a7870b4de1e297e1dea53318f771a0113",
+      "path": "inputs/development/s02-0",
+      "session_id": "s02-0",
+      "split": "development",
+      "stratum": "novel"
+    },
+    {
+      "cell": "transpose",
+      "family_id": "novel-development-01",
+      "labels_sha256": "7898c41b5484dabf85583e7a485e62bb126d7f1c715c4a9e4981f137ad53a76e",
+      "observations_sha256": "27248b3107b964fc39a882b5a11dfb5dd9153dc3afdda0f4e5a1ac071eba2715",
+      "path": "inputs/development/s02-1",
+      "session_id": "s02-1",
+      "split": "development",
+      "stratum": "novel"
+    },
+    {
+      "cell": "stretch",
+      "family_id": "novel-development-01",
+      "labels_sha256": "cf2b680a0e402612fb23a19c714186426ad79399c9c36c49e9c0166ffcdbdb94",
+      "observations_sha256": "b0b5a832fdc6a50c4f3e1b74734b22c3dc4f7dd9f8577137de471ec4d3c86bff",
+      "path": "inputs/development/s02-2",
+      "session_id": "s02-2",
+      "split": "development",
+      "stratum": "novel"
+    },
+    {
+      "cell": "foil",
+      "family_id": "novel-development-01",
+      "labels_sha256": "26f11d22f4c6cfe8f0940eee1a2e04e87e863137602ed5c537abaf34ff0e4a1d",
+      "observations_sha256": "9dd4feeb4ccf8f052381d25d5d95b657192418d77be9492bd46438587b025500",
+      "path": "inputs/development/s02-3",
+      "session_id": "s02-3",
+      "split": "development",
+      "stratum": "novel"
+    },
+    {
+      "cell": "unchanged",
+      "family_id": "novel-development-02",
+      "labels_sha256": "823d872739eda7d0226d2823b53114442e0cc0d46851ff36c8915fe5c05afb7f",
+      "observations_sha256": "ab372e02546e9d9b5e6c902f191ea77c749518d90491fd0d93838e089d46f224",
+      "path": "inputs/development/s03-0",
+      "session_id": "s03-0",
+      "split": "development",
+      "stratum": "novel"
+    },
+    {
+      "cell": "transpose",
+      "family_id": "novel-development-02",
+      "labels_sha256": "9004e21a737c8bcc0f4a18ab46d02a2d760ccd402f5f479b4276fa18fcda35c3",
+      "observations_sha256": "24a08b951713236ea788821a827c80a60c1d7c00333cabc6844cb712aaa7be80",
+      "path": "inputs/development/s03-1",
+      "session_id": "s03-1",
+      "split": "development",
+      "stratum": "novel"
+    },
+    {
+      "cell": "stretch",
+      "family_id": "novel-development-02",
+      "labels_sha256": "675c79faeadd3b7f0aee455180e53888e3521e81b7ccd2b368497a33c6173b33",
+      "observations_sha256": "8a7fb937fbddf191c899b07c7fea79ca07355425f54b2dd2aff07114f9d99dfe",
+      "path": "inputs/development/s03-2",
+      "session_id": "s03-2",
+      "split": "development",
+      "stratum": "novel"
+    },
+    {
+      "cell": "foil",
+      "family_id": "novel-development-02",
+      "labels_sha256": "de5807bd09cf9409686a966a25bc4f4d603a6b6da52a31fecaf8a2e3a5357d28",
+      "observations_sha256": "70f2f4381e243d7e4bc86465eabad109ea5605050ab5a720be7c559a7d523ec4",
+      "path": "inputs/development/s03-3",
+      "session_id": "s03-3",
+      "split": "development",
+      "stratum": "novel"
+    },
+    {
+      "cell": "unchanged",
+      "family_id": "bach-bwv778-notes36-47",
+      "labels_sha256": "cdd28dfa9a5f63055e158953cd298a05c4566a364dc3755520209081d0e643e2",
+      "observations_sha256": "b9106c0e58803846d117763b0abb95acb34cff7665ccfd670e6f8c850941b6c6",
+      "path": "inputs/calibration/s04-0",
+      "session_id": "s04-0",
+      "split": "calibration",
+      "stratum": "bach"
+    },
+    {
+      "cell": "transpose",
+      "family_id": "bach-bwv778-notes36-47",
+      "labels_sha256": "73079c05afe2afb5076b53fd06fc32541391cdb60f7c12e870e5957ebb503972",
+      "observations_sha256": "914dd5efbff3ec7dc57de8a671f4844cf2a99475fceda1313a3dc4f5e9412bbe",
+      "path": "inputs/calibration/s04-1",
+      "session_id": "s04-1",
+      "split": "calibration",
+      "stratum": "bach"
+    },
+    {
+      "cell": "stretch",
+      "family_id": "bach-bwv778-notes36-47",
+      "labels_sha256": "17aa295c965b02f5f5d3aa9a0aeca1388eceb708f4aeaf69cbb5beabcc180537",
+      "observations_sha256": "9ca749697f8f875851b9c40e84d161d110e4bee2f1a41a603aae552cb3911d39",
+      "path": "inputs/calibration/s04-2",
+      "session_id": "s04-2",
+      "split": "calibration",
+      "stratum": "bach"
+    },
+    {
+      "cell": "foil",
+      "family_id": "bach-bwv778-notes36-47",
+      "labels_sha256": "e03b8c324335fc4f9918a454025f1392b86d1264fae38a0ac48a58a22ccc0677",
+      "observations_sha256": "46de56843dc87aceef9dafc61636b3ea6783c0c12918e8de6517a8beaaed423f",
+      "path": "inputs/calibration/s04-3",
+      "session_id": "s04-3",
+      "split": "calibration",
+      "stratum": "bach"
+    },
+    {
+      "cell": "unchanged",
+      "family_id": "bach-bwv781-notes36-47",
+      "labels_sha256": "6ca773309f048845075320ec8e0a5111e2e25588f7f537bbd17b70a2a8822c1b",
+      "observations_sha256": "c3c45bd099ae5a987af7839759822a3cf182ae1b58bea446f4695bccd0e428f6",
+      "path": "inputs/calibration/s05-0",
+      "session_id": "s05-0",
+      "split": "calibration",
+      "stratum": "bach"
+    },
+    {
+      "cell": "transpose",
+      "family_id": "bach-bwv781-notes36-47",
+      "labels_sha256": "bb210dc9771861a94ebe9877a45ed3d996a334d8d009c7eba3f215de06bbab57",
+      "observations_sha256": "b2c78c47116a97f5e5a1c79eb0b1eafbec870e8ae969ec41c47af806de09986f",
+      "path": "inputs/calibration/s05-1",
+      "session_id": "s05-1",
+      "split": "calibration",
+      "stratum": "bach"
+    },
+    {
+      "cell": "stretch",
+      "family_id": "bach-bwv781-notes36-47",
+      "labels_sha256": "3073e5297649cbd8d729f48522020210c995f65745efd0297d04e32535a3b7ab",
+      "observations_sha256": "523195b7b77024bb942cc945df1120fb70a8a4e2623fbef85cc6e28bc3621fe2",
+      "path": "inputs/calibration/s05-2",
+      "session_id": "s05-2",
+      "split": "calibration",
+      "stratum": "bach"
+    },
+    {
+      "cell": "foil",
+      "family_id": "bach-bwv781-notes36-47",
+      "labels_sha256": "9a6c967d252deaed1224223b05c1eecd566adfec59890c2c96c37e8cc0701672",
+      "observations_sha256": "b4197f7b1eeb5b08714ab9952eb8b337b992341464d62b4f54f740ebb533cfa0",
+      "path": "inputs/calibration/s05-3",
+      "session_id": "s05-3",
+      "split": "calibration",
+      "stratum": "bach"
+    },
+    {
+      "cell": "unchanged",
+      "family_id": "novel-calibration-01",
+      "labels_sha256": "1ec48c71af2359aead449aa42249c22925b877cda955a5259bb94851b2d285a5",
+      "observations_sha256": "601e488720103facbf581b8f136c271282a94ede28689c1653a5e3c26f5a8f53",
+      "path": "inputs/calibration/s06-0",
+      "session_id": "s06-0",
+      "split": "calibration",
+      "stratum": "novel"
+    },
+    {
+      "cell": "transpose",
+      "family_id": "novel-calibration-01",
+      "labels_sha256": "ff0498861a46c3f86f3c7aa912c020513bc8af6c1e8ea2da3a5d1da8d355815b",
+      "observations_sha256": "2ac4a012683bfe8b223ccf578807b1707f74f635c515617024897b0ffbaf9170",
+      "path": "inputs/calibration/s06-1",
+      "session_id": "s06-1",
+      "split": "calibration",
+      "stratum": "novel"
+    },
+    {
+      "cell": "stretch",
+      "family_id": "novel-calibration-01",
+      "labels_sha256": "b27c44612d48db84d471e5148f3af5192dc28f15adffb9c26751b6542e889e04",
+      "observations_sha256": "bc0e43947d6ead84e20eb68bd058d9ed742df31e651e99b3e2eb812034676947",
+      "path": "inputs/calibration/s06-2",
+      "session_id": "s06-2",
+      "split": "calibration",
+      "stratum": "novel"
+    },
+    {
+      "cell": "foil",
+      "family_id": "novel-calibration-01",
+      "labels_sha256": "b9e7b782d3da6c2c62dda885b83dde07e02ce069b04c3954d8fbcc71e255fa01",
+      "observations_sha256": "f4350dd4ab2b4f3cd80a155301c55f7ad658e88202e29d1fa824c29b71aa0793",
+      "path": "inputs/calibration/s06-3",
+      "session_id": "s06-3",
+      "split": "calibration",
+      "stratum": "novel"
+    },
+    {
+      "cell": "unchanged",
+      "family_id": "novel-calibration-02",
+      "labels_sha256": "3e17e338970d5ed0ca49760026a67352e0b741b521d6d4455e50aa14e8f4414f",
+      "observations_sha256": "912abf313a6a2614c09f35234428b078882f4c1d18caf306690a15b3974eea67",
+      "path": "inputs/calibration/s07-0",
+      "session_id": "s07-0",
+      "split": "calibration",
+      "stratum": "novel"
+    },
+    {
+      "cell": "transpose",
+      "family_id": "novel-calibration-02",
+      "labels_sha256": "4deadacb3a329604ad45f73851aea6f9d3de1354dd1c865a9b2d0b9a7fafb8ca",
+      "observations_sha256": "7de4f154600b484dfe6fbe4ddbb5379bab77ac4778a5296c896b3186e7788a9a",
+      "path": "inputs/calibration/s07-1",
+      "session_id": "s07-1",
+      "split": "calibration",
+      "stratum": "novel"
+    },
+    {
+      "cell": "stretch",
+      "family_id": "novel-calibration-02",
+      "labels_sha256": "5f6dff9ab0c4a811873146be7038ee675a0e504343b7719ae63bdf54b7380e88",
+      "observations_sha256": "724cd7b9e182b1c19de2952c898b500b7415b108e92499d451b323c57f440117",
+      "path": "inputs/calibration/s07-2",
+      "session_id": "s07-2",
+      "split": "calibration",
+      "stratum": "novel"
+    },
+    {
+      "cell": "foil",
+      "family_id": "novel-calibration-02",
+      "labels_sha256": "23366a685ba1fce822528da73c5167f8cb0597cb9b0a16cb10daeb9ebc6831d5",
+      "observations_sha256": "66797bf88649e89ebf9aad0337c9aa1f71e6d6e7ed6a6c406d9a55b2309197fc",
+      "path": "inputs/calibration/s07-3",
+      "session_id": "s07-3",
+      "split": "calibration",
+      "stratum": "novel"
+    },
+    {
+      "cell": "unchanged",
+      "family_id": "bach-bwv774-notes36-47",
+      "labels_sha256": "01de628299d29341fff6131e7aa6d60948fff7e84933f3ecbfe113a2d8a28d50",
+      "observations_sha256": "1a5bc3d0e64ff221b458cab2638069452e467e10f2c9f4fb69a453934f6e3438",
+      "path": "inputs/evaluation/s08-0",
+      "session_id": "s08-0",
+      "split": "evaluation",
+      "stratum": "bach"
+    },
+    {
+      "cell": "transpose",
+      "family_id": "bach-bwv774-notes36-47",
+      "labels_sha256": "580a10fb5691cc9ea183dfd10832cd543b236c99d2a508bcbc53159d000b44db",
+      "observations_sha256": "25dbaaac91c2f64d52e587f14d31bba8cbccc97c524c31fba657fd7a633fa7db",
+      "path": "inputs/evaluation/s08-1",
+      "session_id": "s08-1",
+      "split": "evaluation",
+      "stratum": "bach"
+    },
+    {
+      "cell": "stretch",
+      "family_id": "bach-bwv774-notes36-47",
+      "labels_sha256": "f6ff05974714eac943fa10b68e048579fbd48716540b741b6456458cb113d892",
+      "observations_sha256": "898f67f138b180496e7df20f080381a4234042ebb97c4bf59d466eb813da0e9e",
+      "path": "inputs/evaluation/s08-2",
+      "session_id": "s08-2",
+      "split": "evaluation",
+      "stratum": "bach"
+    },
+    {
+      "cell": "foil",
+      "family_id": "bach-bwv774-notes36-47",
+      "labels_sha256": "bb7df3384b2c04a1f6fd08017cc99be23d91483df961f5463de375c603dc201b",
+      "observations_sha256": "041e61ad2617e30b01d2fb000faf091e4707c2b2894c1db0d74bff7a1c05546d",
+      "path": "inputs/evaluation/s08-3",
+      "session_id": "s08-3",
+      "split": "evaluation",
+      "stratum": "bach"
+    },
+    {
+      "cell": "unchanged",
+      "family_id": "bach-bwv776-notes36-47",
+      "labels_sha256": "1b083de6db2e21a4521848ac56028596790b5137cd2cd87b5845a13925e6edf1",
+      "observations_sha256": "b57c218823597c12a842e4b213ae62cc88a96694677210af731ca08e8f0c57f6",
+      "path": "inputs/evaluation/s09-0",
+      "session_id": "s09-0",
+      "split": "evaluation",
+      "stratum": "bach"
+    },
+    {
+      "cell": "transpose",
+      "family_id": "bach-bwv776-notes36-47",
+      "labels_sha256": "b35b6f6c2cdd7032a25a0e2c39447ae3682bbc5df07ebcfb75524568fcde9bfb",
+      "observations_sha256": "da809e2165c24b2c4b397b22760844fef4c8a244afcbb6165d686abf8bb8f0c1",
+      "path": "inputs/evaluation/s09-1",
+      "session_id": "s09-1",
+      "split": "evaluation",
+      "stratum": "bach"
+    },
+    {
+      "cell": "stretch",
+      "family_id": "bach-bwv776-notes36-47",
+      "labels_sha256": "1fff6d537d75f0ae38b3145def104da4f925fa7ff440d81f055b8847df7f873e",
+      "observations_sha256": "7bb277565cff0d1b077ebe03562257d943d7c397bb9140f44988de6709d355ef",
+      "path": "inputs/evaluation/s09-2",
+      "session_id": "s09-2",
+      "split": "evaluation",
+      "stratum": "bach"
+    },
+    {
+      "cell": "foil",
+      "family_id": "bach-bwv776-notes36-47",
+      "labels_sha256": "e7b32f23efb00d0194c7d112781a599ab2bca9113a42da3bf4442c290dc16832",
+      "observations_sha256": "a99d57b00d0ad206e0ecb0ffa463b022f5a39bfd1d867b18a42d53989ee8db9e",
+      "path": "inputs/evaluation/s09-3",
+      "session_id": "s09-3",
+      "split": "evaluation",
+      "stratum": "bach"
+    },
+    {
+      "cell": "unchanged",
+      "family_id": "bach-bwv779-notes36-47",
+      "labels_sha256": "a6d5947f9d5f5c95ada2099bd5fcbfd5c3b300a30c510203952555a989e1bab1",
+      "observations_sha256": "0f3261d4ba7a8e0dab687aee52d11a7871d1ea3ec2950427c74ea9b5af0e5479",
+      "path": "inputs/evaluation/s10-0",
+      "session_id": "s10-0",
+      "split": "evaluation",
+      "stratum": "bach"
+    },
+    {
+      "cell": "transpose",
+      "family_id": "bach-bwv779-notes36-47",
+      "labels_sha256": "024f7082010193914ef3bb63e9ff467c2978f5cb1cc88fded4719d20e98cf2c7",
+      "observations_sha256": "08ffe81e1ed2c0c6567a2f51bfcadf9b92349adae743b9bfd395ec0cbbbc9cbf",
+      "path": "inputs/evaluation/s10-1",
+      "session_id": "s10-1",
+      "split": "evaluation",
+      "stratum": "bach"
+    },
+    {
+      "cell": "stretch",
+      "family_id": "bach-bwv779-notes36-47",
+      "labels_sha256": "9ce9e1d7bc25985cd608a609973d9179be6032ccfb762d7afbe8e26a4ff6f1de",
+      "observations_sha256": "d9b2a916bc92b86696ead025aa5d99418ceebeca0b7ead476995974279abc8a6",
+      "path": "inputs/evaluation/s10-2",
+      "session_id": "s10-2",
+      "split": "evaluation",
+      "stratum": "bach"
+    },
+    {
+      "cell": "foil",
+      "family_id": "bach-bwv779-notes36-47",
+      "labels_sha256": "592fe7c55cb1422401bd84c6e6c57fb05a2e3e83b71e24297428572fecb6147e",
+      "observations_sha256": "c6a61c842263688a72ec306f1b5a1f4055a536cbf5c7f68264bf964438b7890e",
+      "path": "inputs/evaluation/s10-3",
+      "session_id": "s10-3",
+      "split": "evaluation",
+      "stratum": "bach"
+    },
+    {
+      "cell": "unchanged",
+      "family_id": "bach-bwv782-notes36-47",
+      "labels_sha256": "6341bea3442e0f4be52dfe4f08c8b2615391c48b1d8d310bf2d8afeb0943846c",
+      "observations_sha256": "255d21fbd899a26a36cdf12c6cb56a11df3b810e14b087a5b155c9a9132e8ce3",
+      "path": "inputs/evaluation/s11-0",
+      "session_id": "s11-0",
+      "split": "evaluation",
+      "stratum": "bach"
+    },
+    {
+      "cell": "transpose",
+      "family_id": "bach-bwv782-notes36-47",
+      "labels_sha256": "51683d204e2f8cdee98b3d21fa82a44114650f7e2020aac52a3e16dea47adfba",
+      "observations_sha256": "3a427173825d59d1e8c39860df043be2444ebad8c1fe992af7a313ee5c12ff7c",
+      "path": "inputs/evaluation/s11-1",
+      "session_id": "s11-1",
+      "split": "evaluation",
+      "stratum": "bach"
+    },
+    {
+      "cell": "stretch",
+      "family_id": "bach-bwv782-notes36-47",
+      "labels_sha256": "9b3724b45c9e245ce6bc000017a26704cd63941ad42566141a62ffb39d078eaa",
+      "observations_sha256": "db9de59b90faa073ab1b01c2d3dfdf20f90ba05ab63a891fe704aa084cf5aa68",
+      "path": "inputs/evaluation/s11-2",
+      "session_id": "s11-2",
+      "split": "evaluation",
+      "stratum": "bach"
+    },
+    {
+      "cell": "foil",
+      "family_id": "bach-bwv782-notes36-47",
+      "labels_sha256": "dd3b654835c3367a91d626861e1eab0be52e9825a5fe6b91464565af82932070",
+      "observations_sha256": "6fdacd72b4edb88625cc1964fad10a770ebda9cf174b4faa86f5bad5ed343790",
+      "path": "inputs/evaluation/s11-3",
+      "session_id": "s11-3",
+      "split": "evaluation",
+      "stratum": "bach"
+    },
+    {
+      "cell": "unchanged",
+      "family_id": "bach-bwv784-notes36-47",
+      "labels_sha256": "0417d418702e2384910d99396deb61ff7ed383ff9147fdb643e817567354000c",
+      "observations_sha256": "ca1a01182eebc90d2b8632dfcc88650f0e64a62009483329299d84d4656e01b4",
+      "path": "inputs/evaluation/s12-0",
+      "session_id": "s12-0",
+      "split": "evaluation",
+      "stratum": "bach"
+    },
+    {
+      "cell": "transpose",
+      "family_id": "bach-bwv784-notes36-47",
+      "labels_sha256": "95556a0f4ca1c56ee0e6cc4d9cec268a4b328bc92a538f89a3108ec897cb08a2",
+      "observations_sha256": "f45328ea18d386aee174b7e0f51022478150dee3e67d4c4f3bb0a129a1174384",
+      "path": "inputs/evaluation/s12-1",
+      "session_id": "s12-1",
+      "split": "evaluation",
+      "stratum": "bach"
+    },
+    {
+      "cell": "stretch",
+      "family_id": "bach-bwv784-notes36-47",
+      "labels_sha256": "339954349a22f3f9503eed19e60b323d783c8184453b0c0cd6f90141e59614ef",
+      "observations_sha256": "331dd52988eed963b1760186c808f32981739951a0bc2a07b893e235954e1c8c",
+      "path": "inputs/evaluation/s12-2",
+      "session_id": "s12-2",
+      "split": "evaluation",
+      "stratum": "bach"
+    },
+    {
+      "cell": "foil",
+      "family_id": "bach-bwv784-notes36-47",
+      "labels_sha256": "4dcf732bf4296cafd62259e26bd5d28ea1b1d29eb2c49533aebc012a88706899",
+      "observations_sha256": "6a572eb14ad9e696f9f3308f87a2f50c772ee812d48da4de51cbd3529f70637c",
+      "path": "inputs/evaluation/s12-3",
+      "session_id": "s12-3",
+      "split": "evaluation",
+      "stratum": "bach"
+    },
+    {
+      "cell": "unchanged",
+      "family_id": "bach-bwv785-notes36-47",
+      "labels_sha256": "e8bb6c0ad9c8facc7d7c55360d82237878deae6079475fc902748244b09a9542",
+      "observations_sha256": "3295ee14be71a1bf526ec6af8a5387c535d210aab362de389a5f3dc23261e73c",
+      "path": "inputs/evaluation/s13-0",
+      "session_id": "s13-0",
+      "split": "evaluation",
+      "stratum": "bach"
+    },
+    {
+      "cell": "transpose",
+      "family_id": "bach-bwv785-notes36-47",
+      "labels_sha256": "b6c19c1aa686e61831f49895a9db0b387ff1ddf2facefaa7185ad5e70f6fdd6e",
+      "observations_sha256": "24ade3a6421d21a17fcb3cbdd75022f8e8e6c6d3681b5844ef338358d0408864",
+      "path": "inputs/evaluation/s13-1",
+      "session_id": "s13-1",
+      "split": "evaluation",
+      "stratum": "bach"
+    },
+    {
+      "cell": "stretch",
+      "family_id": "bach-bwv785-notes36-47",
+      "labels_sha256": "9212aba6e3fbeeaa8dbb7ee3ebb93f7270ebe3b4f4713f009fb159a8502190ca",
+      "observations_sha256": "3c87699e31b44610dd571b1efc67520ac74a3d4c1486cd21a946f9ad960d139b",
+      "path": "inputs/evaluation/s13-2",
+      "session_id": "s13-2",
+      "split": "evaluation",
+      "stratum": "bach"
+    },
+    {
+      "cell": "foil",
+      "family_id": "bach-bwv785-notes36-47",
+      "labels_sha256": "2a7da603534bd8e8d497cca783608fe65c0e12916eab43b3130fab72f02bdfad",
+      "observations_sha256": "cc120e6863c690bf56b518043c239efdbf0b8e9d3b802ad32a522e26acb074b3",
+      "path": "inputs/evaluation/s13-3",
+      "session_id": "s13-3",
+      "split": "evaluation",
+      "stratum": "bach"
+    },
+    {
+      "cell": "unchanged",
+      "family_id": "bach-bwv786-notes36-47",
+      "labels_sha256": "c2045e176fce5bc0c5acf819dc4ccea35d05e3bd8158911ae7fccca6ad276b7e",
+      "observations_sha256": "7bb411fb927dd3227baa44ca06842a2f392a8bc4c9d0866f50b875ffe5cb8592",
+      "path": "inputs/evaluation/s14-0",
+      "session_id": "s14-0",
+      "split": "evaluation",
+      "stratum": "bach"
+    },
+    {
+      "cell": "transpose",
+      "family_id": "bach-bwv786-notes36-47",
+      "labels_sha256": "b15e42aa84ccb49c28dae23213ab695ab62884113c3fa9c1ab93f566486e3200",
+      "observations_sha256": "0d0074a73ed16552fb708b71f63a2ca698571ffcd0ba28a3e7ec9618476b568f",
+      "path": "inputs/evaluation/s14-1",
+      "session_id": "s14-1",
+      "split": "evaluation",
+      "stratum": "bach"
+    },
+    {
+      "cell": "stretch",
+      "family_id": "bach-bwv786-notes36-47",
+      "labels_sha256": "324c150e0a76781259084cafceb8bd93a749c12dcd4326f9ea670003d7cadec1",
+      "observations_sha256": "726ba1225a803de6a0976113382784016bdc236178c4fe67c489c07ab54bc78c",
+      "path": "inputs/evaluation/s14-2",
+      "session_id": "s14-2",
+      "split": "evaluation",
+      "stratum": "bach"
+    },
+    {
+      "cell": "foil",
+      "family_id": "bach-bwv786-notes36-47",
+      "labels_sha256": "2765b75ce37c141314dea5c3f3c2a502b35fbe4dc1a2e0ee036539c9cfc83bf3",
+      "observations_sha256": "edeed2f911da83f2fe86ba862a02216a65a6c5d2560533cc8f09802b3bd9076f",
+      "path": "inputs/evaluation/s14-3",
+      "session_id": "s14-3",
+      "split": "evaluation",
+      "stratum": "bach"
+    },
+    {
+      "cell": "unchanged",
+      "family_id": "bach-bwv787-notes69-80",
+      "labels_sha256": "e9549d159bdc422d98ff4fe284375c7d551b103ae8a83982ba4ec36d412dcc57",
+      "observations_sha256": "31e637e14a10120cc0ec0d8436e6a170fa44432efe063d1bec77eac6ca9bb3c2",
+      "path": "inputs/evaluation/s15-0",
+      "session_id": "s15-0",
+      "split": "evaluation",
+      "stratum": "bach"
+    },
+    {
+      "cell": "transpose",
+      "family_id": "bach-bwv787-notes69-80",
+      "labels_sha256": "85e0265489b682b6ebf19549e087d2f13babd04d562ee3a8cf01c38a7e22e7e9",
+      "observations_sha256": "a57032e5fddcde26b2ecf5a129062db2b5b7bca6480c7b84ab1d8e4cfb4c610a",
+      "path": "inputs/evaluation/s15-1",
+      "session_id": "s15-1",
+      "split": "evaluation",
+      "stratum": "bach"
+    },
+    {
+      "cell": "stretch",
+      "family_id": "bach-bwv787-notes69-80",
+      "labels_sha256": "6d7a42b4ae05e2d605fedbc4bab990a7bf34e71e7eef0d2c9f41d390f51d1742",
+      "observations_sha256": "4e57e7ce1d225edbd0331ac40bd1dc77039ac2cae607bcdc3b7828a128f9bd5a",
+      "path": "inputs/evaluation/s15-2",
+      "session_id": "s15-2",
+      "split": "evaluation",
+      "stratum": "bach"
+    },
+    {
+      "cell": "foil",
+      "family_id": "bach-bwv787-notes69-80",
+      "labels_sha256": "57ca9386d7f0e4ef1a47867cc82a4cfb91a06f4ae0bf0a9c0b3b152c588a0247",
+      "observations_sha256": "f439ddcf69ec2bb461d38f4465530a191e2f35f882dad470f741bad6517f91c7",
+      "path": "inputs/evaluation/s15-3",
+      "session_id": "s15-3",
+      "split": "evaluation",
+      "stratum": "bach"
+    },
+    {
+      "cell": "unchanged",
+      "family_id": "novel-evaluation-01",
+      "labels_sha256": "25f1bc18ce8ed7f60fb0711888b1b3e01921562ad580581edcaff0ab117e1909",
+      "observations_sha256": "7a16efeb76ea61afb5c58ac397dc2910251f1092da1e3cdb9e3cafc62a2c4590",
+      "path": "inputs/evaluation/s16-0",
+      "session_id": "s16-0",
+      "split": "evaluation",
+      "stratum": "novel"
+    },
+    {
+      "cell": "transpose",
+      "family_id": "novel-evaluation-01",
+      "labels_sha256": "9c6292146a1c0b16d932a632a1f69e737f04b5c3806fad488d70a5614957cd10",
+      "observations_sha256": "0dbc893e9869c57b59b747331350bb8ed2d6a97ee613453df36bc32e49c70039",
+      "path": "inputs/evaluation/s16-1",
+      "session_id": "s16-1",
+      "split": "evaluation",
+      "stratum": "novel"
+    },
+    {
+      "cell": "stretch",
+      "family_id": "novel-evaluation-01",
+      "labels_sha256": "b516d81998a4f891d4fbad03cebc4268fe24ad830254a6e95a55173959003515",
+      "observations_sha256": "60b732089d811ba670f159db21873e1f276e94a3540c31a8e0ef2e6b0bfa7d70",
+      "path": "inputs/evaluation/s16-2",
+      "session_id": "s16-2",
+      "split": "evaluation",
+      "stratum": "novel"
+    },
+    {
+      "cell": "foil",
+      "family_id": "novel-evaluation-01",
+      "labels_sha256": "509a3a709d8ae2aad20043564b1453ba1d54293679074dfc8222e6ee54580df9",
+      "observations_sha256": "2350c935ac65e17f7a2db1801894194c37b43cddb48c971c2ef05d115b6554af",
+      "path": "inputs/evaluation/s16-3",
+      "session_id": "s16-3",
+      "split": "evaluation",
+      "stratum": "novel"
+    },
+    {
+      "cell": "unchanged",
+      "family_id": "novel-evaluation-02",
+      "labels_sha256": "77595d1428744d49b098f493e324a9ca6af687e8ba9eedb196baac2f16defa2e",
+      "observations_sha256": "fb62051bdf9d4739bdd478550dcd0329bf27f1a01b244ff1f93a4cb68d0851d3",
+      "path": "inputs/evaluation/s17-0",
+      "session_id": "s17-0",
+      "split": "evaluation",
+      "stratum": "novel"
+    },
+    {
+      "cell": "transpose",
+      "family_id": "novel-evaluation-02",
+      "labels_sha256": "bb8dfe317cae45ae1efe78b0df93410876bd45629d0fa550671363a08b855248",
+      "observations_sha256": "0471cf80a791c4aa7efafa5044f1ae7f4e4101fc7c6169cb00061a6b28193261",
+      "path": "inputs/evaluation/s17-1",
+      "session_id": "s17-1",
+      "split": "evaluation",
+      "stratum": "novel"
+    },
+    {
+      "cell": "stretch",
+      "family_id": "novel-evaluation-02",
+      "labels_sha256": "b68ca7d2d85dbb422c66d0a4e04306758f3967c96d632721b4711e584eb9e510",
+      "observations_sha256": "8946559af13f08f0437c72ebc719466569ce59bb55c4dd61e5af672cb5a629f6",
+      "path": "inputs/evaluation/s17-2",
+      "session_id": "s17-2",
+      "split": "evaluation",
+      "stratum": "novel"
+    },
+    {
+      "cell": "foil",
+      "family_id": "novel-evaluation-02",
+      "labels_sha256": "2ec21c1dde208077b2760d82a069ab9931f04f1f3fb1127934f8f28a3603fc01",
+      "observations_sha256": "df88961b1d8daeed4f8da3ff6e3e9ffe1fa6ef46fc9b8131bf0e9b326f40b69b",
+      "path": "inputs/evaluation/s17-3",
+      "session_id": "s17-3",
+      "split": "evaluation",
+      "stratum": "novel"
+    },
+    {
+      "cell": "unchanged",
+      "family_id": "novel-evaluation-03",
+      "labels_sha256": "9c554826e31e99dfa45d32fef260804ad62d69dcf50cde87ac8627954ed583bd",
+      "observations_sha256": "550900e7956b6c571548961d746b5013c6c609092fba8f0614e2c2c5de659b1c",
+      "path": "inputs/evaluation/s18-0",
+      "session_id": "s18-0",
+      "split": "evaluation",
+      "stratum": "novel"
+    },
+    {
+      "cell": "transpose",
+      "family_id": "novel-evaluation-03",
+      "labels_sha256": "a3665ad72e70f4ce329f94ccb7515b96d9348f2cb74a3b54362a63fd11996436",
+      "observations_sha256": "9e9c33ab8169e8c2c622ffefaf1d0ab3fa8e9796bedc6051c5972804ad0b1037",
+      "path": "inputs/evaluation/s18-1",
+      "session_id": "s18-1",
+      "split": "evaluation",
+      "stratum": "novel"
+    },
+    {
+      "cell": "stretch",
+      "family_id": "novel-evaluation-03",
+      "labels_sha256": "ef7b79efeb194e902e5e2ea483fc7ecd6587fc16fd4ffd7a4bc8d8cb28522aed",
+      "observations_sha256": "2bc9d9789522d3b70fde34b50e13733ed9f965b41059f1132c4cfadc13ea39da",
+      "path": "inputs/evaluation/s18-2",
+      "session_id": "s18-2",
+      "split": "evaluation",
+      "stratum": "novel"
+    },
+    {
+      "cell": "foil",
+      "family_id": "novel-evaluation-03",
+      "labels_sha256": "05c133db8c03af3cddcfc57fbad6d612a06acf98b892c003dab579f9c3c224da",
+      "observations_sha256": "695b71592fcc7cc9ac9e54e1e7a8b4695f798df5fad8a2b9d23b31decf9a60c9",
+      "path": "inputs/evaluation/s18-3",
+      "session_id": "s18-3",
+      "split": "evaluation",
+      "stratum": "novel"
+    },
+    {
+      "cell": "unchanged",
+      "family_id": "novel-evaluation-04",
+      "labels_sha256": "37dc1edc16011bcd4da1b2411c622d7ec2ad649ed8b9c11b23b050e9c9ce97b0",
+      "observations_sha256": "2185ca5b267be1d697391200b7186a0230a3521cf6b264b3bfb608455f573439",
+      "path": "inputs/evaluation/s19-0",
+      "session_id": "s19-0",
+      "split": "evaluation",
+      "stratum": "novel"
+    },
+    {
+      "cell": "transpose",
+      "family_id": "novel-evaluation-04",
+      "labels_sha256": "2d1bc0b4f2d7ad98374a8098af809d57b9f652b9418c8d6649a031a4d64c0a4c",
+      "observations_sha256": "0ce2764950ca7258d184b96660b53e4d3470e141635197852ed3ef5d666acde4",
+      "path": "inputs/evaluation/s19-1",
+      "session_id": "s19-1",
+      "split": "evaluation",
+      "stratum": "novel"
+    },
+    {
+      "cell": "stretch",
+      "family_id": "novel-evaluation-04",
+      "labels_sha256": "4899b83ca355077ef6cd3a4e037e95f9f1d046218cd56f0aea7d81f5662b59a7",
+      "observations_sha256": "b105b730623c7a00c861d2070e0340be9cf18dcbbd491e8710a4c2afb0b39fa9",
+      "path": "inputs/evaluation/s19-2",
+      "session_id": "s19-2",
+      "split": "evaluation",
+      "stratum": "novel"
+    },
+    {
+      "cell": "foil",
+      "family_id": "novel-evaluation-04",
+      "labels_sha256": "5065824fdb3fd5594642b83928fd866990f328aa7f93e6e188fcfacd8297ecab",
+      "observations_sha256": "b10a20a920afcaa42d041f5111dbbf2e684dc509d4578eaa3a6acffbbfd28685",
+      "path": "inputs/evaluation/s19-3",
+      "session_id": "s19-3",
+      "split": "evaluation",
+      "stratum": "novel"
+    },
+    {
+      "cell": "unchanged",
+      "family_id": "novel-evaluation-05",
+      "labels_sha256": "83677abb3ccf11a1a8173553cc5b40e8e428e6119f24ca2065648ed0d93f6304",
+      "observations_sha256": "28032c99ac328054541975ca4a953a26415b510b4a643f79b7a05a8a4aceff5b",
+      "path": "inputs/evaluation/s20-0",
+      "session_id": "s20-0",
+      "split": "evaluation",
+      "stratum": "novel"
+    },
+    {
+      "cell": "transpose",
+      "family_id": "novel-evaluation-05",
+      "labels_sha256": "6c08b31daf93d80baec44d8c5aa6cbf532a7101954eba29ba135fccb378d1216",
+      "observations_sha256": "adff0898f1d2d3d5b619debefa7211e5a5703e3f9592a00f1d1702a3f3a74d42",
+      "path": "inputs/evaluation/s20-1",
+      "session_id": "s20-1",
+      "split": "evaluation",
+      "stratum": "novel"
+    },
+    {
+      "cell": "stretch",
+      "family_id": "novel-evaluation-05",
+      "labels_sha256": "1448c496755e557b32ec60a10cdbc2e7baa872fe052df0c472c1d574a9dd4815",
+      "observations_sha256": "82c17785ee1911fc17df0a0a741b98093402c55c1741d80b61b0b3618470cc92",
+      "path": "inputs/evaluation/s20-2",
+      "session_id": "s20-2",
+      "split": "evaluation",
+      "stratum": "novel"
+    },
+    {
+      "cell": "foil",
+      "family_id": "novel-evaluation-05",
+      "labels_sha256": "8c688e12fc4ea9bb2e526668bcf73bc168e747280eefe0e517cd458aa9920cfb",
+      "observations_sha256": "ec80a80e55049bb7d3c77e89b58478f59eb9deeda6311829bd7953bf9fc5a41f",
+      "path": "inputs/evaluation/s20-3",
+      "session_id": "s20-3",
+      "split": "evaluation",
+      "stratum": "novel"
+    },
+    {
+      "cell": "unchanged",
+      "family_id": "novel-evaluation-06",
+      "labels_sha256": "b6767a205097641d5d23667e649934ffe802fd9773cde961f9e0a8407e1d5794",
+      "observations_sha256": "7d76594ab9ba20071255b2437d434f7b095b95e861c0d188521cab9e790ec235",
+      "path": "inputs/evaluation/s21-0",
+      "session_id": "s21-0",
+      "split": "evaluation",
+      "stratum": "novel"
+    },
+    {
+      "cell": "transpose",
+      "family_id": "novel-evaluation-06",
+      "labels_sha256": "6af915e2dc503e7a26d88b6a2bcfd1370b2d137f841c465937c9a2e1619c486a",
+      "observations_sha256": "fecc1b75502730f77494f609e08741173de6fc666e97a97c08173cf309289a83",
+      "path": "inputs/evaluation/s21-1",
+      "session_id": "s21-1",
+      "split": "evaluation",
+      "stratum": "novel"
+    },
+    {
+      "cell": "stretch",
+      "family_id": "novel-evaluation-06",
+      "labels_sha256": "d6a2076381be7b448d8347f2abf3617bb71ef0ca3a17e9ab587a266306e40a5b",
+      "observations_sha256": "37a0eb9e7cc8ba3dd8b7a9b420c1f6d08bbab5f9520f3cc1aa6c3699de286a77",
+      "path": "inputs/evaluation/s21-2",
+      "session_id": "s21-2",
+      "split": "evaluation",
+      "stratum": "novel"
+    },
+    {
+      "cell": "foil",
+      "family_id": "novel-evaluation-06",
+      "labels_sha256": "f94d43805d1a36e19010ad7e021d890808da5474a54e53fbff01c0a9c676490b",
+      "observations_sha256": "0876f1776790cc71a27c7ab3ec2c14bfc278cb49b826d0242cf04b6781a6e435",
+      "path": "inputs/evaluation/s21-3",
+      "session_id": "s21-3",
+      "split": "evaluation",
+      "stratum": "novel"
+    },
+    {
+      "cell": "unchanged",
+      "family_id": "novel-evaluation-07",
+      "labels_sha256": "2e45b17706a390324d50e615d09ce0231191abc616331c484f36fe14529c5310",
+      "observations_sha256": "c187eeca0dbd47f8276728ec357a7bd504917a414e17a6d560350489d709814e",
+      "path": "inputs/evaluation/s22-0",
+      "session_id": "s22-0",
+      "split": "evaluation",
+      "stratum": "novel"
+    },
+    {
+      "cell": "transpose",
+      "family_id": "novel-evaluation-07",
+      "labels_sha256": "1029066915d26ac0bf9407b0030abb557dbfe26fedff52173b6e4b8aec749e72",
+      "observations_sha256": "c47603619a384fc18908589a8de40e95d741c238d2efa2fc8dfc7644830ae489",
+      "path": "inputs/evaluation/s22-1",
+      "session_id": "s22-1",
+      "split": "evaluation",
+      "stratum": "novel"
+    },
+    {
+      "cell": "stretch",
+      "family_id": "novel-evaluation-07",
+      "labels_sha256": "b6b6b77d7f0b9ac2ed3735927f6d3c7a8f1a95461eaff48610cd8a0e0e0cd4bc",
+      "observations_sha256": "52d075e7e89f9f735a35fc372056781a66696a913f1358cc1bb4a6a4f66080ae",
+      "path": "inputs/evaluation/s22-2",
+      "session_id": "s22-2",
+      "split": "evaluation",
+      "stratum": "novel"
+    },
+    {
+      "cell": "foil",
+      "family_id": "novel-evaluation-07",
+      "labels_sha256": "b49989eba8e9b12a7a0f473c0200b542edc791ab97c64288de4a474880004145",
+      "observations_sha256": "3eabb21703b44538e264a2f063b34fc046d36ac3249c21493e9ab9b621255c96",
+      "path": "inputs/evaluation/s22-3",
+      "session_id": "s22-3",
+      "split": "evaluation",
+      "stratum": "novel"
+    },
+    {
+      "cell": "unchanged",
+      "family_id": "novel-evaluation-08",
+      "labels_sha256": "1de727dacfc16e5eaad1b3fbd90719a2f1cd42f7dacff4f600491e093eb2fef0",
+      "observations_sha256": "28ed5d6d3534d88cb9165b8f6fcbdb0d95634a480fc9be82f03c3e6b13a8717d",
+      "path": "inputs/evaluation/s23-0",
+      "session_id": "s23-0",
+      "split": "evaluation",
+      "stratum": "novel"
+    },
+    {
+      "cell": "transpose",
+      "family_id": "novel-evaluation-08",
+      "labels_sha256": "6fa0012ada678ad90e807857a4b771b3683adecbaf39314bda7136498ba9605a",
+      "observations_sha256": "dee6c4c28f1762be3a5fc38b35233fc2581e31e7c46d6de6e10a099369f7eb2b",
+      "path": "inputs/evaluation/s23-1",
+      "session_id": "s23-1",
+      "split": "evaluation",
+      "stratum": "novel"
+    },
+    {
+      "cell": "stretch",
+      "family_id": "novel-evaluation-08",
+      "labels_sha256": "dc57fbd85b45dc37b08dea55e6dcecee878074e513c2a8ad914b44453c8228f4",
+      "observations_sha256": "99cf895f6a067b5939f561c04fb33c173146e0721282f4fce0a2ea37785949de",
+      "path": "inputs/evaluation/s23-2",
+      "session_id": "s23-2",
+      "split": "evaluation",
+      "stratum": "novel"
+    },
+    {
+      "cell": "foil",
+      "family_id": "novel-evaluation-08",
+      "labels_sha256": "7d47fa388b914288e8845c1cba39d9eb1d0d230b6544c6276583dd9232ff3bcb",
+      "observations_sha256": "7c41b513d81264655e063c88a115ceabb947733476ffaba9a7f57e4deeef3538",
+      "path": "inputs/evaluation/s23-3",
+      "session_id": "s23-3",
+      "split": "evaluation",
+      "stratum": "novel"
+    }
+  ],
+  "unique_material_streams": 96
+}

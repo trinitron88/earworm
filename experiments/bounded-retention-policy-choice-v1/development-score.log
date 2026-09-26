@@ -1,0 +1,399 @@
+{
+  "split": "development",
+  "readouts": 140,
+  "metrics": {
+    "fifo": {
+      "positive": {
+        "unchanged": {
+          "n": 4,
+          "identity_correct": 0,
+          "joint_pitch_correct": 0,
+          "joint_scale_correct": 0,
+          "joint_all_correct": 0,
+          "source_retained": 0,
+          "set_contains_complete_truth": 0,
+          "abstained": 4
+        },
+        "transpose": {
+          "n": 4,
+          "identity_correct": 0,
+          "joint_pitch_correct": 0,
+          "joint_scale_correct": 0,
+          "joint_all_correct": 0,
+          "source_retained": 0,
+          "set_contains_complete_truth": 0,
+          "abstained": 4
+        },
+        "stretch": {
+          "n": 4,
+          "identity_correct": 0,
+          "joint_pitch_correct": 0,
+          "joint_scale_correct": 0,
+          "joint_all_correct": 0,
+          "source_retained": 0,
+          "set_contains_complete_truth": 0,
+          "abstained": 4
+        }
+      },
+      "foil_accepted": 0,
+      "foil_n": 4,
+      "removed_accepted": 0,
+      "removed_n": 12,
+      "scientific_gates_pass": false,
+      "pressure_gates_pass": true,
+      "min_replacements": 122,
+      "max_persistent_bytes": 16728,
+      "by_stratum": {
+        "bach": {
+          "unchanged": {
+            "n": 2,
+            "identity": 0,
+            "joint_all": 0
+          },
+          "transpose": {
+            "n": 2,
+            "identity": 0,
+            "joint_all": 0
+          },
+          "stretch": {
+            "n": 2,
+            "identity": 0,
+            "joint_all": 0
+          }
+        },
+        "novel": {
+          "unchanged": {
+            "n": 2,
+            "identity": 0,
+            "joint_all": 0
+          },
+          "transpose": {
+            "n": 2,
+            "identity": 0,
+            "joint_all": 0
+          },
+          "stretch": {
+            "n": 2,
+            "identity": 0,
+            "joint_all": 0
+          }
+        }
+      }
+    },
+    "reservoir": {
+      "positive": {
+        "unchanged": {
+          "n": 4,
+          "identity_correct": 0,
+          "joint_pitch_correct": 0,
+          "joint_scale_correct": 0,
+          "joint_all_correct": 0,
+          "source_retained": 0,
+          "set_contains_complete_truth": 0,
+          "abstained": 4
+        },
+        "transpose": {
+          "n": 4,
+          "identity_correct": 0,
+          "joint_pitch_correct": 0,
+          "joint_scale_correct": 0,
+          "joint_all_correct": 0,
+          "source_retained": 0,
+          "set_contains_complete_truth": 0,
+          "abstained": 4
+        },
+        "stretch": {
+          "n": 4,
+          "identity_correct": 0,
+          "joint_pitch_correct": 0,
+          "joint_scale_correct": 0,
+          "joint_all_correct": 0,
+          "source_retained": 0,
+          "set_contains_complete_truth": 0,
+          "abstained": 4
+        }
+      },
+      "foil_accepted": 0,
+      "foil_n": 4,
+      "removed_accepted": 0,
+      "removed_n": 12,
+      "scientific_gates_pass": false,
+      "pressure_gates_pass": true,
+      "min_replacements": 27,
+      "max_persistent_bytes": 43737,
+      "by_stratum": {
+        "bach": {
+          "unchanged": {
+            "n": 2,
+            "identity": 0,
+            "joint_all": 0
+          },
+          "transpose": {
+            "n": 2,
+            "identity": 0,
+            "joint_all": 0
+          },
+          "stretch": {
+            "n": 2,
+            "identity": 0,
+            "joint_all": 0
+          }
+        },
+        "novel": {
+          "unchanged": {
+            "n": 2,
+            "identity": 0,
+            "joint_all": 0
+          },
+          "transpose": {
+            "n": 2,
+            "identity": 0,
+            "joint_all": 0
+          },
+          "stretch": {
+            "n": 2,
+            "identity": 0,
+            "joint_all": 0
+          }
+        }
+      }
+    },
+    "diversity": {
+      "positive": {
+        "unchanged": {
+          "n": 4,
+          "identity_correct": 0,
+          "joint_pitch_correct": 0,
+          "joint_scale_correct": 0,
+          "joint_all_correct": 0,
+          "source_retained": 0,
+          "set_contains_complete_truth": 0,
+          "abstained": 4
+        },
+        "transpose": {
+          "n": 4,
+          "identity_correct": 0,
+          "joint_pitch_correct": 0,
+          "joint_scale_correct": 0,
+          "joint_all_correct": 0,
+          "source_retained": 0,
+          "set_contains_complete_truth": 0,
+          "abstained": 4
+        },
+        "stretch": {
+          "n": 4,
+          "identity_correct": 0,
+          "joint_pitch_correct": 0,
+          "joint_scale_correct": 0,
+          "joint_all_correct": 0,
+          "source_retained": 0,
+          "set_contains_complete_truth": 0,
+          "abstained": 4
+        }
+      },
+      "foil_accepted": 0,
+      "foil_n": 4,
+      "removed_accepted": 0,
+      "removed_n": 12,
+      "scientific_gates_pass": false,
+      "pressure_gates_pass": true,
+      "min_replacements": 122,
+      "max_persistent_bytes": 16677,
+      "by_stratum": {
+        "bach": {
+          "unchanged": {
+            "n": 2,
+            "identity": 0,
+            "joint_all": 0
+          },
+          "transpose": {
+            "n": 2,
+            "identity": 0,
+            "joint_all": 0
+          },
+          "stretch": {
+            "n": 2,
+            "identity": 0,
+            "joint_all": 0
+          }
+        },
+        "novel": {
+          "unchanged": {
+            "n": 2,
+            "identity": 0,
+            "joint_all": 0
+          },
+          "transpose": {
+            "n": 2,
+            "identity": 0,
+            "joint_all": 0
+          },
+          "stretch": {
+            "n": 2,
+            "identity": 0,
+            "joint_all": 0
+          }
+        }
+      }
+    },
+    "unpressured": {
+      "positive": {
+        "unchanged": {
+          "n": 4,
+          "identity_correct": 2,
+          "joint_pitch_correct": 2,
+          "joint_scale_correct": 2,
+          "joint_all_correct": 2,
+          "source_retained": 4,
+          "set_contains_complete_truth": 2,
+          "abstained": 2
+        },
+        "transpose": {
+          "n": 4,
+          "identity_correct": 2,
+          "joint_pitch_correct": 2,
+          "joint_scale_correct": 2,
+          "joint_all_correct": 2,
+          "source_retained": 4,
+          "set_contains_complete_truth": 2,
+          "abstained": 2
+        },
+        "stretch": {
+          "n": 4,
+          "identity_correct": 2,
+          "joint_pitch_correct": 2,
+          "joint_scale_correct": 2,
+          "joint_all_correct": 2,
+          "source_retained": 4,
+          "set_contains_complete_truth": 2,
+          "abstained": 2
+        }
+      },
+      "foil_accepted": 0,
+      "foil_n": 4,
+      "removed_accepted": 0,
+      "removed_n": 12,
+      "scientific_gates_pass": false,
+      "pressure_gates_pass": true,
+      "min_replacements": 0,
+      "max_persistent_bytes": 178807,
+      "by_stratum": {
+        "bach": {
+          "unchanged": {
+            "n": 2,
+            "identity": 2,
+            "joint_all": 2
+          },
+          "transpose": {
+            "n": 2,
+            "identity": 2,
+            "joint_all": 2
+          },
+          "stretch": {
+            "n": 2,
+            "identity": 1,
+            "joint_all": 1
+          }
+        },
+        "novel": {
+          "unchanged": {
+            "n": 2,
+            "identity": 0,
+            "joint_all": 0
+          },
+          "transpose": {
+            "n": 2,
+            "identity": 0,
+            "joint_all": 0
+          },
+          "stretch": {
+            "n": 2,
+            "identity": 1,
+            "joint_all": 1
+          }
+        }
+      }
+    },
+    "present": {
+      "positive": {
+        "unchanged": {
+          "n": 4,
+          "identity_correct": 0,
+          "joint_pitch_correct": 0,
+          "joint_scale_correct": 0,
+          "joint_all_correct": 0,
+          "source_retained": 0,
+          "set_contains_complete_truth": 0,
+          "abstained": 4
+        },
+        "transpose": {
+          "n": 4,
+          "identity_correct": 0,
+          "joint_pitch_correct": 0,
+          "joint_scale_correct": 0,
+          "joint_all_correct": 0,
+          "source_retained": 0,
+          "set_contains_complete_truth": 0,
+          "abstained": 4
+        },
+        "stretch": {
+          "n": 4,
+          "identity_correct": 0,
+          "joint_pitch_correct": 0,
+          "joint_scale_correct": 0,
+          "joint_all_correct": 0,
+          "source_retained": 0,
+          "set_contains_complete_truth": 0,
+          "abstained": 4
+        }
+      },
+      "foil_accepted": 0,
+      "foil_n": 4,
+      "removed_accepted": 0,
+      "removed_n": 12,
+      "scientific_gates_pass": false,
+      "pressure_gates_pass": true,
+      "min_replacements": 0,
+      "max_persistent_bytes": 5603,
+      "by_stratum": {
+        "bach": {
+          "unchanged": {
+            "n": 2,
+            "identity": 0,
+            "joint_all": 0
+          },
+          "transpose": {
+            "n": 2,
+            "identity": 0,
+            "joint_all": 0
+          },
+          "stretch": {
+            "n": 2,
+            "identity": 0,
+            "joint_all": 0
+          }
+        },
+        "novel": {
+          "unchanged": {
+            "n": 2,
+            "identity": 0,
+            "joint_all": 0
+          },
+          "transpose": {
+            "n": 2,
+            "identity": 0,
+            "joint_all": 0
+          },
+          "stretch": {
+            "n": 2,
+            "identity": 0,
+            "joint_all": 0
+          }
+        }
+      }
+    }
+  },
+  "selected_branch": "development_only",
+  "selected_policy": null,
+  "limits": "Constructed correspondence, not human perceptual identity. Frozen partial query; exact clean observations and supplied segmentation."
+}

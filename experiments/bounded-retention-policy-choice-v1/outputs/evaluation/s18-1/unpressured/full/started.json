@@ -1,0 +1,8 @@
+{
+  "started_at": "2026-09-26T18:14:48.706377+00:00",
+  "policy": "unpressured",
+  "removed": false,
+  "input_sha256": "9e9c33ab8169e8c2c622ffefaf1d0ab3fa8e9796bedc6051c5972804ad0b1037",
+  "aggregate_seconds_before": 3837.609121,
+  "call_number": 662
+}

@@ -1,0 +1,9 @@
+{
+  "completed_at": "2026-09-26T18:06:51.592737+00:00",
+  "elapsed_seconds": 0.12140395794995129,
+  "response_sha256": "e80b9810491fd0abf61752d787f99fabe639c413122a1b69e144ee148df470b0",
+  "arrivals_sha256": "a2f26b04385c5b466a19ba256cf10b9a486f7d050db89916fac6d18e348bb845",
+  "exit_code": 0,
+  "labels_read_by_worker": false,
+  "replay": false
+}

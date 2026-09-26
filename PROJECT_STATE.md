@@ -6,23 +6,26 @@ Earworm's finish line is a reusable, stateful listener for continuous musical au
 
 ## Current evidence and decision
 
-**The bounded construction repair completed Preparation A, and the first correspondence comparison selected Result B. The complete snapshot is awaiting exact-head review.** No sampled-observation method qualifies as the development reference. The selected contract revision is narrow: retain compatible occurrence sets or abstain when observationally identical earlier origins cannot be distinguished. It does not explain every musical-panel failure or authorize another experiment.
+**The bounded retention comparison selected Result C: no retention policy is selected. The complete successor snapshot is awaiting exact-head review.** The PM authorized this study after PR20 was accepted and merged. It tests actual persistent capacity using clean note/event observations and supplied occurrence segmentation; it does not adopt an audio route.
 
-On eight development families, the unchanged D readout recovered all24positive source identities and exact pitch shifts, but only16/24joint pitch/time transformations; it accepted12/24substitute memories after source removal. G used the same sampled rows and achieved19/24joint successes, withholding five positives because its fixed query model admitted competing occurrence regions. Every withheld case still contained a correct-source candidate. G accepted3/24source-removal substitutes, above the2/24limit. Both methods accepted1/16foils and0/24recent-only returns.
+On sixteen held-out fresh excerpt/motif families, FIFO, fixed-seed uniform reservoir and streaming diversity all lost the once-arrived source before its return and accepted0/16 returns in every positive cell. Actual replacement pressure is demonstrated with a capacity of8 complete records/256 KiB: minimum122,27 and44 replacements respectively. The target was evicted at35 seconds,39 seconds, or39–119 seconds, before the query at516 seconds. One common reservoir seed and fixed first-arrived target limit generalization.
 
-The separate G-exact diagnostic recovered24/24joint transformations and rejected all foils, source-removal substitutes and recent-only returns. It has richer exact timing/onset observations on the same support; this is not an equal-input win, an acoustic-encoder diagnosis, an information ceiling or audio-route adoption. No audio or model was run. All results are development-only, with per-cell criteria and no held-out confirmation.
+The unpressured reference retained every target but accepted only8/16 unchanged,8/16 transposed and6/16 stretched returns, with correct pitch and scale on every accepted positive. Its26 misses returned no candidate; they are not competing-origin ambiguity. Both material strata score4/8,4/8,3/8. All methods accepted0/16 foils and0/48 source-removal substitutes. ResultC withholds the retention-policy conclusion because correspondence fails even when evidence survives. The cause is unresolved; no matcher repair or follow-up ran.
 
-All264musical and24diagnostic readouts completed once and passed independent saved-output checks. The separate paired-world diagnostic proves only a deliberately constructed origin ambiguity: complete identical observations can correspond to different stipulated origins among identical earlier occurrences. D chose one; G/exact abstained. This certificate is separate from ordinary rate-panel evidence and human perceptual identity.
+All855 planned readouts completed once:15 tiny qualification,140 development,140 calibration and560 held-out. Independent saved-output validation passes all840 scientific readouts; a separate raw recount agrees with the560 held-out counts. Known development/calibration reference failures were disclosed before preregistration. Code, thresholds and material stayed frozen. No audio/model operation, download, training, reset credit or spending occurred.
 
-PR19's invalid checkpoint remains unchanged. Its35saved sessions were reused byte-for-byte; only the fixed missing family's five sessions were newly constructed. Independent onset-and-offset equivalence admits all40sessions: the new fourth-family extra pitch-only window differs in timing by about0.2963seconds. The original missing failed arrays remain missing; new witnesses are not relabeled as original evidence. D/G/engine stayed byte-identical; the manifest, scorer and validator were completed before execution preregistration. Cumulative calls320/400, tiny qualification32/32, no reruns or spending.
+The matcher is byte-identical to PR20 and still uses a fixed two-second partial query. Bach excerpts are new and nonoverlapping, but their works were used historically. This is constructed correspondence, not human perceptual identity or continuous segmentation. Complete realization evidence, availability, memory loss and recognition are reported separately.
 
-PR18 remains reviewed/merged with frozen Result C and no audio-route adoption. Its historical clean source/shift recovery was48/48; its joint failures were timing estimates. Raw-buffer eviction was demonstrated there, but persistent-memory replacement pressure and reliable absence recognition were not. The handcrafted continuous-front sequence remains closed.
+PR20 remains accepted/merged with its development ResultB and richer-input distinction. PR19's invalid checkpoint and original missing arrays remain unchanged. PR18's ResultC and lack of audio-route adoption remain unchanged; that study demonstrated raw-buffer eviction but not persistent replacement pressure. The handcrafted continuous-front sequence remains closed.
 
-- [Current complete comparison report](experiments/correspondence-construction-repair-v1/REPORT.md)
-- [Per-family, stratum and separate capability scores](experiments/correspondence-construction-repair-v1/score.json)
-- [Saved-output validation](experiments/correspondence-construction-repair-v1/validation.json)
-- [Current fixed protocol](experiments/correspondence-construction-repair-v1/PROTOCOL.md)
-- [Preserved PR19 invalid preparation](experiments/correspondence-reference-choice-v1/REPORT.md)
+- [Current retention comparison report](experiments/bounded-retention-policy-choice-v1/REPORT.md)
+- [Held-out capability scores](experiments/bounded-retention-policy-choice-v1/score-evaluation.json)
+- [Independent saved-output validation](experiments/bounded-retention-policy-choice-v1/validation-evaluation.json)
+- [Measured source losses](experiments/bounded-retention-policy-choice-v1/retention-losses.json)
+- [Unpressured misses with preserved sources](experiments/bounded-retention-policy-choice-v1/unpressured-misses.json)
+- [Current frozen protocol](experiments/bounded-retention-policy-choice-v1/PROTOCOL.md)
+- [Preserved PR20 comparison](experiments/correspondence-construction-repair-v1/REPORT.md)
+- [Preserved PR19 checkpoint](experiments/correspondence-reference-choice-v1/REPORT.md)
 - [Preserved PR18 held-out report](experiments/borrowed-recurrence-feasibility-v1/results/evaluation/REPORT.md)
 
 ## Finite capability checklist
@@ -52,4 +55,4 @@ PR #10's supplied-boundary observation repair passed its scoped test; PR #9 iden
 - [History prediction](experiments/history-prediction-v1/REPORT.md)
 - [Original E08 state](review/experiment08/original-snapshot-PROJECT_STATE.md)
 
-This bounded continuation is complete and the worker stops awaiting the existing exact-head review. PM owns the next explicit disposition, using the separate timing, ambiguity, refusal and richer-observation findings. No automatic matcher repair, threshold change, acoustic comparison, capacity study or confirmation is authorized. Historical scientific packages and models are unchanged; only this isolated successor and the living PROJECT_STATE.md are added/updated. The capability checklist and first-release acceptance plan are preserved.
+This bounded retention assignment is complete and the worker stops awaiting the existing exact-head review. PM owns the next explicit decision about query/correspondence under the tested observations. No automatic matcher repair, threshold change, capacity increase, policy substitution, acoustic comparison or further experiment is authorized. All historical scientific packages and models remain unchanged. The finite capability checklist and first-release acceptance plan above are preserved.

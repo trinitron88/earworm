@@ -1,0 +1,5054 @@
+{
+  "split": "evaluation",
+  "passed": true,
+  "errors": [],
+  "readouts": 560,
+  "expected_readouts": 560,
+  "completed_artifacts": 560,
+  "checks": [
+    {
+      "path": "outputs/evaluation/s08-0/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s08-0/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s08-0/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s08-0/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s08-0/diversity/full",
+      "arrivals": 519,
+      "replacements": 49,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s08-0/diversity/removed",
+      "arrivals": 519,
+      "replacements": 49,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s08-0/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 1,
+      "peak_persistent_bytes": 178729,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s08-0/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178701,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s08-0/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s08-0/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s08-1/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s08-1/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s08-1/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s08-1/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s08-1/diversity/full",
+      "arrivals": 519,
+      "replacements": 49,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s08-1/diversity/removed",
+      "arrivals": 519,
+      "replacements": 49,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s08-1/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 1,
+      "peak_persistent_bytes": 178729,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s08-1/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178701,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s08-1/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s08-1/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s08-2/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s08-2/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s08-2/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s08-2/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s08-2/diversity/full",
+      "arrivals": 519,
+      "replacements": 49,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s08-2/diversity/removed",
+      "arrivals": 519,
+      "replacements": 49,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s08-2/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178729,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s08-2/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178701,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s08-2/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s08-2/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s08-3/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s08-3/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s08-3/diversity/full",
+      "arrivals": 519,
+      "replacements": 49,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s08-3/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178729,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s08-3/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s09-0/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s09-0/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s09-0/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s09-0/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s09-0/diversity/full",
+      "arrivals": 519,
+      "replacements": 50,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s09-0/diversity/removed",
+      "arrivals": 519,
+      "replacements": 50,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s09-0/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 1,
+      "peak_persistent_bytes": 178729,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s09-0/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178701,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s09-0/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s09-0/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s09-1/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s09-1/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s09-1/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s09-1/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s09-1/diversity/full",
+      "arrivals": 519,
+      "replacements": 50,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s09-1/diversity/removed",
+      "arrivals": 519,
+      "replacements": 50,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s09-1/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 1,
+      "peak_persistent_bytes": 178729,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s09-1/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178701,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s09-1/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s09-1/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s09-2/fifo/full",
+      "arrivals": 520,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s09-2/fifo/removed",
+      "arrivals": 520,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s09-2/reservoir/full",
+      "arrivals": 520,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s09-2/reservoir/removed",
+      "arrivals": 520,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s09-2/diversity/full",
+      "arrivals": 520,
+      "replacements": 50,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s09-2/diversity/removed",
+      "arrivals": 520,
+      "replacements": 50,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s09-2/unpressured/full",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 1,
+      "peak_persistent_bytes": 178807,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s09-2/unpressured/removed",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178779,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s09-2/present/full",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s09-2/present/removed",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s09-3/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s09-3/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s09-3/diversity/full",
+      "arrivals": 519,
+      "replacements": 50,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s09-3/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178729,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s09-3/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s10-0/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s10-0/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s10-0/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s10-0/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s10-0/diversity/full",
+      "arrivals": 519,
+      "replacements": 45,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16733,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s10-0/diversity/removed",
+      "arrivals": 519,
+      "replacements": 45,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16733,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s10-0/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 1,
+      "peak_persistent_bytes": 178729,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s10-0/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178701,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s10-0/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s10-0/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s10-1/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s10-1/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s10-1/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s10-1/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s10-1/diversity/full",
+      "arrivals": 519,
+      "replacements": 45,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16733,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s10-1/diversity/removed",
+      "arrivals": 519,
+      "replacements": 45,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16733,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s10-1/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 1,
+      "peak_persistent_bytes": 178729,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s10-1/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178701,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s10-1/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s10-1/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s10-2/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s10-2/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s10-2/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s10-2/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s10-2/diversity/full",
+      "arrivals": 519,
+      "replacements": 45,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16733,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s10-2/diversity/removed",
+      "arrivals": 519,
+      "replacements": 45,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16733,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s10-2/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178729,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s10-2/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178701,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s10-2/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s10-2/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s10-3/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s10-3/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s10-3/diversity/full",
+      "arrivals": 519,
+      "replacements": 44,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16733,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s10-3/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178729,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s10-3/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s11-0/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s11-0/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s11-0/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s11-0/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s11-0/diversity/full",
+      "arrivals": 519,
+      "replacements": 54,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s11-0/diversity/removed",
+      "arrivals": 519,
+      "replacements": 54,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s11-0/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s11-0/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178753,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s11-0/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s11-0/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s11-1/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s11-1/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s11-1/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s11-1/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s11-1/diversity/full",
+      "arrivals": 519,
+      "replacements": 54,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s11-1/diversity/removed",
+      "arrivals": 519,
+      "replacements": 54,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s11-1/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s11-1/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178753,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s11-1/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s11-1/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s11-2/fifo/full",
+      "arrivals": 520,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s11-2/fifo/removed",
+      "arrivals": 520,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s11-2/reservoir/full",
+      "arrivals": 520,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s11-2/reservoir/removed",
+      "arrivals": 520,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s11-2/diversity/full",
+      "arrivals": 520,
+      "replacements": 54,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s11-2/diversity/removed",
+      "arrivals": 520,
+      "replacements": 54,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s11-2/unpressured/full",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178807,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s11-2/unpressured/removed",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178779,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s11-2/present/full",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s11-2/present/removed",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s11-3/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s11-3/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s11-3/diversity/full",
+      "arrivals": 519,
+      "replacements": 54,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s11-3/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s11-3/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s12-0/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s12-0/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s12-0/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s12-0/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s12-0/diversity/full",
+      "arrivals": 519,
+      "replacements": 52,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16733,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s12-0/diversity/removed",
+      "arrivals": 519,
+      "replacements": 52,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16733,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s12-0/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s12-0/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178753,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s12-0/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s12-0/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s12-1/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s12-1/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s12-1/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s12-1/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s12-1/diversity/full",
+      "arrivals": 519,
+      "replacements": 52,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16733,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s12-1/diversity/removed",
+      "arrivals": 519,
+      "replacements": 52,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16733,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s12-1/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s12-1/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178753,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s12-1/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s12-1/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s12-2/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s12-2/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s12-2/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s12-2/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s12-2/diversity/full",
+      "arrivals": 519,
+      "replacements": 52,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16733,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s12-2/diversity/removed",
+      "arrivals": 519,
+      "replacements": 52,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16733,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s12-2/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s12-2/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178753,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s12-2/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s12-2/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s12-3/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s12-3/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s12-3/diversity/full",
+      "arrivals": 519,
+      "replacements": 52,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16733,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s12-3/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s12-3/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s13-0/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s13-0/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s13-0/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s13-0/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s13-0/diversity/full",
+      "arrivals": 519,
+      "replacements": 48,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s13-0/diversity/removed",
+      "arrivals": 519,
+      "replacements": 48,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s13-0/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s13-0/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178753,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s13-0/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s13-0/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s13-1/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s13-1/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s13-1/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s13-1/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s13-1/diversity/full",
+      "arrivals": 519,
+      "replacements": 48,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s13-1/diversity/removed",
+      "arrivals": 519,
+      "replacements": 48,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s13-1/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s13-1/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178753,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s13-1/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s13-1/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s13-2/fifo/full",
+      "arrivals": 520,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s13-2/fifo/removed",
+      "arrivals": 520,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s13-2/reservoir/full",
+      "arrivals": 520,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s13-2/reservoir/removed",
+      "arrivals": 520,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s13-2/diversity/full",
+      "arrivals": 520,
+      "replacements": 48,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s13-2/diversity/removed",
+      "arrivals": 520,
+      "replacements": 48,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s13-2/unpressured/full",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 1,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s13-2/unpressured/removed",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178753,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s13-2/present/full",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s13-2/present/removed",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s13-3/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s13-3/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s13-3/diversity/full",
+      "arrivals": 519,
+      "replacements": 48,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s13-3/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s13-3/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s14-0/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s14-0/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s14-0/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s14-0/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s14-0/diversity/full",
+      "arrivals": 519,
+      "replacements": 49,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16733,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s14-0/diversity/removed",
+      "arrivals": 519,
+      "replacements": 49,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16733,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s14-0/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 1,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s14-0/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178753,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s14-0/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s14-0/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s14-1/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s14-1/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s14-1/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s14-1/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s14-1/diversity/full",
+      "arrivals": 519,
+      "replacements": 49,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16733,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s14-1/diversity/removed",
+      "arrivals": 519,
+      "replacements": 49,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16733,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s14-1/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 1,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s14-1/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178753,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s14-1/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s14-1/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s14-2/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s14-2/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s14-2/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s14-2/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s14-2/diversity/full",
+      "arrivals": 519,
+      "replacements": 49,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16733,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s14-2/diversity/removed",
+      "arrivals": 519,
+      "replacements": 49,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16733,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s14-2/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s14-2/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178753,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s14-2/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s14-2/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s14-3/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s14-3/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s14-3/diversity/full",
+      "arrivals": 519,
+      "replacements": 50,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16733,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s14-3/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s14-3/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s15-0/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s15-0/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s15-0/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s15-0/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s15-0/diversity/full",
+      "arrivals": 519,
+      "replacements": 53,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s15-0/diversity/removed",
+      "arrivals": 519,
+      "replacements": 53,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s15-0/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178729,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s15-0/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178701,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s15-0/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s15-0/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s15-1/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s15-1/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s15-1/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s15-1/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s15-1/diversity/full",
+      "arrivals": 519,
+      "replacements": 53,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s15-1/diversity/removed",
+      "arrivals": 519,
+      "replacements": 53,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s15-1/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178729,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s15-1/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178701,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s15-1/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s15-1/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s15-2/fifo/full",
+      "arrivals": 520,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s15-2/fifo/removed",
+      "arrivals": 520,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s15-2/reservoir/full",
+      "arrivals": 520,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s15-2/reservoir/removed",
+      "arrivals": 520,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s15-2/diversity/full",
+      "arrivals": 520,
+      "replacements": 53,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s15-2/diversity/removed",
+      "arrivals": 520,
+      "replacements": 53,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s15-2/unpressured/full",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 1,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s15-2/unpressured/removed",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178753,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s15-2/present/full",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s15-2/present/removed",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s15-3/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s15-3/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s15-3/diversity/full",
+      "arrivals": 519,
+      "replacements": 53,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s15-3/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178729,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s15-3/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s16-0/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s16-0/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s16-0/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s16-0/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s16-0/diversity/full",
+      "arrivals": 519,
+      "replacements": 48,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s16-0/diversity/removed",
+      "arrivals": 519,
+      "replacements": 48,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s16-0/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s16-0/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178753,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s16-0/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s16-0/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s16-1/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s16-1/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s16-1/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s16-1/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s16-1/diversity/full",
+      "arrivals": 519,
+      "replacements": 48,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s16-1/diversity/removed",
+      "arrivals": 519,
+      "replacements": 48,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s16-1/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s16-1/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178753,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s16-1/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s16-1/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s16-2/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s16-2/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s16-2/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s16-2/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s16-2/diversity/full",
+      "arrivals": 519,
+      "replacements": 48,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s16-2/diversity/removed",
+      "arrivals": 519,
+      "replacements": 48,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s16-2/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s16-2/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178753,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s16-2/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s16-2/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s16-3/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s16-3/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s16-3/diversity/full",
+      "arrivals": 519,
+      "replacements": 48,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s16-3/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s16-3/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s17-0/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s17-0/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s17-0/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s17-0/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s17-0/diversity/full",
+      "arrivals": 519,
+      "replacements": 47,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16733,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s17-0/diversity/removed",
+      "arrivals": 519,
+      "replacements": 47,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16733,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s17-0/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 1,
+      "peak_persistent_bytes": 178729,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s17-0/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178701,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s17-0/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s17-0/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s17-1/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s17-1/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s17-1/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s17-1/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s17-1/diversity/full",
+      "arrivals": 519,
+      "replacements": 47,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16733,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s17-1/diversity/removed",
+      "arrivals": 519,
+      "replacements": 47,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16733,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s17-1/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 1,
+      "peak_persistent_bytes": 178729,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s17-1/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178701,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s17-1/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s17-1/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s17-2/fifo/full",
+      "arrivals": 520,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s17-2/fifo/removed",
+      "arrivals": 520,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s17-2/reservoir/full",
+      "arrivals": 520,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s17-2/reservoir/removed",
+      "arrivals": 520,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s17-2/diversity/full",
+      "arrivals": 520,
+      "replacements": 47,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16733,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s17-2/diversity/removed",
+      "arrivals": 520,
+      "replacements": 47,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16733,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s17-2/unpressured/full",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 1,
+      "peak_persistent_bytes": 178807,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s17-2/unpressured/removed",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178779,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s17-2/present/full",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s17-2/present/removed",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s17-3/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s17-3/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s17-3/diversity/full",
+      "arrivals": 519,
+      "replacements": 48,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16733,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s17-3/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178729,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s17-3/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s18-0/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s18-0/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s18-0/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s18-0/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s18-0/diversity/full",
+      "arrivals": 519,
+      "replacements": 49,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s18-0/diversity/removed",
+      "arrivals": 519,
+      "replacements": 49,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s18-0/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 1,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s18-0/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178753,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s18-0/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s18-0/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s18-1/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s18-1/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s18-1/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s18-1/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s18-1/diversity/full",
+      "arrivals": 519,
+      "replacements": 49,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s18-1/diversity/removed",
+      "arrivals": 519,
+      "replacements": 49,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s18-1/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 1,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s18-1/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178753,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s18-1/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s18-1/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s18-2/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s18-2/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s18-2/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s18-2/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s18-2/diversity/full",
+      "arrivals": 519,
+      "replacements": 49,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s18-2/diversity/removed",
+      "arrivals": 519,
+      "replacements": 49,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s18-2/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s18-2/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178753,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s18-2/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s18-2/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s18-3/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s18-3/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s18-3/diversity/full",
+      "arrivals": 519,
+      "replacements": 49,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s18-3/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s18-3/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s19-0/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s19-0/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s19-0/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s19-0/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s19-0/diversity/full",
+      "arrivals": 519,
+      "replacements": 57,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16761,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s19-0/diversity/removed",
+      "arrivals": 519,
+      "replacements": 57,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16761,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s19-0/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s19-0/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178753,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s19-0/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s19-0/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s19-1/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s19-1/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s19-1/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s19-1/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s19-1/diversity/full",
+      "arrivals": 519,
+      "replacements": 57,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16761,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s19-1/diversity/removed",
+      "arrivals": 519,
+      "replacements": 57,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16761,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s19-1/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s19-1/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178753,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s19-1/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s19-1/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s19-2/fifo/full",
+      "arrivals": 520,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s19-2/fifo/removed",
+      "arrivals": 520,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s19-2/reservoir/full",
+      "arrivals": 520,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s19-2/reservoir/removed",
+      "arrivals": 520,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s19-2/diversity/full",
+      "arrivals": 520,
+      "replacements": 57,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16761,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s19-2/diversity/removed",
+      "arrivals": 520,
+      "replacements": 57,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16761,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s19-2/unpressured/full",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 1,
+      "peak_persistent_bytes": 178807,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s19-2/unpressured/removed",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178779,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s19-2/present/full",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s19-2/present/removed",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s19-3/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s19-3/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s19-3/diversity/full",
+      "arrivals": 519,
+      "replacements": 58,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16761,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s19-3/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s19-3/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s20-0/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s20-0/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s20-0/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s20-0/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s20-0/diversity/full",
+      "arrivals": 519,
+      "replacements": 55,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s20-0/diversity/removed",
+      "arrivals": 519,
+      "replacements": 55,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s20-0/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s20-0/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178753,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s20-0/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s20-0/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s20-1/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s20-1/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s20-1/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s20-1/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s20-1/diversity/full",
+      "arrivals": 519,
+      "replacements": 55,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s20-1/diversity/removed",
+      "arrivals": 519,
+      "replacements": 55,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s20-1/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s20-1/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178753,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s20-1/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s20-1/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s20-2/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s20-2/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s20-2/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s20-2/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s20-2/diversity/full",
+      "arrivals": 519,
+      "replacements": 55,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s20-2/diversity/removed",
+      "arrivals": 519,
+      "replacements": 55,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s20-2/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s20-2/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178753,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s20-2/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s20-2/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s20-3/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s20-3/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s20-3/diversity/full",
+      "arrivals": 519,
+      "replacements": 55,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s20-3/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s20-3/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s21-0/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s21-0/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s21-0/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s21-0/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s21-0/diversity/full",
+      "arrivals": 519,
+      "replacements": 51,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16761,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s21-0/diversity/removed",
+      "arrivals": 519,
+      "replacements": 51,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16761,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s21-0/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s21-0/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178753,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s21-0/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s21-0/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s21-1/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s21-1/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s21-1/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s21-1/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s21-1/diversity/full",
+      "arrivals": 519,
+      "replacements": 51,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16761,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s21-1/diversity/removed",
+      "arrivals": 519,
+      "replacements": 51,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16761,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s21-1/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s21-1/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178753,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s21-1/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s21-1/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s21-2/fifo/full",
+      "arrivals": 520,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s21-2/fifo/removed",
+      "arrivals": 520,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s21-2/reservoir/full",
+      "arrivals": 520,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s21-2/reservoir/removed",
+      "arrivals": 520,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s21-2/diversity/full",
+      "arrivals": 520,
+      "replacements": 51,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16761,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s21-2/diversity/removed",
+      "arrivals": 520,
+      "replacements": 51,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16761,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s21-2/unpressured/full",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178807,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s21-2/unpressured/removed",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178779,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s21-2/present/full",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s21-2/present/removed",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s21-3/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s21-3/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s21-3/diversity/full",
+      "arrivals": 519,
+      "replacements": 51,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16761,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s21-3/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s21-3/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s22-0/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s22-0/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s22-0/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s22-0/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s22-0/diversity/full",
+      "arrivals": 519,
+      "replacements": 48,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s22-0/diversity/removed",
+      "arrivals": 519,
+      "replacements": 48,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s22-0/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 1,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s22-0/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178753,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s22-0/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s22-0/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s22-1/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s22-1/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s22-1/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s22-1/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s22-1/diversity/full",
+      "arrivals": 519,
+      "replacements": 48,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s22-1/diversity/removed",
+      "arrivals": 519,
+      "replacements": 48,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s22-1/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 1,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s22-1/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178753,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s22-1/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s22-1/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s22-2/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s22-2/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s22-2/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s22-2/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s22-2/diversity/full",
+      "arrivals": 519,
+      "replacements": 48,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s22-2/diversity/removed",
+      "arrivals": 519,
+      "replacements": 48,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s22-2/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s22-2/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178753,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s22-2/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s22-2/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s22-3/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s22-3/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s22-3/diversity/full",
+      "arrivals": 519,
+      "replacements": 48,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16789,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s22-3/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s22-3/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s23-0/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s23-0/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s23-0/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s23-0/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s23-0/diversity/full",
+      "arrivals": 519,
+      "replacements": 50,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16733,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s23-0/diversity/removed",
+      "arrivals": 519,
+      "replacements": 50,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16733,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s23-0/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 1,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s23-0/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178753,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s23-0/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s23-0/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s23-1/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s23-1/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s23-1/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s23-1/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s23-1/diversity/full",
+      "arrivals": 519,
+      "replacements": 50,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16733,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s23-1/diversity/removed",
+      "arrivals": 519,
+      "replacements": 50,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16733,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s23-1/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 1,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s23-1/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178753,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s23-1/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s23-1/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s23-2/fifo/full",
+      "arrivals": 520,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s23-2/fifo/removed",
+      "arrivals": 520,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s23-2/reservoir/full",
+      "arrivals": 520,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s23-2/reservoir/removed",
+      "arrivals": 520,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s23-2/diversity/full",
+      "arrivals": 520,
+      "replacements": 50,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16733,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s23-2/diversity/removed",
+      "arrivals": 520,
+      "replacements": 50,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16733,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s23-2/unpressured/full",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 1,
+      "peak_persistent_bytes": 178807,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s23-2/unpressured/removed",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178779,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s23-2/present/full",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s23-2/present/removed",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s23-3/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s23-3/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s23-3/diversity/full",
+      "arrivals": 519,
+      "replacements": 49,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16733,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s23-3/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/evaluation/s23-3/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    }
+  ],
+  "elapsed_seconds": 13.090475416975096,
+  "candidate_calls": 0,
+  "qualification_replays": 0,
+  "validation_scope": "Saved evidence and mathematical policy/witness audit, no candidate search or execution; frozen guarded worker source remains necessary to assess absence of hidden accesses."
+}

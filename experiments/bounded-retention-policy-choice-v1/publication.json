@@ -1,0 +1,14 @@
+{
+  "assignment_id": "earworm-bounded-retention-policy-choice-v1",
+  "source_comment": 5843842158,
+  "base_sha": "f93977b000e59ee9b7d8bcc6092510b156bd77de",
+  "execution_sha": "1004d09460239742544766d6dbfa93c38a578097",
+  "execution_freeze_sha256": "e2458af936e14aee2d6ca64c053322919900ae5132b084d08e13dd902859b009",
+  "publication_sha_reference": "The commit containing this file; intentionally not a self-referential hash.",
+  "preregistration_comment": 5848627639,
+  "selected_branch": "C",
+  "selected_policy": null,
+  "status": "complete_awaiting_review",
+  "historical_scientific_files_unchanged": 3443,
+  "no_reruns": true
+}

@@ -1,0 +1,797 @@
+{
+  "cell": "transpose",
+  "decision_available_at": 519,
+  "expected_scale": 1.0,
+  "expected_shift": -2,
+  "family_id": "bach-bwv785-notes36-47",
+  "identity_definition": "Independent construction correspondence; not perceptual identity",
+  "interference_occurrences": 128,
+  "interference_provenance": [
+    {
+      "family_id": "bach-bwv774-notes36-47",
+      "record_index": 1,
+      "slot_start": 4.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "bach-bwv774-notes36-47",
+      "record_index": 2,
+      "slot_start": 8.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "bach-bwv776-notes36-47",
+      "record_index": 3,
+      "slot_start": 12.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "bach-bwv776-notes36-47",
+      "record_index": 4,
+      "slot_start": 16.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "bach-bwv779-notes36-47",
+      "record_index": 5,
+      "slot_start": 20.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "bach-bwv779-notes36-47",
+      "record_index": 6,
+      "slot_start": 24.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "bach-bwv782-notes36-47",
+      "record_index": 7,
+      "slot_start": 28.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "bach-bwv782-notes36-47",
+      "record_index": 8,
+      "slot_start": 32.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "bach-bwv784-notes36-47",
+      "record_index": 9,
+      "slot_start": 36.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "bach-bwv784-notes36-47",
+      "record_index": 10,
+      "slot_start": 40.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "bach-bwv786-notes36-47",
+      "record_index": 11,
+      "slot_start": 44.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "bach-bwv786-notes36-47",
+      "record_index": 12,
+      "slot_start": 48.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "bach-bwv787-notes69-80",
+      "record_index": 13,
+      "slot_start": 52.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "bach-bwv787-notes69-80",
+      "record_index": 14,
+      "slot_start": 56.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "novel-evaluation-01",
+      "record_index": 15,
+      "slot_start": 60.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "novel-evaluation-01",
+      "record_index": 16,
+      "slot_start": 64.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "novel-evaluation-02",
+      "record_index": 17,
+      "slot_start": 68.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "novel-evaluation-02",
+      "record_index": 18,
+      "slot_start": 72.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "novel-evaluation-03",
+      "record_index": 19,
+      "slot_start": 76.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "novel-evaluation-03",
+      "record_index": 20,
+      "slot_start": 80.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "novel-evaluation-04",
+      "record_index": 21,
+      "slot_start": 84.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "novel-evaluation-04",
+      "record_index": 22,
+      "slot_start": 88.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "novel-evaluation-05",
+      "record_index": 23,
+      "slot_start": 92.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "novel-evaluation-05",
+      "record_index": 24,
+      "slot_start": 96.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "novel-evaluation-06",
+      "record_index": 25,
+      "slot_start": 100.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "novel-evaluation-06",
+      "record_index": 26,
+      "slot_start": 104.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "novel-evaluation-07",
+      "record_index": 27,
+      "slot_start": 108.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "novel-evaluation-07",
+      "record_index": 28,
+      "slot_start": 112.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "novel-evaluation-08",
+      "record_index": 29,
+      "slot_start": 116.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "novel-evaluation-08",
+      "record_index": 30,
+      "slot_start": 120.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "bach-bwv774-notes36-47",
+      "record_index": 31,
+      "slot_start": 124.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "bach-bwv774-notes36-47",
+      "record_index": 32,
+      "slot_start": 128.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "bach-bwv776-notes36-47",
+      "record_index": 33,
+      "slot_start": 132.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "bach-bwv776-notes36-47",
+      "record_index": 34,
+      "slot_start": 136.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "bach-bwv779-notes36-47",
+      "record_index": 35,
+      "slot_start": 140.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "bach-bwv779-notes36-47",
+      "record_index": 36,
+      "slot_start": 144.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "bach-bwv782-notes36-47",
+      "record_index": 37,
+      "slot_start": 148.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "bach-bwv782-notes36-47",
+      "record_index": 38,
+      "slot_start": 152.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "bach-bwv784-notes36-47",
+      "record_index": 39,
+      "slot_start": 156.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "bach-bwv784-notes36-47",
+      "record_index": 40,
+      "slot_start": 160.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "bach-bwv786-notes36-47",
+      "record_index": 41,
+      "slot_start": 164.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "bach-bwv786-notes36-47",
+      "record_index": 42,
+      "slot_start": 168.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "bach-bwv787-notes69-80",
+      "record_index": 43,
+      "slot_start": 172.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "bach-bwv787-notes69-80",
+      "record_index": 44,
+      "slot_start": 176.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "novel-evaluation-01",
+      "record_index": 45,
+      "slot_start": 180.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "novel-evaluation-01",
+      "record_index": 46,
+      "slot_start": 184.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "novel-evaluation-02",
+      "record_index": 47,
+      "slot_start": 188.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "novel-evaluation-02",
+      "record_index": 48,
+      "slot_start": 192.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "novel-evaluation-03",
+      "record_index": 49,
+      "slot_start": 196.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "novel-evaluation-03",
+      "record_index": 50,
+      "slot_start": 200.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "novel-evaluation-04",
+      "record_index": 51,
+      "slot_start": 204.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "novel-evaluation-04",
+      "record_index": 52,
+      "slot_start": 208.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "novel-evaluation-05",
+      "record_index": 53,
+      "slot_start": 212.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "novel-evaluation-05",
+      "record_index": 54,
+      "slot_start": 216.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "novel-evaluation-06",
+      "record_index": 55,
+      "slot_start": 220.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "novel-evaluation-06",
+      "record_index": 56,
+      "slot_start": 224.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "novel-evaluation-07",
+      "record_index": 57,
+      "slot_start": 228.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "novel-evaluation-07",
+      "record_index": 58,
+      "slot_start": 232.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "novel-evaluation-08",
+      "record_index": 59,
+      "slot_start": 236.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "novel-evaluation-08",
+      "record_index": 60,
+      "slot_start": 240.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "bach-bwv774-notes36-47",
+      "record_index": 61,
+      "slot_start": 244.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "bach-bwv774-notes36-47",
+      "record_index": 62,
+      "slot_start": 248.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "bach-bwv776-notes36-47",
+      "record_index": 63,
+      "slot_start": 252.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "bach-bwv776-notes36-47",
+      "record_index": 64,
+      "slot_start": 256.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "bach-bwv779-notes36-47",
+      "record_index": 65,
+      "slot_start": 260.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "bach-bwv779-notes36-47",
+      "record_index": 66,
+      "slot_start": 264.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "bach-bwv782-notes36-47",
+      "record_index": 67,
+      "slot_start": 268.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "bach-bwv782-notes36-47",
+      "record_index": 68,
+      "slot_start": 272.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "bach-bwv784-notes36-47",
+      "record_index": 69,
+      "slot_start": 276.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "bach-bwv784-notes36-47",
+      "record_index": 70,
+      "slot_start": 280.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "bach-bwv786-notes36-47",
+      "record_index": 71,
+      "slot_start": 284.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "bach-bwv786-notes36-47",
+      "record_index": 72,
+      "slot_start": 288.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "bach-bwv787-notes69-80",
+      "record_index": 73,
+      "slot_start": 292.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "bach-bwv787-notes69-80",
+      "record_index": 74,
+      "slot_start": 296.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "novel-evaluation-01",
+      "record_index": 75,
+      "slot_start": 300.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "novel-evaluation-01",
+      "record_index": 76,
+      "slot_start": 304.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "novel-evaluation-02",
+      "record_index": 77,
+      "slot_start": 308.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "novel-evaluation-02",
+      "record_index": 78,
+      "slot_start": 312.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "novel-evaluation-03",
+      "record_index": 79,
+      "slot_start": 316.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "novel-evaluation-03",
+      "record_index": 80,
+      "slot_start": 320.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "novel-evaluation-04",
+      "record_index": 81,
+      "slot_start": 324.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "novel-evaluation-04",
+      "record_index": 82,
+      "slot_start": 328.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "novel-evaluation-05",
+      "record_index": 83,
+      "slot_start": 332.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "novel-evaluation-05",
+      "record_index": 84,
+      "slot_start": 336.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "novel-evaluation-06",
+      "record_index": 85,
+      "slot_start": 340.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "novel-evaluation-06",
+      "record_index": 86,
+      "slot_start": 344.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "novel-evaluation-07",
+      "record_index": 87,
+      "slot_start": 348.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "novel-evaluation-07",
+      "record_index": 88,
+      "slot_start": 352.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "novel-evaluation-08",
+      "record_index": 89,
+      "slot_start": 356.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "novel-evaluation-08",
+      "record_index": 90,
+      "slot_start": 360.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "bach-bwv774-notes36-47",
+      "record_index": 91,
+      "slot_start": 364.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "bach-bwv774-notes36-47",
+      "record_index": 92,
+      "slot_start": 368.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "bach-bwv776-notes36-47",
+      "record_index": 93,
+      "slot_start": 372.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "bach-bwv776-notes36-47",
+      "record_index": 94,
+      "slot_start": 376.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "bach-bwv779-notes36-47",
+      "record_index": 95,
+      "slot_start": 380.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "bach-bwv779-notes36-47",
+      "record_index": 96,
+      "slot_start": 384.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "bach-bwv782-notes36-47",
+      "record_index": 97,
+      "slot_start": 388.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "bach-bwv782-notes36-47",
+      "record_index": 98,
+      "slot_start": 392.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "bach-bwv784-notes36-47",
+      "record_index": 99,
+      "slot_start": 396.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "bach-bwv784-notes36-47",
+      "record_index": 100,
+      "slot_start": 400.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "bach-bwv786-notes36-47",
+      "record_index": 101,
+      "slot_start": 404.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "bach-bwv786-notes36-47",
+      "record_index": 102,
+      "slot_start": 408.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "bach-bwv787-notes69-80",
+      "record_index": 103,
+      "slot_start": 412.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "bach-bwv787-notes69-80",
+      "record_index": 104,
+      "slot_start": 416.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "novel-evaluation-01",
+      "record_index": 105,
+      "slot_start": 420.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "novel-evaluation-01",
+      "record_index": 106,
+      "slot_start": 424.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "novel-evaluation-02",
+      "record_index": 107,
+      "slot_start": 428.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "novel-evaluation-02",
+      "record_index": 108,
+      "slot_start": 432.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "novel-evaluation-03",
+      "record_index": 109,
+      "slot_start": 436.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "novel-evaluation-03",
+      "record_index": 110,
+      "slot_start": 440.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "novel-evaluation-04",
+      "record_index": 111,
+      "slot_start": 444.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "novel-evaluation-04",
+      "record_index": 112,
+      "slot_start": 448.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "novel-evaluation-05",
+      "record_index": 113,
+      "slot_start": 452.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "novel-evaluation-05",
+      "record_index": 114,
+      "slot_start": 456.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "novel-evaluation-06",
+      "record_index": 115,
+      "slot_start": 460.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "novel-evaluation-06",
+      "record_index": 116,
+      "slot_start": 464.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "novel-evaluation-07",
+      "record_index": 117,
+      "slot_start": 468.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "novel-evaluation-07",
+      "record_index": 118,
+      "slot_start": 472.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "novel-evaluation-08",
+      "record_index": 119,
+      "slot_start": 476.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "novel-evaluation-08",
+      "record_index": 120,
+      "slot_start": 480.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "bach-bwv774-notes36-47",
+      "record_index": 121,
+      "slot_start": 484.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "bach-bwv774-notes36-47",
+      "record_index": 122,
+      "slot_start": 488.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "bach-bwv776-notes36-47",
+      "record_index": 123,
+      "slot_start": 492.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "bach-bwv776-notes36-47",
+      "record_index": 124,
+      "slot_start": 496.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "bach-bwv779-notes36-47",
+      "record_index": 125,
+      "slot_start": 500.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "bach-bwv779-notes36-47",
+      "record_index": 126,
+      "slot_start": 504.0,
+      "variant": "foil_events"
+    },
+    {
+      "family_id": "bach-bwv782-notes36-47",
+      "record_index": 127,
+      "slot_start": 508.0,
+      "variant": "events"
+    },
+    {
+      "family_id": "bach-bwv782-notes36-47",
+      "record_index": 128,
+      "slot_start": 512.0,
+      "variant": "foil_events"
+    }
+  ],
+  "positive": true,
+  "query_final_event_offset": 519.0,
+  "query_support": [
+    516.0,
+    519.0
+  ],
+  "schema": "bounded-retention-labels-v1",
+  "session_id": "s13-1",
+  "source_dependent_record_indices": [
+    0
+  ],
+  "source_record_index": 0,
+  "source_support": [
+    0.0,
+    3.0
+  ],
+  "split": "evaluation",
+  "stratum": "bach"
+}

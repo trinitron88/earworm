@@ -1,0 +1,197 @@
+{
+  "method": "G-exact-score",
+  "accepted": false,
+  "selected": null,
+  "hypothesis": null,
+  "candidates": [],
+  "distance": null,
+  "reason": "no full-consistent occurrence",
+  "candidate_count": 0,
+  "query_rows_skipped": 0,
+  "contradictions": 0,
+  "parameter_uncertain": null,
+  "transform_convention": "query_time=scale*history_time+offset;query_pitch=history_pitch+shift",
+  "query_row_ids": [
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36
+  ],
+  "query_rows_available": 20,
+  "query_support": [
+    17.75,
+    19.650000000000002
+  ],
+  "query_display_bin_support": [
+    17.7,
+    19.700000000000003
+  ],
+  "history_row_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "history_rows_available": 10,
+  "query_run_count": 7,
+  "query_pitch_runs": [
+    65,
+    72,
+    67,
+    74,
+    68,
+    75,
+    70
+  ],
+  "history_component_supports": [
+    [
+      16.05,
+      16.95
+    ]
+  ],
+  "search": {
+    "run_windows_with_shifts": 0,
+    "pitch_consistent_windows": 0,
+    "feasible_windows": 0,
+    "all_windows_enumerated": true
+  },
+  "type": "prediction",
+  "policy": "present",
+  "raw": {
+    "method": "G-exact-score",
+    "accepted": false,
+    "selected": null,
+    "hypothesis": null,
+    "candidates": [],
+    "distance": null,
+    "reason": "no full-consistent occurrence",
+    "candidate_count": 0,
+    "query_rows_skipped": 0,
+    "contradictions": 0,
+    "parameter_uncertain": null,
+    "transform_convention": "query_time=scale*history_time+offset;query_pitch=history_pitch+shift",
+    "query_row_ids": [
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "query_rows_available": 20,
+    "query_support": [
+      17.75,
+      19.650000000000002
+    ],
+    "query_display_bin_support": [
+      17.7,
+      19.700000000000003
+    ],
+    "history_row_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "history_rows_available": 10,
+    "query_run_count": 7,
+    "query_pitch_runs": [
+      65,
+      72,
+      67,
+      74,
+      68,
+      75,
+      70
+    ],
+    "history_component_supports": [
+      [
+        16.05,
+        16.95
+      ]
+    ],
+    "search": {
+      "run_windows_with_shifts": 0,
+      "pitch_consistent_windows": 0,
+      "feasible_windows": 0,
+      "all_windows_enumerated": true
+    }
+  },
+  "candidate_record_mappings": [],
+  "candidate_record_ids": [],
+  "selected_record_id": null,
+  "compatible_record_ids": [],
+  "retained_records": [],
+  "recent_units": [
+    16,
+    17,
+    18,
+    19
+  ],
+  "ring_events_sha256": "5694527161f72f9fa113e9e51f0811cb64083e577c931cc5056b40e993f7b69d",
+  "replacements": 0,
+  "persistent_replacements": 0,
+  "admission_rejections": 4,
+  "recent_evictions": 16,
+  "persistent_bytes": 5101,
+  "peak_persistent_bytes": 5101,
+  "scratch_input_bytes": 44661,
+  "scratch_output_bytes": 4905,
+  "scratch_construction_bytes": 48230,
+  "peak_policy_scratch_bytes": 1612,
+  "peak_rss_bytes": 36372480,
+  "compute_seconds": 0.00023345905356109142,
+  "prediction_finished_monotonic": 640683.56960525,
+  "simulation_observations_available_at": 20,
+  "simulation_compute_only_finish": 20.00023345905356,
+  "input_events_sha256": "b2f6d720d8c79de568ccd07590b8add68d614c072c3959c128787379fc711055",
+  "query_and_history_rule": "unchanged frozen G-exact; no query identity supplied",
+  "output_ready_monotonic": 640683.56965,
+  "processing_seconds": 0.00039345899131149054,
+  "output_available_at": 20.00039345899131,
+  "output_availability_semantics": "completed-unit time plus local processing; broker records actual receipt",
+  "removed_record_ids": [],
+  "source_removed": false
+}

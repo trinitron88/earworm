@@ -1,0 +1,8 @@
+{
+  "started_at": "2026-09-26T18:15:58.544899+00:00",
+  "policy": "fifo",
+  "removed": true,
+  "input_sha256": "dee6c4c28f1762be3a5fc38b35233fc2581e31e7c46d6de6e10a099369f7eb2b",
+  "aggregate_seconds_before": 3907.437284,
+  "call_number": 832
+}
