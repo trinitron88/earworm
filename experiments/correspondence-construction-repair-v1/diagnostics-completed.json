@@ -1,0 +1,16 @@
+{
+  "cumulative_calls": 320,
+  "prior_conservative_compute_seconds": 3770.938094,
+  "active_worker_wall_seconds": 801.00884,
+  "parallel_helper_charge_seconds": 900,
+  "additional_compute_seconds": 1701.00884,
+  "cumulative_compute_seconds": 5471.946934,
+  "publication_reserve_seconds": 300,
+  "new_artifact_bytes": 20326666,
+  "spend": 0,
+  "additional_compute_cap_seconds": 3400,
+  "cumulative_compute_cap_seconds": 7200,
+  "call_cap": 400,
+  "qualification_call_cap": 32,
+  "artifact_cap_bytes": 536870912
+}

@@ -1,0 +1,275 @@
+{
+  "accepted": false,
+  "selected": null,
+  "candidate_best": {
+    "start": 9.700000000000001,
+    "end": 11.100000000000001,
+    "shift": 0,
+    "stretch": 1.4285714285714295,
+    "path": [
+      [
+        373,
+        97
+      ],
+      [
+        375,
+        98
+      ],
+      [
+        377,
+        99
+      ],
+      [
+        379,
+        100
+      ],
+      [
+        381,
+        101
+      ],
+      [
+        383,
+        102
+      ],
+      [
+        384,
+        104
+      ],
+      [
+        385,
+        106
+      ],
+      [
+        386,
+        107
+      ],
+      [
+        388,
+        108
+      ],
+      [
+        390,
+        109
+      ],
+      [
+        392,
+        110
+      ]
+    ],
+    "center": 10.400000000000002,
+    "scale": 1.4285714285714295,
+    "scale_range": null,
+    "shift_range": [
+      0,
+      0
+    ]
+  },
+  "candidates": [
+    {
+      "start": 9.700000000000001,
+      "end": 11.100000000000001,
+      "shift": 0,
+      "stretch": 1.4285714285714295,
+      "path": [
+        [
+          373,
+          97
+        ],
+        [
+          375,
+          98
+        ],
+        [
+          377,
+          99
+        ],
+        [
+          379,
+          100
+        ],
+        [
+          381,
+          101
+        ],
+        [
+          383,
+          102
+        ],
+        [
+          384,
+          104
+        ],
+        [
+          385,
+          106
+        ],
+        [
+          386,
+          107
+        ],
+        [
+          388,
+          108
+        ],
+        [
+          390,
+          109
+        ],
+        [
+          392,
+          110
+        ]
+      ],
+      "center": 10.400000000000002,
+      "scale": 1.4285714285714295,
+      "scale_range": null,
+      "shift_range": [
+        0,
+        0
+      ]
+    }
+  ],
+  "reason": "historical_rejection",
+  "query_support": [
+    37.300000000000004,
+    39.3
+  ],
+  "raw_historical": {
+    "distance": 0.15,
+    "hypothesis": {
+      "start": 9.700000000000001,
+      "end": 11.100000000000001,
+      "shift": 0,
+      "stretch": 1.4285714285714295,
+      "path": [
+        [
+          373,
+          97
+        ],
+        [
+          375,
+          98
+        ],
+        [
+          377,
+          99
+        ],
+        [
+          379,
+          100
+        ],
+        [
+          381,
+          101
+        ],
+        [
+          383,
+          102
+        ],
+        [
+          384,
+          104
+        ],
+        [
+          385,
+          106
+        ],
+        [
+          386,
+          107
+        ],
+        [
+          388,
+          108
+        ],
+        [
+          390,
+          109
+        ],
+        [
+          392,
+          110
+        ]
+      ]
+    },
+    "query_support": [
+      37.300000000000004,
+      39.3
+    ],
+    "query_context_support": [
+      37,
+      40
+    ],
+    "history_context_support": [
+      9,
+      12
+    ]
+  },
+  "coverage": {
+    "query_rows": 20,
+    "charged_query_rows": 12,
+    "skipped_query_rows": 8,
+    "full_consistency_verified": false
+  },
+  "method": "D",
+  "mode": "full",
+  "compute_seconds": 0.00371525005903095,
+  "prediction_finished_monotonic": 626520.757395291,
+  "simulation_observations_available_at": 40,
+  "simulation_compute_only_finish": 40.00371525005903,
+  "predictor_accessible_state_bytes": 478526,
+  "retained_peak_bytes": 258370,
+  "scratch_state_bytes": 220190,
+  "peak_rss_bytes": 36290560,
+  "kept_units": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39
+  ],
+  "removed_units": [],
+  "persistent_replacements": 0,
+  "retained_observation_sha256": "fb81ebaa4735022043d05249c5aad5edb82518ca2ecb9928925053e12ab13610",
+  "retained_timestamps_sha256": "2f6116b1b641421bbb68a8147fb0b9989bded47cc205fb72c7c4e9be0a682a59",
+  "parent_response_received_monotonic": 626520.757534625,
+  "parent_prediction_request_monotonic": 626520.753547541,
+  "actual_output_availability_upper_bound": 626520.757534625,
+  "readout_roundtrip_seconds": 0.003987084026448429,
+  "simulated_output_availability_upper_bound": 40.00398708402645
+}

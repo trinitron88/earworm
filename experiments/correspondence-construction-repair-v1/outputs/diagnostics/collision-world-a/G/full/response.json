@@ -1,0 +1,900 @@
+{
+  "method": "G",
+  "accepted": false,
+  "selected": null,
+  "hypothesis": null,
+  "candidates": [
+    {
+      "start": 1.079230769230769,
+      "end": 2.9207692307692312,
+      "center": 2.0,
+      "shift": 0,
+      "scale": 1.0317460317460316,
+      "stretch": 1.0317460317460316,
+      "scale_range": [
+        0.9047619047619048,
+        1.2222222222222214
+      ],
+      "offset": 9.936507936507937,
+      "offset_range": [
+        9.555555555555557,
+        10.19047619047619
+      ],
+      "start_range": [
+        0.9500000000000001,
+        1.2227272727272722
+      ],
+      "end_range": [
+        2.777272727272728,
+        3.0500000000000003
+      ],
+      "parameter_uncertain": true,
+      "feasible_polygon": [
+        [
+          1.0,
+          10.1
+        ],
+        [
+          0.9047619047619048,
+          10.19047619047619
+        ],
+        [
+          0.9999999999999999,
+          9.9
+        ],
+        [
+          1.2222222222222214,
+          9.555555555555557
+        ]
+      ],
+      "polygon_coordinate_order": [
+        "scale",
+        "global_offset"
+      ],
+      "polygon_is_closure": true,
+      "constraints": [
+        {
+          "scale_coefficient": 0.0,
+          "offset_coefficient": 1.0,
+          "upper_bound": 0.0,
+          "strict": false,
+          "reason": "retained-support-start"
+        },
+        {
+          "scale_coefficient": -10.9,
+          "offset_coefficient": -1.0,
+          "upper_bound": -1.9000000000000004,
+          "strict": false,
+          "reason": "retained-support-end"
+        },
+        {
+          "scale_coefficient": 0.9,
+          "offset_coefficient": 1.0,
+          "upper_bound": 0.0,
+          "strict": true,
+          "reason": "first-run-coverage"
+        },
+        {
+          "scale_coefficient": -3.0,
+          "offset_coefficient": -1.0,
+          "upper_bound": -1.9000000000000004,
+          "strict": true,
+          "reason": "last-run-coverage"
+        },
+        {
+          "scale_coefficient": 1.4000000000000001,
+          "offset_coefficient": 1.0,
+          "upper_bound": 0.5,
+          "strict": true,
+          "reason": "transition-0-upper"
+        },
+        {
+          "scale_coefficient": -1.5,
+          "offset_coefficient": -1.0,
+          "upper_bound": -0.40000000000000036,
+          "strict": true,
+          "reason": "transition-0-lower"
+        },
+        {
+          "scale_coefficient": 1.9000000000000001,
+          "offset_coefficient": 1.0,
+          "upper_bound": 1.0,
+          "strict": true,
+          "reason": "transition-1-upper"
+        },
+        {
+          "scale_coefficient": -1.9999999999999998,
+          "offset_coefficient": -1.0,
+          "upper_bound": -0.9000000000000004,
+          "strict": true,
+          "reason": "transition-1-lower"
+        },
+        {
+          "scale_coefficient": 2.4000000000000004,
+          "offset_coefficient": 1.0,
+          "upper_bound": 1.5,
+          "strict": true,
+          "reason": "transition-2-upper"
+        },
+        {
+          "scale_coefficient": -2.5,
+          "offset_coefficient": -1.0,
+          "upper_bound": -1.4000000000000004,
+          "strict": true,
+          "reason": "transition-2-lower"
+        }
+      ],
+      "constraint_coordinate_origins": {
+        "query": 11.05,
+        "history": 0.05
+      },
+      "local_representative": [
+        1.0317460317460316,
+        -1.0619047619047615
+      ],
+      "boundary_witnesses": [
+        {
+          "query_boundary": 11.492857142857144,
+          "history_boundary": 1.5084615384615385,
+          "query_bracket": [
+            11.450000000000001,
+            11.55,
+            true
+          ],
+          "history_bracket": [
+            1.4500000000000002,
+            1.55,
+            true
+          ]
+        },
+        {
+          "query_boundary": 12.0,
+          "history_boundary": 1.9999999999999993,
+          "query_bracket": [
+            11.950000000000001,
+            12.05,
+            true
+          ],
+          "history_bracket": [
+            1.9500000000000002,
+            2.05,
+            true
+          ]
+        },
+        {
+          "query_boundary": 12.507142857142858,
+          "history_boundary": 2.4915384615384615,
+          "query_bracket": [
+            12.450000000000001,
+            12.55,
+            true
+          ],
+          "history_bracket": [
+            2.45,
+            2.55,
+            true
+          ]
+        }
+      ],
+      "correspondence": [
+        {
+          "query_pitch": 34,
+          "history_pitch": 34,
+          "query_row_ids": [
+            110,
+            111,
+            112,
+            113,
+            114
+          ],
+          "history_row_ids": [
+            10,
+            11,
+            12,
+            13,
+            14
+          ],
+          "query_interval": [
+            11.05,
+            11.450000000000001
+          ],
+          "history_interval": [
+            1.05,
+            1.4500000000000002
+          ]
+        },
+        {
+          "query_pitch": 46,
+          "history_pitch": 46,
+          "query_row_ids": [
+            115,
+            116,
+            117,
+            118,
+            119
+          ],
+          "history_row_ids": [
+            15,
+            16,
+            17,
+            18,
+            19
+          ],
+          "query_interval": [
+            11.55,
+            11.950000000000001
+          ],
+          "history_interval": [
+            1.55,
+            1.9500000000000002
+          ]
+        },
+        {
+          "query_pitch": 58,
+          "history_pitch": 58,
+          "query_row_ids": [
+            120,
+            121,
+            122,
+            123,
+            124
+          ],
+          "history_row_ids": [
+            20,
+            21,
+            22,
+            23,
+            24
+          ],
+          "query_interval": [
+            12.05,
+            12.450000000000001
+          ],
+          "history_interval": [
+            2.05,
+            2.45
+          ]
+        },
+        {
+          "query_pitch": 70,
+          "history_pitch": 70,
+          "query_row_ids": [
+            125,
+            126,
+            127,
+            128,
+            129
+          ],
+          "history_row_ids": [
+            25,
+            26,
+            27,
+            28,
+            29
+          ],
+          "query_interval": [
+            12.55,
+            12.950000000000001
+          ],
+          "history_interval": [
+            2.55,
+            2.95
+          ]
+        }
+      ],
+      "history_support": [
+        0.05,
+        10.950000000000001
+      ],
+      "verified_query_rows": [
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129
+      ],
+      "verified_history_rows": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "query_rows_verified": 20,
+      "query_rows_skipped": 0,
+      "query_runs_verified": 4,
+      "query_runs_skipped": 0,
+      "history_rows_verified": 18,
+      "contradictions": 0,
+      "continuous_exact_support_verified": false,
+      "evidence_score": 1.0,
+      "occurrence_key": [
+        0,
+        2,
+        5,
+        0
+      ],
+      "history_component": 0,
+      "history_run_range": [
+        2,
+        5
+      ]
+    },
+    {
+      "start": 5.079230769230769,
+      "end": 6.9207692307692295,
+      "center": 5.999999999999999,
+      "shift": 0,
+      "scale": 1.031746031746032,
+      "stretch": 1.031746031746032,
+      "scale_range": [
+        0.9047619047619053,
+        1.2222222222222205
+      ],
+      "offset": 5.809523809523809,
+      "offset_range": [
+        4.666666666666678,
+        6.571428571428569
+      ],
+      "start_range": [
+        4.95,
+        5.222727272727272
+      ],
+      "end_range": [
+        6.777272727272728,
+        7.049999999999999
+      ],
+      "parameter_uncertain": true,
+      "feasible_polygon": [
+        [
+          1.0000000000000018,
+          6.099999999999991
+        ],
+        [
+          0.9047619047619053,
+          6.571428571428569
+        ],
+        [
+          1.0000000000000002,
+          5.9
+        ],
+        [
+          1.2222222222222205,
+          4.666666666666678
+        ]
+      ],
+      "polygon_coordinate_order": [
+        "scale",
+        "global_offset"
+      ],
+      "polygon_is_closure": true,
+      "constraints": [
+        {
+          "scale_coefficient": 0.0,
+          "offset_coefficient": 1.0,
+          "upper_bound": 0.0,
+          "strict": false,
+          "reason": "retained-support-start"
+        },
+        {
+          "scale_coefficient": -10.9,
+          "offset_coefficient": -1.0,
+          "upper_bound": -1.9000000000000004,
+          "strict": false,
+          "reason": "retained-support-end"
+        },
+        {
+          "scale_coefficient": 4.9,
+          "offset_coefficient": 1.0,
+          "upper_bound": 0.0,
+          "strict": true,
+          "reason": "first-run-coverage"
+        },
+        {
+          "scale_coefficient": -7.0,
+          "offset_coefficient": -1.0,
+          "upper_bound": -1.9000000000000004,
+          "strict": true,
+          "reason": "last-run-coverage"
+        },
+        {
+          "scale_coefficient": 5.4,
+          "offset_coefficient": 1.0,
+          "upper_bound": 0.5,
+          "strict": true,
+          "reason": "transition-0-upper"
+        },
+        {
+          "scale_coefficient": -5.5,
+          "offset_coefficient": -1.0,
+          "upper_bound": -0.40000000000000036,
+          "strict": true,
+          "reason": "transition-0-lower"
+        },
+        {
+          "scale_coefficient": 5.9,
+          "offset_coefficient": 1.0,
+          "upper_bound": 1.0,
+          "strict": true,
+          "reason": "transition-1-upper"
+        },
+        {
+          "scale_coefficient": -6.0,
+          "offset_coefficient": -1.0,
+          "upper_bound": -0.9000000000000004,
+          "strict": true,
+          "reason": "transition-1-lower"
+        },
+        {
+          "scale_coefficient": 6.4,
+          "offset_coefficient": 1.0,
+          "upper_bound": 1.5,
+          "strict": true,
+          "reason": "transition-2-upper"
+        },
+        {
+          "scale_coefficient": -6.5,
+          "offset_coefficient": -1.0,
+          "upper_bound": -1.4000000000000004,
+          "strict": true,
+          "reason": "transition-2-lower"
+        }
+      ],
+      "constraint_coordinate_origins": {
+        "query": 11.05,
+        "history": 0.05
+      },
+      "local_representative": [
+        1.031746031746032,
+        -5.18888888888889
+      ],
+      "boundary_witnesses": [
+        {
+          "query_boundary": 11.492857142857144,
+          "history_boundary": 5.508461538461538,
+          "query_bracket": [
+            11.450000000000001,
+            11.55,
+            true
+          ],
+          "history_bracket": [
+            5.45,
+            5.55,
+            true
+          ]
+        },
+        {
+          "query_boundary": 12.0,
+          "history_boundary": 5.999999999999998,
+          "query_bracket": [
+            11.950000000000001,
+            12.05,
+            true
+          ],
+          "history_bracket": [
+            5.95,
+            6.05,
+            true
+          ]
+        },
+        {
+          "query_boundary": 12.507142857142858,
+          "history_boundary": 6.49153846153846,
+          "query_bracket": [
+            12.450000000000001,
+            12.55,
+            true
+          ],
+          "history_bracket": [
+            6.45,
+            6.55,
+            true
+          ]
+        }
+      ],
+      "correspondence": [
+        {
+          "query_pitch": 34,
+          "history_pitch": 34,
+          "query_row_ids": [
+            110,
+            111,
+            112,
+            113,
+            114
+          ],
+          "history_row_ids": [
+            50,
+            51,
+            52,
+            53,
+            54
+          ],
+          "query_interval": [
+            11.05,
+            11.450000000000001
+          ],
+          "history_interval": [
+            5.05,
+            5.45
+          ]
+        },
+        {
+          "query_pitch": 46,
+          "history_pitch": 46,
+          "query_row_ids": [
+            115,
+            116,
+            117,
+            118,
+            119
+          ],
+          "history_row_ids": [
+            55,
+            56,
+            57,
+            58,
+            59
+          ],
+          "query_interval": [
+            11.55,
+            11.950000000000001
+          ],
+          "history_interval": [
+            5.55,
+            5.95
+          ]
+        },
+        {
+          "query_pitch": 58,
+          "history_pitch": 58,
+          "query_row_ids": [
+            120,
+            121,
+            122,
+            123,
+            124
+          ],
+          "history_row_ids": [
+            60,
+            61,
+            62,
+            63,
+            64
+          ],
+          "query_interval": [
+            12.05,
+            12.450000000000001
+          ],
+          "history_interval": [
+            6.05,
+            6.45
+          ]
+        },
+        {
+          "query_pitch": 70,
+          "history_pitch": 70,
+          "query_row_ids": [
+            125,
+            126,
+            127,
+            128,
+            129
+          ],
+          "history_row_ids": [
+            65,
+            66,
+            67,
+            68,
+            69
+          ],
+          "query_interval": [
+            12.55,
+            12.950000000000001
+          ],
+          "history_interval": [
+            6.55,
+            6.95
+          ]
+        }
+      ],
+      "history_support": [
+        0.05,
+        10.950000000000001
+      ],
+      "verified_query_rows": [
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129
+      ],
+      "verified_history_rows": [
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68
+      ],
+      "query_rows_verified": 20,
+      "query_rows_skipped": 0,
+      "query_runs_verified": 4,
+      "query_runs_skipped": 0,
+      "history_rows_verified": 18,
+      "contradictions": 0,
+      "continuous_exact_support_verified": false,
+      "evidence_score": 1.0,
+      "occurrence_key": [
+        0,
+        9,
+        12,
+        0
+      ],
+      "history_component": 0,
+      "history_run_range": [
+        9,
+        12
+      ]
+    }
+  ],
+  "distance": null,
+  "reason": "ambiguous distinct full-consistent occurrences",
+  "candidate_count": 2,
+  "query_rows_skipped": 0,
+  "contradictions": 0,
+  "parameter_uncertain": null,
+  "transform_convention": "query_time=scale*history_time+offset;query_pitch=history_pitch+shift",
+  "query_row_ids": [
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129
+  ],
+  "query_rows_available": 20,
+  "query_support": [
+    11.05,
+    12.950000000000001
+  ],
+  "query_display_bin_support": [
+    11.0,
+    13.000000000000002
+  ],
+  "history_row_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109
+  ],
+  "history_rows_available": 110,
+  "query_run_count": 4,
+  "query_pitch_runs": [
+    34,
+    46,
+    58,
+    70
+  ],
+  "history_component_supports": [
+    [
+      0.05,
+      10.950000000000001
+    ]
+  ],
+  "search": {
+    "run_windows_with_shifts": 143,
+    "pitch_consistent_windows": 2,
+    "feasible_windows": 2,
+    "all_windows_enumerated": true
+  },
+  "mode": "full",
+  "compute_seconds": 0.0008113330695778131,
+  "prediction_finished_monotonic": 626543.002572166,
+  "simulation_observations_available_at": 14,
+  "simulation_compute_only_finish": 14.000811333069578,
+  "predictor_accessible_state_bytes": 310966,
+  "retained_peak_bytes": 162170,
+  "scratch_state_bytes": 148830,
+  "peak_rss_bytes": 33996800,
+  "kept_units": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "removed_units": [],
+  "persistent_replacements": 0,
+  "retained_observation_sha256": "42b9be30a95347dea0fb3bc141cfe56aca5939967392628e333fab38bbcd747f",
+  "retained_timestamps_sha256": "aa1092c3e18ef85e0bc7e090bc25c6532018db307edbcd54975824d86124ff91",
+  "parent_response_received_monotonic": 626543.002844958,
+  "parent_prediction_request_monotonic": 626543.001686666,
+  "actual_output_availability_upper_bound": 626543.002844958,
+  "readout_roundtrip_seconds": 0.0011582919396460056,
+  "simulated_output_availability_upper_bound": 14.001158291939646
+}

@@ -1,0 +1,5751 @@
+{
+  "all288_readouts_checked": true,
+  "panel_recent_observation_eviction_checks": 264,
+  "diagnostic_eviction_checks": 24,
+  "persistent_replacements": 0,
+  "raw_audio_processed": false,
+  "rows": [
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--unchanged",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--unchanged",
+      "method": "D",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--unchanged",
+      "method": "D",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--unchanged",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--unchanged",
+      "method": "G",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--unchanged",
+      "method": "G",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--unchanged",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--unchanged",
+      "method": "G-exact",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--unchanged",
+      "method": "G-exact",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--transpose",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--transpose",
+      "method": "D",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--transpose",
+      "method": "D",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--transpose",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--transpose",
+      "method": "G",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--transpose",
+      "method": "G",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--transpose",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--transpose",
+      "method": "G-exact",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--transpose",
+      "method": "G-exact",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--stretch",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        35,
+        36,
+        37,
+        38
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--stretch",
+      "method": "D",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        35,
+        36,
+        37,
+        38
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--stretch",
+      "method": "D",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        35,
+        36,
+        37,
+        38
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--stretch",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        35,
+        36,
+        37,
+        38
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--stretch",
+      "method": "G",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        35,
+        36,
+        37,
+        38
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--stretch",
+      "method": "G",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        35,
+        36,
+        37,
+        38
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--stretch",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        35,
+        36,
+        37,
+        38
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--stretch",
+      "method": "G-exact",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        35,
+        36,
+        37,
+        38
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--stretch",
+      "method": "G-exact",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        35,
+        36,
+        37,
+        38
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--inventory_foil",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--inventory_foil",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--inventory_foil",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--near_foil",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--near_foil",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--near_foil",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--unchanged",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--unchanged",
+      "method": "D",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--unchanged",
+      "method": "D",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--unchanged",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--unchanged",
+      "method": "G",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--unchanged",
+      "method": "G",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--unchanged",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--unchanged",
+      "method": "G-exact",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--unchanged",
+      "method": "G-exact",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--transpose",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--transpose",
+      "method": "D",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--transpose",
+      "method": "D",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--transpose",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--transpose",
+      "method": "G",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--transpose",
+      "method": "G",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--transpose",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--transpose",
+      "method": "G-exact",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--transpose",
+      "method": "G-exact",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--stretch",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--stretch",
+      "method": "D",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--stretch",
+      "method": "D",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--stretch",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--stretch",
+      "method": "G",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--stretch",
+      "method": "G",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--stretch",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--stretch",
+      "method": "G-exact",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--stretch",
+      "method": "G-exact",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--inventory_foil",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--inventory_foil",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--inventory_foil",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--near_foil",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--near_foil",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--near_foil",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--unchanged",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--unchanged",
+      "method": "D",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--unchanged",
+      "method": "D",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--unchanged",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--unchanged",
+      "method": "G",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--unchanged",
+      "method": "G",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--unchanged",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--unchanged",
+      "method": "G-exact",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--unchanged",
+      "method": "G-exact",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--transpose",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--transpose",
+      "method": "D",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--transpose",
+      "method": "D",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--transpose",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--transpose",
+      "method": "G",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--transpose",
+      "method": "G",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--transpose",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--transpose",
+      "method": "G-exact",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--transpose",
+      "method": "G-exact",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--stretch",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--stretch",
+      "method": "D",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--stretch",
+      "method": "D",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--stretch",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--stretch",
+      "method": "G",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--stretch",
+      "method": "G",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--stretch",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--stretch",
+      "method": "G-exact",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--stretch",
+      "method": "G-exact",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--inventory_foil",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--inventory_foil",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--inventory_foil",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--near_foil",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--near_foil",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--near_foil",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--unchanged",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--unchanged",
+      "method": "D",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--unchanged",
+      "method": "D",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--unchanged",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--unchanged",
+      "method": "G",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--unchanged",
+      "method": "G",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--unchanged",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--unchanged",
+      "method": "G-exact",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--unchanged",
+      "method": "G-exact",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--transpose",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--transpose",
+      "method": "D",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--transpose",
+      "method": "D",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--transpose",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--transpose",
+      "method": "G",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--transpose",
+      "method": "G",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--transpose",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--transpose",
+      "method": "G-exact",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--transpose",
+      "method": "G-exact",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--stretch",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--stretch",
+      "method": "D",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--stretch",
+      "method": "D",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--stretch",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--stretch",
+      "method": "G",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--stretch",
+      "method": "G",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--stretch",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--stretch",
+      "method": "G-exact",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--stretch",
+      "method": "G-exact",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--inventory_foil",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--inventory_foil",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--inventory_foil",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--near_foil",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--near_foil",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--near_foil",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--unchanged",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--unchanged",
+      "method": "D",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--unchanged",
+      "method": "D",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--unchanged",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--unchanged",
+      "method": "G",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--unchanged",
+      "method": "G",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--unchanged",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--unchanged",
+      "method": "G-exact",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--unchanged",
+      "method": "G-exact",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--transpose",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--transpose",
+      "method": "D",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--transpose",
+      "method": "D",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--transpose",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--transpose",
+      "method": "G",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--transpose",
+      "method": "G",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--transpose",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--transpose",
+      "method": "G-exact",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--transpose",
+      "method": "G-exact",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--stretch",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        35,
+        36,
+        37,
+        38
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--stretch",
+      "method": "D",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        35,
+        36,
+        37,
+        38
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--stretch",
+      "method": "D",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        35,
+        36,
+        37,
+        38
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--stretch",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        35,
+        36,
+        37,
+        38
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--stretch",
+      "method": "G",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        35,
+        36,
+        37,
+        38
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--stretch",
+      "method": "G",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        35,
+        36,
+        37,
+        38
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--stretch",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        35,
+        36,
+        37,
+        38
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--stretch",
+      "method": "G-exact",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        35,
+        36,
+        37,
+        38
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--stretch",
+      "method": "G-exact",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        35,
+        36,
+        37,
+        38
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--inventory_foil",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--inventory_foil",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--inventory_foil",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--near_foil",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--near_foil",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--near_foil",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--unchanged",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--unchanged",
+      "method": "D",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--unchanged",
+      "method": "D",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--unchanged",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--unchanged",
+      "method": "G",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--unchanged",
+      "method": "G",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--unchanged",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--unchanged",
+      "method": "G-exact",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--unchanged",
+      "method": "G-exact",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--transpose",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--transpose",
+      "method": "D",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--transpose",
+      "method": "D",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--transpose",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--transpose",
+      "method": "G",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--transpose",
+      "method": "G",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--transpose",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--transpose",
+      "method": "G-exact",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--transpose",
+      "method": "G-exact",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--stretch",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--stretch",
+      "method": "D",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--stretch",
+      "method": "D",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--stretch",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--stretch",
+      "method": "G",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--stretch",
+      "method": "G",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--stretch",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--stretch",
+      "method": "G-exact",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--stretch",
+      "method": "G-exact",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--inventory_foil",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--inventory_foil",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--inventory_foil",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--near_foil",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--near_foil",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--near_foil",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--unchanged",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--unchanged",
+      "method": "D",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--unchanged",
+      "method": "D",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--unchanged",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--unchanged",
+      "method": "G",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--unchanged",
+      "method": "G",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--unchanged",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--unchanged",
+      "method": "G-exact",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--unchanged",
+      "method": "G-exact",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--transpose",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--transpose",
+      "method": "D",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--transpose",
+      "method": "D",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--transpose",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--transpose",
+      "method": "G",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--transpose",
+      "method": "G",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--transpose",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--transpose",
+      "method": "G-exact",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--transpose",
+      "method": "G-exact",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--stretch",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--stretch",
+      "method": "D",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--stretch",
+      "method": "D",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--stretch",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--stretch",
+      "method": "G",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--stretch",
+      "method": "G",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--stretch",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--stretch",
+      "method": "G-exact",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--stretch",
+      "method": "G-exact",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--inventory_foil",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--inventory_foil",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--inventory_foil",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--near_foil",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--near_foil",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--near_foil",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--unchanged",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--unchanged",
+      "method": "D",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--unchanged",
+      "method": "D",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--unchanged",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--unchanged",
+      "method": "G",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--unchanged",
+      "method": "G",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--unchanged",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--unchanged",
+      "method": "G-exact",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--unchanged",
+      "method": "G-exact",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--transpose",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--transpose",
+      "method": "D",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--transpose",
+      "method": "D",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--transpose",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--transpose",
+      "method": "G",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--transpose",
+      "method": "G",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--transpose",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--transpose",
+      "method": "G-exact",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--transpose",
+      "method": "G-exact",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--stretch",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--stretch",
+      "method": "D",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--stretch",
+      "method": "D",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--stretch",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--stretch",
+      "method": "G",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--stretch",
+      "method": "G",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--stretch",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--stretch",
+      "method": "G-exact",
+      "mode": "recent",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--stretch",
+      "method": "G-exact",
+      "mode": "removed",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--inventory_foil",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--inventory_foil",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--inventory_foil",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--near_foil",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--near_foil",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--near_foil",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "final_recent_units": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "skip-middle",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        0,
+        1,
+        2
+      ],
+      "final_recent_units": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "skip-middle",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        0,
+        1,
+        2
+      ],
+      "final_recent_units": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "skip-middle",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        0,
+        1,
+        2
+      ],
+      "final_recent_units": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "skip-late",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        0,
+        1,
+        2
+      ],
+      "final_recent_units": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "skip-late",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        0,
+        1,
+        2
+      ],
+      "final_recent_units": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "skip-late",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        0,
+        1,
+        2
+      ],
+      "final_recent_units": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "skip-silence",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        0,
+        1,
+        2
+      ],
+      "final_recent_units": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "skip-silence",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        0,
+        1,
+        2
+      ],
+      "final_recent_units": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "skip-silence",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        0,
+        1,
+        2
+      ],
+      "final_recent_units": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "skip-double",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        0,
+        1,
+        2
+      ],
+      "final_recent_units": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "skip-double",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        0,
+        1,
+        2
+      ],
+      "final_recent_units": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "skip-double",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        0,
+        1,
+        2
+      ],
+      "final_recent_units": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "collision-world-a",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        0,
+        1,
+        2
+      ],
+      "final_recent_units": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "collision-world-a",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        0,
+        1,
+        2
+      ],
+      "final_recent_units": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "collision-world-a",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        0,
+        1,
+        2
+      ],
+      "final_recent_units": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "collision-world-b",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        4,
+        5,
+        6
+      ],
+      "final_recent_units": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "collision-world-b",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        4,
+        5,
+        6
+      ],
+      "final_recent_units": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "collision-world-b",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        4,
+        5,
+        6
+      ],
+      "final_recent_units": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "collision-transposed",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        0,
+        1,
+        2
+      ],
+      "final_recent_units": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "collision-transposed",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        0,
+        1,
+        2
+      ],
+      "final_recent_units": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "collision-transposed",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        0,
+        1,
+        2
+      ],
+      "final_recent_units": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "collision-constant",
+      "method": "D",
+      "mode": "full",
+      "source_units": [
+        0,
+        1,
+        2
+      ],
+      "final_recent_units": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "collision-constant",
+      "method": "G",
+      "mode": "full",
+      "source_units": [
+        0,
+        1,
+        2
+      ],
+      "final_recent_units": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "collision-constant",
+      "method": "G-exact",
+      "mode": "full",
+      "source_units": [
+        0,
+        1,
+        2
+      ],
+      "final_recent_units": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "source_absent_from_recent_observations": true,
+      "persistent_replacements": 0
+    }
+  ],
+  "max_predictor_accessible_state_bytes": 520631,
+  "max_retained_peak_bytes": 293952,
+  "max_peak_rss_bytes": 36651008,
+  "max_readout_roundtrip_seconds": 0.008334083016961813,
+  "summed_predictor_compute_seconds": 0.8548160141799599,
+  "scope": "Clean observed-row eviction; no measured audio latency or raw-audio-eviction claim."
+}

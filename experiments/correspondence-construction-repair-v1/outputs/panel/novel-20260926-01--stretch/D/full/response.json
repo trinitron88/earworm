@@ -1,0 +1,448 @@
+{
+  "accepted": true,
+  "selected": {
+    "start": 1.7000000000000002,
+    "end": 4.0,
+    "shift": 0,
+    "stretch": 0.8695652173913042,
+    "path": [
+      [
+        365,
+        17
+      ],
+      [
+        366,
+        18
+      ],
+      [
+        367,
+        19
+      ],
+      [
+        368,
+        20
+      ],
+      [
+        369,
+        22
+      ],
+      [
+        370,
+        23
+      ],
+      [
+        371,
+        24
+      ],
+      [
+        372,
+        25
+      ],
+      [
+        373,
+        27
+      ],
+      [
+        374,
+        28
+      ],
+      [
+        375,
+        29
+      ],
+      [
+        376,
+        31
+      ],
+      [
+        377,
+        33
+      ],
+      [
+        378,
+        34
+      ],
+      [
+        379,
+        35
+      ],
+      [
+        380,
+        36
+      ],
+      [
+        381,
+        37
+      ],
+      [
+        382,
+        38
+      ],
+      [
+        384,
+        39
+      ]
+    ],
+    "center": 2.85,
+    "scale": 0.8695652173913042,
+    "scale_range": null,
+    "shift_range": [
+      0,
+      0
+    ]
+  },
+  "candidate_best": {
+    "start": 1.7000000000000002,
+    "end": 4.0,
+    "shift": 0,
+    "stretch": 0.8695652173913042,
+    "path": [
+      [
+        365,
+        17
+      ],
+      [
+        366,
+        18
+      ],
+      [
+        367,
+        19
+      ],
+      [
+        368,
+        20
+      ],
+      [
+        369,
+        22
+      ],
+      [
+        370,
+        23
+      ],
+      [
+        371,
+        24
+      ],
+      [
+        372,
+        25
+      ],
+      [
+        373,
+        27
+      ],
+      [
+        374,
+        28
+      ],
+      [
+        375,
+        29
+      ],
+      [
+        376,
+        31
+      ],
+      [
+        377,
+        33
+      ],
+      [
+        378,
+        34
+      ],
+      [
+        379,
+        35
+      ],
+      [
+        380,
+        36
+      ],
+      [
+        381,
+        37
+      ],
+      [
+        382,
+        38
+      ],
+      [
+        384,
+        39
+      ]
+    ],
+    "center": 2.85,
+    "scale": 0.8695652173913042,
+    "scale_range": null,
+    "shift_range": [
+      0,
+      0
+    ]
+  },
+  "candidates": [
+    {
+      "start": 1.7000000000000002,
+      "end": 4.0,
+      "shift": 0,
+      "stretch": 0.8695652173913042,
+      "path": [
+        [
+          365,
+          17
+        ],
+        [
+          366,
+          18
+        ],
+        [
+          367,
+          19
+        ],
+        [
+          368,
+          20
+        ],
+        [
+          369,
+          22
+        ],
+        [
+          370,
+          23
+        ],
+        [
+          371,
+          24
+        ],
+        [
+          372,
+          25
+        ],
+        [
+          373,
+          27
+        ],
+        [
+          374,
+          28
+        ],
+        [
+          375,
+          29
+        ],
+        [
+          376,
+          31
+        ],
+        [
+          377,
+          33
+        ],
+        [
+          378,
+          34
+        ],
+        [
+          379,
+          35
+        ],
+        [
+          380,
+          36
+        ],
+        [
+          381,
+          37
+        ],
+        [
+          382,
+          38
+        ],
+        [
+          384,
+          39
+        ]
+      ],
+      "center": 2.85,
+      "scale": 0.8695652173913042,
+      "scale_range": null,
+      "shift_range": [
+        0,
+        0
+      ]
+    }
+  ],
+  "reason": "historical_zero_distance_acceptance",
+  "query_support": [
+    36.5,
+    38.5
+  ],
+  "raw_historical": {
+    "distance": 0.0,
+    "hypothesis": {
+      "start": 1.7000000000000002,
+      "end": 4.0,
+      "shift": 0,
+      "stretch": 0.8695652173913042,
+      "path": [
+        [
+          365,
+          17
+        ],
+        [
+          366,
+          18
+        ],
+        [
+          367,
+          19
+        ],
+        [
+          368,
+          20
+        ],
+        [
+          369,
+          22
+        ],
+        [
+          370,
+          23
+        ],
+        [
+          371,
+          24
+        ],
+        [
+          372,
+          25
+        ],
+        [
+          373,
+          27
+        ],
+        [
+          374,
+          28
+        ],
+        [
+          375,
+          29
+        ],
+        [
+          376,
+          31
+        ],
+        [
+          377,
+          33
+        ],
+        [
+          378,
+          34
+        ],
+        [
+          379,
+          35
+        ],
+        [
+          380,
+          36
+        ],
+        [
+          381,
+          37
+        ],
+        [
+          382,
+          38
+        ],
+        [
+          384,
+          39
+        ]
+      ]
+    },
+    "query_support": [
+      36.5,
+      38.5
+    ],
+    "query_context_support": [
+      36,
+      39
+    ],
+    "history_context_support": [
+      1,
+      4
+    ]
+  },
+  "coverage": {
+    "query_rows": 20,
+    "charged_query_rows": 19,
+    "skipped_query_rows": 1,
+    "full_consistency_verified": false
+  },
+  "method": "D",
+  "mode": "full",
+  "compute_seconds": 0.003951417049393058,
+  "prediction_finished_monotonic": 626517.0902515,
+  "simulation_observations_available_at": 39,
+  "simulation_compute_only_finish": 39.00395141704939,
+  "predictor_accessible_state_bytes": 466618,
+  "retained_peak_bytes": 251942,
+  "scratch_state_bytes": 214710,
+  "peak_rss_bytes": 36388864,
+  "kept_units": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38
+  ],
+  "removed_units": [],
+  "persistent_replacements": 0,
+  "retained_observation_sha256": "c91946c14c1a050d974d0a8eeeba276996405da8df4eac56006c31a5104b0028",
+  "retained_timestamps_sha256": "c14688a694028117090dba04eb05777d0d64dc08adfdff3623aacac07418605d",
+  "parent_response_received_monotonic": 626517.090401791,
+  "parent_prediction_request_monotonic": 626517.086164833,
+  "actual_output_availability_upper_bound": 626517.090401791,
+  "readout_roundtrip_seconds": 0.004236957989633083,
+  "simulated_output_availability_upper_bound": 39.00423695798963
+}

@@ -1,0 +1,407 @@
+{
+  "accepted": true,
+  "selected": {
+    "start": 1.0,
+    "end": 2.8,
+    "shift": 0,
+    "stretch": 1.1111111111111112,
+    "path": [
+      [
+        110,
+        10
+      ],
+      [
+        111,
+        11
+      ],
+      [
+        112,
+        12
+      ],
+      [
+        113,
+        13
+      ],
+      [
+        114,
+        14
+      ],
+      [
+        115,
+        15
+      ],
+      [
+        116,
+        16
+      ],
+      [
+        117,
+        17
+      ],
+      [
+        118,
+        18
+      ],
+      [
+        119,
+        19
+      ],
+      [
+        120,
+        20
+      ],
+      [
+        121,
+        21
+      ],
+      [
+        122,
+        22
+      ],
+      [
+        123,
+        23
+      ],
+      [
+        124,
+        24
+      ],
+      [
+        126,
+        25
+      ],
+      [
+        128,
+        26
+      ],
+      [
+        129,
+        27
+      ]
+    ],
+    "center": 1.9,
+    "scale": 1.1111111111111112,
+    "scale_range": null,
+    "shift_range": [
+      0,
+      0
+    ]
+  },
+  "candidate_best": {
+    "start": 1.0,
+    "end": 2.8,
+    "shift": 0,
+    "stretch": 1.1111111111111112,
+    "path": [
+      [
+        110,
+        10
+      ],
+      [
+        111,
+        11
+      ],
+      [
+        112,
+        12
+      ],
+      [
+        113,
+        13
+      ],
+      [
+        114,
+        14
+      ],
+      [
+        115,
+        15
+      ],
+      [
+        116,
+        16
+      ],
+      [
+        117,
+        17
+      ],
+      [
+        118,
+        18
+      ],
+      [
+        119,
+        19
+      ],
+      [
+        120,
+        20
+      ],
+      [
+        121,
+        21
+      ],
+      [
+        122,
+        22
+      ],
+      [
+        123,
+        23
+      ],
+      [
+        124,
+        24
+      ],
+      [
+        126,
+        25
+      ],
+      [
+        128,
+        26
+      ],
+      [
+        129,
+        27
+      ]
+    ],
+    "center": 1.9,
+    "scale": 1.1111111111111112,
+    "scale_range": null,
+    "shift_range": [
+      0,
+      0
+    ]
+  },
+  "candidates": [
+    {
+      "start": 1.0,
+      "end": 2.8,
+      "shift": 0,
+      "stretch": 1.1111111111111112,
+      "path": [
+        [
+          110,
+          10
+        ],
+        [
+          111,
+          11
+        ],
+        [
+          112,
+          12
+        ],
+        [
+          113,
+          13
+        ],
+        [
+          114,
+          14
+        ],
+        [
+          115,
+          15
+        ],
+        [
+          116,
+          16
+        ],
+        [
+          117,
+          17
+        ],
+        [
+          118,
+          18
+        ],
+        [
+          119,
+          19
+        ],
+        [
+          120,
+          20
+        ],
+        [
+          121,
+          21
+        ],
+        [
+          122,
+          22
+        ],
+        [
+          123,
+          23
+        ],
+        [
+          124,
+          24
+        ],
+        [
+          126,
+          25
+        ],
+        [
+          128,
+          26
+        ],
+        [
+          129,
+          27
+        ]
+      ],
+      "center": 1.9,
+      "scale": 1.1111111111111112,
+      "scale_range": null,
+      "shift_range": [
+        0,
+        0
+      ]
+    }
+  ],
+  "reason": "historical_zero_distance_acceptance",
+  "query_support": [
+    11.0,
+    13.000000000000002
+  ],
+  "raw_historical": {
+    "distance": 0.0,
+    "hypothesis": {
+      "start": 1.0,
+      "end": 2.8,
+      "shift": 0,
+      "stretch": 1.1111111111111112,
+      "path": [
+        [
+          110,
+          10
+        ],
+        [
+          111,
+          11
+        ],
+        [
+          112,
+          12
+        ],
+        [
+          113,
+          13
+        ],
+        [
+          114,
+          14
+        ],
+        [
+          115,
+          15
+        ],
+        [
+          116,
+          16
+        ],
+        [
+          117,
+          17
+        ],
+        [
+          118,
+          18
+        ],
+        [
+          119,
+          19
+        ],
+        [
+          120,
+          20
+        ],
+        [
+          121,
+          21
+        ],
+        [
+          122,
+          22
+        ],
+        [
+          123,
+          23
+        ],
+        [
+          124,
+          24
+        ],
+        [
+          126,
+          25
+        ],
+        [
+          128,
+          26
+        ],
+        [
+          129,
+          27
+        ]
+      ]
+    },
+    "query_support": [
+      11.0,
+      13.000000000000002
+    ],
+    "query_context_support": [
+      11,
+      13
+    ],
+    "history_context_support": [
+      1,
+      3
+    ]
+  },
+  "coverage": {
+    "query_rows": 20,
+    "charged_query_rows": 18,
+    "skipped_query_rows": 2,
+    "full_consistency_verified": false
+  },
+  "method": "D",
+  "mode": "full",
+  "compute_seconds": 0.002099832985550165,
+  "prediction_finished_monotonic": 626543.189253416,
+  "simulation_observations_available_at": 14,
+  "simulation_compute_only_finish": 14.00209983298555,
+  "predictor_accessible_state_bytes": 310966,
+  "retained_peak_bytes": 162170,
+  "scratch_state_bytes": 148830,
+  "peak_rss_bytes": 34799616,
+  "kept_units": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "removed_units": [],
+  "persistent_replacements": 0,
+  "retained_observation_sha256": "42b9be30a95347dea0fb3bc141cfe56aca5939967392628e333fab38bbcd747f",
+  "retained_timestamps_sha256": "aa1092c3e18ef85e0bc7e090bc25c6532018db307edbcd54975824d86124ff91",
+  "parent_response_received_monotonic": 626543.189378291,
+  "parent_prediction_request_monotonic": 626543.187083833,
+  "actual_output_availability_upper_bound": 626543.189378291,
+  "readout_roundtrip_seconds": 0.002294457983225584,
+  "simulated_output_availability_upper_bound": 14.002294457983226
+}

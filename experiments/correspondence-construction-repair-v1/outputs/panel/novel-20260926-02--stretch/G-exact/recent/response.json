@@ -1,0 +1,104 @@
+{
+  "method": "G-exact",
+  "accepted": false,
+  "selected": null,
+  "hypothesis": null,
+  "candidates": [],
+  "distance": null,
+  "reason": "no full-consistent occurrence",
+  "candidate_count": 0,
+  "query_rows_skipped": 0,
+  "contradictions": 0,
+  "parameter_uncertain": null,
+  "transform_convention": "query_time=scale*history_time+offset;query_pitch=history_pitch+shift",
+  "query_row_ids": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+  ],
+  "query_rows_available": 20,
+  "query_support": [
+    38.05,
+    39.95
+  ],
+  "query_display_bin_support": [
+    38.0,
+    40.0
+  ],
+  "history_row_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "history_rows_available": 10,
+  "query_run_count": 7,
+  "query_pitch_runs": [
+    68,
+    66,
+    72,
+    66,
+    70,
+    72,
+    77
+  ],
+  "history_component_supports": [
+    [
+      37.05,
+      37.949999999999996
+    ]
+  ],
+  "search": {
+    "run_windows_with_shifts": 0,
+    "pitch_consistent_windows": 0,
+    "feasible_windows": 0,
+    "all_windows_enumerated": true
+  },
+  "mode": "recent",
+  "compute_seconds": 0.0002744590165093541,
+  "prediction_finished_monotonic": 626520.567520375,
+  "simulation_observations_available_at": 41,
+  "simulation_compute_only_finish": 41.00027445901651,
+  "predictor_accessible_state_bytes": 53159,
+  "retained_peak_bytes": 293952,
+  "scratch_state_bytes": 23731,
+  "peak_rss_bytes": 33980416,
+  "kept_units": [
+    37,
+    38,
+    39,
+    40
+  ],
+  "removed_units": [],
+  "persistent_replacements": 0,
+  "retained_observation_sha256": "5481018bf859b9ebcf0f1ef4c84960c37ecebc097f4c35fa825e7e3bdc92db70",
+  "retained_timestamps_sha256": "47dd162a0214e9901026e314a08c220d3f2578df2a80a6cbe322f677ec27d81f",
+  "parent_response_received_monotonic": 626520.567617291,
+  "parent_prediction_request_monotonic": 626520.567157375,
+  "actual_output_availability_upper_bound": 626520.567617291,
+  "readout_roundtrip_seconds": 0.00045991595834493637,
+  "simulated_output_availability_upper_bound": 41.000459915958345
+}

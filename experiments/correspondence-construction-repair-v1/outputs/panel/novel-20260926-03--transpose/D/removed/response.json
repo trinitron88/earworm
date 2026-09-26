@@ -1,0 +1,312 @@
+{
+  "accepted": false,
+  "selected": null,
+  "candidate_best": {
+    "start": 6.2,
+    "end": 8.100000000000001,
+    "shift": 2,
+    "stretch": 1.052631578947368,
+    "path": [
+      [
+        335,
+        22
+      ],
+      [
+        336,
+        23
+      ],
+      [
+        337,
+        24
+      ],
+      [
+        338,
+        26
+      ],
+      [
+        339,
+        27
+      ],
+      [
+        340,
+        29
+      ],
+      [
+        341,
+        31
+      ],
+      [
+        343,
+        32
+      ],
+      [
+        344,
+        33
+      ],
+      [
+        345,
+        35
+      ],
+      [
+        346,
+        36
+      ],
+      [
+        348,
+        37
+      ],
+      [
+        350,
+        38
+      ],
+      [
+        352,
+        39
+      ],
+      [
+        354,
+        40
+      ]
+    ],
+    "center": 7.15,
+    "scale": 1.052631578947368,
+    "scale_range": null,
+    "shift_range": [
+      2,
+      2
+    ]
+  },
+  "candidates": [
+    {
+      "start": 6.2,
+      "end": 8.100000000000001,
+      "shift": 2,
+      "stretch": 1.052631578947368,
+      "path": [
+        [
+          335,
+          22
+        ],
+        [
+          336,
+          23
+        ],
+        [
+          337,
+          24
+        ],
+        [
+          338,
+          26
+        ],
+        [
+          339,
+          27
+        ],
+        [
+          340,
+          29
+        ],
+        [
+          341,
+          31
+        ],
+        [
+          343,
+          32
+        ],
+        [
+          344,
+          33
+        ],
+        [
+          345,
+          35
+        ],
+        [
+          346,
+          36
+        ],
+        [
+          348,
+          37
+        ],
+        [
+          350,
+          38
+        ],
+        [
+          352,
+          39
+        ],
+        [
+          354,
+          40
+        ]
+      ],
+      "center": 7.15,
+      "scale": 1.052631578947368,
+      "scale_range": null,
+      "shift_range": [
+        2,
+        2
+      ]
+    }
+  ],
+  "reason": "historical_rejection",
+  "query_support": [
+    37.5,
+    39.5
+  ],
+  "raw_historical": {
+    "distance": 0.15,
+    "hypothesis": {
+      "start": 6.2,
+      "end": 8.100000000000001,
+      "shift": 2,
+      "stretch": 1.052631578947368,
+      "path": [
+        [
+          335,
+          22
+        ],
+        [
+          336,
+          23
+        ],
+        [
+          337,
+          24
+        ],
+        [
+          338,
+          26
+        ],
+        [
+          339,
+          27
+        ],
+        [
+          340,
+          29
+        ],
+        [
+          341,
+          31
+        ],
+        [
+          343,
+          32
+        ],
+        [
+          344,
+          33
+        ],
+        [
+          345,
+          35
+        ],
+        [
+          346,
+          36
+        ],
+        [
+          348,
+          37
+        ],
+        [
+          350,
+          38
+        ],
+        [
+          352,
+          39
+        ],
+        [
+          354,
+          40
+        ]
+      ]
+    },
+    "query_support": [
+      37.5,
+      39.5
+    ],
+    "query_context_support": [
+      37,
+      40
+    ],
+    "history_context_support": [
+      6,
+      9
+    ]
+  },
+  "coverage": {
+    "query_rows": 20,
+    "charged_query_rows": 15,
+    "skipped_query_rows": 5,
+    "full_consistency_verified": false
+  },
+  "method": "D",
+  "mode": "removed",
+  "compute_seconds": 0.0047669579507783055,
+  "prediction_finished_monotonic": 626522.297580541,
+  "simulation_observations_available_at": 40,
+  "simulation_compute_only_finish": 40.00476695795078,
+  "predictor_accessible_state_bytes": 430894,
+  "retained_peak_bytes": 258370,
+  "scratch_state_bytes": 198270,
+  "peak_rss_bytes": 36388864,
+  "kept_units": [
+    0,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39
+  ],
+  "removed_units": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "persistent_replacements": 0,
+  "retained_observation_sha256": "f59afebc5f5e4c348887f9a2740325e7b6fde164c655de2e12248beb567c487f",
+  "retained_timestamps_sha256": "1de17062abde39e545adec14c0e46b0f4edbeb050cdc84e0d6080d61610f5621",
+  "parent_response_received_monotonic": 626522.29771425,
+  "parent_prediction_request_monotonic": 626522.292676083,
+  "actual_output_availability_upper_bound": 626522.29771425,
+  "readout_roundtrip_seconds": 0.005038167000748217,
+  "simulated_output_availability_upper_bound": 40.00503816700075
+}

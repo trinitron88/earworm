@@ -1,0 +1,36 @@
+{
+  "source": "Independent helper read raw saved responses and evaluator labels; no candidate/generator/model execution",
+  "wall_seconds": 81,
+  "readouts_checked": 288,
+  "result_contradictions": [],
+  "D_joint": [
+    5,
+    5,
+    6
+  ],
+  "G_joint": [
+    7,
+    7,
+    5
+  ],
+  "G_exact_joint": [
+    8,
+    8,
+    8
+  ],
+  "positive_denominator_per_cell": 8,
+  "removed_accepted": {
+    "D": 12,
+    "G": 3,
+    "G-exact": 0
+  },
+  "foil_accepted": {
+    "D": 1,
+    "G": 1,
+    "G-exact": 0
+  },
+  "G_positive_abstentions": 5,
+  "G_each_abstention_retains_true_source_candidate": true,
+  "paired_world_observation_and_event_arrays_identical": true,
+  "scope": "Constructed origin certificate is not a musical-panel information-ambiguity certificate."
+}

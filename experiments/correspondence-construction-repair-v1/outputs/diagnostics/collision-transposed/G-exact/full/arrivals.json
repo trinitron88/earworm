@@ -1,0 +1,192 @@
+[
+  {
+    "unit": 0,
+    "simulated_available_at": 1,
+    "received_monotonic": 626543.623493875,
+    "recent_units": [
+      0
+    ],
+    "persistent_units": 1,
+    "persistent_bytes": 13128,
+    "observation_sha256": "3504add64937a60bf663e1f302a612b65b813d941415723341c2322ab6b67252"
+  },
+  {
+    "unit": 1,
+    "simulated_available_at": 2,
+    "received_monotonic": 626543.624084,
+    "recent_units": [
+      0,
+      1
+    ],
+    "persistent_units": 2,
+    "persistent_bytes": 25294,
+    "observation_sha256": "b32b4fc20611d96f20d2c960f2597007745bc46d463dec0fdb6e1966622486a8"
+  },
+  {
+    "unit": 2,
+    "simulated_available_at": 3,
+    "received_monotonic": 626543.624545708,
+    "recent_units": [
+      0,
+      1,
+      2
+    ],
+    "persistent_units": 3,
+    "persistent_bytes": 37460,
+    "observation_sha256": "3a0c772bcfa6cb1e98878b8e2e732c9627d4e85d4be51c822f6cd97d44519d5f"
+  },
+  {
+    "unit": 3,
+    "simulated_available_at": 4,
+    "received_monotonic": 626543.624977666,
+    "recent_units": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "persistent_units": 4,
+    "persistent_bytes": 49600,
+    "observation_sha256": "e7aa8c135bf61e6001a9274734e029da66aa4b08fc5434fafc53691a899b2d17"
+  },
+  {
+    "unit": 4,
+    "simulated_available_at": 5,
+    "received_monotonic": 626543.625375583,
+    "recent_units": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "persistent_units": 5,
+    "persistent_bytes": 61798,
+    "observation_sha256": "9bbf014d94ec0eace28c3b55a9fb43c069c79d297231c9b1ef10004b0c224314"
+  },
+  {
+    "unit": 5,
+    "simulated_available_at": 6,
+    "received_monotonic": 626543.625770708,
+    "recent_units": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "persistent_units": 6,
+    "persistent_bytes": 73964,
+    "observation_sha256": "18ccae22f4d6c1bd46aab1c09b8c9dc5f936a775033edf3c0cf8423402c510a6"
+  },
+  {
+    "unit": 6,
+    "simulated_available_at": 7,
+    "received_monotonic": 626543.626171958,
+    "recent_units": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "persistent_units": 7,
+    "persistent_bytes": 86130,
+    "observation_sha256": "367d37839a92b7422ba547d8fb54cb3d7cfc40f44037ae2956dd095fffa654de"
+  },
+  {
+    "unit": 7,
+    "simulated_available_at": 8,
+    "received_monotonic": 626543.6265545,
+    "recent_units": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "persistent_units": 8,
+    "persistent_bytes": 98270,
+    "observation_sha256": "e7aa8c135bf61e6001a9274734e029da66aa4b08fc5434fafc53691a899b2d17"
+  },
+  {
+    "unit": 8,
+    "simulated_available_at": 9,
+    "received_monotonic": 626543.626944416,
+    "recent_units": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "persistent_units": 9,
+    "persistent_bytes": 110474,
+    "observation_sha256": "e7aa8c135bf61e6001a9274734e029da66aa4b08fc5434fafc53691a899b2d17"
+  },
+  {
+    "unit": 9,
+    "simulated_available_at": 10,
+    "received_monotonic": 626543.627333458,
+    "recent_units": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "persistent_units": 10,
+    "persistent_bytes": 122614,
+    "observation_sha256": "e7aa8c135bf61e6001a9274734e029da66aa4b08fc5434fafc53691a899b2d17"
+  },
+  {
+    "unit": 10,
+    "simulated_available_at": 11,
+    "received_monotonic": 626543.627720583,
+    "recent_units": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "persistent_units": 11,
+    "persistent_bytes": 134780,
+    "observation_sha256": "3504add64937a60bf663e1f302a612b65b813d941415723341c2322ab6b67252"
+  },
+  {
+    "unit": 11,
+    "simulated_available_at": 12,
+    "received_monotonic": 626543.628118291,
+    "recent_units": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "persistent_units": 12,
+    "persistent_bytes": 146946,
+    "observation_sha256": "b32b4fc20611d96f20d2c960f2597007745bc46d463dec0fdb6e1966622486a8"
+  },
+  {
+    "unit": 12,
+    "simulated_available_at": 13,
+    "received_monotonic": 626543.628514666,
+    "recent_units": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "persistent_units": 13,
+    "persistent_bytes": 159112,
+    "observation_sha256": "3a0c772bcfa6cb1e98878b8e2e732c9627d4e85d4be51c822f6cd97d44519d5f"
+  },
+  {
+    "unit": 13,
+    "simulated_available_at": 14,
+    "received_monotonic": 626543.628915833,
+    "recent_units": [
+      10,
+      11,
+      12,
+      13
+    ],
+    "persistent_units": 14,
+    "persistent_bytes": 171226,
+    "observation_sha256": "d6cd899cc385f3eb858f256b50241a66b2ee936ba0719383b03c95325ad6701a"
+  }
+]
