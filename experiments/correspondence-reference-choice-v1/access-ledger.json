@@ -1,0 +1,17 @@
+{
+  "candidate_development_inputs": [
+    "Tiny non-musical fixtures",
+    "Existing development-only Bach source files and historical development note-signature registry"
+  ],
+  "historical_evaluation_used_for_candidate_development": false,
+  "historical_evaluation_read_for_publication_fact_check_only": [
+    "Historical REPORT.md and saved records by read-only audit to verify12/16 scale accuracy in each positive cell; no candidate changes or reruns followed"
+  ],
+  "musical_inputs_generated_once": 35,
+  "musical_inputs_entered_predictors": 0,
+  "source_labels_to_predictor": false,
+  "exact_events_to_D_or_G": false,
+  "model_operations": 0,
+  "python_guard_scope": "Installed after imports in isolated predictor; guard handshake checked by parent but not separately persisted; no dynamic access-denial test or OS sandbox claim",
+  "failure_capture_limitation": "Failed session source/history arrays and offending windows absent; no forensic regeneration"
+}

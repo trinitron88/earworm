@@ -1,0 +1,851 @@
+{
+  "candidate_readouts": 0,
+  "completed_sessions": [
+    {
+      "cell": "unchanged",
+      "decision_seconds": 40,
+      "events": 122,
+      "files": {
+        "evaluatorlabels.json": {
+          "bytes": 6198,
+          "sha256": "9f6094b264fbd1d9c06270944642fb34c2a6a9832b1ad3bbf806530e11614646"
+        },
+        "exact-events.npz": {
+          "bytes": 1602,
+          "sha256": "b5272e9c6f724e4c9bf8b28b3d39deac3aec219d4359176b34ecb79c99207f99"
+        },
+        "rows.npz": {
+          "bytes": 2895,
+          "sha256": "7ec03632209c7d30b5cb5eaa8e97364504a9dd63640a7e495246406b518ffb85"
+        }
+      },
+      "group": "bach-bwv773-notes24-35",
+      "path": "bach-bwv773-notes24-35--unchanged",
+      "rows": 400,
+      "session_id": "bach-bwv773-notes24-35--unchanged",
+      "stratum": "bach"
+    },
+    {
+      "cell": "transpose",
+      "decision_seconds": 40,
+      "events": 122,
+      "files": {
+        "evaluatorlabels.json": {
+          "bytes": 6199,
+          "sha256": "f6177af48cb28fe582213aeadd2b77b06c3a6d610f8af80b60f71f3585990d01"
+        },
+        "exact-events.npz": {
+          "bytes": 1603,
+          "sha256": "ecfbab4272050f9977cf4ab936d2f548135e344651c5d5df025f911a03137b1c"
+        },
+        "rows.npz": {
+          "bytes": 2896,
+          "sha256": "511925612e7270f4c49286878501e8dfcdda7df29cdc81b774446137dd8e9481"
+        }
+      },
+      "group": "bach-bwv773-notes24-35",
+      "path": "bach-bwv773-notes24-35--transpose",
+      "rows": 400,
+      "session_id": "bach-bwv773-notes24-35--transpose",
+      "stratum": "bach"
+    },
+    {
+      "cell": "stretch",
+      "decision_seconds": 39,
+      "events": 122,
+      "files": {
+        "evaluatorlabels.json": {
+          "bytes": 6238,
+          "sha256": "f4cf601a6963f9f983f28f48066dfcbccaa5e20cb08d4db5df25c74598e93a1f"
+        },
+        "exact-events.npz": {
+          "bytes": 1599,
+          "sha256": "7c7693921c8061763ca565dd722bb9af9446b1c5f9d8542aa076921dcd25c6e7"
+        },
+        "rows.npz": {
+          "bytes": 2857,
+          "sha256": "03f96b3c9de73c6a30d414249881ac8ef6e62416e6db187f263f09686fd5a5ac"
+        }
+      },
+      "group": "bach-bwv773-notes24-35",
+      "path": "bach-bwv773-notes24-35--stretch",
+      "rows": 390,
+      "session_id": "bach-bwv773-notes24-35--stretch",
+      "stratum": "bach"
+    },
+    {
+      "cell": "inventory_foil",
+      "decision_seconds": 40,
+      "events": 122,
+      "files": {
+        "evaluatorlabels.json": {
+          "bytes": 6462,
+          "sha256": "2d1a3221e6cbc8796f59500ab6a31444dbba4636b6791ba7d63027e1873a9b9d"
+        },
+        "exact-events.npz": {
+          "bytes": 1601,
+          "sha256": "14aedae770a40e437fc9c0b8f594312553e5b06996be069d4a67f4c8af1795a7"
+        },
+        "rows.npz": {
+          "bytes": 2892,
+          "sha256": "fa10a03aa56f626e4654de8d39daec2b56af35afcae5f3e11763edb822b14a2d"
+        }
+      },
+      "group": "bach-bwv773-notes24-35",
+      "path": "bach-bwv773-notes24-35--inventory_foil",
+      "rows": 400,
+      "session_id": "bach-bwv773-notes24-35--inventory_foil",
+      "stratum": "bach"
+    },
+    {
+      "cell": "near_foil",
+      "decision_seconds": 40,
+      "events": 122,
+      "files": {
+        "evaluatorlabels.json": {
+          "bytes": 6247,
+          "sha256": "30c264452b01c9195d2df507ad207f12e97e0f92567535b05dfd5121151cb89b"
+        },
+        "exact-events.npz": {
+          "bytes": 1602,
+          "sha256": "120042c3ff8de8827b5b0b11399060beaf30232543e6f11449b1d0e5d2de0141"
+        },
+        "rows.npz": {
+          "bytes": 2896,
+          "sha256": "98c8b1e6f4aeaee7a7b94789dcd98fb5f42e207e507ab8abaeab52a63fbfba0a"
+        }
+      },
+      "group": "bach-bwv773-notes24-35",
+      "path": "bach-bwv773-notes24-35--near_foil",
+      "rows": 400,
+      "session_id": "bach-bwv773-notes24-35--near_foil",
+      "stratum": "bach"
+    },
+    {
+      "cell": "unchanged",
+      "decision_seconds": 40,
+      "events": 122,
+      "files": {
+        "evaluatorlabels.json": {
+          "bytes": 5575,
+          "sha256": "60d779288836ca9e55693b7bd2ce15a84f01d02f5f0ed680e341e7bf16473d80"
+        },
+        "exact-events.npz": {
+          "bytes": 1443,
+          "sha256": "4eac028eb607a9f3e1504e9dfd721468ed7894ede4ff269c9b3565da0b8029fe"
+        },
+        "rows.npz": {
+          "bytes": 2908,
+          "sha256": "048f2954968a79836c4cea01ca2c930029bef5a3d3f491f070df7689c67d700a"
+        }
+      },
+      "group": "bach-bwv775-notes24-35",
+      "path": "bach-bwv775-notes24-35--unchanged",
+      "rows": 400,
+      "session_id": "bach-bwv775-notes24-35--unchanged",
+      "stratum": "bach"
+    },
+    {
+      "cell": "transpose",
+      "decision_seconds": 40,
+      "events": 122,
+      "files": {
+        "evaluatorlabels.json": {
+          "bytes": 5576,
+          "sha256": "7acbd69f5f5b3b565e012bbcfb0b07ce7a05b005cc2d3e93a5b8fc2bc0dde7f2"
+        },
+        "exact-events.npz": {
+          "bytes": 1454,
+          "sha256": "b2b2f877a5414891dab66be9f577e2f9ccd58b44d0b6fc31e5add383beb7e5cb"
+        },
+        "rows.npz": {
+          "bytes": 2906,
+          "sha256": "a5f0c3248f34fc51cda43b02f9cf13cffc94ab25d4ba75b1108d9ba91676170a"
+        }
+      },
+      "group": "bach-bwv775-notes24-35",
+      "path": "bach-bwv775-notes24-35--transpose",
+      "rows": 400,
+      "session_id": "bach-bwv775-notes24-35--transpose",
+      "stratum": "bach"
+    },
+    {
+      "cell": "stretch",
+      "decision_seconds": 41,
+      "events": 122,
+      "files": {
+        "evaluatorlabels.json": {
+          "bytes": 5572,
+          "sha256": "ced5842687348aa83b357409757b4faee0db3f1d2a1eb0aa6b1fb402faf93efd"
+        },
+        "exact-events.npz": {
+          "bytes": 1442,
+          "sha256": "b07cd03096968e763ff6966bbbd94c3482ed0a239a2bfa88bc1ce33fb23809b2"
+        },
+        "rows.npz": {
+          "bytes": 2947,
+          "sha256": "63446d8f2913bb4e7f98fbcf7c17972043fe08e0ac6eb39a644ea6f34f0c5d7f"
+        }
+      },
+      "group": "bach-bwv775-notes24-35",
+      "path": "bach-bwv775-notes24-35--stretch",
+      "rows": 410,
+      "session_id": "bach-bwv775-notes24-35--stretch",
+      "stratum": "bach"
+    },
+    {
+      "cell": "inventory_foil",
+      "decision_seconds": 40,
+      "events": 122,
+      "files": {
+        "evaluatorlabels.json": {
+          "bytes": 5838,
+          "sha256": "28f110b8fde6cfa629ccc55cae8f0e209dc8a6b0aebb860428e82951a939c815"
+        },
+        "exact-events.npz": {
+          "bytes": 1454,
+          "sha256": "283f78fe9e7a51f31ee241ae5639747481db52c8c6aa3ceee783656892176453"
+        },
+        "rows.npz": {
+          "bytes": 2908,
+          "sha256": "cf9d3c4235d55733070622d5b25ae94d340cd9c99af951a2bfc594bc0caa4014"
+        }
+      },
+      "group": "bach-bwv775-notes24-35",
+      "path": "bach-bwv775-notes24-35--inventory_foil",
+      "rows": 400,
+      "session_id": "bach-bwv775-notes24-35--inventory_foil",
+      "stratum": "bach"
+    },
+    {
+      "cell": "near_foil",
+      "decision_seconds": 40,
+      "events": 122,
+      "files": {
+        "evaluatorlabels.json": {
+          "bytes": 5613,
+          "sha256": "641fc38a29a570df17114191d7fbd292fc351da2e88c658ddfbe516cc921cd6c"
+        },
+        "exact-events.npz": {
+          "bytes": 1443,
+          "sha256": "f9409c00cd644c3a00986e3b1a199ab5ecb18b31064a60f5a5d62589e2050103"
+        },
+        "rows.npz": {
+          "bytes": 2908,
+          "sha256": "ee2e746adea886e9f77914265da7d70830f0f0d295052859100771a4e4a72061"
+        }
+      },
+      "group": "bach-bwv775-notes24-35",
+      "path": "bach-bwv775-notes24-35--near_foil",
+      "rows": 400,
+      "session_id": "bach-bwv775-notes24-35--near_foil",
+      "stratum": "bach"
+    },
+    {
+      "cell": "unchanged",
+      "decision_seconds": 40,
+      "events": 122,
+      "files": {
+        "evaluatorlabels.json": {
+          "bytes": 6253,
+          "sha256": "1baf1e27a9debc21d3b31a27a4244e58e24b12e86f7f8723e4308a63f194f3cf"
+        },
+        "exact-events.npz": {
+          "bytes": 1577,
+          "sha256": "5b313a00dda1057a6bec8a89fef7c265d7c9179347739165dfcedbeb8dac7a58"
+        },
+        "rows.npz": {
+          "bytes": 2906,
+          "sha256": "c98e56cd6e2047c114fb60641085ac07a7f25c8eb4a62d0f8f93a544535b979a"
+        }
+      },
+      "group": "bach-bwv778-notes24-35",
+      "path": "bach-bwv778-notes24-35--unchanged",
+      "rows": 400,
+      "session_id": "bach-bwv778-notes24-35--unchanged",
+      "stratum": "bach"
+    },
+    {
+      "cell": "transpose",
+      "decision_seconds": 40,
+      "events": 122,
+      "files": {
+        "evaluatorlabels.json": {
+          "bytes": 6253,
+          "sha256": "9fcdca4a6953effd41ab7fc8c5f8a9413f8023c0b119c528a5e5125b226baf55"
+        },
+        "exact-events.npz": {
+          "bytes": 1577,
+          "sha256": "2335d5ce0e7e25d39de855ff9003f2462bfa30e3c096c87c7bba48dcb5e738c5"
+        },
+        "rows.npz": {
+          "bytes": 2905,
+          "sha256": "64d58f5069537e5cc9afe272179d48fe4f0d3afc06ae6579dd84a6a41f69189d"
+        }
+      },
+      "group": "bach-bwv778-notes24-35",
+      "path": "bach-bwv778-notes24-35--transpose",
+      "rows": 400,
+      "session_id": "bach-bwv778-notes24-35--transpose",
+      "stratum": "bach"
+    },
+    {
+      "cell": "stretch",
+      "decision_seconds": 40,
+      "events": 122,
+      "files": {
+        "evaluatorlabels.json": {
+          "bytes": 6292,
+          "sha256": "dc62c4e3b657dafb50ec76b25dd52dca271148a20babf07646c7425a8ec1cce1"
+        },
+        "exact-events.npz": {
+          "bytes": 1577,
+          "sha256": "2bcf4fdb9c73b2f4f65d5025055437dc5b0804600cfd0cf47af30e11f6b52c76"
+        },
+        "rows.npz": {
+          "bytes": 2906,
+          "sha256": "a0306bcb138eb24a38ccec590784fbead0dd0e08da7433cc45406c50076fcbdf"
+        }
+      },
+      "group": "bach-bwv778-notes24-35",
+      "path": "bach-bwv778-notes24-35--stretch",
+      "rows": 400,
+      "session_id": "bach-bwv778-notes24-35--stretch",
+      "stratum": "bach"
+    },
+    {
+      "cell": "inventory_foil",
+      "decision_seconds": 40,
+      "events": 122,
+      "files": {
+        "evaluatorlabels.json": {
+          "bytes": 6500,
+          "sha256": "c86349b93659ce5a70b8ba7f76758766a576a93967ba89b3b110caf7da877568"
+        },
+        "exact-events.npz": {
+          "bytes": 1575,
+          "sha256": "b901c509fd3c431a8ea8aa4e882f9cb0c6586ae52d90768eaa7c24a2c65327e2"
+        },
+        "rows.npz": {
+          "bytes": 2905,
+          "sha256": "4f2625588c8d458045ca3581350c03304233387d8b5e9f2e63e8bce68f2bf7f1"
+        }
+      },
+      "group": "bach-bwv778-notes24-35",
+      "path": "bach-bwv778-notes24-35--inventory_foil",
+      "rows": 400,
+      "session_id": "bach-bwv778-notes24-35--inventory_foil",
+      "stratum": "bach"
+    },
+    {
+      "cell": "near_foil",
+      "decision_seconds": 40,
+      "events": 122,
+      "files": {
+        "evaluatorlabels.json": {
+          "bytes": 6280,
+          "sha256": "c7aabc38567a28727de6e5f11c56d15576f021cb8b52efc29600183ad5d26d00"
+        },
+        "exact-events.npz": {
+          "bytes": 1578,
+          "sha256": "13da8894402457dbb874c8bb4f77a06e2cd12f2f1ae7dec0866c2b0fb809054e"
+        },
+        "rows.npz": {
+          "bytes": 2906,
+          "sha256": "0fc55f3e4dfbdad9311a85bd38793aeec5199ce09a594b1645154dcadcaa2221"
+        }
+      },
+      "group": "bach-bwv778-notes24-35",
+      "path": "bach-bwv778-notes24-35--near_foil",
+      "rows": 400,
+      "session_id": "bach-bwv778-notes24-35--near_foil",
+      "stratum": "bach"
+    },
+    {
+      "cell": "unchanged",
+      "decision_seconds": 40,
+      "events": 122,
+      "files": {
+        "evaluatorlabels.json": {
+          "bytes": 5577,
+          "sha256": "783e6c72e15c3512c98ac3b96d9021c4090c0d1139f0c410779033d9727b124e"
+        },
+        "exact-events.npz": {
+          "bytes": 1403,
+          "sha256": "a8b01d7d3c61d06d1804df8ceafa18330078c7f8d1025dd5886251bdbd1e2d9a"
+        },
+        "rows.npz": {
+          "bytes": 2907,
+          "sha256": "8633398c06c0a1a7be5ad24125d19d4477d5b12b545f87418e1a4da159f88e09"
+        }
+      },
+      "group": "bach-bwv781-notes24-35",
+      "path": "bach-bwv781-notes24-35--unchanged",
+      "rows": 400,
+      "session_id": "bach-bwv781-notes24-35--unchanged",
+      "stratum": "bach"
+    },
+    {
+      "cell": "transpose",
+      "decision_seconds": 40,
+      "events": 122,
+      "files": {
+        "evaluatorlabels.json": {
+          "bytes": 5577,
+          "sha256": "84355272f2c20e056ab972f5ce31042b794955002324d663d6b3c2a829441402"
+        },
+        "exact-events.npz": {
+          "bytes": 1402,
+          "sha256": "1f0e2b02f3b8a855e38011b8bfea2529ae652ea77f2024bf443cadddbc8bc76d"
+        },
+        "rows.npz": {
+          "bytes": 2907,
+          "sha256": "ac1366851e21e2b07839894f4db0c3d8ef2f2330b15b50b694a3d63083b78dde"
+        }
+      },
+      "group": "bach-bwv781-notes24-35",
+      "path": "bach-bwv781-notes24-35--transpose",
+      "rows": 400,
+      "session_id": "bach-bwv781-notes24-35--transpose",
+      "stratum": "bach"
+    },
+    {
+      "cell": "stretch",
+      "decision_seconds": 41,
+      "events": 122,
+      "files": {
+        "evaluatorlabels.json": {
+          "bytes": 5600,
+          "sha256": "0ca212dbe6894786bb448393fe27ac85d971132bbe17e9784fab625476fab02b"
+        },
+        "exact-events.npz": {
+          "bytes": 1414,
+          "sha256": "a50cbb4b3343e83baf2d3e79c878cbac662e84d5f3e7470e56eb5f963047941a"
+        },
+        "rows.npz": {
+          "bytes": 2946,
+          "sha256": "6a452c441d96a3539652d0a02f5e420609b68ab1a4b797361c36263ebd01a5fb"
+        }
+      },
+      "group": "bach-bwv781-notes24-35",
+      "path": "bach-bwv781-notes24-35--stretch",
+      "rows": 410,
+      "session_id": "bach-bwv781-notes24-35--stretch",
+      "stratum": "bach"
+    },
+    {
+      "cell": "inventory_foil",
+      "decision_seconds": 40,
+      "events": 122,
+      "files": {
+        "evaluatorlabels.json": {
+          "bytes": 5827,
+          "sha256": "9e63d987cb92d8197b4978248b358f8d0a7b696a13f2e3edfd78ad87f4f1fd66"
+        },
+        "exact-events.npz": {
+          "bytes": 1403,
+          "sha256": "bcef942156478f0dae3461a8b28a6748a37b7f11ff689de0ced134fa92a1fd97"
+        },
+        "rows.npz": {
+          "bytes": 2904,
+          "sha256": "dbdbff05c23c983b5bf0826b5b66497eefb3c9b5c250712ce152cfd791460e56"
+        }
+      },
+      "group": "bach-bwv781-notes24-35",
+      "path": "bach-bwv781-notes24-35--inventory_foil",
+      "rows": 400,
+      "session_id": "bach-bwv781-notes24-35--inventory_foil",
+      "stratum": "bach"
+    },
+    {
+      "cell": "near_foil",
+      "decision_seconds": 40,
+      "events": 122,
+      "files": {
+        "evaluatorlabels.json": {
+          "bytes": 5604,
+          "sha256": "907498a362e2a7a180cb3ad0b7ebe6dca6aeb810298ce98e093fa6f633421606"
+        },
+        "exact-events.npz": {
+          "bytes": 1407,
+          "sha256": "0a923681395a3bbd9b9369e9eccd05d59b0543cbbbcf4c8511af122e754c3932"
+        },
+        "rows.npz": {
+          "bytes": 2907,
+          "sha256": "2b4a1c887a38c58364da8791334f2a61b0c28d99d1e7f0493344949f574840a8"
+        }
+      },
+      "group": "bach-bwv781-notes24-35",
+      "path": "bach-bwv781-notes24-35--near_foil",
+      "rows": 400,
+      "session_id": "bach-bwv781-notes24-35--near_foil",
+      "stratum": "bach"
+    },
+    {
+      "cell": "unchanged",
+      "decision_seconds": 40,
+      "events": 122,
+      "files": {
+        "evaluatorlabels.json": {
+          "bytes": 3431,
+          "sha256": "49a947298901c1c7c7deed6bb85b9814ef42ab301bee99f28db495cda0166fa3"
+        },
+        "exact-events.npz": {
+          "bytes": 1472,
+          "sha256": "d957592e1cdbca9da4519c16c2fca79c02193f5cf7865e53e9224d5209d00b22"
+        },
+        "rows.npz": {
+          "bytes": 2891,
+          "sha256": "1a4f1599b0195b232067da7c7e59b7b31e855cb035ffad70865efdb3663c462e"
+        }
+      },
+      "group": "novel-20260926-01",
+      "path": "novel-20260926-01--unchanged",
+      "rows": 400,
+      "session_id": "novel-20260926-01--unchanged",
+      "stratum": "novel"
+    },
+    {
+      "cell": "transpose",
+      "decision_seconds": 40,
+      "events": 122,
+      "files": {
+        "evaluatorlabels.json": {
+          "bytes": 3432,
+          "sha256": "a25dbfb4a2f7d6a7222ebafb813e4be4cb36cfbe0a0d1fa202edc68f96326c2c"
+        },
+        "exact-events.npz": {
+          "bytes": 1471,
+          "sha256": "363bfc2876a554964ba65a3e1f3eee5eceeab7c24d3879b5d199f4a79a30e51d"
+        },
+        "rows.npz": {
+          "bytes": 2890,
+          "sha256": "f33a6e67d892d0d418b02b52a95273eb0ed567034654526bc6c61bc57e537aa5"
+        }
+      },
+      "group": "novel-20260926-01",
+      "path": "novel-20260926-01--transpose",
+      "rows": 400,
+      "session_id": "novel-20260926-01--transpose",
+      "stratum": "novel"
+    },
+    {
+      "cell": "stretch",
+      "decision_seconds": 39,
+      "events": 122,
+      "files": {
+        "evaluatorlabels.json": {
+          "bytes": 3517,
+          "sha256": "defc4c03015358cd0c412a3e42dd5ae7f651b11064c1dfa93ddd7031d94f22c2"
+        },
+        "exact-events.npz": {
+          "bytes": 1476,
+          "sha256": "e07f553d0e910610a87ec6e560592321f44328c239f9c4a9c96be7a2ff29b047"
+        },
+        "rows.npz": {
+          "bytes": 2852,
+          "sha256": "ec3d893a8811f38cd810f7ce115fc383629ccfd29a2238ad625f242e99eaf6a5"
+        }
+      },
+      "group": "novel-20260926-01",
+      "path": "novel-20260926-01--stretch",
+      "rows": 390,
+      "session_id": "novel-20260926-01--stretch",
+      "stratum": "novel"
+    },
+    {
+      "cell": "inventory_foil",
+      "decision_seconds": 40,
+      "events": 122,
+      "files": {
+        "evaluatorlabels.json": {
+          "bytes": 3692,
+          "sha256": "1afe0ffc11990c42bd9cee4e5455aec2c017ee91d37784b7b4253dabb49a7fcb"
+        },
+        "exact-events.npz": {
+          "bytes": 1469,
+          "sha256": "31ecfd8edca7a2fc67c369fbca09c254145db6ffeabc577deb42f8061707a56f"
+        },
+        "rows.npz": {
+          "bytes": 2890,
+          "sha256": "1b5142d96a2bec09c12661b3f7f020b76a27bf2753649a90f28181b97f8ad8df"
+        }
+      },
+      "group": "novel-20260926-01",
+      "path": "novel-20260926-01--inventory_foil",
+      "rows": 400,
+      "session_id": "novel-20260926-01--inventory_foil",
+      "stratum": "novel"
+    },
+    {
+      "cell": "near_foil",
+      "decision_seconds": 40,
+      "events": 122,
+      "files": {
+        "evaluatorlabels.json": {
+          "bytes": 3458,
+          "sha256": "214503c272bb167d7e9756a64efe7eb4a4c8b72f007fddd748b73f3ec6064fa1"
+        },
+        "exact-events.npz": {
+          "bytes": 1472,
+          "sha256": "2f6390ca9525e9fd69620f031a33899e019f02e6bb18923730f8c745eeb86d08"
+        },
+        "rows.npz": {
+          "bytes": 2891,
+          "sha256": "4e2ddfe109fb38a16e4c2439b9a1361faae8c0e835e1bbcea5d62cc7a6531224"
+        }
+      },
+      "group": "novel-20260926-01",
+      "path": "novel-20260926-01--near_foil",
+      "rows": 400,
+      "session_id": "novel-20260926-01--near_foil",
+      "stratum": "novel"
+    },
+    {
+      "cell": "unchanged",
+      "decision_seconds": 40,
+      "events": 122,
+      "files": {
+        "evaluatorlabels.json": {
+          "bytes": 3932,
+          "sha256": "b1dceac5e2b8662fe74c776f3cf0bc7fb17edeb2cf2cae8981caa22797b6bfe9"
+        },
+        "exact-events.npz": {
+          "bytes": 1500,
+          "sha256": "da7c1ba1fd54fc8182e5383483126fe51603c4e22559c622d0faad140a18c845"
+        },
+        "rows.npz": {
+          "bytes": 2909,
+          "sha256": "67d70870afc71d69566969b10492fa0e3df9087f0f5b3f850af1e1b4050ffd21"
+        }
+      },
+      "group": "novel-20260926-02",
+      "path": "novel-20260926-02--unchanged",
+      "rows": 400,
+      "session_id": "novel-20260926-02--unchanged",
+      "stratum": "novel"
+    },
+    {
+      "cell": "transpose",
+      "decision_seconds": 40,
+      "events": 122,
+      "files": {
+        "evaluatorlabels.json": {
+          "bytes": 3933,
+          "sha256": "8c6a3981dce979f9b94b86e28289f954cbefc95e81b5efe74089ae30786ba755"
+        },
+        "exact-events.npz": {
+          "bytes": 1495,
+          "sha256": "fea34fde2d0b9a944379c1d2d0f9f36e8445508d93b5e92521c123f5f5013e0a"
+        },
+        "rows.npz": {
+          "bytes": 2909,
+          "sha256": "21d21257f07dd791950b7fa54c8286d96839d3d9cc5bc5bf9a16801dff961a76"
+        }
+      },
+      "group": "novel-20260926-02",
+      "path": "novel-20260926-02--transpose",
+      "rows": 400,
+      "session_id": "novel-20260926-02--transpose",
+      "stratum": "novel"
+    },
+    {
+      "cell": "stretch",
+      "decision_seconds": 41,
+      "events": 122,
+      "files": {
+        "evaluatorlabels.json": {
+          "bytes": 3891,
+          "sha256": "d10b6ed404c63d4a96d357635f53e57097a4e66eceb135bbcf46f999d49477b3"
+        },
+        "exact-events.npz": {
+          "bytes": 1504,
+          "sha256": "7cf9c264cac12aac888b396450092946b12a9876b97991bd73ddf3fa65d38368"
+        },
+        "rows.npz": {
+          "bytes": 2948,
+          "sha256": "850fe798813e56c52c9afba8fb2796db553738de94b182ad0d34df11282f7004"
+        }
+      },
+      "group": "novel-20260926-02",
+      "path": "novel-20260926-02--stretch",
+      "rows": 410,
+      "session_id": "novel-20260926-02--stretch",
+      "stratum": "novel"
+    },
+    {
+      "cell": "inventory_foil",
+      "decision_seconds": 40,
+      "events": 122,
+      "files": {
+        "evaluatorlabels.json": {
+          "bytes": 4196,
+          "sha256": "ca9cbaa31d1e0625958de3781b9da1ee62b5fbc5a25e9cb861592817e3fbe83d"
+        },
+        "exact-events.npz": {
+          "bytes": 1497,
+          "sha256": "188443e54062e1dec0b5deb25770cc7ae5663ad75a6fd913f39fa417cf049309"
+        },
+        "rows.npz": {
+          "bytes": 2908,
+          "sha256": "a76ce1903990dc36a8dcae6385c5df9709ee5ae36e5c8319f0756dc42fe51a1d"
+        }
+      },
+      "group": "novel-20260926-02",
+      "path": "novel-20260926-02--inventory_foil",
+      "rows": 400,
+      "session_id": "novel-20260926-02--inventory_foil",
+      "stratum": "novel"
+    },
+    {
+      "cell": "near_foil",
+      "decision_seconds": 40,
+      "events": 122,
+      "files": {
+        "evaluatorlabels.json": {
+          "bytes": 3948,
+          "sha256": "ea49fd7ab1e04f88c309ce721b74bec74e569e94cd73a28b3c03b0024323eb8d"
+        },
+        "exact-events.npz": {
+          "bytes": 1497,
+          "sha256": "24261f7d5c59f4947c58500bd22d4d53a03b69be3d9acc97a44e140bef1a7396"
+        },
+        "rows.npz": {
+          "bytes": 2909,
+          "sha256": "677354477059cfff6e90ca7f7565b9fbcf56969f3ce045a228455eacb51a9bac"
+        }
+      },
+      "group": "novel-20260926-02",
+      "path": "novel-20260926-02--near_foil",
+      "rows": 400,
+      "session_id": "novel-20260926-02--near_foil",
+      "stratum": "novel"
+    },
+    {
+      "cell": "unchanged",
+      "decision_seconds": 40,
+      "events": 122,
+      "files": {
+        "evaluatorlabels.json": {
+          "bytes": 3970,
+          "sha256": "787c0f05fc1034bec5f8f19170cc7b3884874ba369d79eee46c184b048c76e4b"
+        },
+        "exact-events.npz": {
+          "bytes": 1555,
+          "sha256": "c8d743a65bce169c68e4933602659327e3b8ea4fe03f2f9e1493b5e9aaa3f610"
+        },
+        "rows.npz": {
+          "bytes": 2907,
+          "sha256": "d38cfca9fa8c3c37e3892255a5425a8b721060f6df875ab2cde7e9ddbade76d1"
+        }
+      },
+      "group": "novel-20260926-03",
+      "path": "novel-20260926-03--unchanged",
+      "rows": 400,
+      "session_id": "novel-20260926-03--unchanged",
+      "stratum": "novel"
+    },
+    {
+      "cell": "transpose",
+      "decision_seconds": 40,
+      "events": 122,
+      "files": {
+        "evaluatorlabels.json": {
+          "bytes": 3970,
+          "sha256": "3579838ee8086d0c8c134bfbfcef13f1196c38351494fcd443f82764114e55b8"
+        },
+        "exact-events.npz": {
+          "bytes": 1560,
+          "sha256": "7be515ccb35a7a00fae63eb6a4d978229b5ed48113f51cb928bd55c9be0d5b77"
+        },
+        "rows.npz": {
+          "bytes": 2907,
+          "sha256": "8690f9444ba5e8e9118856899b5f43f0604bff558e779dff41325fd481f14feb"
+        }
+      },
+      "group": "novel-20260926-03",
+      "path": "novel-20260926-03--transpose",
+      "rows": 400,
+      "session_id": "novel-20260926-03--transpose",
+      "stratum": "novel"
+    },
+    {
+      "cell": "stretch",
+      "decision_seconds": 40,
+      "events": 122,
+      "files": {
+        "evaluatorlabels.json": {
+          "bytes": 4041,
+          "sha256": "bde48ddc58a7f557967ae48a80ec4425061f804ead951ee7dbabf55177f8c2ec"
+        },
+        "exact-events.npz": {
+          "bytes": 1569,
+          "sha256": "aa3856f053bff45ace21d12e034a683c45f02423feccf7f52896d02b4fba5dc8"
+        },
+        "rows.npz": {
+          "bytes": 2907,
+          "sha256": "e0d93366a7b9c904530ca891ff6bc91df8a0fce3b1087aa6eae22bc480607b2f"
+        }
+      },
+      "group": "novel-20260926-03",
+      "path": "novel-20260926-03--stretch",
+      "rows": 400,
+      "session_id": "novel-20260926-03--stretch",
+      "stratum": "novel"
+    },
+    {
+      "cell": "inventory_foil",
+      "decision_seconds": 40,
+      "events": 122,
+      "files": {
+        "evaluatorlabels.json": {
+          "bytes": 4221,
+          "sha256": "f5f68ea017a4c20ac849600bc5830f0a7d39005277fd5401242a413f54ca706b"
+        },
+        "exact-events.npz": {
+          "bytes": 1560,
+          "sha256": "5d8a733dc17197f1533e34969f8e81eb973d2b7b9d4b1f0a869d928d08907f2f"
+        },
+        "rows.npz": {
+          "bytes": 2907,
+          "sha256": "5114a265ca877559957afd7ac2da2963225f0d8340b9d1737f37ff573a6cf0a1"
+        }
+      },
+      "group": "novel-20260926-03",
+      "path": "novel-20260926-03--inventory_foil",
+      "rows": 400,
+      "session_id": "novel-20260926-03--inventory_foil",
+      "stratum": "novel"
+    },
+    {
+      "cell": "near_foil",
+      "decision_seconds": 40,
+      "events": 122,
+      "files": {
+        "evaluatorlabels.json": {
+          "bytes": 4041,
+          "sha256": "167d1c0880356ecf17d3cf213f2be6decf6e7998b488c8810315497d9f150b94"
+        },
+        "exact-events.npz": {
+          "bytes": 1557,
+          "sha256": "89d23b58ecb0ea55f0bb08c90d6d61534bc2f795041638b9d51c76735ee285eb"
+        },
+        "rows.npz": {
+          "bytes": 2907,
+          "sha256": "4ae78aa587d41dbb3852a25acfe87843392d59bf7bcccaae572928d283ee6de1"
+        }
+      },
+      "group": "novel-20260926-03",
+      "path": "novel-20260926-03--near_foil",
+      "rows": 400,
+      "session_id": "novel-20260926-03--near_foil",
+      "stratum": "novel"
+    }
+  ],
+  "construction_compute_seconds": 0.14007341593969613,
+  "current": "novel-20260926-04--unchanged",
+  "exception": "ValueError",
+  "message": "Unintended complete source-equivalent 12-event occurrence in history",
+  "replacements_attempted": 0,
+  "status": "invalid-construction"
+}

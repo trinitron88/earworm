@@ -1,0 +1,22 @@
+{
+  "id": "earworm-correspondence-reference-choice-v1",
+  "instruction_version": 1,
+  "comment_id": 5842993369,
+  "source_version": "2026-09-26T04:02:02Z",
+  "base_sha": "07651558671fdaf57b5685284079cea021b0ea88",
+  "started_at": "2026-09-26T04:24:36.243477+00:00",
+  "preparation_started_at": "2026-09-26T04:22:55.190239+00:00",
+  "status": "invalid_construction_preparing_review_snapshot",
+  "readouts_used": 29,
+  "compute_cap_seconds": 7200,
+  "artifact_cap_bytes": 536870912,
+  "readout_cap": 400,
+  "probe_cap": 32,
+  "spend": 0,
+  "musical_readouts_used": 0,
+  "construction_attempts": 1,
+  "completed_input_sessions": 35,
+  "failed_session": "novel-20260926-04--unchanged",
+  "generator_reruns": 0,
+  "repairs": 0
+}
