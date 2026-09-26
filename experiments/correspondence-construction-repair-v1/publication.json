@@ -1,0 +1,19 @@
+{
+  "assignment_id": "earworm-correspondence-construction-repair-v1",
+  "instruction_comment": 5843317936,
+  "instruction_version": 1,
+  "base_sha": "c09c768b711104010e71184d495d714efe45dad7",
+  "execution_sha": "30e1ffaa6285dc0ba09c53aca13490aefec95b39",
+  "preregistration_url": "https://github.com/trinitron88/earworm/pull/2#issuecomment-5843729275",
+  "prepared_utc": "2026-09-26T06:10:00.939132+00:00",
+  "preparation_branch": "A",
+  "comparison_branch": "B",
+  "selected_method": null,
+  "status": "awaiting-review",
+  "report_path": "experiments/correspondence-construction-repair-v1/REPORT.md",
+  "scoring_path": "experiments/correspondence-construction-repair-v1/score.json",
+  "validation_path": "experiments/correspondence-construction-repair-v1/validation.json",
+  "root_PROJECT_STATE_included": true,
+  "exact_publication_head": "Identified by PR head and final PR2 receipt; avoids a self-referential file hash",
+  "worker_stop": true
+}

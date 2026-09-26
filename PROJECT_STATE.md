@@ -6,21 +6,24 @@ Earworm's finish line is a reusable, stateful listener for continuous musical au
 
 ## Current evidence and decision
 
-**The new correspondence-reference choice attempt stopped INVALID during input construction and is being published for exact-head review.** Its software qualification completed29 charged non-musical calls (28passed, one retained fixture failure corrected before musical construction). One construction attempt saved35of40 planned sessions, then the fourth novel motif triggered a pitch-interval duplicate-window guard. No musical matcher comparison or collision-diagnostic suite ran; no method was selected.
+**The bounded construction repair completed Preparation A, and the first correspondence comparison selected Result B. The complete snapshot is awaiting exact-head review.** No sampled-observation method qualifies as the development reference. The selected contract revision is narrow: retain compatible occurrence sets or abstain when observationally identical earlier origins cannot be distinguished. It does not explain every musical-panel failure or authorize another experiment.
 
-The guard ignores rhythm. Its exception is not proof of pitch/time identity or perceptual ambiguity. The failing session's generated arrays and offending window indices were not saved, so that precise collision is not independently witnessed in this snapshot. Completed inputs, code, fixed seeds and the original failure receipt are preserved. No replacement, repair, rerun, new model, audio extraction, musical download or spending followed. The PM owns the next bounded disposition after review.
+On eight development families, the unchanged D readout recovered all24positive source identities and exact pitch shifts, but only16/24joint pitch/time transformations; it accepted12/24substitute memories after source removal. G used the same sampled rows and achieved19/24joint successes, withholding five positives because its fixed query model admitted competing occurrence regions. Every withheld case still contained a correct-source candidate. G accepted3/24source-removal substitutes, above the2/24limit. Both methods accepted1/16foils and0/24recent-only returns.
 
-PR #18 was reviewed and merged on September22; **its frozen Result C and non-adoption remain valid and unchanged**. On16 held-out families, standard audio identified16/16 unchanged returns and12/16 each transposed/stretched returns after32seconds interference and actual four-second raw-buffer eviction. Frozen MERT12 identified16/16,0/16 and4/16 respectively. Standard audio falsely accepted2/16 unrelated foils; MERT accepted0/16.
+The separate G-exact diagnostic recovered24/24joint transformations and rejected all foils, source-removal substitutes and recent-only returns. It has richer exact timing/onset observations on the same support; this is not an equal-input win, an acoustic-encoder diagnosis, an information ceiling or audio-route adoption. No audio or model was run. All results are development-only, with per-cell criteria and no held-out confirmation.
 
-The historical clean reference recovered all48 positive source identities and all48 exact pitch shifts. Every clean joint failure was in **time-scale estimation**; it passed scale in12/16 per positive cell. It is a clean-input implementation sharing a restricted matcher, not an information upper bound. These facts do not establish general acoustic encoder incapacity.
+All264musical and24diagnostic readouts completed once and passed independent saved-output checks. The separate paired-world diagnostic proves only a deliberately constructed origin ambiguity: complete identical observations can correspond to different stipulated origins among identical earlier occurrences. D chose one; G/exact abstained. This certificate is separate from ordinary rate-panel evidence and human perceptual identity.
 
-Source-removal eliminated correct-source recovery but left accepted substitute memories in29/48 standard,15/48 MERT and21/48 clean readouts. Source dependence therefore does not establish calibrated absence rejection. Absolute spectral/energy/time evidence survived raw-buffer eviction, but these sessions imposed no persistent-memory replacement pressure. No natural-performance transfer, polyphony, human perceptual identity, fugue understanding or musical appreciation claim follows.
+PR19's invalid checkpoint remains unchanged. Its35saved sessions were reused byte-for-byte; only the fixed missing family's five sessions were newly constructed. Independent onset-and-offset equivalence admits all40sessions: the new fourth-family extra pitch-only window differs in timing by about0.2963seconds. The original missing failed arrays remain missing; new witnesses are not relabeled as original evidence. D/G/engine stayed byte-identical; the manifest, scorer and validator were completed before execution preregistration. Cumulative calls320/400, tiny qualification32/32, no reruns or spending.
 
-- [Current invalid construction report](experiments/correspondence-reference-choice-v1/REPORT.md)
-- [Current partial-input failure receipt](experiments/correspondence-reference-choice-v1/inputs/panel/construction-failure.json)
-- [Current qualification ledger](experiments/correspondence-reference-choice-v1/qualification/ledger.json)
-- [Frozen PR18 held-out report](experiments/borrowed-recurrence-feasibility-v1/results/evaluation/REPORT.md)
-- [Frozen PR18 protocol](experiments/borrowed-recurrence-feasibility-v1/PROTOCOL.md)
+PR18 remains reviewed/merged with frozen Result C and no audio-route adoption. Its historical clean source/shift recovery was48/48; its joint failures were timing estimates. Raw-buffer eviction was demonstrated there, but persistent-memory replacement pressure and reliable absence recognition were not. The handcrafted continuous-front sequence remains closed.
+
+- [Current complete comparison report](experiments/correspondence-construction-repair-v1/REPORT.md)
+- [Per-family, stratum and separate capability scores](experiments/correspondence-construction-repair-v1/score.json)
+- [Saved-output validation](experiments/correspondence-construction-repair-v1/validation.json)
+- [Current fixed protocol](experiments/correspondence-construction-repair-v1/PROTOCOL.md)
+- [Preserved PR19 invalid preparation](experiments/correspondence-reference-choice-v1/REPORT.md)
+- [Preserved PR18 held-out report](experiments/borrowed-recurrence-feasibility-v1/results/evaluation/REPORT.md)
 
 ## Finite capability checklist
 
@@ -49,4 +52,4 @@ PR #10's supplied-boundary observation repair passed its scoped test; PR #9 iden
 - [History prediction](experiments/history-prediction-v1/REPORT.md)
 - [Original E08 state](review/experiment08/original-snapshot-PROJECT_STATE.md)
 
-The correspondence-method/task assignment ends with this invalid preparation snapshot, awaiting the existing exact-head reviewer. The worker stops here. The PM must decide whether and how to recover the missing construction evidence or change the pitch-only guard; there is no automatic repair or rerun. The already-generated material remains development and is not fresh confirmation. The handcrafted continuous-front sequence remains closed. Historical scientific files and PR #18's Result C remain unchanged; no main-branch edit, merge, new training, paid resource, model change or reviewer/poll change is performed by the worker.
+This bounded continuation is complete and the worker stops awaiting the existing exact-head review. PM owns the next explicit disposition, using the separate timing, ambiguity, refusal and richer-observation findings. No automatic matcher repair, threshold change, acoustic comparison, capacity study or confirmation is authorized. Historical scientific packages and models are unchanged; only this isolated successor and the living PROJECT_STATE.md are added/updated. The capability checklist and first-release acceptance plan are preserved.

@@ -1,0 +1,46 @@
+{
+  "verified": true,
+  "canonical_entire_observation_hash": "5692374bde2547aa1a335413223cd260b75a4652eeddc0809751ad5ca9349771",
+  "exact_events_equal": true,
+  "incompatible_source_intervals": [
+    [
+      0.0,
+      3.0
+    ],
+    [
+      4.0,
+      7.0
+    ]
+  ],
+  "complete_event_witnesses": [
+    {
+      "history": [
+        0,
+        3
+      ],
+      "query": [
+        10,
+        13
+      ],
+      "scale": 1,
+      "offset": 10,
+      "shift": 0,
+      "max_residual": 0.0
+    },
+    {
+      "history": [
+        4,
+        7
+      ],
+      "query": [
+        10,
+        13
+      ],
+      "scale": 1,
+      "offset": 6,
+      "shift": 0,
+      "max_residual": 0.0
+    }
+  ],
+  "scope": "Deliberately constructed duplicate-occurrence origin ambiguity, not a witness for any musical-panel family."
+}

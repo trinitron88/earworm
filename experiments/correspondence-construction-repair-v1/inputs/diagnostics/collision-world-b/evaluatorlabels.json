@@ -1,0 +1,13 @@
+{
+  "source_interval": [
+    4.0,
+    7.0
+  ],
+  "positive": true,
+  "expected_shift": 0,
+  "expected_scale": 1.0,
+  "family": "collision-world-b",
+  "cell": "collision-world-b",
+  "diagnostic_only": true,
+  "observation_hash": "5692374bde2547aa1a335413223cd260b75a4652eeddc0809751ad5ca9349771"
+}

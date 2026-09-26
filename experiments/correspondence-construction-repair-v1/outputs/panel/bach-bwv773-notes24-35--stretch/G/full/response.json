@@ -1,0 +1,2371 @@
+{
+  "method": "G",
+  "accepted": true,
+  "selected": {
+    "start": 1.5920631518788386,
+    "end": 4.076532361765969,
+    "center": 2.8342977568224037,
+    "shift": 0,
+    "scale": 0.7647508741258754,
+    "stretch": 0.7647508741258754,
+    "scale_range": [
+      0.6875000000000009,
+      0.8750000000000022
+    ],
+    "offset": 35.33246831293706,
+    "offset_range": [
+      35.006249999999994,
+      35.571875
+    ],
+    "start_range": [
+      1.422727272727274,
+      1.7642857142857131
+    ],
+    "end_range": [
+      3.935714285714285,
+      4.186363636363642
+    ],
+    "parameter_uncertain": true,
+    "feasible_polygon": [
+      [
+        0.7272727272727311,
+        35.48636363636362
+      ],
+      [
+        0.6875000000000009,
+        35.571875
+      ],
+      [
+        0.7692307692307672,
+        35.26538461538462
+      ],
+      [
+        0.8750000000000022,
+        35.006249999999994
+      ]
+    ],
+    "polygon_coordinate_order": [
+      "scale",
+      "global_offset"
+    ],
+    "polygon_is_closure": true,
+    "constraints": [
+      {
+        "scale_coefficient": 0.0,
+        "offset_coefficient": 1.0,
+        "upper_bound": 0.0,
+        "strict": false,
+        "reason": "retained-support-start"
+      },
+      {
+        "scale_coefficient": -35.9,
+        "offset_coefficient": -1.0,
+        "upper_bound": -1.9000000000000057,
+        "strict": false,
+        "reason": "retained-support-end"
+      },
+      {
+        "scale_coefficient": 1.2000000000000002,
+        "offset_coefficient": 1.0,
+        "upper_bound": 0.0,
+        "strict": true,
+        "reason": "first-run-coverage"
+      },
+      {
+        "scale_coefficient": -4.4,
+        "offset_coefficient": -1.0,
+        "upper_bound": -1.9000000000000057,
+        "strict": true,
+        "reason": "last-run-coverage"
+      },
+      {
+        "scale_coefficient": 2.1,
+        "offset_coefficient": 1.0,
+        "upper_bound": 0.5,
+        "strict": true,
+        "reason": "transition-0-upper"
+      },
+      {
+        "scale_coefficient": -2.2,
+        "offset_coefficient": -1.0,
+        "upper_bound": -0.3999999999999986,
+        "strict": true,
+        "reason": "transition-0-lower"
+      },
+      {
+        "scale_coefficient": 2.2,
+        "offset_coefficient": 1.0,
+        "upper_bound": 0.6000000000000014,
+        "strict": true,
+        "reason": "transition-1-upper"
+      },
+      {
+        "scale_coefficient": -2.3000000000000003,
+        "offset_coefficient": -1.0,
+        "upper_bound": -0.5,
+        "strict": true,
+        "reason": "transition-1-lower"
+      },
+      {
+        "scale_coefficient": 2.3000000000000003,
+        "offset_coefficient": 1.0,
+        "upper_bound": 0.7000000000000028,
+        "strict": true,
+        "reason": "transition-2-upper"
+      },
+      {
+        "scale_coefficient": -2.4000000000000004,
+        "offset_coefficient": -1.0,
+        "upper_bound": -0.6000000000000014,
+        "strict": true,
+        "reason": "transition-2-lower"
+      },
+      {
+        "scale_coefficient": 2.5,
+        "offset_coefficient": 1.0,
+        "upper_bound": 0.8000000000000043,
+        "strict": true,
+        "reason": "transition-3-upper"
+      },
+      {
+        "scale_coefficient": -2.6,
+        "offset_coefficient": -1.0,
+        "upper_bound": -0.7000000000000028,
+        "strict": true,
+        "reason": "transition-3-lower"
+      },
+      {
+        "scale_coefficient": 2.7,
+        "offset_coefficient": 1.0,
+        "upper_bound": 1.0,
+        "strict": true,
+        "reason": "transition-4-upper"
+      },
+      {
+        "scale_coefficient": -2.8000000000000003,
+        "offset_coefficient": -1.0,
+        "upper_bound": -0.8999999999999986,
+        "strict": true,
+        "reason": "transition-4-lower"
+      },
+      {
+        "scale_coefficient": 3.0,
+        "offset_coefficient": 1.0,
+        "upper_bound": 1.2000000000000028,
+        "strict": true,
+        "reason": "transition-5-upper"
+      },
+      {
+        "scale_coefficient": -3.1,
+        "offset_coefficient": -1.0,
+        "upper_bound": -1.1000000000000014,
+        "strict": true,
+        "reason": "transition-5-lower"
+      },
+      {
+        "scale_coefficient": 3.2,
+        "offset_coefficient": 1.0,
+        "upper_bound": 1.3000000000000043,
+        "strict": true,
+        "reason": "transition-6-upper"
+      },
+      {
+        "scale_coefficient": -3.3000000000000003,
+        "offset_coefficient": -1.0,
+        "upper_bound": -1.2000000000000028,
+        "strict": true,
+        "reason": "transition-6-lower"
+      },
+      {
+        "scale_coefficient": 3.4000000000000004,
+        "offset_coefficient": 1.0,
+        "upper_bound": 1.5,
+        "strict": true,
+        "reason": "transition-7-upper"
+      },
+      {
+        "scale_coefficient": -3.5,
+        "offset_coefficient": -1.0,
+        "upper_bound": -1.3999999999999986,
+        "strict": true,
+        "reason": "transition-7-lower"
+      },
+      {
+        "scale_coefficient": 3.6,
+        "offset_coefficient": 1.0,
+        "upper_bound": 1.7000000000000028,
+        "strict": true,
+        "reason": "transition-8-upper"
+      },
+      {
+        "scale_coefficient": -3.7,
+        "offset_coefficient": -1.0,
+        "upper_bound": -1.6000000000000014,
+        "strict": true,
+        "reason": "transition-8-lower"
+      }
+    ],
+    "constraint_coordinate_origins": {
+      "query": 36.55,
+      "history": 0.05
+    },
+    "local_representative": [
+      0.7647508741258754,
+      -1.1792941433566444
+    ],
+    "boundary_witnesses": [
+      {
+        "query_boundary": 37.013341346153844,
+        "history_boundary": 2.1979354193456193,
+        "query_bracket": [
+          36.949999999999996,
+          37.05,
+          true
+        ],
+        "history_bracket": [
+          2.15,
+          2.25,
+          true
+        ]
+      },
+      {
+        "query_boundary": 37.091395323426575,
+        "history_boundary": 2.300000000000003,
+        "query_bracket": [
+          37.05,
+          37.15,
+          true
+        ],
+        "history_bracket": [
+          2.25,
+          2.35,
+          true
+        ]
+      },
+      {
+        "query_boundary": 37.178053977272725,
+        "history_boundary": 2.4133161880268594,
+        "query_bracket": [
+          37.15,
+          37.25,
+          true
+        ],
+        "history_bracket": [
+          2.35,
+          2.45,
+          true
+        ]
+      },
+      {
+        "query_boundary": 37.31629152097902,
+        "history_boundary": 2.5940777253893423,
+        "query_bracket": [
+          37.25,
+          37.35,
+          true
+        ],
+        "history_bracket": [
+          2.55,
+          2.65,
+          true
+        ]
+      },
+      {
+        "query_boundary": 37.481004152097896,
+        "history_boundary": 2.809458494070573,
+        "query_bracket": [
+          37.449999999999996,
+          37.55,
+          true
+        ],
+        "history_bracket": [
+          2.75,
+          2.85,
+          true
+        ]
+      },
+      {
+        "query_boundary": 37.70319602272727,
+        "history_boundary": 3.099999999999995,
+        "query_bracket": [
+          37.65,
+          37.75,
+          true
+        ],
+        "history_bracket": [
+          3.05,
+          3.15,
+          true
+        ]
+      },
+      {
+        "query_boundary": 37.83395432692308,
+        "history_boundary": 3.2709815687955426,
+        "query_bracket": [
+          37.75,
+          37.85,
+          true
+        ],
+        "history_bracket": [
+          3.25,
+          3.35,
+          true
+        ]
+      },
+      {
+        "query_boundary": 38.00909637237763,
+        "history_boundary": 3.5000000000000053,
+        "query_bracket": [
+          37.949999999999996,
+          38.05,
+          true
+        ],
+        "history_bracket": [
+          3.45,
+          3.55,
+          true
+        ]
+      },
+      {
+        "query_boundary": 38.17514204545455,
+        "history_boundary": 3.717123874839267,
+        "query_bracket": [
+          38.15,
+          38.25,
+          true
+        ],
+        "history_bracket": [
+          3.65,
+          3.75,
+          true
+        ]
+      }
+    ],
+    "correspondence": [
+      {
+        "query_pitch": 74,
+        "history_pitch": 74,
+        "query_row_ids": [
+          365,
+          366,
+          367,
+          368,
+          369
+        ],
+        "history_row_ids": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "query_interval": [
+          36.55,
+          36.949999999999996
+        ],
+        "history_interval": [
+          1.35,
+          2.15
+        ]
+      },
+      {
+        "query_pitch": 72,
+        "history_pitch": 72,
+        "query_row_ids": [
+          370
+        ],
+        "history_row_ids": [
+          22
+        ],
+        "query_interval": [
+          37.05,
+          37.05
+        ],
+        "history_interval": [
+          2.25,
+          2.25
+        ]
+      },
+      {
+        "query_pitch": 74,
+        "history_pitch": 74,
+        "query_row_ids": [
+          371
+        ],
+        "history_row_ids": [
+          23
+        ],
+        "query_interval": [
+          37.15,
+          37.15
+        ],
+        "history_interval": [
+          2.35,
+          2.35
+        ]
+      },
+      {
+        "query_pitch": 75,
+        "history_pitch": 75,
+        "query_row_ids": [
+          372
+        ],
+        "history_row_ids": [
+          24,
+          25
+        ],
+        "query_interval": [
+          37.25,
+          37.25
+        ],
+        "history_interval": [
+          2.45,
+          2.55
+        ]
+      },
+      {
+        "query_pitch": 74,
+        "history_pitch": 74,
+        "query_row_ids": [
+          373,
+          374
+        ],
+        "history_row_ids": [
+          26,
+          27
+        ],
+        "query_interval": [
+          37.35,
+          37.449999999999996
+        ],
+        "history_interval": [
+          2.65,
+          2.75
+        ]
+      },
+      {
+        "query_pitch": 72,
+        "history_pitch": 72,
+        "query_row_ids": [
+          375,
+          376
+        ],
+        "history_row_ids": [
+          28,
+          29,
+          30
+        ],
+        "query_interval": [
+          37.55,
+          37.65
+        ],
+        "history_interval": [
+          2.85,
+          3.05
+        ]
+      },
+      {
+        "query_pitch": 74,
+        "history_pitch": 74,
+        "query_row_ids": [
+          377
+        ],
+        "history_row_ids": [
+          31,
+          32
+        ],
+        "query_interval": [
+          37.75,
+          37.75
+        ],
+        "history_interval": [
+          3.15,
+          3.25
+        ]
+      },
+      {
+        "query_pitch": 75,
+        "history_pitch": 75,
+        "query_row_ids": [
+          378,
+          379
+        ],
+        "history_row_ids": [
+          33,
+          34
+        ],
+        "query_interval": [
+          37.85,
+          37.949999999999996
+        ],
+        "history_interval": [
+          3.35,
+          3.45
+        ]
+      },
+      {
+        "query_pitch": 77,
+        "history_pitch": 77,
+        "query_row_ids": [
+          380,
+          381
+        ],
+        "history_row_ids": [
+          35,
+          36
+        ],
+        "query_interval": [
+          38.05,
+          38.15
+        ],
+        "history_interval": [
+          3.55,
+          3.65
+        ]
+      },
+      {
+        "query_pitch": 79,
+        "history_pitch": 79,
+        "query_row_ids": [
+          382,
+          383,
+          384
+        ],
+        "history_row_ids": [
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43
+        ],
+        "query_interval": [
+          38.25,
+          38.45
+        ],
+        "history_interval": [
+          3.75,
+          4.35
+        ]
+      }
+    ],
+    "history_support": [
+      0.05,
+      35.949999999999996
+    ],
+    "verified_query_rows": [
+      365,
+      366,
+      367,
+      368,
+      369,
+      370,
+      371,
+      372,
+      373,
+      374,
+      375,
+      376,
+      377,
+      378,
+      379,
+      380,
+      381,
+      382,
+      383,
+      384
+    ],
+    "verified_history_rows": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "query_rows_verified": 20,
+    "query_rows_skipped": 0,
+    "query_runs_verified": 10,
+    "query_runs_skipped": 0,
+    "history_rows_verified": 25,
+    "contradictions": 0,
+    "continuous_exact_support_verified": false,
+    "evidence_score": 1.0,
+    "occurrence_key": [
+      0,
+      3,
+      12,
+      0
+    ],
+    "history_component": 0,
+    "history_run_range": [
+      3,
+      12
+    ]
+  },
+  "hypothesis": {
+    "start": 1.5920631518788386,
+    "end": 4.076532361765969,
+    "center": 2.8342977568224037,
+    "shift": 0,
+    "scale": 0.7647508741258754,
+    "stretch": 0.7647508741258754,
+    "scale_range": [
+      0.6875000000000009,
+      0.8750000000000022
+    ],
+    "offset": 35.33246831293706,
+    "offset_range": [
+      35.006249999999994,
+      35.571875
+    ],
+    "start_range": [
+      1.422727272727274,
+      1.7642857142857131
+    ],
+    "end_range": [
+      3.935714285714285,
+      4.186363636363642
+    ],
+    "parameter_uncertain": true,
+    "feasible_polygon": [
+      [
+        0.7272727272727311,
+        35.48636363636362
+      ],
+      [
+        0.6875000000000009,
+        35.571875
+      ],
+      [
+        0.7692307692307672,
+        35.26538461538462
+      ],
+      [
+        0.8750000000000022,
+        35.006249999999994
+      ]
+    ],
+    "polygon_coordinate_order": [
+      "scale",
+      "global_offset"
+    ],
+    "polygon_is_closure": true,
+    "constraints": [
+      {
+        "scale_coefficient": 0.0,
+        "offset_coefficient": 1.0,
+        "upper_bound": 0.0,
+        "strict": false,
+        "reason": "retained-support-start"
+      },
+      {
+        "scale_coefficient": -35.9,
+        "offset_coefficient": -1.0,
+        "upper_bound": -1.9000000000000057,
+        "strict": false,
+        "reason": "retained-support-end"
+      },
+      {
+        "scale_coefficient": 1.2000000000000002,
+        "offset_coefficient": 1.0,
+        "upper_bound": 0.0,
+        "strict": true,
+        "reason": "first-run-coverage"
+      },
+      {
+        "scale_coefficient": -4.4,
+        "offset_coefficient": -1.0,
+        "upper_bound": -1.9000000000000057,
+        "strict": true,
+        "reason": "last-run-coverage"
+      },
+      {
+        "scale_coefficient": 2.1,
+        "offset_coefficient": 1.0,
+        "upper_bound": 0.5,
+        "strict": true,
+        "reason": "transition-0-upper"
+      },
+      {
+        "scale_coefficient": -2.2,
+        "offset_coefficient": -1.0,
+        "upper_bound": -0.3999999999999986,
+        "strict": true,
+        "reason": "transition-0-lower"
+      },
+      {
+        "scale_coefficient": 2.2,
+        "offset_coefficient": 1.0,
+        "upper_bound": 0.6000000000000014,
+        "strict": true,
+        "reason": "transition-1-upper"
+      },
+      {
+        "scale_coefficient": -2.3000000000000003,
+        "offset_coefficient": -1.0,
+        "upper_bound": -0.5,
+        "strict": true,
+        "reason": "transition-1-lower"
+      },
+      {
+        "scale_coefficient": 2.3000000000000003,
+        "offset_coefficient": 1.0,
+        "upper_bound": 0.7000000000000028,
+        "strict": true,
+        "reason": "transition-2-upper"
+      },
+      {
+        "scale_coefficient": -2.4000000000000004,
+        "offset_coefficient": -1.0,
+        "upper_bound": -0.6000000000000014,
+        "strict": true,
+        "reason": "transition-2-lower"
+      },
+      {
+        "scale_coefficient": 2.5,
+        "offset_coefficient": 1.0,
+        "upper_bound": 0.8000000000000043,
+        "strict": true,
+        "reason": "transition-3-upper"
+      },
+      {
+        "scale_coefficient": -2.6,
+        "offset_coefficient": -1.0,
+        "upper_bound": -0.7000000000000028,
+        "strict": true,
+        "reason": "transition-3-lower"
+      },
+      {
+        "scale_coefficient": 2.7,
+        "offset_coefficient": 1.0,
+        "upper_bound": 1.0,
+        "strict": true,
+        "reason": "transition-4-upper"
+      },
+      {
+        "scale_coefficient": -2.8000000000000003,
+        "offset_coefficient": -1.0,
+        "upper_bound": -0.8999999999999986,
+        "strict": true,
+        "reason": "transition-4-lower"
+      },
+      {
+        "scale_coefficient": 3.0,
+        "offset_coefficient": 1.0,
+        "upper_bound": 1.2000000000000028,
+        "strict": true,
+        "reason": "transition-5-upper"
+      },
+      {
+        "scale_coefficient": -3.1,
+        "offset_coefficient": -1.0,
+        "upper_bound": -1.1000000000000014,
+        "strict": true,
+        "reason": "transition-5-lower"
+      },
+      {
+        "scale_coefficient": 3.2,
+        "offset_coefficient": 1.0,
+        "upper_bound": 1.3000000000000043,
+        "strict": true,
+        "reason": "transition-6-upper"
+      },
+      {
+        "scale_coefficient": -3.3000000000000003,
+        "offset_coefficient": -1.0,
+        "upper_bound": -1.2000000000000028,
+        "strict": true,
+        "reason": "transition-6-lower"
+      },
+      {
+        "scale_coefficient": 3.4000000000000004,
+        "offset_coefficient": 1.0,
+        "upper_bound": 1.5,
+        "strict": true,
+        "reason": "transition-7-upper"
+      },
+      {
+        "scale_coefficient": -3.5,
+        "offset_coefficient": -1.0,
+        "upper_bound": -1.3999999999999986,
+        "strict": true,
+        "reason": "transition-7-lower"
+      },
+      {
+        "scale_coefficient": 3.6,
+        "offset_coefficient": 1.0,
+        "upper_bound": 1.7000000000000028,
+        "strict": true,
+        "reason": "transition-8-upper"
+      },
+      {
+        "scale_coefficient": -3.7,
+        "offset_coefficient": -1.0,
+        "upper_bound": -1.6000000000000014,
+        "strict": true,
+        "reason": "transition-8-lower"
+      }
+    ],
+    "constraint_coordinate_origins": {
+      "query": 36.55,
+      "history": 0.05
+    },
+    "local_representative": [
+      0.7647508741258754,
+      -1.1792941433566444
+    ],
+    "boundary_witnesses": [
+      {
+        "query_boundary": 37.013341346153844,
+        "history_boundary": 2.1979354193456193,
+        "query_bracket": [
+          36.949999999999996,
+          37.05,
+          true
+        ],
+        "history_bracket": [
+          2.15,
+          2.25,
+          true
+        ]
+      },
+      {
+        "query_boundary": 37.091395323426575,
+        "history_boundary": 2.300000000000003,
+        "query_bracket": [
+          37.05,
+          37.15,
+          true
+        ],
+        "history_bracket": [
+          2.25,
+          2.35,
+          true
+        ]
+      },
+      {
+        "query_boundary": 37.178053977272725,
+        "history_boundary": 2.4133161880268594,
+        "query_bracket": [
+          37.15,
+          37.25,
+          true
+        ],
+        "history_bracket": [
+          2.35,
+          2.45,
+          true
+        ]
+      },
+      {
+        "query_boundary": 37.31629152097902,
+        "history_boundary": 2.5940777253893423,
+        "query_bracket": [
+          37.25,
+          37.35,
+          true
+        ],
+        "history_bracket": [
+          2.55,
+          2.65,
+          true
+        ]
+      },
+      {
+        "query_boundary": 37.481004152097896,
+        "history_boundary": 2.809458494070573,
+        "query_bracket": [
+          37.449999999999996,
+          37.55,
+          true
+        ],
+        "history_bracket": [
+          2.75,
+          2.85,
+          true
+        ]
+      },
+      {
+        "query_boundary": 37.70319602272727,
+        "history_boundary": 3.099999999999995,
+        "query_bracket": [
+          37.65,
+          37.75,
+          true
+        ],
+        "history_bracket": [
+          3.05,
+          3.15,
+          true
+        ]
+      },
+      {
+        "query_boundary": 37.83395432692308,
+        "history_boundary": 3.2709815687955426,
+        "query_bracket": [
+          37.75,
+          37.85,
+          true
+        ],
+        "history_bracket": [
+          3.25,
+          3.35,
+          true
+        ]
+      },
+      {
+        "query_boundary": 38.00909637237763,
+        "history_boundary": 3.5000000000000053,
+        "query_bracket": [
+          37.949999999999996,
+          38.05,
+          true
+        ],
+        "history_bracket": [
+          3.45,
+          3.55,
+          true
+        ]
+      },
+      {
+        "query_boundary": 38.17514204545455,
+        "history_boundary": 3.717123874839267,
+        "query_bracket": [
+          38.15,
+          38.25,
+          true
+        ],
+        "history_bracket": [
+          3.65,
+          3.75,
+          true
+        ]
+      }
+    ],
+    "correspondence": [
+      {
+        "query_pitch": 74,
+        "history_pitch": 74,
+        "query_row_ids": [
+          365,
+          366,
+          367,
+          368,
+          369
+        ],
+        "history_row_ids": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "query_interval": [
+          36.55,
+          36.949999999999996
+        ],
+        "history_interval": [
+          1.35,
+          2.15
+        ]
+      },
+      {
+        "query_pitch": 72,
+        "history_pitch": 72,
+        "query_row_ids": [
+          370
+        ],
+        "history_row_ids": [
+          22
+        ],
+        "query_interval": [
+          37.05,
+          37.05
+        ],
+        "history_interval": [
+          2.25,
+          2.25
+        ]
+      },
+      {
+        "query_pitch": 74,
+        "history_pitch": 74,
+        "query_row_ids": [
+          371
+        ],
+        "history_row_ids": [
+          23
+        ],
+        "query_interval": [
+          37.15,
+          37.15
+        ],
+        "history_interval": [
+          2.35,
+          2.35
+        ]
+      },
+      {
+        "query_pitch": 75,
+        "history_pitch": 75,
+        "query_row_ids": [
+          372
+        ],
+        "history_row_ids": [
+          24,
+          25
+        ],
+        "query_interval": [
+          37.25,
+          37.25
+        ],
+        "history_interval": [
+          2.45,
+          2.55
+        ]
+      },
+      {
+        "query_pitch": 74,
+        "history_pitch": 74,
+        "query_row_ids": [
+          373,
+          374
+        ],
+        "history_row_ids": [
+          26,
+          27
+        ],
+        "query_interval": [
+          37.35,
+          37.449999999999996
+        ],
+        "history_interval": [
+          2.65,
+          2.75
+        ]
+      },
+      {
+        "query_pitch": 72,
+        "history_pitch": 72,
+        "query_row_ids": [
+          375,
+          376
+        ],
+        "history_row_ids": [
+          28,
+          29,
+          30
+        ],
+        "query_interval": [
+          37.55,
+          37.65
+        ],
+        "history_interval": [
+          2.85,
+          3.05
+        ]
+      },
+      {
+        "query_pitch": 74,
+        "history_pitch": 74,
+        "query_row_ids": [
+          377
+        ],
+        "history_row_ids": [
+          31,
+          32
+        ],
+        "query_interval": [
+          37.75,
+          37.75
+        ],
+        "history_interval": [
+          3.15,
+          3.25
+        ]
+      },
+      {
+        "query_pitch": 75,
+        "history_pitch": 75,
+        "query_row_ids": [
+          378,
+          379
+        ],
+        "history_row_ids": [
+          33,
+          34
+        ],
+        "query_interval": [
+          37.85,
+          37.949999999999996
+        ],
+        "history_interval": [
+          3.35,
+          3.45
+        ]
+      },
+      {
+        "query_pitch": 77,
+        "history_pitch": 77,
+        "query_row_ids": [
+          380,
+          381
+        ],
+        "history_row_ids": [
+          35,
+          36
+        ],
+        "query_interval": [
+          38.05,
+          38.15
+        ],
+        "history_interval": [
+          3.55,
+          3.65
+        ]
+      },
+      {
+        "query_pitch": 79,
+        "history_pitch": 79,
+        "query_row_ids": [
+          382,
+          383,
+          384
+        ],
+        "history_row_ids": [
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43
+        ],
+        "query_interval": [
+          38.25,
+          38.45
+        ],
+        "history_interval": [
+          3.75,
+          4.35
+        ]
+      }
+    ],
+    "history_support": [
+      0.05,
+      35.949999999999996
+    ],
+    "verified_query_rows": [
+      365,
+      366,
+      367,
+      368,
+      369,
+      370,
+      371,
+      372,
+      373,
+      374,
+      375,
+      376,
+      377,
+      378,
+      379,
+      380,
+      381,
+      382,
+      383,
+      384
+    ],
+    "verified_history_rows": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "query_rows_verified": 20,
+    "query_rows_skipped": 0,
+    "query_runs_verified": 10,
+    "query_runs_skipped": 0,
+    "history_rows_verified": 25,
+    "contradictions": 0,
+    "continuous_exact_support_verified": false,
+    "evidence_score": 1.0,
+    "occurrence_key": [
+      0,
+      3,
+      12,
+      0
+    ],
+    "history_component": 0,
+    "history_run_range": [
+      3,
+      12
+    ]
+  },
+  "candidates": [
+    {
+      "start": 1.5920631518788386,
+      "end": 4.076532361765969,
+      "center": 2.8342977568224037,
+      "shift": 0,
+      "scale": 0.7647508741258754,
+      "stretch": 0.7647508741258754,
+      "scale_range": [
+        0.6875000000000009,
+        0.8750000000000022
+      ],
+      "offset": 35.33246831293706,
+      "offset_range": [
+        35.006249999999994,
+        35.571875
+      ],
+      "start_range": [
+        1.422727272727274,
+        1.7642857142857131
+      ],
+      "end_range": [
+        3.935714285714285,
+        4.186363636363642
+      ],
+      "parameter_uncertain": true,
+      "feasible_polygon": [
+        [
+          0.7272727272727311,
+          35.48636363636362
+        ],
+        [
+          0.6875000000000009,
+          35.571875
+        ],
+        [
+          0.7692307692307672,
+          35.26538461538462
+        ],
+        [
+          0.8750000000000022,
+          35.006249999999994
+        ]
+      ],
+      "polygon_coordinate_order": [
+        "scale",
+        "global_offset"
+      ],
+      "polygon_is_closure": true,
+      "constraints": [
+        {
+          "scale_coefficient": 0.0,
+          "offset_coefficient": 1.0,
+          "upper_bound": 0.0,
+          "strict": false,
+          "reason": "retained-support-start"
+        },
+        {
+          "scale_coefficient": -35.9,
+          "offset_coefficient": -1.0,
+          "upper_bound": -1.9000000000000057,
+          "strict": false,
+          "reason": "retained-support-end"
+        },
+        {
+          "scale_coefficient": 1.2000000000000002,
+          "offset_coefficient": 1.0,
+          "upper_bound": 0.0,
+          "strict": true,
+          "reason": "first-run-coverage"
+        },
+        {
+          "scale_coefficient": -4.4,
+          "offset_coefficient": -1.0,
+          "upper_bound": -1.9000000000000057,
+          "strict": true,
+          "reason": "last-run-coverage"
+        },
+        {
+          "scale_coefficient": 2.1,
+          "offset_coefficient": 1.0,
+          "upper_bound": 0.5,
+          "strict": true,
+          "reason": "transition-0-upper"
+        },
+        {
+          "scale_coefficient": -2.2,
+          "offset_coefficient": -1.0,
+          "upper_bound": -0.3999999999999986,
+          "strict": true,
+          "reason": "transition-0-lower"
+        },
+        {
+          "scale_coefficient": 2.2,
+          "offset_coefficient": 1.0,
+          "upper_bound": 0.6000000000000014,
+          "strict": true,
+          "reason": "transition-1-upper"
+        },
+        {
+          "scale_coefficient": -2.3000000000000003,
+          "offset_coefficient": -1.0,
+          "upper_bound": -0.5,
+          "strict": true,
+          "reason": "transition-1-lower"
+        },
+        {
+          "scale_coefficient": 2.3000000000000003,
+          "offset_coefficient": 1.0,
+          "upper_bound": 0.7000000000000028,
+          "strict": true,
+          "reason": "transition-2-upper"
+        },
+        {
+          "scale_coefficient": -2.4000000000000004,
+          "offset_coefficient": -1.0,
+          "upper_bound": -0.6000000000000014,
+          "strict": true,
+          "reason": "transition-2-lower"
+        },
+        {
+          "scale_coefficient": 2.5,
+          "offset_coefficient": 1.0,
+          "upper_bound": 0.8000000000000043,
+          "strict": true,
+          "reason": "transition-3-upper"
+        },
+        {
+          "scale_coefficient": -2.6,
+          "offset_coefficient": -1.0,
+          "upper_bound": -0.7000000000000028,
+          "strict": true,
+          "reason": "transition-3-lower"
+        },
+        {
+          "scale_coefficient": 2.7,
+          "offset_coefficient": 1.0,
+          "upper_bound": 1.0,
+          "strict": true,
+          "reason": "transition-4-upper"
+        },
+        {
+          "scale_coefficient": -2.8000000000000003,
+          "offset_coefficient": -1.0,
+          "upper_bound": -0.8999999999999986,
+          "strict": true,
+          "reason": "transition-4-lower"
+        },
+        {
+          "scale_coefficient": 3.0,
+          "offset_coefficient": 1.0,
+          "upper_bound": 1.2000000000000028,
+          "strict": true,
+          "reason": "transition-5-upper"
+        },
+        {
+          "scale_coefficient": -3.1,
+          "offset_coefficient": -1.0,
+          "upper_bound": -1.1000000000000014,
+          "strict": true,
+          "reason": "transition-5-lower"
+        },
+        {
+          "scale_coefficient": 3.2,
+          "offset_coefficient": 1.0,
+          "upper_bound": 1.3000000000000043,
+          "strict": true,
+          "reason": "transition-6-upper"
+        },
+        {
+          "scale_coefficient": -3.3000000000000003,
+          "offset_coefficient": -1.0,
+          "upper_bound": -1.2000000000000028,
+          "strict": true,
+          "reason": "transition-6-lower"
+        },
+        {
+          "scale_coefficient": 3.4000000000000004,
+          "offset_coefficient": 1.0,
+          "upper_bound": 1.5,
+          "strict": true,
+          "reason": "transition-7-upper"
+        },
+        {
+          "scale_coefficient": -3.5,
+          "offset_coefficient": -1.0,
+          "upper_bound": -1.3999999999999986,
+          "strict": true,
+          "reason": "transition-7-lower"
+        },
+        {
+          "scale_coefficient": 3.6,
+          "offset_coefficient": 1.0,
+          "upper_bound": 1.7000000000000028,
+          "strict": true,
+          "reason": "transition-8-upper"
+        },
+        {
+          "scale_coefficient": -3.7,
+          "offset_coefficient": -1.0,
+          "upper_bound": -1.6000000000000014,
+          "strict": true,
+          "reason": "transition-8-lower"
+        }
+      ],
+      "constraint_coordinate_origins": {
+        "query": 36.55,
+        "history": 0.05
+      },
+      "local_representative": [
+        0.7647508741258754,
+        -1.1792941433566444
+      ],
+      "boundary_witnesses": [
+        {
+          "query_boundary": 37.013341346153844,
+          "history_boundary": 2.1979354193456193,
+          "query_bracket": [
+            36.949999999999996,
+            37.05,
+            true
+          ],
+          "history_bracket": [
+            2.15,
+            2.25,
+            true
+          ]
+        },
+        {
+          "query_boundary": 37.091395323426575,
+          "history_boundary": 2.300000000000003,
+          "query_bracket": [
+            37.05,
+            37.15,
+            true
+          ],
+          "history_bracket": [
+            2.25,
+            2.35,
+            true
+          ]
+        },
+        {
+          "query_boundary": 37.178053977272725,
+          "history_boundary": 2.4133161880268594,
+          "query_bracket": [
+            37.15,
+            37.25,
+            true
+          ],
+          "history_bracket": [
+            2.35,
+            2.45,
+            true
+          ]
+        },
+        {
+          "query_boundary": 37.31629152097902,
+          "history_boundary": 2.5940777253893423,
+          "query_bracket": [
+            37.25,
+            37.35,
+            true
+          ],
+          "history_bracket": [
+            2.55,
+            2.65,
+            true
+          ]
+        },
+        {
+          "query_boundary": 37.481004152097896,
+          "history_boundary": 2.809458494070573,
+          "query_bracket": [
+            37.449999999999996,
+            37.55,
+            true
+          ],
+          "history_bracket": [
+            2.75,
+            2.85,
+            true
+          ]
+        },
+        {
+          "query_boundary": 37.70319602272727,
+          "history_boundary": 3.099999999999995,
+          "query_bracket": [
+            37.65,
+            37.75,
+            true
+          ],
+          "history_bracket": [
+            3.05,
+            3.15,
+            true
+          ]
+        },
+        {
+          "query_boundary": 37.83395432692308,
+          "history_boundary": 3.2709815687955426,
+          "query_bracket": [
+            37.75,
+            37.85,
+            true
+          ],
+          "history_bracket": [
+            3.25,
+            3.35,
+            true
+          ]
+        },
+        {
+          "query_boundary": 38.00909637237763,
+          "history_boundary": 3.5000000000000053,
+          "query_bracket": [
+            37.949999999999996,
+            38.05,
+            true
+          ],
+          "history_bracket": [
+            3.45,
+            3.55,
+            true
+          ]
+        },
+        {
+          "query_boundary": 38.17514204545455,
+          "history_boundary": 3.717123874839267,
+          "query_bracket": [
+            38.15,
+            38.25,
+            true
+          ],
+          "history_bracket": [
+            3.65,
+            3.75,
+            true
+          ]
+        }
+      ],
+      "correspondence": [
+        {
+          "query_pitch": 74,
+          "history_pitch": 74,
+          "query_row_ids": [
+            365,
+            366,
+            367,
+            368,
+            369
+          ],
+          "history_row_ids": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ],
+          "query_interval": [
+            36.55,
+            36.949999999999996
+          ],
+          "history_interval": [
+            1.35,
+            2.15
+          ]
+        },
+        {
+          "query_pitch": 72,
+          "history_pitch": 72,
+          "query_row_ids": [
+            370
+          ],
+          "history_row_ids": [
+            22
+          ],
+          "query_interval": [
+            37.05,
+            37.05
+          ],
+          "history_interval": [
+            2.25,
+            2.25
+          ]
+        },
+        {
+          "query_pitch": 74,
+          "history_pitch": 74,
+          "query_row_ids": [
+            371
+          ],
+          "history_row_ids": [
+            23
+          ],
+          "query_interval": [
+            37.15,
+            37.15
+          ],
+          "history_interval": [
+            2.35,
+            2.35
+          ]
+        },
+        {
+          "query_pitch": 75,
+          "history_pitch": 75,
+          "query_row_ids": [
+            372
+          ],
+          "history_row_ids": [
+            24,
+            25
+          ],
+          "query_interval": [
+            37.25,
+            37.25
+          ],
+          "history_interval": [
+            2.45,
+            2.55
+          ]
+        },
+        {
+          "query_pitch": 74,
+          "history_pitch": 74,
+          "query_row_ids": [
+            373,
+            374
+          ],
+          "history_row_ids": [
+            26,
+            27
+          ],
+          "query_interval": [
+            37.35,
+            37.449999999999996
+          ],
+          "history_interval": [
+            2.65,
+            2.75
+          ]
+        },
+        {
+          "query_pitch": 72,
+          "history_pitch": 72,
+          "query_row_ids": [
+            375,
+            376
+          ],
+          "history_row_ids": [
+            28,
+            29,
+            30
+          ],
+          "query_interval": [
+            37.55,
+            37.65
+          ],
+          "history_interval": [
+            2.85,
+            3.05
+          ]
+        },
+        {
+          "query_pitch": 74,
+          "history_pitch": 74,
+          "query_row_ids": [
+            377
+          ],
+          "history_row_ids": [
+            31,
+            32
+          ],
+          "query_interval": [
+            37.75,
+            37.75
+          ],
+          "history_interval": [
+            3.15,
+            3.25
+          ]
+        },
+        {
+          "query_pitch": 75,
+          "history_pitch": 75,
+          "query_row_ids": [
+            378,
+            379
+          ],
+          "history_row_ids": [
+            33,
+            34
+          ],
+          "query_interval": [
+            37.85,
+            37.949999999999996
+          ],
+          "history_interval": [
+            3.35,
+            3.45
+          ]
+        },
+        {
+          "query_pitch": 77,
+          "history_pitch": 77,
+          "query_row_ids": [
+            380,
+            381
+          ],
+          "history_row_ids": [
+            35,
+            36
+          ],
+          "query_interval": [
+            38.05,
+            38.15
+          ],
+          "history_interval": [
+            3.55,
+            3.65
+          ]
+        },
+        {
+          "query_pitch": 79,
+          "history_pitch": 79,
+          "query_row_ids": [
+            382,
+            383,
+            384
+          ],
+          "history_row_ids": [
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43
+          ],
+          "query_interval": [
+            38.25,
+            38.45
+          ],
+          "history_interval": [
+            3.75,
+            4.35
+          ]
+        }
+      ],
+      "history_support": [
+        0.05,
+        35.949999999999996
+      ],
+      "verified_query_rows": [
+        365,
+        366,
+        367,
+        368,
+        369,
+        370,
+        371,
+        372,
+        373,
+        374,
+        375,
+        376,
+        377,
+        378,
+        379,
+        380,
+        381,
+        382,
+        383,
+        384
+      ],
+      "verified_history_rows": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "query_rows_verified": 20,
+      "query_rows_skipped": 0,
+      "query_runs_verified": 10,
+      "query_runs_skipped": 0,
+      "history_rows_verified": 25,
+      "contradictions": 0,
+      "continuous_exact_support_verified": false,
+      "evidence_score": 1.0,
+      "occurrence_key": [
+        0,
+        3,
+        12,
+        0
+      ],
+      "history_component": 0,
+      "history_run_range": [
+        3,
+        12
+      ]
+    }
+  ],
+  "distance": 0.0,
+  "reason": "unique full-consistent occurrence",
+  "candidate_count": 1,
+  "query_rows_skipped": 0,
+  "contradictions": 0,
+  "parameter_uncertain": true,
+  "transform_convention": "query_time=scale*history_time+offset;query_pitch=history_pitch+shift",
+  "query_row_ids": [
+    365,
+    366,
+    367,
+    368,
+    369,
+    370,
+    371,
+    372,
+    373,
+    374,
+    375,
+    376,
+    377,
+    378,
+    379,
+    380,
+    381,
+    382,
+    383,
+    384
+  ],
+  "query_rows_available": 20,
+  "query_support": [
+    36.55,
+    38.45
+  ],
+  "query_display_bin_support": [
+    36.5,
+    38.5
+  ],
+  "history_row_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176,
+    177,
+    178,
+    179,
+    180,
+    181,
+    182,
+    183,
+    184,
+    185,
+    186,
+    187,
+    188,
+    189,
+    190,
+    191,
+    192,
+    193,
+    194,
+    195,
+    196,
+    197,
+    198,
+    199,
+    200,
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209,
+    210,
+    211,
+    212,
+    213,
+    214,
+    215,
+    216,
+    217,
+    218,
+    219,
+    220,
+    221,
+    222,
+    223,
+    224,
+    225,
+    226,
+    227,
+    228,
+    229,
+    230,
+    231,
+    232,
+    233,
+    234,
+    235,
+    236,
+    237,
+    238,
+    239,
+    240,
+    241,
+    242,
+    243,
+    244,
+    245,
+    246,
+    247,
+    248,
+    249,
+    250,
+    251,
+    252,
+    253,
+    254,
+    255,
+    256,
+    257,
+    258,
+    259,
+    260,
+    261,
+    262,
+    263,
+    264,
+    265,
+    266,
+    267,
+    268,
+    269,
+    270,
+    271,
+    272,
+    273,
+    274,
+    275,
+    276,
+    277,
+    278,
+    279,
+    280,
+    281,
+    282,
+    283,
+    284,
+    285,
+    286,
+    287,
+    288,
+    289,
+    290,
+    291,
+    292,
+    293,
+    294,
+    295,
+    296,
+    297,
+    298,
+    299,
+    300,
+    301,
+    302,
+    303,
+    304,
+    305,
+    306,
+    307,
+    308,
+    309,
+    310,
+    311,
+    312,
+    313,
+    314,
+    315,
+    316,
+    317,
+    318,
+    319,
+    320,
+    321,
+    322,
+    323,
+    324,
+    325,
+    326,
+    327,
+    328,
+    329,
+    330,
+    331,
+    332,
+    333,
+    334,
+    335,
+    336,
+    337,
+    338,
+    339,
+    340,
+    341,
+    342,
+    343,
+    344,
+    345,
+    346,
+    347,
+    348,
+    349,
+    350,
+    351,
+    352,
+    353,
+    354,
+    355,
+    356,
+    357,
+    358,
+    359
+  ],
+  "history_rows_available": 360,
+  "query_run_count": 10,
+  "query_pitch_runs": [
+    74,
+    72,
+    74,
+    75,
+    74,
+    72,
+    74,
+    75,
+    77,
+    79
+  ],
+  "history_component_supports": [
+    [
+      0.05,
+      35.949999999999996
+    ]
+  ],
+  "search": {
+    "run_windows_with_shifts": 990,
+    "pitch_consistent_windows": 4,
+    "feasible_windows": 1,
+    "all_windows_enumerated": true
+  },
+  "query_rows_verified": 20,
+  "query_runs_verified": 10,
+  "mode": "full",
+  "compute_seconds": 0.002041166997514665,
+  "prediction_finished_monotonic": 626506.890290833,
+  "simulation_observations_available_at": 39,
+  "simulation_compute_only_finish": 39.002041166997515,
+  "predictor_accessible_state_bytes": 466618,
+  "retained_peak_bytes": 251942,
+  "scratch_state_bytes": 214710,
+  "peak_rss_bytes": 34586624,
+  "kept_units": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38
+  ],
+  "removed_units": [],
+  "persistent_replacements": 0,
+  "retained_observation_sha256": "8ffe6a9f882a9e017e796ef32defc30a83c12773bcac14429b76a2784ccf1ca0",
+  "retained_timestamps_sha256": "c14688a694028117090dba04eb05777d0d64dc08adfdff3623aacac07418605d",
+  "parent_response_received_monotonic": 626506.890721875,
+  "parent_prediction_request_monotonic": 626506.888118958,
+  "actual_output_availability_upper_bound": 626506.890721875,
+  "readout_roundtrip_seconds": 0.002602917025797069,
+  "simulated_output_availability_upper_bound": 39.0026029170258
+}

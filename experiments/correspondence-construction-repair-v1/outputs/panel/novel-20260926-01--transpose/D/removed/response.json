@@ -1,0 +1,288 @@
+{
+  "accepted": false,
+  "selected": null,
+  "candidate_best": {
+    "start": 5.800000000000001,
+    "end": 7.4,
+    "shift": -5,
+    "stretch": 1.25,
+    "path": [
+      [
+        331,
+        18
+      ],
+      [
+        332,
+        19
+      ],
+      [
+        333,
+        20
+      ],
+      [
+        334,
+        22
+      ],
+      [
+        335,
+        24
+      ],
+      [
+        337,
+        25
+      ],
+      [
+        339,
+        26
+      ],
+      [
+        340,
+        28
+      ],
+      [
+        342,
+        29
+      ],
+      [
+        344,
+        30
+      ],
+      [
+        346,
+        31
+      ],
+      [
+        348,
+        32
+      ],
+      [
+        350,
+        33
+      ]
+    ],
+    "center": 6.6000000000000005,
+    "scale": 1.25,
+    "scale_range": null,
+    "shift_range": [
+      -5,
+      -5
+    ]
+  },
+  "candidates": [
+    {
+      "start": 5.800000000000001,
+      "end": 7.4,
+      "shift": -5,
+      "stretch": 1.25,
+      "path": [
+        [
+          331,
+          18
+        ],
+        [
+          332,
+          19
+        ],
+        [
+          333,
+          20
+        ],
+        [
+          334,
+          22
+        ],
+        [
+          335,
+          24
+        ],
+        [
+          337,
+          25
+        ],
+        [
+          339,
+          26
+        ],
+        [
+          340,
+          28
+        ],
+        [
+          342,
+          29
+        ],
+        [
+          344,
+          30
+        ],
+        [
+          346,
+          31
+        ],
+        [
+          348,
+          32
+        ],
+        [
+          350,
+          33
+        ]
+      ],
+      "center": 6.6000000000000005,
+      "scale": 1.25,
+      "scale_range": null,
+      "shift_range": [
+        -5,
+        -5
+      ]
+    }
+  ],
+  "reason": "historical_rejection",
+  "query_support": [
+    37.1,
+    39.099999999999994
+  ],
+  "raw_historical": {
+    "distance": 0.05,
+    "hypothesis": {
+      "start": 5.800000000000001,
+      "end": 7.4,
+      "shift": -5,
+      "stretch": 1.25,
+      "path": [
+        [
+          331,
+          18
+        ],
+        [
+          332,
+          19
+        ],
+        [
+          333,
+          20
+        ],
+        [
+          334,
+          22
+        ],
+        [
+          335,
+          24
+        ],
+        [
+          337,
+          25
+        ],
+        [
+          339,
+          26
+        ],
+        [
+          340,
+          28
+        ],
+        [
+          342,
+          29
+        ],
+        [
+          344,
+          30
+        ],
+        [
+          346,
+          31
+        ],
+        [
+          348,
+          32
+        ],
+        [
+          350,
+          33
+        ]
+      ]
+    },
+    "query_support": [
+      37.1,
+      39.099999999999994
+    ],
+    "query_context_support": [
+      37,
+      40
+    ],
+    "history_context_support": [
+      5,
+      8
+    ]
+  },
+  "coverage": {
+    "query_rows": 20,
+    "charged_query_rows": 13,
+    "skipped_query_rows": 7,
+    "full_consistency_verified": false
+  },
+  "method": "D",
+  "mode": "removed",
+  "compute_seconds": 0.00477499992121011,
+  "prediction_finished_monotonic": 626516.499988291,
+  "simulation_observations_available_at": 40,
+  "simulation_compute_only_finish": 40.00477499992121,
+  "predictor_accessible_state_bytes": 430894,
+  "retained_peak_bytes": 258370,
+  "scratch_state_bytes": 198270,
+  "peak_rss_bytes": 36274176,
+  "kept_units": [
+    0,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39
+  ],
+  "removed_units": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "persistent_replacements": 0,
+  "retained_observation_sha256": "d6cd8aa69927b0f93551cfe59ea7924afe19f6a141c33aee2947f7876f34a0a7",
+  "retained_timestamps_sha256": "1de17062abde39e545adec14c0e46b0f4edbeb050cdc84e0d6080d61610f5621",
+  "parent_response_received_monotonic": 626516.500114916,
+  "parent_prediction_request_monotonic": 626516.495076666,
+  "actual_output_availability_upper_bound": 626516.500114916,
+  "readout_roundtrip_seconds": 0.00503825000487268,
+  "simulated_output_availability_upper_bound": 40.00503825000487
+}

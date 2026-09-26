@@ -1,0 +1,2059 @@
+{
+  "schema": "correspondence-independent-saved-output-validation-v1",
+  "started_utc": "2026-09-26T06:04:14.166190+00:00",
+  "completed_utc": "2026-09-26T06:04:14.314397+00:00",
+  "passed": true,
+  "completed_readouts": {
+    "panel": 264,
+    "diagnostics": 24
+  },
+  "errors": [],
+  "checks": [
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--unchanged",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--unchanged",
+      "method": "D",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--unchanged",
+      "method": "D",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--unchanged",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--unchanged",
+      "method": "G",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--unchanged",
+      "method": "G",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--unchanged",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--unchanged",
+      "method": "G-exact",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--unchanged",
+      "method": "G-exact",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--transpose",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--transpose",
+      "method": "D",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--transpose",
+      "method": "D",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--transpose",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--transpose",
+      "method": "G",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--transpose",
+      "method": "G",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--transpose",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--transpose",
+      "method": "G-exact",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--transpose",
+      "method": "G-exact",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--stretch",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--stretch",
+      "method": "D",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--stretch",
+      "method": "D",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--stretch",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--stretch",
+      "method": "G",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--stretch",
+      "method": "G",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--stretch",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--stretch",
+      "method": "G-exact",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--stretch",
+      "method": "G-exact",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--inventory_foil",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--inventory_foil",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--inventory_foil",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--near_foil",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--near_foil",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv773-notes24-35--near_foil",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--unchanged",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--unchanged",
+      "method": "D",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--unchanged",
+      "method": "D",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--unchanged",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--unchanged",
+      "method": "G",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--unchanged",
+      "method": "G",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--unchanged",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--unchanged",
+      "method": "G-exact",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--unchanged",
+      "method": "G-exact",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--transpose",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--transpose",
+      "method": "D",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--transpose",
+      "method": "D",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--transpose",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--transpose",
+      "method": "G",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--transpose",
+      "method": "G",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--transpose",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--transpose",
+      "method": "G-exact",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--transpose",
+      "method": "G-exact",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--stretch",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--stretch",
+      "method": "D",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--stretch",
+      "method": "D",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--stretch",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--stretch",
+      "method": "G",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--stretch",
+      "method": "G",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--stretch",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--stretch",
+      "method": "G-exact",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--stretch",
+      "method": "G-exact",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--inventory_foil",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--inventory_foil",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--inventory_foil",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--near_foil",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--near_foil",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv775-notes24-35--near_foil",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--unchanged",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--unchanged",
+      "method": "D",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--unchanged",
+      "method": "D",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--unchanged",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--unchanged",
+      "method": "G",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--unchanged",
+      "method": "G",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--unchanged",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--unchanged",
+      "method": "G-exact",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--unchanged",
+      "method": "G-exact",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--transpose",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--transpose",
+      "method": "D",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--transpose",
+      "method": "D",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--transpose",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--transpose",
+      "method": "G",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--transpose",
+      "method": "G",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--transpose",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--transpose",
+      "method": "G-exact",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--transpose",
+      "method": "G-exact",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--stretch",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--stretch",
+      "method": "D",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--stretch",
+      "method": "D",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--stretch",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--stretch",
+      "method": "G",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--stretch",
+      "method": "G",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--stretch",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--stretch",
+      "method": "G-exact",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--stretch",
+      "method": "G-exact",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--inventory_foil",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--inventory_foil",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--inventory_foil",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--near_foil",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--near_foil",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv778-notes24-35--near_foil",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--unchanged",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--unchanged",
+      "method": "D",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--unchanged",
+      "method": "D",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--unchanged",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--unchanged",
+      "method": "G",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--unchanged",
+      "method": "G",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--unchanged",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--unchanged",
+      "method": "G-exact",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--unchanged",
+      "method": "G-exact",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--transpose",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--transpose",
+      "method": "D",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--transpose",
+      "method": "D",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--transpose",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--transpose",
+      "method": "G",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--transpose",
+      "method": "G",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--transpose",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--transpose",
+      "method": "G-exact",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--transpose",
+      "method": "G-exact",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--stretch",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--stretch",
+      "method": "D",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--stretch",
+      "method": "D",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--stretch",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--stretch",
+      "method": "G",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--stretch",
+      "method": "G",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--stretch",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--stretch",
+      "method": "G-exact",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--stretch",
+      "method": "G-exact",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--inventory_foil",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--inventory_foil",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--inventory_foil",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--near_foil",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--near_foil",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "bach-bwv781-notes24-35--near_foil",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--unchanged",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--unchanged",
+      "method": "D",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--unchanged",
+      "method": "D",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--unchanged",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--unchanged",
+      "method": "G",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--unchanged",
+      "method": "G",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--unchanged",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--unchanged",
+      "method": "G-exact",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--unchanged",
+      "method": "G-exact",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--transpose",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--transpose",
+      "method": "D",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--transpose",
+      "method": "D",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--transpose",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--transpose",
+      "method": "G",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--transpose",
+      "method": "G",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--transpose",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--transpose",
+      "method": "G-exact",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--transpose",
+      "method": "G-exact",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--stretch",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--stretch",
+      "method": "D",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--stretch",
+      "method": "D",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--stretch",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--stretch",
+      "method": "G",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--stretch",
+      "method": "G",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--stretch",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--stretch",
+      "method": "G-exact",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--stretch",
+      "method": "G-exact",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--inventory_foil",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--inventory_foil",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--inventory_foil",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--near_foil",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--near_foil",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-01--near_foil",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--unchanged",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--unchanged",
+      "method": "D",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--unchanged",
+      "method": "D",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--unchanged",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--unchanged",
+      "method": "G",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--unchanged",
+      "method": "G",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--unchanged",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--unchanged",
+      "method": "G-exact",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--unchanged",
+      "method": "G-exact",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--transpose",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--transpose",
+      "method": "D",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--transpose",
+      "method": "D",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--transpose",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--transpose",
+      "method": "G",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--transpose",
+      "method": "G",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--transpose",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--transpose",
+      "method": "G-exact",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--transpose",
+      "method": "G-exact",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--stretch",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--stretch",
+      "method": "D",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--stretch",
+      "method": "D",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--stretch",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--stretch",
+      "method": "G",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--stretch",
+      "method": "G",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--stretch",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--stretch",
+      "method": "G-exact",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--stretch",
+      "method": "G-exact",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--inventory_foil",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--inventory_foil",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--inventory_foil",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--near_foil",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--near_foil",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-02--near_foil",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--unchanged",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--unchanged",
+      "method": "D",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--unchanged",
+      "method": "D",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--unchanged",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--unchanged",
+      "method": "G",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--unchanged",
+      "method": "G",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--unchanged",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--unchanged",
+      "method": "G-exact",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--unchanged",
+      "method": "G-exact",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--transpose",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--transpose",
+      "method": "D",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--transpose",
+      "method": "D",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--transpose",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--transpose",
+      "method": "G",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--transpose",
+      "method": "G",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--transpose",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--transpose",
+      "method": "G-exact",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--transpose",
+      "method": "G-exact",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--stretch",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--stretch",
+      "method": "D",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--stretch",
+      "method": "D",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--stretch",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--stretch",
+      "method": "G",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--stretch",
+      "method": "G",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--stretch",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--stretch",
+      "method": "G-exact",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--stretch",
+      "method": "G-exact",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--inventory_foil",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--inventory_foil",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--inventory_foil",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--near_foil",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--near_foil",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-03--near_foil",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--unchanged",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--unchanged",
+      "method": "D",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--unchanged",
+      "method": "D",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--unchanged",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--unchanged",
+      "method": "G",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--unchanged",
+      "method": "G",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--unchanged",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--unchanged",
+      "method": "G-exact",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--unchanged",
+      "method": "G-exact",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--transpose",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--transpose",
+      "method": "D",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--transpose",
+      "method": "D",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--transpose",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--transpose",
+      "method": "G",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--transpose",
+      "method": "G",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--transpose",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--transpose",
+      "method": "G-exact",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--transpose",
+      "method": "G-exact",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--stretch",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--stretch",
+      "method": "D",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--stretch",
+      "method": "D",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--stretch",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--stretch",
+      "method": "G",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--stretch",
+      "method": "G",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--stretch",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--stretch",
+      "method": "G-exact",
+      "mode": "recent",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--stretch",
+      "method": "G-exact",
+      "mode": "removed",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--inventory_foil",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--inventory_foil",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--inventory_foil",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--near_foil",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--near_foil",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "panel",
+      "session_id": "novel-20260926-04--near_foil",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "skip-middle",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "skip-middle",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "skip-middle",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "skip-late",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "skip-late",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "skip-late",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "skip-silence",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "skip-silence",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "skip-silence",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "skip-double",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "skip-double",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "skip-double",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "collision-world-a",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "collision-world-a",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "collision-world-a",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "collision-world-b",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "collision-world-b",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "collision-world-b",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "collision-transposed",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "collision-transposed",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "collision-transposed",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "collision-constant",
+      "method": "D",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "collision-constant",
+      "method": "G",
+      "mode": "full",
+      "passed": true
+    },
+    {
+      "suite": "diagnostics",
+      "session_id": "collision-constant",
+      "method": "G-exact",
+      "mode": "full",
+      "passed": true
+    }
+  ],
+  "resource_evidence": {
+    "cumulative_calls": 320,
+    "prior_conservative_compute_seconds": 3770.938094,
+    "active_worker_wall_seconds": 817.131123,
+    "parallel_helper_charge_seconds": 900,
+    "additional_compute_seconds": 1717.1311230000001,
+    "cumulative_compute_seconds": 5488.069217,
+    "publication_reserve_seconds": 400,
+    "new_artifact_bytes": 20327178,
+    "spend": 0,
+    "additional_compute_cap_seconds": 3400,
+    "cumulative_compute_cap_seconds": 7200,
+    "call_cap": 400,
+    "qualification_call_cap": 32,
+    "artifact_cap_bytes": 536870912,
+    "prior_calls": 29,
+    "additional_qualification_calls": 3,
+    "completed_musical_calls": 264,
+    "completed_diagnostic_calls": 24,
+    "method_reruns": 0,
+    "new_family_constructions": 1,
+    "reused_sessions": 35,
+    "new_sessions": 5,
+    "as_of_utc": "2026-09-26T06:04:14.067187+00:00"
+  },
+  "ambiguity_certificate_verified": true,
+  "ambiguity_check_scope": "Separate independent construction-checker certificate; no inference from candidate scores.",
+  "new_candidate_calls": 0,
+  "new_material_generations": 0,
+  "verification_scope": "Saved arrival/removal/hash/budget/arithmetic/witness checks; no dynamic matcher completeness proof."
+}

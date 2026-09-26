@@ -1,0 +1,44 @@
+{
+  "accepted": false,
+  "selected": null,
+  "candidate_best": null,
+  "candidates": [],
+  "reason": "historical_rejection",
+  "query_support": null,
+  "raw_historical": {
+    "distance": null,
+    "hypothesis": null,
+    "reason": "no admissible earlier sequence"
+  },
+  "coverage": {
+    "query_rows": 20,
+    "charged_query_rows": 0,
+    "skipped_query_rows": 20,
+    "full_consistency_verified": false
+  },
+  "method": "D",
+  "mode": "recent",
+  "compute_seconds": 0.0015228340635076165,
+  "prediction_finished_monotonic": 626514.41373825,
+  "simulation_observations_available_at": 41,
+  "simulation_compute_only_finish": 41.00152283406351,
+  "predictor_accessible_state_bytes": 49550,
+  "retained_peak_bytes": 264894,
+  "scratch_state_bytes": 22910,
+  "peak_rss_bytes": 34045952,
+  "kept_units": [
+    37,
+    38,
+    39,
+    40
+  ],
+  "removed_units": [],
+  "persistent_replacements": 0,
+  "retained_observation_sha256": "eeb370d624db198b8d1a31e5a91768975e0ee0d713c3acdbd8788cd760eeef39",
+  "retained_timestamps_sha256": "47dd162a0214e9901026e314a08c220d3f2578df2a80a6cbe322f677ec27d81f",
+  "parent_response_received_monotonic": 626514.413790333,
+  "parent_prediction_request_monotonic": 626514.412159666,
+  "actual_output_availability_upper_bound": 626514.413790333,
+  "readout_roundtrip_seconds": 0.001630667014978826,
+  "simulated_output_availability_upper_bound": 41.00163066701498
+}

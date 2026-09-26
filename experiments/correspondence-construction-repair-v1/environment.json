@@ -1,0 +1,9 @@
+{
+  "python": "3.12.14",
+  "numpy": "2.5.3",
+  "platform": "Darwin",
+  "architecture": "arm64",
+  "local_setup_unchanged": true,
+  "model_or_audio_operations": 0,
+  "musical_downloads": 0
+}

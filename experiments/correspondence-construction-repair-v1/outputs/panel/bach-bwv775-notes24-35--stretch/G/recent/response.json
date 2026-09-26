@@ -1,0 +1,104 @@
+{
+  "method": "G",
+  "accepted": false,
+  "selected": null,
+  "hypothesis": null,
+  "candidates": [],
+  "distance": null,
+  "reason": "no full-consistent occurrence",
+  "candidate_count": 0,
+  "query_rows_skipped": 0,
+  "contradictions": 0,
+  "parameter_uncertain": null,
+  "transform_convention": "query_time=scale*history_time+offset;query_pitch=history_pitch+shift",
+  "query_row_ids": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+  ],
+  "query_rows_available": 20,
+  "query_support": [
+    38.05,
+    39.95
+  ],
+  "query_display_bin_support": [
+    38.0,
+    40.0
+  ],
+  "history_row_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "history_rows_available": 10,
+  "query_run_count": 7,
+  "query_pitch_runs": [
+    76,
+    77,
+    74,
+    76,
+    77,
+    79,
+    81
+  ],
+  "history_component_supports": [
+    [
+      37.05,
+      37.949999999999996
+    ]
+  ],
+  "search": {
+    "run_windows_with_shifts": 0,
+    "pitch_consistent_windows": 0,
+    "feasible_windows": 0,
+    "all_windows_enumerated": true
+  },
+  "mode": "recent",
+  "compute_seconds": 0.00012866605538874865,
+  "prediction_finished_monotonic": 626509.380829041,
+  "simulation_observations_available_at": 41,
+  "simulation_compute_only_finish": 41.00012866605539,
+  "predictor_accessible_state_bytes": 49550,
+  "retained_peak_bytes": 264894,
+  "scratch_state_bytes": 22910,
+  "peak_rss_bytes": 34045952,
+  "kept_units": [
+    37,
+    38,
+    39,
+    40
+  ],
+  "removed_units": [],
+  "persistent_replacements": 0,
+  "retained_observation_sha256": "91056d668799b5dc8c076f54a7cab84c3ba7246e49e09226a873b7a42ecbb948",
+  "retained_timestamps_sha256": "47dd162a0214e9901026e314a08c220d3f2578df2a80a6cbe322f677ec27d81f",
+  "parent_response_received_monotonic": 626509.380889916,
+  "parent_prediction_request_monotonic": 626509.380644125,
+  "actual_output_availability_upper_bound": 626509.380889916,
+  "readout_roundtrip_seconds": 0.00024579092860221863,
+  "simulated_output_availability_upper_bound": 41.0002457909286
+}

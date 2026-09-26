@@ -1,0 +1,105 @@
+{
+  "method": "G",
+  "accepted": false,
+  "selected": null,
+  "hypothesis": null,
+  "candidates": [],
+  "distance": null,
+  "reason": "no full-consistent occurrence",
+  "candidate_count": 0,
+  "query_rows_skipped": 0,
+  "contradictions": 0,
+  "parameter_uncertain": null,
+  "transform_convention": "query_time=scale*history_time+offset;query_pitch=history_pitch+shift",
+  "query_row_ids": [
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34
+  ],
+  "query_rows_available": 20,
+  "query_support": [
+    36.55,
+    38.45
+  ],
+  "query_display_bin_support": [
+    36.5,
+    38.5
+  ],
+  "history_row_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "history_rows_available": 10,
+  "query_run_count": 8,
+  "query_pitch_runs": [
+    57,
+    62,
+    60,
+    57,
+    55,
+    57,
+    55,
+    59
+  ],
+  "history_component_supports": [
+    [
+      35.05,
+      35.949999999999996
+    ]
+  ],
+  "search": {
+    "run_windows_with_shifts": 0,
+    "pitch_consistent_windows": 0,
+    "feasible_windows": 0,
+    "all_windows_enumerated": true
+  },
+  "mode": "recent",
+  "compute_seconds": 0.00012791703920811415,
+  "prediction_finished_monotonic": 626517.411391583,
+  "simulation_observations_available_at": 39,
+  "simulation_compute_only_finish": 39.00012791703921,
+  "predictor_accessible_state_bytes": 49550,
+  "retained_peak_bytes": 251942,
+  "scratch_state_bytes": 22910,
+  "peak_rss_bytes": 34111488,
+  "kept_units": [
+    35,
+    36,
+    37,
+    38
+  ],
+  "removed_units": [],
+  "persistent_replacements": 0,
+  "retained_observation_sha256": "ee60fa8a7ff1af24df71204667022067d56d99d10adcd6526051a9e8ed4e335a",
+  "retained_timestamps_sha256": "0a13ff37c2587a695ab47ffd9a81866d3eefc76e2886d4149c66b9a758dd1af5",
+  "parent_response_received_monotonic": 626517.411450375,
+  "parent_prediction_request_monotonic": 626517.411212708,
+  "actual_output_availability_upper_bound": 626517.411450375,
+  "readout_roundtrip_seconds": 0.0002376670017838478,
+  "simulated_output_availability_upper_bound": 39.000237667001784
+}

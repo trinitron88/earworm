@@ -1,0 +1,417 @@
+{
+  "accepted": true,
+  "selected": {
+    "start": 15.9,
+    "end": 17.700000000000003,
+    "shift": 0,
+    "stretch": 1.1111111111111105,
+    "path": [
+      [
+        375,
+        159
+      ],
+      [
+        376,
+        160
+      ],
+      [
+        377,
+        161
+      ],
+      [
+        379,
+        162
+      ],
+      [
+        381,
+        163
+      ],
+      [
+        382,
+        164
+      ],
+      [
+        383,
+        165
+      ],
+      [
+        384,
+        166
+      ],
+      [
+        385,
+        167
+      ],
+      [
+        386,
+        168
+      ],
+      [
+        387,
+        169
+      ],
+      [
+        388,
+        171
+      ],
+      [
+        389,
+        172
+      ],
+      [
+        390,
+        173
+      ],
+      [
+        391,
+        174
+      ],
+      [
+        392,
+        175
+      ],
+      [
+        394,
+        176
+      ]
+    ],
+    "center": 16.8,
+    "scale": 1.1111111111111105,
+    "scale_range": null,
+    "shift_range": [
+      0,
+      0
+    ]
+  },
+  "candidate_best": {
+    "start": 15.9,
+    "end": 17.700000000000003,
+    "shift": 0,
+    "stretch": 1.1111111111111105,
+    "path": [
+      [
+        375,
+        159
+      ],
+      [
+        376,
+        160
+      ],
+      [
+        377,
+        161
+      ],
+      [
+        379,
+        162
+      ],
+      [
+        381,
+        163
+      ],
+      [
+        382,
+        164
+      ],
+      [
+        383,
+        165
+      ],
+      [
+        384,
+        166
+      ],
+      [
+        385,
+        167
+      ],
+      [
+        386,
+        168
+      ],
+      [
+        387,
+        169
+      ],
+      [
+        388,
+        171
+      ],
+      [
+        389,
+        172
+      ],
+      [
+        390,
+        173
+      ],
+      [
+        391,
+        174
+      ],
+      [
+        392,
+        175
+      ],
+      [
+        394,
+        176
+      ]
+    ],
+    "center": 16.8,
+    "scale": 1.1111111111111105,
+    "scale_range": null,
+    "shift_range": [
+      0,
+      0
+    ]
+  },
+  "candidates": [
+    {
+      "start": 15.9,
+      "end": 17.700000000000003,
+      "shift": 0,
+      "stretch": 1.1111111111111105,
+      "path": [
+        [
+          375,
+          159
+        ],
+        [
+          376,
+          160
+        ],
+        [
+          377,
+          161
+        ],
+        [
+          379,
+          162
+        ],
+        [
+          381,
+          163
+        ],
+        [
+          382,
+          164
+        ],
+        [
+          383,
+          165
+        ],
+        [
+          384,
+          166
+        ],
+        [
+          385,
+          167
+        ],
+        [
+          386,
+          168
+        ],
+        [
+          387,
+          169
+        ],
+        [
+          388,
+          171
+        ],
+        [
+          389,
+          172
+        ],
+        [
+          390,
+          173
+        ],
+        [
+          391,
+          174
+        ],
+        [
+          392,
+          175
+        ],
+        [
+          394,
+          176
+        ]
+      ],
+      "center": 16.8,
+      "scale": 1.1111111111111105,
+      "scale_range": null,
+      "shift_range": [
+        0,
+        0
+      ]
+    }
+  ],
+  "reason": "historical_zero_distance_acceptance",
+  "query_support": [
+    37.5,
+    39.5
+  ],
+  "raw_historical": {
+    "distance": 0.0,
+    "hypothesis": {
+      "start": 15.9,
+      "end": 17.700000000000003,
+      "shift": 0,
+      "stretch": 1.1111111111111105,
+      "path": [
+        [
+          375,
+          159
+        ],
+        [
+          376,
+          160
+        ],
+        [
+          377,
+          161
+        ],
+        [
+          379,
+          162
+        ],
+        [
+          381,
+          163
+        ],
+        [
+          382,
+          164
+        ],
+        [
+          383,
+          165
+        ],
+        [
+          384,
+          166
+        ],
+        [
+          385,
+          167
+        ],
+        [
+          386,
+          168
+        ],
+        [
+          387,
+          169
+        ],
+        [
+          388,
+          171
+        ],
+        [
+          389,
+          172
+        ],
+        [
+          390,
+          173
+        ],
+        [
+          391,
+          174
+        ],
+        [
+          392,
+          175
+        ],
+        [
+          394,
+          176
+        ]
+      ]
+    },
+    "query_support": [
+      37.5,
+      39.5
+    ],
+    "query_context_support": [
+      37,
+      40
+    ],
+    "history_context_support": [
+      15,
+      18
+    ]
+  },
+  "coverage": {
+    "query_rows": 20,
+    "charged_query_rows": 17,
+    "skipped_query_rows": 3,
+    "full_consistency_verified": false
+  },
+  "method": "D",
+  "mode": "full",
+  "compute_seconds": 0.0037617089692503214,
+  "prediction_finished_monotonic": 626512.399697125,
+  "simulation_observations_available_at": 40,
+  "simulation_compute_only_finish": 40.00376170896925,
+  "predictor_accessible_state_bytes": 478526,
+  "retained_peak_bytes": 258370,
+  "scratch_state_bytes": 220190,
+  "peak_rss_bytes": 36372480,
+  "kept_units": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39
+  ],
+  "removed_units": [],
+  "persistent_replacements": 0,
+  "retained_observation_sha256": "c7a43c4da4fe27dd7586f74ac4fe336e2f214cf63253d5a94562323cd680230c",
+  "retained_timestamps_sha256": "2f6116b1b641421bbb68a8147fb0b9989bded47cc205fb72c7c4e9be0a682a59",
+  "parent_response_received_monotonic": 626512.399841291,
+  "parent_prediction_request_monotonic": 626512.39579575,
+  "actual_output_availability_upper_bound": 626512.399841291,
+  "readout_roundtrip_seconds": 0.004045541048981249,
+  "simulated_output_availability_upper_bound": 40.00404554104898
+}

@@ -1,0 +1,417 @@
+{
+  "accepted": true,
+  "selected": {
+    "start": 2.1,
+    "end": 4.2,
+    "shift": 0,
+    "stretch": 0.9523809523809521,
+    "path": [
+      [
+        369,
+        21
+      ],
+      [
+        370,
+        22
+      ],
+      [
+        371,
+        23
+      ],
+      [
+        372,
+        25
+      ],
+      [
+        374,
+        26
+      ],
+      [
+        375,
+        27
+      ],
+      [
+        376,
+        29
+      ],
+      [
+        377,
+        30
+      ],
+      [
+        378,
+        31
+      ],
+      [
+        379,
+        33
+      ],
+      [
+        380,
+        34
+      ],
+      [
+        381,
+        36
+      ],
+      [
+        382,
+        37
+      ],
+      [
+        383,
+        38
+      ],
+      [
+        385,
+        39
+      ],
+      [
+        387,
+        40
+      ],
+      [
+        388,
+        41
+      ]
+    ],
+    "center": 3.1500000000000004,
+    "scale": 0.9523809523809521,
+    "scale_range": null,
+    "shift_range": [
+      0,
+      0
+    ]
+  },
+  "candidate_best": {
+    "start": 2.1,
+    "end": 4.2,
+    "shift": 0,
+    "stretch": 0.9523809523809521,
+    "path": [
+      [
+        369,
+        21
+      ],
+      [
+        370,
+        22
+      ],
+      [
+        371,
+        23
+      ],
+      [
+        372,
+        25
+      ],
+      [
+        374,
+        26
+      ],
+      [
+        375,
+        27
+      ],
+      [
+        376,
+        29
+      ],
+      [
+        377,
+        30
+      ],
+      [
+        378,
+        31
+      ],
+      [
+        379,
+        33
+      ],
+      [
+        380,
+        34
+      ],
+      [
+        381,
+        36
+      ],
+      [
+        382,
+        37
+      ],
+      [
+        383,
+        38
+      ],
+      [
+        385,
+        39
+      ],
+      [
+        387,
+        40
+      ],
+      [
+        388,
+        41
+      ]
+    ],
+    "center": 3.1500000000000004,
+    "scale": 0.9523809523809521,
+    "scale_range": null,
+    "shift_range": [
+      0,
+      0
+    ]
+  },
+  "candidates": [
+    {
+      "start": 2.1,
+      "end": 4.2,
+      "shift": 0,
+      "stretch": 0.9523809523809521,
+      "path": [
+        [
+          369,
+          21
+        ],
+        [
+          370,
+          22
+        ],
+        [
+          371,
+          23
+        ],
+        [
+          372,
+          25
+        ],
+        [
+          374,
+          26
+        ],
+        [
+          375,
+          27
+        ],
+        [
+          376,
+          29
+        ],
+        [
+          377,
+          30
+        ],
+        [
+          378,
+          31
+        ],
+        [
+          379,
+          33
+        ],
+        [
+          380,
+          34
+        ],
+        [
+          381,
+          36
+        ],
+        [
+          382,
+          37
+        ],
+        [
+          383,
+          38
+        ],
+        [
+          385,
+          39
+        ],
+        [
+          387,
+          40
+        ],
+        [
+          388,
+          41
+        ]
+      ],
+      "center": 3.1500000000000004,
+      "scale": 0.9523809523809521,
+      "scale_range": null,
+      "shift_range": [
+        0,
+        0
+      ]
+    }
+  ],
+  "reason": "historical_zero_distance_acceptance",
+  "query_support": [
+    36.9,
+    38.9
+  ],
+  "raw_historical": {
+    "distance": 0.0,
+    "hypothesis": {
+      "start": 2.1,
+      "end": 4.2,
+      "shift": 0,
+      "stretch": 0.9523809523809521,
+      "path": [
+        [
+          369,
+          21
+        ],
+        [
+          370,
+          22
+        ],
+        [
+          371,
+          23
+        ],
+        [
+          372,
+          25
+        ],
+        [
+          374,
+          26
+        ],
+        [
+          375,
+          27
+        ],
+        [
+          376,
+          29
+        ],
+        [
+          377,
+          30
+        ],
+        [
+          378,
+          31
+        ],
+        [
+          379,
+          33
+        ],
+        [
+          380,
+          34
+        ],
+        [
+          381,
+          36
+        ],
+        [
+          382,
+          37
+        ],
+        [
+          383,
+          38
+        ],
+        [
+          385,
+          39
+        ],
+        [
+          387,
+          40
+        ],
+        [
+          388,
+          41
+        ]
+      ]
+    },
+    "query_support": [
+      36.9,
+      38.9
+    ],
+    "query_context_support": [
+      36,
+      39
+    ],
+    "history_context_support": [
+      2,
+      5
+    ]
+  },
+  "coverage": {
+    "query_rows": 20,
+    "charged_query_rows": 17,
+    "skipped_query_rows": 3,
+    "full_consistency_verified": false
+  },
+  "method": "D",
+  "mode": "full",
+  "compute_seconds": 0.003669917001388967,
+  "prediction_finished_monotonic": 626522.938966625,
+  "simulation_observations_available_at": 40,
+  "simulation_compute_only_finish": 40.00366991700139,
+  "predictor_accessible_state_bytes": 478526,
+  "retained_peak_bytes": 258370,
+  "scratch_state_bytes": 220190,
+  "peak_rss_bytes": 36536320,
+  "kept_units": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39
+  ],
+  "removed_units": [],
+  "persistent_replacements": 0,
+  "retained_observation_sha256": "14a7b78489566c2577664b90ec2adc3f8b42a5ba6ee98af4dfec7eb5540abf0d",
+  "retained_timestamps_sha256": "2f6116b1b641421bbb68a8147fb0b9989bded47cc205fb72c7c4e9be0a682a59",
+  "parent_response_received_monotonic": 626522.939113125,
+  "parent_prediction_request_monotonic": 626522.935153041,
+  "actual_output_availability_upper_bound": 626522.939113125,
+  "readout_roundtrip_seconds": 0.0039600839372724295,
+  "simulated_output_availability_upper_bound": 40.00396008393727
+}

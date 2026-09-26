@@ -1,0 +1,13 @@
+{
+  "source_interval": [
+    0.0,
+    3.0
+  ],
+  "positive": true,
+  "expected_shift": 0,
+  "expected_scale": 1.0,
+  "family": "collision-transposed",
+  "cell": "collision-transposed",
+  "diagnostic_only": true,
+  "observation_hash": "5a6fb501c8e14b9617a66053431a36309ff8a06a3f7fd8c8d02ccba933020ee6"
+}

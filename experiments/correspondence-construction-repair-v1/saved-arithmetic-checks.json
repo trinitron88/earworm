@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "source": "Previously saved nonmusical qualification result and fixed manifest enumeration only",
+  "candidate_calls": 0,
+  "new_material_generations": 0,
+  "scoring_known_identity_shift_scale_passed": true,
+  "removed_not_scored_as_correct_identity": true,
+  "panel_counts_by_method": {
+    "D": 88,
+    "G": 88,
+    "G-exact": 88
+  },
+  "diagnostic_readouts": 24
+}

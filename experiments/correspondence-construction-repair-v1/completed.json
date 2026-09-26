@@ -1,0 +1,15 @@
+{
+  "status": "awaiting-review",
+  "preparation_branch": "A",
+  "comparison_branch": "B",
+  "selected_method": null,
+  "execution_sha": "30e1ffaa6285dc0ba09c53aca13490aefec95b39",
+  "preregistration_comment": 5843729275,
+  "completed_panel_calls": 264,
+  "completed_diagnostic_calls": 24,
+  "cumulative_calls": 320,
+  "qualification_calls": 32,
+  "candidate_changes_after_freeze": 0,
+  "resume_owner": "Project Earworm PM",
+  "resume_condition": "New explicit bounded disposition after exact-head review; no automatic follow-up"
+}
