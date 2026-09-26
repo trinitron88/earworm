@@ -1,0 +1,38 @@
+{
+  "policies": {
+    "fifo": {
+      "peak_persistent_bytes": 16728,
+      "max_records": 8,
+      "min_replacements": 122,
+      "max_scratch_input_bytes": 270397
+    },
+    "reservoir": {
+      "peak_persistent_bytes": 43737,
+      "max_records": 8,
+      "min_replacements": 27,
+      "max_scratch_input_bytes": 302645
+    },
+    "diversity": {
+      "peak_persistent_bytes": 16789,
+      "max_records": 8,
+      "min_replacements": 44,
+      "max_scratch_input_bytes": 302645
+    },
+    "unpressured": {
+      "peak_persistent_bytes": 178807,
+      "max_records": 130,
+      "min_replacements": 0,
+      "max_scratch_input_bytes": 4204653
+    },
+    "present": {
+      "peak_persistent_bytes": 5603,
+      "max_records": 0,
+      "min_replacements": 0,
+      "max_scratch_input_bytes": 44661
+    }
+  },
+  "source_absent_recent_all": true,
+  "raw_audio_used": false,
+  "output_available_timestamps": "response.simulated_delivery_available_at includes elapsed interval from final arrival receipt through broker response receipt; worker output_ready_monotonic and broker_received_utc are separately saved.",
+  "simulation_not_real_time_playback": true
+}

@@ -1,0 +1,198 @@
+{
+  "method": "G-exact-score",
+  "accepted": false,
+  "selected": null,
+  "hypothesis": null,
+  "candidates": [],
+  "distance": null,
+  "reason": "no full-consistent occurrence",
+  "candidate_count": 0,
+  "query_rows_skipped": 0,
+  "contradictions": 0,
+  "parameter_uncertain": null,
+  "transform_convention": "query_time=scale*history_time+offset;query_pitch=history_pitch+shift",
+  "query_row_ids": [
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36
+  ],
+  "query_rows_available": 20,
+  "query_support": [
+    517.75,
+    519.65
+  ],
+  "query_display_bin_support": [
+    517.7,
+    519.6999999999999
+  ],
+  "history_row_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "history_rows_available": 10,
+  "query_run_count": 6,
+  "query_pitch_runs": [
+    56,
+    53,
+    54,
+    58,
+    54,
+    53
+  ],
+  "history_component_supports": [
+    [
+      516.05,
+      516.9499999999999
+    ]
+  ],
+  "search": {
+    "run_windows_with_shifts": 0,
+    "pitch_consistent_windows": 0,
+    "feasible_windows": 0,
+    "all_windows_enumerated": true
+  },
+  "type": "prediction",
+  "policy": "present",
+  "raw": {
+    "method": "G-exact-score",
+    "accepted": false,
+    "selected": null,
+    "hypothesis": null,
+    "candidates": [],
+    "distance": null,
+    "reason": "no full-consistent occurrence",
+    "candidate_count": 0,
+    "query_rows_skipped": 0,
+    "contradictions": 0,
+    "parameter_uncertain": null,
+    "transform_convention": "query_time=scale*history_time+offset;query_pitch=history_pitch+shift",
+    "query_row_ids": [
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "query_rows_available": 20,
+    "query_support": [
+      517.75,
+      519.65
+    ],
+    "query_display_bin_support": [
+      517.7,
+      519.6999999999999
+    ],
+    "history_row_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "history_rows_available": 10,
+    "query_run_count": 6,
+    "query_pitch_runs": [
+      56,
+      53,
+      54,
+      58,
+      54,
+      53
+    ],
+    "history_component_supports": [
+      [
+        516.05,
+        516.9499999999999
+      ]
+    ],
+    "search": {
+      "run_windows_with_shifts": 0,
+      "pitch_consistent_windows": 0,
+      "feasible_windows": 0,
+      "all_windows_enumerated": true
+    }
+  },
+  "candidate_record_mappings": [],
+  "candidate_record_ids": [],
+  "selected_record_id": null,
+  "compatible_record_ids": [],
+  "retained_records": [],
+  "recent_units": [
+    516,
+    517,
+    518,
+    519
+  ],
+  "ring_events_sha256": "19b66bf20586f2ad315820d833b5d89ee541cf2a6d9906852cf79933cc0537c8",
+  "replacements": 0,
+  "persistent_replacements": 0,
+  "admission_rejections": 130,
+  "recent_evictions": 516,
+  "persistent_bytes": 5129,
+  "peak_persistent_bytes": 5603,
+  "scratch_input_bytes": 44661,
+  "scratch_output_bytes": 4821,
+  "scratch_construction_bytes": 48230,
+  "peak_policy_scratch_bytes": 1640,
+  "peak_rss_bytes": 36143104,
+  "compute_seconds": 0.0002300409832969308,
+  "prediction_finished_monotonic": 641322.526699416,
+  "simulation_observations_available_at": 520,
+  "simulation_compute_only_finish": 520.0002300409833,
+  "input_events_sha256": "8ca6101b188b983b0de47b8a997430a86a80d48f9d9caff85cfb9ed455958109",
+  "query_and_history_rule": "unchanged frozen G-exact; no query identity supplied",
+  "output_ready_monotonic": 641322.526742416,
+  "processing_seconds": 0.0003823329461738467,
+  "output_available_at": 520.0003823329462,
+  "output_availability_semantics": "completed-unit time plus local processing; broker records actual receipt",
+  "removed_record_ids": [],
+  "source_removed": false,
+  "broker_received_monotonic": 641322.526801375,
+  "broker_received_utc": "2026-09-26T18:14:41.687953+00:00",
+  "simulated_delivery_available_at": 520.0007909589913
+}

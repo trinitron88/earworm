@@ -1,0 +1,399 @@
+{
+  "split": "evaluation",
+  "readouts": 560,
+  "metrics": {
+    "fifo": {
+      "positive": {
+        "unchanged": {
+          "n": 16,
+          "identity_correct": 0,
+          "joint_pitch_correct": 0,
+          "joint_scale_correct": 0,
+          "joint_all_correct": 0,
+          "source_retained": 0,
+          "set_contains_complete_truth": 0,
+          "abstained": 16
+        },
+        "transpose": {
+          "n": 16,
+          "identity_correct": 0,
+          "joint_pitch_correct": 0,
+          "joint_scale_correct": 0,
+          "joint_all_correct": 0,
+          "source_retained": 0,
+          "set_contains_complete_truth": 0,
+          "abstained": 16
+        },
+        "stretch": {
+          "n": 16,
+          "identity_correct": 0,
+          "joint_pitch_correct": 0,
+          "joint_scale_correct": 0,
+          "joint_all_correct": 0,
+          "source_retained": 0,
+          "set_contains_complete_truth": 0,
+          "abstained": 16
+        }
+      },
+      "foil_accepted": 0,
+      "foil_n": 16,
+      "removed_accepted": 0,
+      "removed_n": 48,
+      "scientific_gates_pass": false,
+      "pressure_gates_pass": true,
+      "min_replacements": 122,
+      "max_persistent_bytes": 16728,
+      "by_stratum": {
+        "bach": {
+          "unchanged": {
+            "n": 8,
+            "identity": 0,
+            "joint_all": 0
+          },
+          "transpose": {
+            "n": 8,
+            "identity": 0,
+            "joint_all": 0
+          },
+          "stretch": {
+            "n": 8,
+            "identity": 0,
+            "joint_all": 0
+          }
+        },
+        "novel": {
+          "unchanged": {
+            "n": 8,
+            "identity": 0,
+            "joint_all": 0
+          },
+          "transpose": {
+            "n": 8,
+            "identity": 0,
+            "joint_all": 0
+          },
+          "stretch": {
+            "n": 8,
+            "identity": 0,
+            "joint_all": 0
+          }
+        }
+      }
+    },
+    "reservoir": {
+      "positive": {
+        "unchanged": {
+          "n": 16,
+          "identity_correct": 0,
+          "joint_pitch_correct": 0,
+          "joint_scale_correct": 0,
+          "joint_all_correct": 0,
+          "source_retained": 0,
+          "set_contains_complete_truth": 0,
+          "abstained": 16
+        },
+        "transpose": {
+          "n": 16,
+          "identity_correct": 0,
+          "joint_pitch_correct": 0,
+          "joint_scale_correct": 0,
+          "joint_all_correct": 0,
+          "source_retained": 0,
+          "set_contains_complete_truth": 0,
+          "abstained": 16
+        },
+        "stretch": {
+          "n": 16,
+          "identity_correct": 0,
+          "joint_pitch_correct": 0,
+          "joint_scale_correct": 0,
+          "joint_all_correct": 0,
+          "source_retained": 0,
+          "set_contains_complete_truth": 0,
+          "abstained": 16
+        }
+      },
+      "foil_accepted": 0,
+      "foil_n": 16,
+      "removed_accepted": 0,
+      "removed_n": 48,
+      "scientific_gates_pass": false,
+      "pressure_gates_pass": true,
+      "min_replacements": 27,
+      "max_persistent_bytes": 43737,
+      "by_stratum": {
+        "bach": {
+          "unchanged": {
+            "n": 8,
+            "identity": 0,
+            "joint_all": 0
+          },
+          "transpose": {
+            "n": 8,
+            "identity": 0,
+            "joint_all": 0
+          },
+          "stretch": {
+            "n": 8,
+            "identity": 0,
+            "joint_all": 0
+          }
+        },
+        "novel": {
+          "unchanged": {
+            "n": 8,
+            "identity": 0,
+            "joint_all": 0
+          },
+          "transpose": {
+            "n": 8,
+            "identity": 0,
+            "joint_all": 0
+          },
+          "stretch": {
+            "n": 8,
+            "identity": 0,
+            "joint_all": 0
+          }
+        }
+      }
+    },
+    "diversity": {
+      "positive": {
+        "unchanged": {
+          "n": 16,
+          "identity_correct": 0,
+          "joint_pitch_correct": 0,
+          "joint_scale_correct": 0,
+          "joint_all_correct": 0,
+          "source_retained": 0,
+          "set_contains_complete_truth": 0,
+          "abstained": 16
+        },
+        "transpose": {
+          "n": 16,
+          "identity_correct": 0,
+          "joint_pitch_correct": 0,
+          "joint_scale_correct": 0,
+          "joint_all_correct": 0,
+          "source_retained": 0,
+          "set_contains_complete_truth": 0,
+          "abstained": 16
+        },
+        "stretch": {
+          "n": 16,
+          "identity_correct": 0,
+          "joint_pitch_correct": 0,
+          "joint_scale_correct": 0,
+          "joint_all_correct": 0,
+          "source_retained": 0,
+          "set_contains_complete_truth": 0,
+          "abstained": 16
+        }
+      },
+      "foil_accepted": 0,
+      "foil_n": 16,
+      "removed_accepted": 0,
+      "removed_n": 48,
+      "scientific_gates_pass": false,
+      "pressure_gates_pass": true,
+      "min_replacements": 44,
+      "max_persistent_bytes": 16789,
+      "by_stratum": {
+        "bach": {
+          "unchanged": {
+            "n": 8,
+            "identity": 0,
+            "joint_all": 0
+          },
+          "transpose": {
+            "n": 8,
+            "identity": 0,
+            "joint_all": 0
+          },
+          "stretch": {
+            "n": 8,
+            "identity": 0,
+            "joint_all": 0
+          }
+        },
+        "novel": {
+          "unchanged": {
+            "n": 8,
+            "identity": 0,
+            "joint_all": 0
+          },
+          "transpose": {
+            "n": 8,
+            "identity": 0,
+            "joint_all": 0
+          },
+          "stretch": {
+            "n": 8,
+            "identity": 0,
+            "joint_all": 0
+          }
+        }
+      }
+    },
+    "unpressured": {
+      "positive": {
+        "unchanged": {
+          "n": 16,
+          "identity_correct": 8,
+          "joint_pitch_correct": 8,
+          "joint_scale_correct": 8,
+          "joint_all_correct": 8,
+          "source_retained": 16,
+          "set_contains_complete_truth": 8,
+          "abstained": 8
+        },
+        "transpose": {
+          "n": 16,
+          "identity_correct": 8,
+          "joint_pitch_correct": 8,
+          "joint_scale_correct": 8,
+          "joint_all_correct": 8,
+          "source_retained": 16,
+          "set_contains_complete_truth": 8,
+          "abstained": 8
+        },
+        "stretch": {
+          "n": 16,
+          "identity_correct": 6,
+          "joint_pitch_correct": 6,
+          "joint_scale_correct": 6,
+          "joint_all_correct": 6,
+          "source_retained": 16,
+          "set_contains_complete_truth": 6,
+          "abstained": 10
+        }
+      },
+      "foil_accepted": 0,
+      "foil_n": 16,
+      "removed_accepted": 0,
+      "removed_n": 48,
+      "scientific_gates_pass": false,
+      "pressure_gates_pass": true,
+      "min_replacements": 0,
+      "max_persistent_bytes": 178807,
+      "by_stratum": {
+        "bach": {
+          "unchanged": {
+            "n": 8,
+            "identity": 4,
+            "joint_all": 4
+          },
+          "transpose": {
+            "n": 8,
+            "identity": 4,
+            "joint_all": 4
+          },
+          "stretch": {
+            "n": 8,
+            "identity": 3,
+            "joint_all": 3
+          }
+        },
+        "novel": {
+          "unchanged": {
+            "n": 8,
+            "identity": 4,
+            "joint_all": 4
+          },
+          "transpose": {
+            "n": 8,
+            "identity": 4,
+            "joint_all": 4
+          },
+          "stretch": {
+            "n": 8,
+            "identity": 3,
+            "joint_all": 3
+          }
+        }
+      }
+    },
+    "present": {
+      "positive": {
+        "unchanged": {
+          "n": 16,
+          "identity_correct": 0,
+          "joint_pitch_correct": 0,
+          "joint_scale_correct": 0,
+          "joint_all_correct": 0,
+          "source_retained": 0,
+          "set_contains_complete_truth": 0,
+          "abstained": 16
+        },
+        "transpose": {
+          "n": 16,
+          "identity_correct": 0,
+          "joint_pitch_correct": 0,
+          "joint_scale_correct": 0,
+          "joint_all_correct": 0,
+          "source_retained": 0,
+          "set_contains_complete_truth": 0,
+          "abstained": 16
+        },
+        "stretch": {
+          "n": 16,
+          "identity_correct": 0,
+          "joint_pitch_correct": 0,
+          "joint_scale_correct": 0,
+          "joint_all_correct": 0,
+          "source_retained": 0,
+          "set_contains_complete_truth": 0,
+          "abstained": 16
+        }
+      },
+      "foil_accepted": 0,
+      "foil_n": 16,
+      "removed_accepted": 0,
+      "removed_n": 48,
+      "scientific_gates_pass": false,
+      "pressure_gates_pass": true,
+      "min_replacements": 0,
+      "max_persistent_bytes": 5603,
+      "by_stratum": {
+        "bach": {
+          "unchanged": {
+            "n": 8,
+            "identity": 0,
+            "joint_all": 0
+          },
+          "transpose": {
+            "n": 8,
+            "identity": 0,
+            "joint_all": 0
+          },
+          "stretch": {
+            "n": 8,
+            "identity": 0,
+            "joint_all": 0
+          }
+        },
+        "novel": {
+          "unchanged": {
+            "n": 8,
+            "identity": 0,
+            "joint_all": 0
+          },
+          "transpose": {
+            "n": 8,
+            "identity": 0,
+            "joint_all": 0
+          },
+          "stretch": {
+            "n": 8,
+            "identity": 0,
+            "joint_all": 0
+          }
+        }
+      }
+    }
+  },
+  "selected_branch": "C",
+  "selected_policy": null,
+  "limits": "Constructed correspondence, not human perceptual identity. Frozen partial query; exact clean observations and supplied segmentation."
+}

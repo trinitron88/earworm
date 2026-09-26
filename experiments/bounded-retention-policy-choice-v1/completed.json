@@ -1,0 +1,10 @@
+{
+  "completed_at": "2026-09-26T18:20:47.960542+00:00",
+  "selected_branch": "C",
+  "calls": 855,
+  "readouts_scientific": 840,
+  "validation_passed": true,
+  "independent_recount_agrees": true,
+  "next_owner": "Project Earworm PM",
+  "worker_stops_after_publication": true
+}

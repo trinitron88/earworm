@@ -1,0 +1,1158 @@
+{
+  "rows": [
+    {
+      "family": "bach-bwv774-notes36-47",
+      "cell": "unchanged",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv774-notes36-47",
+      "cell": "unchanged",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv774-notes36-47",
+      "cell": "unchanged",
+      "policy": "diversity",
+      "source_evicted_at": 43,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv774-notes36-47",
+      "cell": "transpose",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv774-notes36-47",
+      "cell": "transpose",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv774-notes36-47",
+      "cell": "transpose",
+      "policy": "diversity",
+      "source_evicted_at": 43,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv774-notes36-47",
+      "cell": "stretch",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv774-notes36-47",
+      "cell": "stretch",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv774-notes36-47",
+      "cell": "stretch",
+      "policy": "diversity",
+      "source_evicted_at": 43,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv776-notes36-47",
+      "cell": "unchanged",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv776-notes36-47",
+      "cell": "unchanged",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv776-notes36-47",
+      "cell": "unchanged",
+      "policy": "diversity",
+      "source_evicted_at": 55,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv776-notes36-47",
+      "cell": "transpose",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv776-notes36-47",
+      "cell": "transpose",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv776-notes36-47",
+      "cell": "transpose",
+      "policy": "diversity",
+      "source_evicted_at": 55,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv776-notes36-47",
+      "cell": "stretch",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv776-notes36-47",
+      "cell": "stretch",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv776-notes36-47",
+      "cell": "stretch",
+      "policy": "diversity",
+      "source_evicted_at": 55,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv779-notes36-47",
+      "cell": "unchanged",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv779-notes36-47",
+      "cell": "unchanged",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv779-notes36-47",
+      "cell": "unchanged",
+      "policy": "diversity",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv779-notes36-47",
+      "cell": "transpose",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv779-notes36-47",
+      "cell": "transpose",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv779-notes36-47",
+      "cell": "transpose",
+      "policy": "diversity",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv779-notes36-47",
+      "cell": "stretch",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv779-notes36-47",
+      "cell": "stretch",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv779-notes36-47",
+      "cell": "stretch",
+      "policy": "diversity",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv782-notes36-47",
+      "cell": "unchanged",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv782-notes36-47",
+      "cell": "unchanged",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv782-notes36-47",
+      "cell": "unchanged",
+      "policy": "diversity",
+      "source_evicted_at": 59,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv782-notes36-47",
+      "cell": "transpose",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv782-notes36-47",
+      "cell": "transpose",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv782-notes36-47",
+      "cell": "transpose",
+      "policy": "diversity",
+      "source_evicted_at": 59,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv782-notes36-47",
+      "cell": "stretch",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv782-notes36-47",
+      "cell": "stretch",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv782-notes36-47",
+      "cell": "stretch",
+      "policy": "diversity",
+      "source_evicted_at": 59,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv784-notes36-47",
+      "cell": "unchanged",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv784-notes36-47",
+      "cell": "unchanged",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv784-notes36-47",
+      "cell": "unchanged",
+      "policy": "diversity",
+      "source_evicted_at": 55,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv784-notes36-47",
+      "cell": "transpose",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv784-notes36-47",
+      "cell": "transpose",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv784-notes36-47",
+      "cell": "transpose",
+      "policy": "diversity",
+      "source_evicted_at": 55,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv784-notes36-47",
+      "cell": "stretch",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv784-notes36-47",
+      "cell": "stretch",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv784-notes36-47",
+      "cell": "stretch",
+      "policy": "diversity",
+      "source_evicted_at": 55,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv785-notes36-47",
+      "cell": "unchanged",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv785-notes36-47",
+      "cell": "unchanged",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv785-notes36-47",
+      "cell": "unchanged",
+      "policy": "diversity",
+      "source_evicted_at": 55,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv785-notes36-47",
+      "cell": "transpose",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv785-notes36-47",
+      "cell": "transpose",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv785-notes36-47",
+      "cell": "transpose",
+      "policy": "diversity",
+      "source_evicted_at": 55,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv785-notes36-47",
+      "cell": "stretch",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv785-notes36-47",
+      "cell": "stretch",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv785-notes36-47",
+      "cell": "stretch",
+      "policy": "diversity",
+      "source_evicted_at": 55,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv786-notes36-47",
+      "cell": "unchanged",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv786-notes36-47",
+      "cell": "unchanged",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv786-notes36-47",
+      "cell": "unchanged",
+      "policy": "diversity",
+      "source_evicted_at": 59,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv786-notes36-47",
+      "cell": "transpose",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv786-notes36-47",
+      "cell": "transpose",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv786-notes36-47",
+      "cell": "transpose",
+      "policy": "diversity",
+      "source_evicted_at": 59,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv786-notes36-47",
+      "cell": "stretch",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv786-notes36-47",
+      "cell": "stretch",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv786-notes36-47",
+      "cell": "stretch",
+      "policy": "diversity",
+      "source_evicted_at": 59,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv787-notes69-80",
+      "cell": "unchanged",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv787-notes69-80",
+      "cell": "unchanged",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv787-notes69-80",
+      "cell": "unchanged",
+      "policy": "diversity",
+      "source_evicted_at": 67,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv787-notes69-80",
+      "cell": "transpose",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv787-notes69-80",
+      "cell": "transpose",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv787-notes69-80",
+      "cell": "transpose",
+      "policy": "diversity",
+      "source_evicted_at": 67,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv787-notes69-80",
+      "cell": "stretch",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv787-notes69-80",
+      "cell": "stretch",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "bach-bwv787-notes69-80",
+      "cell": "stretch",
+      "policy": "diversity",
+      "source_evicted_at": 67,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-01",
+      "cell": "unchanged",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-01",
+      "cell": "unchanged",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-01",
+      "cell": "unchanged",
+      "policy": "diversity",
+      "source_evicted_at": 71,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-01",
+      "cell": "transpose",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-01",
+      "cell": "transpose",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-01",
+      "cell": "transpose",
+      "policy": "diversity",
+      "source_evicted_at": 71,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-01",
+      "cell": "stretch",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-01",
+      "cell": "stretch",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-01",
+      "cell": "stretch",
+      "policy": "diversity",
+      "source_evicted_at": 71,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-02",
+      "cell": "unchanged",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-02",
+      "cell": "unchanged",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-02",
+      "cell": "unchanged",
+      "policy": "diversity",
+      "source_evicted_at": 99,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-02",
+      "cell": "transpose",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-02",
+      "cell": "transpose",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-02",
+      "cell": "transpose",
+      "policy": "diversity",
+      "source_evicted_at": 99,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-02",
+      "cell": "stretch",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-02",
+      "cell": "stretch",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-02",
+      "cell": "stretch",
+      "policy": "diversity",
+      "source_evicted_at": 99,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-03",
+      "cell": "unchanged",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-03",
+      "cell": "unchanged",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-03",
+      "cell": "unchanged",
+      "policy": "diversity",
+      "source_evicted_at": 103,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-03",
+      "cell": "transpose",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-03",
+      "cell": "transpose",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-03",
+      "cell": "transpose",
+      "policy": "diversity",
+      "source_evicted_at": 103,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-03",
+      "cell": "stretch",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-03",
+      "cell": "stretch",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-03",
+      "cell": "stretch",
+      "policy": "diversity",
+      "source_evicted_at": 103,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-04",
+      "cell": "unchanged",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-04",
+      "cell": "unchanged",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-04",
+      "cell": "unchanged",
+      "policy": "diversity",
+      "source_evicted_at": 119,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-04",
+      "cell": "transpose",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-04",
+      "cell": "transpose",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-04",
+      "cell": "transpose",
+      "policy": "diversity",
+      "source_evicted_at": 119,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-04",
+      "cell": "stretch",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-04",
+      "cell": "stretch",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-04",
+      "cell": "stretch",
+      "policy": "diversity",
+      "source_evicted_at": 119,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-05",
+      "cell": "unchanged",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-05",
+      "cell": "unchanged",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-05",
+      "cell": "unchanged",
+      "policy": "diversity",
+      "source_evicted_at": 103,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-05",
+      "cell": "transpose",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-05",
+      "cell": "transpose",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-05",
+      "cell": "transpose",
+      "policy": "diversity",
+      "source_evicted_at": 103,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-05",
+      "cell": "stretch",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-05",
+      "cell": "stretch",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-05",
+      "cell": "stretch",
+      "policy": "diversity",
+      "source_evicted_at": 103,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-06",
+      "cell": "unchanged",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-06",
+      "cell": "unchanged",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-06",
+      "cell": "unchanged",
+      "policy": "diversity",
+      "source_evicted_at": 99,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-06",
+      "cell": "transpose",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-06",
+      "cell": "transpose",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-06",
+      "cell": "transpose",
+      "policy": "diversity",
+      "source_evicted_at": 99,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-06",
+      "cell": "stretch",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-06",
+      "cell": "stretch",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-06",
+      "cell": "stretch",
+      "policy": "diversity",
+      "source_evicted_at": 99,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-07",
+      "cell": "unchanged",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-07",
+      "cell": "unchanged",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-07",
+      "cell": "unchanged",
+      "policy": "diversity",
+      "source_evicted_at": 99,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-07",
+      "cell": "transpose",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-07",
+      "cell": "transpose",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-07",
+      "cell": "transpose",
+      "policy": "diversity",
+      "source_evicted_at": 99,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-07",
+      "cell": "stretch",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-07",
+      "cell": "stretch",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-07",
+      "cell": "stretch",
+      "policy": "diversity",
+      "source_evicted_at": 99,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-08",
+      "cell": "unchanged",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-08",
+      "cell": "unchanged",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-08",
+      "cell": "unchanged",
+      "policy": "diversity",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-08",
+      "cell": "transpose",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-08",
+      "cell": "transpose",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-08",
+      "cell": "transpose",
+      "policy": "diversity",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-08",
+      "cell": "stretch",
+      "policy": "fifo",
+      "source_evicted_at": 35,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-08",
+      "cell": "stretch",
+      "policy": "reservoir",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    },
+    {
+      "family": "novel-evaluation-08",
+      "cell": "stretch",
+      "policy": "diversity",
+      "source_evicted_at": 39,
+      "query_onset": 516.0,
+      "source_still_available": false
+    }
+  ],
+  "scope": "All48 held-out positive cells per bounded policy; occurrence1 held exact source events.",
+  "future_access_used": false
+}

@@ -1,0 +1,320 @@
+{
+  "agrees": true,
+  "counted_readouts": 560,
+  "method": "Saved raw accepted flag and center within first0\u20133s source support, exact label shift,10% scale; no imports from main scorer/worker/matcher.",
+  "counts": {
+    "fifo": {
+      "unchanged": {
+        "n": 16,
+        "accepted": 0,
+        "source_center": 0,
+        "joint_pitch": 0,
+        "joint_scale": 0,
+        "joint_all": 0,
+        "source_retained": 0,
+        "reasons": {
+          "no full-consistent occurrence": 16
+        }
+      },
+      "transpose": {
+        "n": 16,
+        "accepted": 0,
+        "source_center": 0,
+        "joint_pitch": 0,
+        "joint_scale": 0,
+        "joint_all": 0,
+        "source_retained": 0,
+        "reasons": {
+          "no full-consistent occurrence": 16
+        }
+      },
+      "stretch": {
+        "n": 16,
+        "accepted": 0,
+        "source_center": 0,
+        "joint_pitch": 0,
+        "joint_scale": 0,
+        "joint_all": 0,
+        "source_retained": 0,
+        "reasons": {
+          "no full-consistent occurrence": 16
+        }
+      },
+      "foil": {
+        "n": 16,
+        "accepted": 0,
+        "source_center": 0,
+        "joint_pitch": 0,
+        "joint_scale": 0,
+        "joint_all": 0,
+        "source_retained": 0,
+        "reasons": {
+          "no full-consistent occurrence": 16
+        }
+      },
+      "removed": {
+        "n": 48,
+        "accepted": 0,
+        "source_center": 0,
+        "joint_pitch": 0,
+        "joint_scale": 0,
+        "joint_all": 0,
+        "source_retained": 0,
+        "reasons": {
+          "no full-consistent occurrence": 48
+        }
+      }
+    },
+    "reservoir": {
+      "unchanged": {
+        "n": 16,
+        "accepted": 0,
+        "source_center": 0,
+        "joint_pitch": 0,
+        "joint_scale": 0,
+        "joint_all": 0,
+        "source_retained": 0,
+        "reasons": {
+          "no full-consistent occurrence": 16
+        }
+      },
+      "transpose": {
+        "n": 16,
+        "accepted": 0,
+        "source_center": 0,
+        "joint_pitch": 0,
+        "joint_scale": 0,
+        "joint_all": 0,
+        "source_retained": 0,
+        "reasons": {
+          "no full-consistent occurrence": 16
+        }
+      },
+      "stretch": {
+        "n": 16,
+        "accepted": 0,
+        "source_center": 0,
+        "joint_pitch": 0,
+        "joint_scale": 0,
+        "joint_all": 0,
+        "source_retained": 0,
+        "reasons": {
+          "no full-consistent occurrence": 16
+        }
+      },
+      "foil": {
+        "n": 16,
+        "accepted": 0,
+        "source_center": 0,
+        "joint_pitch": 0,
+        "joint_scale": 0,
+        "joint_all": 0,
+        "source_retained": 0,
+        "reasons": {
+          "no full-consistent occurrence": 16
+        }
+      },
+      "removed": {
+        "n": 48,
+        "accepted": 0,
+        "source_center": 0,
+        "joint_pitch": 0,
+        "joint_scale": 0,
+        "joint_all": 0,
+        "source_retained": 0,
+        "reasons": {
+          "no full-consistent occurrence": 48
+        }
+      }
+    },
+    "diversity": {
+      "unchanged": {
+        "n": 16,
+        "accepted": 0,
+        "source_center": 0,
+        "joint_pitch": 0,
+        "joint_scale": 0,
+        "joint_all": 0,
+        "source_retained": 0,
+        "reasons": {
+          "no full-consistent occurrence": 16
+        }
+      },
+      "transpose": {
+        "n": 16,
+        "accepted": 0,
+        "source_center": 0,
+        "joint_pitch": 0,
+        "joint_scale": 0,
+        "joint_all": 0,
+        "source_retained": 0,
+        "reasons": {
+          "no full-consistent occurrence": 16
+        }
+      },
+      "stretch": {
+        "n": 16,
+        "accepted": 0,
+        "source_center": 0,
+        "joint_pitch": 0,
+        "joint_scale": 0,
+        "joint_all": 0,
+        "source_retained": 0,
+        "reasons": {
+          "no full-consistent occurrence": 16
+        }
+      },
+      "foil": {
+        "n": 16,
+        "accepted": 0,
+        "source_center": 0,
+        "joint_pitch": 0,
+        "joint_scale": 0,
+        "joint_all": 0,
+        "source_retained": 0,
+        "reasons": {
+          "no full-consistent occurrence": 16
+        }
+      },
+      "removed": {
+        "n": 48,
+        "accepted": 0,
+        "source_center": 0,
+        "joint_pitch": 0,
+        "joint_scale": 0,
+        "joint_all": 0,
+        "source_retained": 0,
+        "reasons": {
+          "no full-consistent occurrence": 48
+        }
+      }
+    },
+    "unpressured": {
+      "unchanged": {
+        "n": 16,
+        "accepted": 8,
+        "source_center": 8,
+        "joint_pitch": 8,
+        "joint_scale": 8,
+        "joint_all": 8,
+        "source_retained": 16,
+        "reasons": {
+          "unique full-consistent occurrence": 8,
+          "no full-consistent occurrence": 8
+        }
+      },
+      "transpose": {
+        "n": 16,
+        "accepted": 8,
+        "source_center": 8,
+        "joint_pitch": 8,
+        "joint_scale": 8,
+        "joint_all": 8,
+        "source_retained": 16,
+        "reasons": {
+          "unique full-consistent occurrence": 8,
+          "no full-consistent occurrence": 8
+        }
+      },
+      "stretch": {
+        "n": 16,
+        "accepted": 6,
+        "source_center": 6,
+        "joint_pitch": 6,
+        "joint_scale": 6,
+        "joint_all": 6,
+        "source_retained": 16,
+        "reasons": {
+          "no full-consistent occurrence": 10,
+          "unique full-consistent occurrence": 6
+        }
+      },
+      "foil": {
+        "n": 16,
+        "accepted": 0,
+        "source_center": 0,
+        "joint_pitch": 0,
+        "joint_scale": 0,
+        "joint_all": 0,
+        "source_retained": 16,
+        "reasons": {
+          "no full-consistent occurrence": 16
+        }
+      },
+      "removed": {
+        "n": 48,
+        "accepted": 0,
+        "source_center": 0,
+        "joint_pitch": 0,
+        "joint_scale": 0,
+        "joint_all": 0,
+        "source_retained": 0,
+        "reasons": {
+          "no full-consistent occurrence": 48
+        }
+      }
+    },
+    "present": {
+      "unchanged": {
+        "n": 16,
+        "accepted": 0,
+        "source_center": 0,
+        "joint_pitch": 0,
+        "joint_scale": 0,
+        "joint_all": 0,
+        "source_retained": 0,
+        "reasons": {
+          "no full-consistent occurrence": 16
+        }
+      },
+      "transpose": {
+        "n": 16,
+        "accepted": 0,
+        "source_center": 0,
+        "joint_pitch": 0,
+        "joint_scale": 0,
+        "joint_all": 0,
+        "source_retained": 0,
+        "reasons": {
+          "no full-consistent occurrence": 16
+        }
+      },
+      "stretch": {
+        "n": 16,
+        "accepted": 0,
+        "source_center": 0,
+        "joint_pitch": 0,
+        "joint_scale": 0,
+        "joint_all": 0,
+        "source_retained": 0,
+        "reasons": {
+          "no full-consistent occurrence": 16
+        }
+      },
+      "foil": {
+        "n": 16,
+        "accepted": 0,
+        "source_center": 0,
+        "joint_pitch": 0,
+        "joint_scale": 0,
+        "joint_all": 0,
+        "source_retained": 0,
+        "reasons": {
+          "no full-consistent occurrence": 16
+        }
+      },
+      "removed": {
+        "n": 48,
+        "accepted": 0,
+        "source_center": 0,
+        "joint_pitch": 0,
+        "joint_scale": 0,
+        "joint_all": 0,
+        "source_retained": 0,
+        "reasons": {
+          "no full-consistent occurrence": 48
+        }
+      }
+    }
+  }
+}
