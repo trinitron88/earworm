@@ -1,0 +1,13 @@
+{
+  "source_interval": [
+    0.0,
+    3.0
+  ],
+  "positive": true,
+  "expected_shift": 0,
+  "expected_scale": 1.0,
+  "family": "collision-constant",
+  "cell": "collision-constant",
+  "diagnostic_only": true,
+  "observation_hash": "f261aca243b1f193c7d6e016af6e6dd138062f6b819a1d10d1b50e3ea392260e"
+}

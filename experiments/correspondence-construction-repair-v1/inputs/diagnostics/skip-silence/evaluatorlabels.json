@@ -1,0 +1,13 @@
+{
+  "source_interval": [
+    0.0,
+    3.0
+  ],
+  "positive": false,
+  "expected_shift": 0,
+  "expected_scale": 1.0,
+  "family": "skip-silence",
+  "cell": "skip-silence",
+  "diagnostic_only": true,
+  "observation_hash": "34eb9219058e30c42c1b438fe521b6b61f52a20cfdcc65bec47a4f6cd0c41a2b"
+}

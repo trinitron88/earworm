@@ -1,0 +1,16 @@
+{
+  "construction_guard_sha256": "abf7ffcc9735582eebaffa1479e947e5e337348a829b6f46e4ae56ee42ee2e58",
+  "fixed_new_family": "novel-20260926-04",
+  "fixed_seed": 202609260103,
+  "new_preparation": true,
+  "original_failed_arrays": "Remain missing; newly generated arrays are not their recovery",
+  "original_failure_sha256": "0ed680d5cff9bd427e5d6627ec1a028c1e0652c8925e08f99cc5f56dd4424070",
+  "original_generation_manifest_sha256": "a0a93cf3b71a3b484d41d9c9fc344b8f15ad79ca8325bbc993ec76a9f6c16940",
+  "original_source_sha256": "9ea4a2e66b628523d441e402f623988cfb7513973279d323e8654219279d7f10",
+  "planned_new_sessions": 5,
+  "repaired_generator_sha256": "b6da14f231c2d5e5905dadd7eee8c43bc7121d88ce3826151b777a8c78e6f863",
+  "reused_sessions": 35,
+  "source_publication": "4aac104649fe4d84796386c3b19766aa318a3e31",
+  "started_utc": "2026-09-26T05:58:20.373993+00:00",
+  "successor_base": "c09c768b711104010e71184d495d714efe45dad7"
+}

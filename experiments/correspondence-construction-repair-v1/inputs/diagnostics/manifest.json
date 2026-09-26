@@ -1,0 +1,29 @@
+{
+  "sessions": [
+    {
+      "id": "skip-middle"
+    },
+    {
+      "id": "skip-late"
+    },
+    {
+      "id": "skip-silence"
+    },
+    {
+      "id": "skip-double"
+    },
+    {
+      "id": "collision-world-a"
+    },
+    {
+      "id": "collision-world-b"
+    },
+    {
+      "id": "collision-transposed"
+    },
+    {
+      "id": "collision-constant"
+    }
+  ],
+  "separate_from_rate_panel": true
+}

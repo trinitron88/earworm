@@ -1,0 +1,56 @@
+{
+  "type": "constructed_duplicate-occurrence_provenance_collision",
+  "worlds": [
+    "collision-world-a",
+    "collision-world-b"
+  ],
+  "entire_permitted_input_hashes": [
+    "5692374bde2547aa1a335413223cd260b75a4652eeddc0809751ad5ca9349771",
+    "5692374bde2547aa1a335413223cd260b75a4652eeddc0809751ad5ca9349771"
+  ],
+  "incompatible_labels": [
+    [
+      0,
+      3
+    ],
+    [
+      4,
+      7
+    ]
+  ],
+  "query_occurrence": [
+    10,
+    13
+  ],
+  "explicit_correspondences": [
+    {
+      "history_interval": [
+        0,
+        3
+      ],
+      "query_interval": [
+        10,
+        13
+      ],
+      "scale": 1,
+      "offset": 10,
+      "shift": 0
+    },
+    {
+      "history_interval": [
+        4,
+        7
+      ],
+      "query_interval": [
+        10,
+        13
+      ],
+      "scale": 1,
+      "offset": 6,
+      "shift": 0
+    }
+  ],
+  "independent_check": "Compare every array and dtype in both rows.npz archives, including all history, occupancy, unit, timestamp and availability rows. Both complete source event sequences also match the return under the listed maps.",
+  "meaning": "Which identical earlier whole occurrence causally supplied the return is stipulated by the two evaluator worlds and is absent from their identical observations. Abstention or a set of compatible occurrences is required for this contract.",
+  "scope": "Deliberate diagnostic construction only. This is not evidence that any musical-panel failure is caused by an information ambiguity."
+}

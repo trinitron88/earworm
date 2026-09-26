@@ -1,0 +1,45 @@
+{
+  "prior_calls": 29,
+  "new_qualification_calls": 3,
+  "planned_panel_calls": 264,
+  "planned_diagnostic_calls": 24,
+  "method_ranges": {
+    "shift": [
+      -5,
+      5
+    ],
+    "scale": [
+      0.65,
+      1.5
+    ]
+  },
+  "query_seconds": 2,
+  "observation_step_seconds": 0.1,
+  "source_seconds": 3,
+  "interference_seconds": 32,
+  "persistent_units": 60,
+  "recent_units": 4,
+  "persistent_byte_cap": 8388608,
+  "construction_roundoff_seconds": 1e-09,
+  "gates": {
+    "per_positive_cell_identity_shift_and_scale_each_min": 7,
+    "per_positive_cell_denominator": 8,
+    "scale_relative_error": 0.1,
+    "foil_max": 1,
+    "foil_denominator": 16,
+    "removed_max": 2,
+    "removed_denominator": 24,
+    "recent_max": 2,
+    "recent_denominator": 24
+  },
+  "limits": {
+    "prior_seconds": 3770.938094,
+    "additional_seconds": 3400,
+    "cumulative_seconds": 7200,
+    "calls": 400,
+    "tiny_probes": 32,
+    "new_artifact_bytes": 536870912,
+    "spend": 0
+  },
+  "schema": "input-manifest.json/sessions[].session_id,path"
+}

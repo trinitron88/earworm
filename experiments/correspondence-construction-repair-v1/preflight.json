@@ -1,0 +1,2142 @@
+{
+  "passed": true,
+  "method_hashes": {
+    "global_matcher.py": "cd8a69cb35d1a1a7761defb4894e7043a7740e025da41924d26797745eca92f0",
+    "engine.py": "15e50475544cf4875b7ea0c0c01478011b6eec26cecfa25f71524f5eb40cdf7f",
+    "fixtures.py": "b399ad038a646c1113fa7d0fddb4b4994122c223f069cf596f425d90e98ab894",
+    "historical/listener.py": "3a35f5b1b70ddf106c3fe3eea722dffb428648c9d0319ef6bccfee0d4c1755de",
+    "historical/matching.py": "52d12eba1f9c92b21c4c3c2261d14d7b87dd571ba8cea258758d9ded6db51c8a"
+  },
+  "panel_sessions": 40,
+  "diagnostic_sessions": 8,
+  "planned_calls": 288,
+  "panel_calls": 264,
+  "diagnostic_calls": 24,
+  "panel_cell_counts": {
+    "unchanged": 8,
+    "transpose": 8,
+    "stretch": 8,
+    "inventory_foil": 8,
+    "near_foil": 8
+  },
+  "planned_readouts": [
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv773-notes24-35--unchanged",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv773-notes24-35--unchanged",
+      "method": "D",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv773-notes24-35--unchanged",
+      "method": "D",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv773-notes24-35--unchanged",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv773-notes24-35--unchanged",
+      "method": "G",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv773-notes24-35--unchanged",
+      "method": "G",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv773-notes24-35--unchanged",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv773-notes24-35--unchanged",
+      "method": "G-exact",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv773-notes24-35--unchanged",
+      "method": "G-exact",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv773-notes24-35--transpose",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv773-notes24-35--transpose",
+      "method": "D",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv773-notes24-35--transpose",
+      "method": "D",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv773-notes24-35--transpose",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv773-notes24-35--transpose",
+      "method": "G",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv773-notes24-35--transpose",
+      "method": "G",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv773-notes24-35--transpose",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv773-notes24-35--transpose",
+      "method": "G-exact",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv773-notes24-35--transpose",
+      "method": "G-exact",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv773-notes24-35--stretch",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv773-notes24-35--stretch",
+      "method": "D",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv773-notes24-35--stretch",
+      "method": "D",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv773-notes24-35--stretch",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv773-notes24-35--stretch",
+      "method": "G",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv773-notes24-35--stretch",
+      "method": "G",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv773-notes24-35--stretch",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv773-notes24-35--stretch",
+      "method": "G-exact",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv773-notes24-35--stretch",
+      "method": "G-exact",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv773-notes24-35--inventory_foil",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv773-notes24-35--inventory_foil",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv773-notes24-35--inventory_foil",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv773-notes24-35--near_foil",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv773-notes24-35--near_foil",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv773-notes24-35--near_foil",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv775-notes24-35--unchanged",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv775-notes24-35--unchanged",
+      "method": "D",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv775-notes24-35--unchanged",
+      "method": "D",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv775-notes24-35--unchanged",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv775-notes24-35--unchanged",
+      "method": "G",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv775-notes24-35--unchanged",
+      "method": "G",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv775-notes24-35--unchanged",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv775-notes24-35--unchanged",
+      "method": "G-exact",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv775-notes24-35--unchanged",
+      "method": "G-exact",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv775-notes24-35--transpose",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv775-notes24-35--transpose",
+      "method": "D",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv775-notes24-35--transpose",
+      "method": "D",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv775-notes24-35--transpose",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv775-notes24-35--transpose",
+      "method": "G",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv775-notes24-35--transpose",
+      "method": "G",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv775-notes24-35--transpose",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv775-notes24-35--transpose",
+      "method": "G-exact",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv775-notes24-35--transpose",
+      "method": "G-exact",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv775-notes24-35--stretch",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv775-notes24-35--stretch",
+      "method": "D",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv775-notes24-35--stretch",
+      "method": "D",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv775-notes24-35--stretch",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv775-notes24-35--stretch",
+      "method": "G",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv775-notes24-35--stretch",
+      "method": "G",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv775-notes24-35--stretch",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv775-notes24-35--stretch",
+      "method": "G-exact",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv775-notes24-35--stretch",
+      "method": "G-exact",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv775-notes24-35--inventory_foil",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv775-notes24-35--inventory_foil",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv775-notes24-35--inventory_foil",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv775-notes24-35--near_foil",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv775-notes24-35--near_foil",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv775-notes24-35--near_foil",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv778-notes24-35--unchanged",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv778-notes24-35--unchanged",
+      "method": "D",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv778-notes24-35--unchanged",
+      "method": "D",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv778-notes24-35--unchanged",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv778-notes24-35--unchanged",
+      "method": "G",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv778-notes24-35--unchanged",
+      "method": "G",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv778-notes24-35--unchanged",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv778-notes24-35--unchanged",
+      "method": "G-exact",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv778-notes24-35--unchanged",
+      "method": "G-exact",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv778-notes24-35--transpose",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv778-notes24-35--transpose",
+      "method": "D",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv778-notes24-35--transpose",
+      "method": "D",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv778-notes24-35--transpose",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv778-notes24-35--transpose",
+      "method": "G",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv778-notes24-35--transpose",
+      "method": "G",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv778-notes24-35--transpose",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv778-notes24-35--transpose",
+      "method": "G-exact",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv778-notes24-35--transpose",
+      "method": "G-exact",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv778-notes24-35--stretch",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv778-notes24-35--stretch",
+      "method": "D",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv778-notes24-35--stretch",
+      "method": "D",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv778-notes24-35--stretch",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv778-notes24-35--stretch",
+      "method": "G",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv778-notes24-35--stretch",
+      "method": "G",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv778-notes24-35--stretch",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv778-notes24-35--stretch",
+      "method": "G-exact",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv778-notes24-35--stretch",
+      "method": "G-exact",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv778-notes24-35--inventory_foil",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv778-notes24-35--inventory_foil",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv778-notes24-35--inventory_foil",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv778-notes24-35--near_foil",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv778-notes24-35--near_foil",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv778-notes24-35--near_foil",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv781-notes24-35--unchanged",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv781-notes24-35--unchanged",
+      "method": "D",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv781-notes24-35--unchanged",
+      "method": "D",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv781-notes24-35--unchanged",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv781-notes24-35--unchanged",
+      "method": "G",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv781-notes24-35--unchanged",
+      "method": "G",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv781-notes24-35--unchanged",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv781-notes24-35--unchanged",
+      "method": "G-exact",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv781-notes24-35--unchanged",
+      "method": "G-exact",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv781-notes24-35--transpose",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv781-notes24-35--transpose",
+      "method": "D",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv781-notes24-35--transpose",
+      "method": "D",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv781-notes24-35--transpose",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv781-notes24-35--transpose",
+      "method": "G",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv781-notes24-35--transpose",
+      "method": "G",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv781-notes24-35--transpose",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv781-notes24-35--transpose",
+      "method": "G-exact",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv781-notes24-35--transpose",
+      "method": "G-exact",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv781-notes24-35--stretch",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv781-notes24-35--stretch",
+      "method": "D",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv781-notes24-35--stretch",
+      "method": "D",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv781-notes24-35--stretch",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv781-notes24-35--stretch",
+      "method": "G",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv781-notes24-35--stretch",
+      "method": "G",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv781-notes24-35--stretch",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv781-notes24-35--stretch",
+      "method": "G-exact",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv781-notes24-35--stretch",
+      "method": "G-exact",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv781-notes24-35--inventory_foil",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv781-notes24-35--inventory_foil",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv781-notes24-35--inventory_foil",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv781-notes24-35--near_foil",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv781-notes24-35--near_foil",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv781-notes24-35--near_foil",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-01--unchanged",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-01--unchanged",
+      "method": "D",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-01--unchanged",
+      "method": "D",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-01--unchanged",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-01--unchanged",
+      "method": "G",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-01--unchanged",
+      "method": "G",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-01--unchanged",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-01--unchanged",
+      "method": "G-exact",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-01--unchanged",
+      "method": "G-exact",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-01--transpose",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-01--transpose",
+      "method": "D",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-01--transpose",
+      "method": "D",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-01--transpose",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-01--transpose",
+      "method": "G",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-01--transpose",
+      "method": "G",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-01--transpose",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-01--transpose",
+      "method": "G-exact",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-01--transpose",
+      "method": "G-exact",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-01--stretch",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-01--stretch",
+      "method": "D",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-01--stretch",
+      "method": "D",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-01--stretch",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-01--stretch",
+      "method": "G",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-01--stretch",
+      "method": "G",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-01--stretch",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-01--stretch",
+      "method": "G-exact",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-01--stretch",
+      "method": "G-exact",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-01--inventory_foil",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-01--inventory_foil",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-01--inventory_foil",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-01--near_foil",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-01--near_foil",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-01--near_foil",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-02--unchanged",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-02--unchanged",
+      "method": "D",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-02--unchanged",
+      "method": "D",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-02--unchanged",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-02--unchanged",
+      "method": "G",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-02--unchanged",
+      "method": "G",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-02--unchanged",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-02--unchanged",
+      "method": "G-exact",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-02--unchanged",
+      "method": "G-exact",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-02--transpose",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-02--transpose",
+      "method": "D",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-02--transpose",
+      "method": "D",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-02--transpose",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-02--transpose",
+      "method": "G",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-02--transpose",
+      "method": "G",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-02--transpose",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-02--transpose",
+      "method": "G-exact",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-02--transpose",
+      "method": "G-exact",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-02--stretch",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-02--stretch",
+      "method": "D",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-02--stretch",
+      "method": "D",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-02--stretch",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-02--stretch",
+      "method": "G",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-02--stretch",
+      "method": "G",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-02--stretch",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-02--stretch",
+      "method": "G-exact",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-02--stretch",
+      "method": "G-exact",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-02--inventory_foil",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-02--inventory_foil",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-02--inventory_foil",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-02--near_foil",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-02--near_foil",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-02--near_foil",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-03--unchanged",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-03--unchanged",
+      "method": "D",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-03--unchanged",
+      "method": "D",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-03--unchanged",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-03--unchanged",
+      "method": "G",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-03--unchanged",
+      "method": "G",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-03--unchanged",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-03--unchanged",
+      "method": "G-exact",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-03--unchanged",
+      "method": "G-exact",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-03--transpose",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-03--transpose",
+      "method": "D",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-03--transpose",
+      "method": "D",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-03--transpose",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-03--transpose",
+      "method": "G",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-03--transpose",
+      "method": "G",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-03--transpose",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-03--transpose",
+      "method": "G-exact",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-03--transpose",
+      "method": "G-exact",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-03--stretch",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-03--stretch",
+      "method": "D",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-03--stretch",
+      "method": "D",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-03--stretch",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-03--stretch",
+      "method": "G",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-03--stretch",
+      "method": "G",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-03--stretch",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-03--stretch",
+      "method": "G-exact",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-03--stretch",
+      "method": "G-exact",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-03--inventory_foil",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-03--inventory_foil",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-03--inventory_foil",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-03--near_foil",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-03--near_foil",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-03--near_foil",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-04--unchanged",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-04--unchanged",
+      "method": "D",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-04--unchanged",
+      "method": "D",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-04--unchanged",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-04--unchanged",
+      "method": "G",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-04--unchanged",
+      "method": "G",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-04--unchanged",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-04--unchanged",
+      "method": "G-exact",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-04--unchanged",
+      "method": "G-exact",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-04--transpose",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-04--transpose",
+      "method": "D",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-04--transpose",
+      "method": "D",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-04--transpose",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-04--transpose",
+      "method": "G",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-04--transpose",
+      "method": "G",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-04--transpose",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-04--transpose",
+      "method": "G-exact",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-04--transpose",
+      "method": "G-exact",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-04--stretch",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-04--stretch",
+      "method": "D",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-04--stretch",
+      "method": "D",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-04--stretch",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-04--stretch",
+      "method": "G",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-04--stretch",
+      "method": "G",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-04--stretch",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-04--stretch",
+      "method": "G-exact",
+      "mode": "recent"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-04--stretch",
+      "method": "G-exact",
+      "mode": "removed"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-04--inventory_foil",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-04--inventory_foil",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-04--inventory_foil",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-04--near_foil",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-04--near_foil",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-04--near_foil",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "diagnostics",
+      "session_id": "skip-middle",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "diagnostics",
+      "session_id": "skip-middle",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "diagnostics",
+      "session_id": "skip-middle",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "diagnostics",
+      "session_id": "skip-late",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "diagnostics",
+      "session_id": "skip-late",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "diagnostics",
+      "session_id": "skip-late",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "diagnostics",
+      "session_id": "skip-silence",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "diagnostics",
+      "session_id": "skip-silence",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "diagnostics",
+      "session_id": "skip-silence",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "diagnostics",
+      "session_id": "skip-double",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "diagnostics",
+      "session_id": "skip-double",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "diagnostics",
+      "session_id": "skip-double",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "diagnostics",
+      "session_id": "collision-world-a",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "diagnostics",
+      "session_id": "collision-world-a",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "diagnostics",
+      "session_id": "collision-world-a",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "diagnostics",
+      "session_id": "collision-world-b",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "diagnostics",
+      "session_id": "collision-world-b",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "diagnostics",
+      "session_id": "collision-world-b",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "diagnostics",
+      "session_id": "collision-transposed",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "diagnostics",
+      "session_id": "collision-transposed",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "diagnostics",
+      "session_id": "collision-transposed",
+      "method": "G-exact",
+      "mode": "full"
+    },
+    {
+      "kind": "diagnostics",
+      "session_id": "collision-constant",
+      "method": "D",
+      "mode": "full"
+    },
+    {
+      "kind": "diagnostics",
+      "session_id": "collision-constant",
+      "method": "G",
+      "mode": "full"
+    },
+    {
+      "kind": "diagnostics",
+      "session_id": "collision-constant",
+      "method": "G-exact",
+      "mode": "full"
+    }
+  ],
+  "saved_input_checks": [
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv773-notes24-35--unchanged",
+      "observation_hash": "e470ce6b2fa7de8a3475ef5ff0715a6778802b84c151f1031a77fc408263ff2e",
+      "event_hash": "362d300d4985208134128b17b01151258a5c720264c94f6ee1314e3919f7c62f",
+      "rows": 400,
+      "event_count": 122
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv773-notes24-35--transpose",
+      "observation_hash": "f600cf6edcd6e3d59a8a0126d0376b1b0e1f537076d510df54f4921d8c8970bd",
+      "event_hash": "76734c9c5fa713b34c2c9938dff039336500a59973524913aad017cfebcf6227",
+      "rows": 400,
+      "event_count": 122
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv773-notes24-35--stretch",
+      "observation_hash": "ab390013282af323767695f931063413a624b27ff56bf4e7c2bf7d82547961f9",
+      "event_hash": "68210aa1a12a53f43577d0772f8507d76355ae96d0376220dcdc9a2a44d0d126",
+      "rows": 390,
+      "event_count": 122
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv773-notes24-35--inventory_foil",
+      "observation_hash": "29b7eccdafaa16676b5226d13cd748b35402c0ba05cc9487784c7a53d1aae47a",
+      "event_hash": "da1484591b01e60ee22956670b3ef6cabd3183aa35d55968ba1c6fce2b065ccd",
+      "rows": 400,
+      "event_count": 122
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv773-notes24-35--near_foil",
+      "observation_hash": "195fb16e656f85344c6f72999bc01be2139e48a91471471c90ea07856d807684",
+      "event_hash": "2bae373aa28aeb3c41c8b763a60b853cb22df4ed18a42391b3560190a57be086",
+      "rows": 400,
+      "event_count": 122
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv775-notes24-35--unchanged",
+      "observation_hash": "e38cf9e26624934c97036071670e4c8f3bcc8b464c8fe04e264f48b097f91b88",
+      "event_hash": "b570b8e439fe9286e292ef78a3cbbb6b4302dd711cfbb05dc4a7383b35c1e858",
+      "rows": 400,
+      "event_count": 122
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv775-notes24-35--transpose",
+      "observation_hash": "6672b843d6fa05e453140b97c54bf0b372b0269784b77f963eaadb46201c2201",
+      "event_hash": "dd315123a57f3e4f5707eae291801df2c9f66bedf8399fef1a82f8247d876f5a",
+      "rows": 400,
+      "event_count": 122
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv775-notes24-35--stretch",
+      "observation_hash": "46211f0cb232140b6ecfcde1671af1bd02c21a604b5c5579ddde00e9bc5566b6",
+      "event_hash": "149fc236757613e007c93a29ce8df2323104ddc1ebc1fa57f61c6200c2b055e2",
+      "rows": 410,
+      "event_count": 122
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv775-notes24-35--inventory_foil",
+      "observation_hash": "23cafb3b73c898e14d205c98e27362a3b139b43455d652d8e27ce3904937e984",
+      "event_hash": "2065b183315b943d6076f29a1ee76fcaf3d9e66a68265a132bdda2c3a0816ad5",
+      "rows": 400,
+      "event_count": 122
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv775-notes24-35--near_foil",
+      "observation_hash": "8a901ba47d269cadcb7a0430755b6101acb5234a82b65d960341fedd1ec99244",
+      "event_hash": "583e4718334350d51ba47c2803fd04e58782b5ce7e9fcd4ac0c9bed9a35229c7",
+      "rows": 400,
+      "event_count": 122
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv778-notes24-35--unchanged",
+      "observation_hash": "c81a2fd13d51a7ac3f17bb387907aa8f872cf1ce4f3a8be2241a280c344fded1",
+      "event_hash": "57b2643b8863584182443d4edbfc125c9944108304165acd5b965741d1b0bc26",
+      "rows": 400,
+      "event_count": 122
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv778-notes24-35--transpose",
+      "observation_hash": "dbff62bb7a21cce78248720aa8fc38e48e2d307dbce3704df932362c9f43eee9",
+      "event_hash": "2a01a2e60095d7b368c132f6622f3d449c6fcf04a476ddee2af77d926d58f0dd",
+      "rows": 400,
+      "event_count": 122
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv778-notes24-35--stretch",
+      "observation_hash": "a79fa5daa94c11ce96f02d5f24d855d10954df848134454a2fc639a9fba7f5a6",
+      "event_hash": "6e36feec8d889374e96abeeadaa65e9a18940c50e287b1172defc610e717c04a",
+      "rows": 400,
+      "event_count": 122
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv778-notes24-35--inventory_foil",
+      "observation_hash": "d52326edcc963669de3969480aa7e6f07217cdfd608154047ee526a039cbcfe0",
+      "event_hash": "706582003823c54b840524a6facab7e9ac1da10c286eca7eba8f2d0b7eae936f",
+      "rows": 400,
+      "event_count": 122
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv778-notes24-35--near_foil",
+      "observation_hash": "8cd2dfc0b10444987f1f6c1cf721922f3ab9a498e6a30c628b36c52ce2a3576a",
+      "event_hash": "7af108e3f945068fdde62c6f3459a5e20bff8b9d714d5f88cdaa89a8f6c0371e",
+      "rows": 400,
+      "event_count": 122
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv781-notes24-35--unchanged",
+      "observation_hash": "7fee542c5a9fd830ca1c21a47cb47aa589de8cd456b2cde2a4f582f9593a02e2",
+      "event_hash": "a77a66866e704cd46031ab95b4a2df52f8d1045c705f9748a085c226b91bf4c7",
+      "rows": 400,
+      "event_count": 122
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv781-notes24-35--transpose",
+      "observation_hash": "a02f5e4729de2c104c69bed5331f0736dc8fc1cc6c178999d00cdd8e7d8f30ea",
+      "event_hash": "f94184a69a8e6baa897922b591f6ad9d5c5aa2494d5368aec2c72004175beb7d",
+      "rows": 400,
+      "event_count": 122
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv781-notes24-35--stretch",
+      "observation_hash": "fc0d58c58fbf9a6c8e17a67499d35397276240e862bfcd740fd64d85f0e2987d",
+      "event_hash": "9c0022dcda63377018a0b39062841ef82606b7eeb2a5ce31a2aa8c0d5ab6090f",
+      "rows": 410,
+      "event_count": 122
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv781-notes24-35--inventory_foil",
+      "observation_hash": "1b7c70530498dba8cea267a70678f131208137c2b3bfaee3450a781c8d87a9d4",
+      "event_hash": "361fdf78a6336a0b8537d1a43f31ec12cbfac4e30b23d134a6180c3d1e224184",
+      "rows": 400,
+      "event_count": 122
+    },
+    {
+      "kind": "panel",
+      "session_id": "bach-bwv781-notes24-35--near_foil",
+      "observation_hash": "4b9f52cb926b3381dc0c7dcdfd69fdaa44036afcf98c3b2b2227178c73e6617b",
+      "event_hash": "56917c70b52557612d42e626dc382a061563a54287b958408d32ca5d69b03040",
+      "rows": 400,
+      "event_count": 122
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-01--unchanged",
+      "observation_hash": "2850aba88a85adedc5723a9c760bcba7a961e04c0743c5d5473a132c90de4caf",
+      "event_hash": "680025cbf3c4ccd16738a02036286bda76b1f462b23ed696cfb5f606fd60ad0b",
+      "rows": 400,
+      "event_count": 122
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-01--transpose",
+      "observation_hash": "75f00ea8a4c33eaeced79191ad589a4e8f6b51408ade12aef66de9342b516628",
+      "event_hash": "1671dba496f8cee1a684deb907dba8ec409bf580a48841f818096bc8e5c57f96",
+      "rows": 400,
+      "event_count": 122
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-01--stretch",
+      "observation_hash": "cdbdc64a41da6a71a5b7bf5bea8f59b9fee080837a22aa5bcac264089b463c84",
+      "event_hash": "7de56509bcd0e5127d78962378b599711200e56c01e3710ff0010b81b7847097",
+      "rows": 390,
+      "event_count": 122
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-01--inventory_foil",
+      "observation_hash": "31547c89b2e9185638b906675b9ca5170e59ffa5b0c56c87aff4930a6e9d07c7",
+      "event_hash": "74ad42e3151253407d5028fd0df32adbf0ac5c45f81d5f517d7729eae46d11c9",
+      "rows": 400,
+      "event_count": 122
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-01--near_foil",
+      "observation_hash": "272385a7adef227380a680f82bfab571bedd1a29949571f1d9e5a49639c4920b",
+      "event_hash": "ff2ae50d7ae4b0dcf2b804ff8699f1e64c4799aa8d052d9b54162723e5b7762e",
+      "rows": 400,
+      "event_count": 122
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-02--unchanged",
+      "observation_hash": "6fa2bcbaa5a94f9767742ad0766e4a606b1ab1f0e2ab479736ce96c3f59478c8",
+      "event_hash": "d8b52b81a215d54a1e79e691bd7c38bf522973b1c28fd1dbb1795ffec7840cac",
+      "rows": 400,
+      "event_count": 122
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-02--transpose",
+      "observation_hash": "8ed6acb73adbf4788d90831337cb966f0e9ad182de286ccd862d33e68ca3bc37",
+      "event_hash": "5afdfde499047fabb5e76b882ff75af2a89881c3290ee9159a578dc1f6d9b317",
+      "rows": 400,
+      "event_count": 122
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-02--stretch",
+      "observation_hash": "f5aeb2b4d65012e42ec2bbd3371254ea9c83945023881b7863690779cd454e1a",
+      "event_hash": "9f29440130c54f6b7aa0cfe855fbfbd3b4405489e69060e231c95d58688fb5fd",
+      "rows": 410,
+      "event_count": 122
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-02--inventory_foil",
+      "observation_hash": "eb6561f5d802d52b1de64a43692a1837cc32ea029b62a4b9a8f9251a7f7035fa",
+      "event_hash": "51715627f4ec89a0a38f70f5d5c02198706b245d00fbcfdd0dd8f7a56644f8d9",
+      "rows": 400,
+      "event_count": 122
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-02--near_foil",
+      "observation_hash": "4df984d120378df982c84f0fa2032e91b9c269b76303cdcad50650890ef9c50d",
+      "event_hash": "d9cd20ea433cbea7615705d00858a0af46a1a2df17a21a922caa7004771dd69a",
+      "rows": 400,
+      "event_count": 122
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-03--unchanged",
+      "observation_hash": "ce1cc46764b1d2ffe0b6dc2d0c8fabf71d811c8b0ce2b4a6441b1fe918276da6",
+      "event_hash": "59fc4cfe0f09c27f992acd8f0d29bce315b4662cf2d705578004de8b0aedaa14",
+      "rows": 400,
+      "event_count": 122
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-03--transpose",
+      "observation_hash": "da1ce62252df4ae81ad7465e32f183b8edc531746be095c8076b58171c7d5a62",
+      "event_hash": "854fda73d37848fe52e46562f23ca2b244fd970595c89f14d8dd56149714c474",
+      "rows": 400,
+      "event_count": 122
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-03--stretch",
+      "observation_hash": "0525bb5afc824ef5f882e589789af1b4e246bb96887397f973936a5bc49f2052",
+      "event_hash": "f0ca310a21a988aaecede6fe215c106651e6706906bdba2fc4e8f0cb19d932d0",
+      "rows": 400,
+      "event_count": 122
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-03--inventory_foil",
+      "observation_hash": "28d23470e8506062bc41f174380d0a921ae1439cce4339ea9cf43d48a9d7962d",
+      "event_hash": "75429144dfb184af19cb42468cb82184a578c540b8230381d38c46840d09bd85",
+      "rows": 400,
+      "event_count": 122
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-03--near_foil",
+      "observation_hash": "2ca6d01d17cb0e1bbda430344efb05c851f9712693f5f1b549da5bdc40860374",
+      "event_hash": "95953c98155be7f5aad07bba673cbddba69cc7828585333eaa7f26ddb4fc65d5",
+      "rows": 400,
+      "event_count": 122
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-04--unchanged",
+      "observation_hash": "590b09dfbc79cae7b27066b69088a13e15c1f9b6e1fd56a229d3351962073682",
+      "event_hash": "8b2246e50ef2af38ac4b901bcf17f832a8248a6c7864569e565b094a29eab820",
+      "rows": 400,
+      "event_count": 122
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-04--transpose",
+      "observation_hash": "95109bc2800c001dbfb5afb0655f8f2af24fb41f27ad8a1bb7e23cee4d704216",
+      "event_hash": "3beb42b3e0b8a2905e3c863be5d59fb76fd363a447eb88e770334b7b683512a4",
+      "rows": 400,
+      "event_count": 122
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-04--stretch",
+      "observation_hash": "c7c73e6d009dc9665a0a2f04b9af33885a8965c45864c4cdc15dd259ea904263",
+      "event_hash": "d940ad9dc75ce7916b876dfc50a60d7524b23a4a6252f32332bd5fe4689726cd",
+      "rows": 410,
+      "event_count": 122
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-04--inventory_foil",
+      "observation_hash": "eeec43ff9cc1d29148ae4f762d771933d93223d4005ae8c4933878815f36a89b",
+      "event_hash": "85cba590741deed287e64cb9198f82eefac877c45d23f95800f6e1e271e63cfa",
+      "rows": 400,
+      "event_count": 122
+    },
+    {
+      "kind": "panel",
+      "session_id": "novel-20260926-04--near_foil",
+      "observation_hash": "988b2473711b04f315f9bfdcf2e3b6bcd8443fcb0d1cb3da7aedbe9497aaf682",
+      "event_hash": "86cb2a0ec1ee8809492b621acc84762c940773f89f2fe6d40bf448186534e617",
+      "rows": 400,
+      "event_count": 122
+    },
+    {
+      "kind": "diagnostics",
+      "session_id": "skip-middle",
+      "observation_hash": "086686d76c20bdc70ffeb8306e53de1b8a29527aff9419b4a077ead52e07efac",
+      "event_hash": "01ea92998ba65c8b5d5f4f8b8de30ca68969b638099483ca99899f0bfcfe6b27",
+      "rows": 100,
+      "event_count": 14
+    },
+    {
+      "kind": "diagnostics",
+      "session_id": "skip-late",
+      "observation_hash": "08d084b14babb9e663cb9bc2566d4d747c5805e9f7b19bd9fbe9e21f53b034b7",
+      "event_hash": "d4731e29730fa577c97faed673032c46fe6081b424efd5d5e9f8e50c21bbf40e",
+      "rows": 100,
+      "event_count": 15
+    },
+    {
+      "kind": "diagnostics",
+      "session_id": "skip-silence",
+      "observation_hash": "34eb9219058e30c42c1b438fe521b6b61f52a20cfdcc65bec47a4f6cd0c41a2b",
+      "event_hash": "6c190995b5f1a58c6d72a22a596f2405c0b15d8501ebf6c9c4394a39a6e9f560",
+      "rows": 100,
+      "event_count": 14
+    },
+    {
+      "kind": "diagnostics",
+      "session_id": "skip-double",
+      "observation_hash": "4e5a1a6bbeba520e22f092e44b152671bc2afb2048403b58d3c9197de72e31f8",
+      "event_hash": "019ff3c59ccb93d1e38a446c0e7da014b3af8826d598b64457e28651e5c42105",
+      "rows": 100,
+      "event_count": 15
+    },
+    {
+      "kind": "diagnostics",
+      "session_id": "collision-world-a",
+      "observation_hash": "5692374bde2547aa1a335413223cd260b75a4652eeddc0809751ad5ca9349771",
+      "event_hash": "22e677aaf09d175db409882705921514f3fc951365106a836c9ccf5c75c6dc09",
+      "rows": 140,
+      "event_count": 20
+    },
+    {
+      "kind": "diagnostics",
+      "session_id": "collision-world-b",
+      "observation_hash": "5692374bde2547aa1a335413223cd260b75a4652eeddc0809751ad5ca9349771",
+      "event_hash": "22e677aaf09d175db409882705921514f3fc951365106a836c9ccf5c75c6dc09",
+      "rows": 140,
+      "event_count": 20
+    },
+    {
+      "kind": "diagnostics",
+      "session_id": "collision-transposed",
+      "observation_hash": "5a6fb501c8e14b9617a66053431a36309ff8a06a3f7fd8c8d02ccba933020ee6",
+      "event_hash": "f92b702975a1327ef62a82e2ecd4fa0f6bedd5e357f02efefecd65acbf7db459",
+      "rows": 140,
+      "event_count": 20
+    },
+    {
+      "kind": "diagnostics",
+      "session_id": "collision-constant",
+      "observation_hash": "f261aca243b1f193c7d6e016af6e6dd138062f6b819a1d10d1b50e3ea392260e",
+      "event_hash": "970ac60f87ed1326b4db614836d0be830ca2f7bf196268a0a71e99311fefccde",
+      "rows": 100,
+      "event_count": 3
+    }
+  ],
+  "ambiguity_certificate_verified": true,
+  "candidate_calls": 0,
+  "generator_calls": 0,
+  "runtime_seconds": 0.03529200004413724
+}

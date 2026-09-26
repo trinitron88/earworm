@@ -1,0 +1,150 @@
+{
+  "schema": "correspondence-reference-input-archive-v1",
+  "sessions": [
+    {
+      "session_id": "skip-middle",
+      "path": "skip-middle",
+      "files": {
+        "rows.npz": {
+          "sha256": "e54740763a84089618818f285e5426a86cc61d32474688e96c48012cafa25d75",
+          "bytes": 1598
+        },
+        "exact-events.npz": {
+          "sha256": "ccda19e3c5ac5c40fc0a76b008dd663c8a348fa395afca7183e6c95a93f8cb2e",
+          "bytes": 521
+        },
+        "evaluatorlabels.json": {
+          "sha256": "720427b9957bfa5fbaf8f21870b2181db14bd780da4506136ec06ac43fab7945",
+          "bytes": 286
+        }
+      }
+    },
+    {
+      "session_id": "skip-late",
+      "path": "skip-late",
+      "files": {
+        "rows.npz": {
+          "sha256": "6e7f44afaa696257b2201ed334e151d8abadd96a540e399aefeb744b2ff6e6e7",
+          "bytes": 1599
+        },
+        "exact-events.npz": {
+          "sha256": "445998b796ec476ec4dc22fdf0cde2db846f03148230c6c5b7a6aca40531acb2",
+          "bytes": 529
+        },
+        "evaluatorlabels.json": {
+          "sha256": "c644766dbe28820c05dd046f7affa41ce3d73871922deb75a6d32566d78e96a8",
+          "bytes": 282
+        }
+      }
+    },
+    {
+      "session_id": "skip-silence",
+      "path": "skip-silence",
+      "files": {
+        "rows.npz": {
+          "sha256": "0379153d2c6db2aed77abe8b6af9d8fb10412ef94ba8d180d22afaa5bb0be34c",
+          "bytes": 1603
+        },
+        "exact-events.npz": {
+          "sha256": "a31c3efe9f3d368c7b7c6f24312c5148555a6e62d66c2fe4601dd441525294fb",
+          "bytes": 524
+        },
+        "evaluatorlabels.json": {
+          "sha256": "2014b6a82b1bdd40feaa76290dd4c59844e7253f86d810ebef77030b52ae0d6f",
+          "bytes": 288
+        }
+      }
+    },
+    {
+      "session_id": "skip-double",
+      "path": "skip-double",
+      "files": {
+        "rows.npz": {
+          "sha256": "1aae4eed489bb651b7514624bb5e4b41eefa432319a7e9cf31442976d2a3d544",
+          "bytes": 1600
+        },
+        "exact-events.npz": {
+          "sha256": "f580b06c851b31f20a4967dbecce7f498a6855fbd00ac3b68fd4a5f6e3239e97",
+          "bytes": 529
+        },
+        "evaluatorlabels.json": {
+          "sha256": "e58c1c3369225623893e5d9a553dc26156a47d80156ce759f6f23903224f1d36",
+          "bytes": 286
+        }
+      }
+    },
+    {
+      "session_id": "collision-world-a",
+      "path": "collision-world-a",
+      "files": {
+        "rows.npz": {
+          "sha256": "f5e63e5a066e7fb592ce9fb545f164d81ed68dce525257a71aed6fb9627d9e63",
+          "bytes": 1798
+        },
+        "exact-events.npz": {
+          "sha256": "0c74063914e034a32cb661e4a8144e41109da59f08e31b07b9aa5109974ac9e7",
+          "bytes": 556
+        },
+        "evaluatorlabels.json": {
+          "sha256": "e840c00a407891571f817a4c3e2df37633751976869756e6ea4dfc6cec22411c",
+          "bytes": 297
+        }
+      }
+    },
+    {
+      "session_id": "collision-world-b",
+      "path": "collision-world-b",
+      "files": {
+        "rows.npz": {
+          "sha256": "f5e63e5a066e7fb592ce9fb545f164d81ed68dce525257a71aed6fb9627d9e63",
+          "bytes": 1798
+        },
+        "exact-events.npz": {
+          "sha256": "0c74063914e034a32cb661e4a8144e41109da59f08e31b07b9aa5109974ac9e7",
+          "bytes": 556
+        },
+        "evaluatorlabels.json": {
+          "sha256": "c7a4550049f0725efa64ba12d9465b527defabfcaed17123a55cb99b6137d790",
+          "bytes": 297
+        }
+      }
+    },
+    {
+      "session_id": "collision-transposed",
+      "path": "collision-transposed",
+      "files": {
+        "rows.npz": {
+          "sha256": "f35ff6c80d73e7f5579335e956141eb38bd427706991dca8afc877e14d7c7b1a",
+          "bytes": 1798
+        },
+        "exact-events.npz": {
+          "sha256": "a53e6827bb8c0e90926382704bf860eec0ae32f8e5fd4e03364dd4dbd758cefe",
+          "bytes": 558
+        },
+        "evaluatorlabels.json": {
+          "sha256": "a3be47c1fb5f25542a2c7b5b0f1fb9b143451f588516fa6bbd5ff48739ddb970",
+          "bytes": 303
+        }
+      }
+    },
+    {
+      "session_id": "collision-constant",
+      "path": "collision-constant",
+      "files": {
+        "rows.npz": {
+          "sha256": "9d1f412a05adfdbcce513786553c21d95f4c3053e171744150d209c9cf283d34",
+          "bytes": 1577
+        },
+        "exact-events.npz": {
+          "sha256": "af7425575584586c26968ee8e1de380bc78c9e38ac0a00bdaf8c678dcc5aa054",
+          "bytes": 434
+        },
+        "evaluatorlabels.json": {
+          "sha256": "640b80d965eb7d6042a810cc83575a232f9bafd42cfef1164aa21d8a837e35f0",
+          "bytes": 299
+        }
+      }
+    }
+  ],
+  "diagnostic_only": true
+}
