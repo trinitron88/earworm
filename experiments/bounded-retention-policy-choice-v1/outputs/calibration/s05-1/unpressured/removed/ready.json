@@ -1,0 +1,9 @@
+{
+  "type": "ready",
+  "ready": true,
+  "policy": "unpressured",
+  "seed": 202609260701,
+  "guard": true,
+  "rng": "Python random.Random Algorithm R randrange(n)",
+  "supplied_occurrence_segmentation": true
+}

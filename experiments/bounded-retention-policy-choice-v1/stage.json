@@ -1,0 +1,27 @@
+{
+  "id": "earworm-bounded-retention-policy-choice-v1",
+  "instruction_version": 1,
+  "comment_id": 5843842158,
+  "source_version": "2026-09-26T06:18:39Z",
+  "base_sha": "f93977b000e59ee9b7d8bcc6092510b156bd77de",
+  "started_at": "2026-09-26T07:20:31.821467+00:00",
+  "resumed_at": "2026-09-26T17:53:20.070787+00:00",
+  "active_intervals": [
+    {
+      "start": "2026-09-26T17:53:20.070787+00:00",
+      "end": null
+    }
+  ],
+  "prior_prelimit_conservative_seconds": 600,
+  "status": "ready_for_evaluation_preregistration",
+  "package": "experiments/bounded-retention-policy-choice-v1",
+  "compute_cap_seconds": 7200,
+  "call_cap": 900,
+  "artifact_cap_bytes": 2147483648,
+  "spending_usd": 0,
+  "scientific_calls": 280,
+  "material_generated": true,
+  "evaluation_exposed": false,
+  "helper_conservative_seconds": 1949,
+  "qualification_calls": 15
+}

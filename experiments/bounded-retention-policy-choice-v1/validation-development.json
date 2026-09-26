@@ -1,0 +1,1274 @@
+{
+  "split": "development",
+  "passed": true,
+  "errors": [],
+  "readouts": 140,
+  "expected_readouts": 140,
+  "completed_artifacts": 140,
+  "checks": [
+    {
+      "path": "outputs/development/s00-0/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s00-0/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s00-0/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s00-0/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s00-0/diversity/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16677,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s00-0/diversity/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16677,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s00-0/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 1,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s00-0/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178753,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s00-0/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s00-0/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s00-1/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s00-1/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s00-1/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s00-1/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s00-1/diversity/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16677,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s00-1/diversity/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16677,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s00-1/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 1,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s00-1/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178753,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s00-1/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s00-1/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s00-2/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s00-2/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s00-2/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s00-2/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s00-2/diversity/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16677,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s00-2/diversity/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16677,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s00-2/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s00-2/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178753,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s00-2/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s00-2/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s00-3/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s00-3/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s00-3/diversity/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16677,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s00-3/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s00-3/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s01-0/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s01-0/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s01-0/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s01-0/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s01-0/diversity/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16677,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s01-0/diversity/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16677,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s01-0/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 1,
+      "peak_persistent_bytes": 178729,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s01-0/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178701,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s01-0/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s01-0/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s01-1/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s01-1/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s01-1/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s01-1/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s01-1/diversity/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16677,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s01-1/diversity/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16677,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s01-1/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 1,
+      "peak_persistent_bytes": 178729,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s01-1/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178701,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s01-1/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s01-1/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s01-2/fifo/full",
+      "arrivals": 520,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s01-2/fifo/removed",
+      "arrivals": 520,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s01-2/reservoir/full",
+      "arrivals": 520,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s01-2/reservoir/removed",
+      "arrivals": 520,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s01-2/diversity/full",
+      "arrivals": 520,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16677,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s01-2/diversity/removed",
+      "arrivals": 520,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16677,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s01-2/unpressured/full",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 1,
+      "peak_persistent_bytes": 178807,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s01-2/unpressured/removed",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178779,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s01-2/present/full",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s01-2/present/removed",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s01-3/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s01-3/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s01-3/diversity/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16677,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s01-3/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178729,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s01-3/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s02-0/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s02-0/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s02-0/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s02-0/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s02-0/diversity/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16677,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s02-0/diversity/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16677,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s02-0/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s02-0/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178753,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s02-0/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s02-0/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s02-1/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s02-1/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s02-1/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s02-1/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s02-1/diversity/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16677,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s02-1/diversity/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16677,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s02-1/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s02-1/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178753,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s02-1/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s02-1/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s02-2/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s02-2/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s02-2/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s02-2/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s02-2/diversity/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16677,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s02-2/diversity/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16677,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s02-2/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s02-2/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178753,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s02-2/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s02-2/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s02-3/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s02-3/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s02-3/diversity/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16677,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s02-3/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s02-3/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s03-0/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s03-0/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s03-0/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s03-0/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s03-0/diversity/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16677,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s03-0/diversity/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16677,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s03-0/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s03-0/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178753,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s03-0/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s03-0/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s03-1/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s03-1/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s03-1/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s03-1/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s03-1/diversity/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16677,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s03-1/diversity/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16677,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s03-1/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s03-1/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178753,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s03-1/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s03-1/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s03-2/fifo/full",
+      "arrivals": 520,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s03-2/fifo/removed",
+      "arrivals": 520,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s03-2/reservoir/full",
+      "arrivals": 520,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s03-2/reservoir/removed",
+      "arrivals": 520,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s03-2/diversity/full",
+      "arrivals": 520,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16677,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s03-2/diversity/removed",
+      "arrivals": 520,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16677,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s03-2/unpressured/full",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 1,
+      "peak_persistent_bytes": 178807,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s03-2/unpressured/removed",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178779,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s03-2/present/full",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s03-2/present/removed",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s03-3/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16728,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s03-3/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43737,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s03-3/diversity/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16677,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s03-3/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/development/s03-3/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5603,
+      "source_absent_recent": true
+    }
+  ],
+  "elapsed_seconds": 3.0377225840929896,
+  "candidate_calls": 0,
+  "qualification_replays": 0,
+  "validation_scope": "Saved evidence and mathematical policy/witness audit, no candidate search or execution; frozen guarded worker source remains necessary to assess absence of hidden accesses."
+}

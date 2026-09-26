@@ -1,0 +1,1274 @@
+{
+  "split": "calibration",
+  "passed": true,
+  "errors": [],
+  "readouts": 140,
+  "expected_readouts": 140,
+  "completed_artifacts": 140,
+  "checks": [
+    {
+      "path": "outputs/calibration/s04-0/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16702,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s04-0/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16702,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s04-0/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43711,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s04-0/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43711,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s04-0/diversity/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16651,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s04-0/diversity/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16651,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s04-0/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178755,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s04-0/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178727,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s04-0/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5577,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s04-0/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5577,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s04-1/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16702,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s04-1/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16702,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s04-1/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43711,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s04-1/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43711,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s04-1/diversity/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16651,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s04-1/diversity/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16651,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s04-1/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178755,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s04-1/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178727,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s04-1/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5577,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s04-1/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5577,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s04-2/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16702,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s04-2/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16702,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s04-2/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43711,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s04-2/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43711,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s04-2/diversity/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16651,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s04-2/diversity/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16651,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s04-2/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178781,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s04-2/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178753,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s04-2/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5577,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s04-2/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5577,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s04-3/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16702,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s04-3/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43711,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s04-3/diversity/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16651,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s04-3/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178755,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s04-3/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5577,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s05-0/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16702,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s05-0/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16702,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s05-0/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43711,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s05-0/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43711,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s05-0/diversity/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16651,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s05-0/diversity/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16651,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s05-0/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 1,
+      "peak_persistent_bytes": 178729,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s05-0/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178701,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s05-0/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5577,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s05-0/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5577,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s05-1/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16702,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s05-1/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16702,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s05-1/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43711,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s05-1/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43711,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s05-1/diversity/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16651,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s05-1/diversity/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16651,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s05-1/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 1,
+      "peak_persistent_bytes": 178729,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s05-1/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178701,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s05-1/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5577,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s05-1/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5577,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s05-2/fifo/full",
+      "arrivals": 520,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16702,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s05-2/fifo/removed",
+      "arrivals": 520,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16702,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s05-2/reservoir/full",
+      "arrivals": 520,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43711,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s05-2/reservoir/removed",
+      "arrivals": 520,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43711,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s05-2/diversity/full",
+      "arrivals": 520,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16651,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s05-2/diversity/removed",
+      "arrivals": 520,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16651,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s05-2/unpressured/full",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 1,
+      "peak_persistent_bytes": 178807,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s05-2/unpressured/removed",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178779,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s05-2/present/full",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5577,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s05-2/present/removed",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5577,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s05-3/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16702,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s05-3/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43711,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s05-3/diversity/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16651,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s05-3/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178729,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s05-3/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5577,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s06-0/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16702,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s06-0/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16702,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s06-0/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43711,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s06-0/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43711,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s06-0/diversity/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16651,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s06-0/diversity/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16651,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s06-0/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 1,
+      "peak_persistent_bytes": 178729,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s06-0/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178701,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s06-0/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5577,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s06-0/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5577,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s06-1/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16702,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s06-1/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16702,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s06-1/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43711,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s06-1/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43711,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s06-1/diversity/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16651,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s06-1/diversity/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16651,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s06-1/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 1,
+      "peak_persistent_bytes": 178729,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s06-1/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178701,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s06-1/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5577,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s06-1/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5577,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s06-2/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16702,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s06-2/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16702,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s06-2/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43711,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s06-2/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43711,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s06-2/diversity/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16651,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s06-2/diversity/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16651,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s06-2/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178755,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s06-2/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178727,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s06-2/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5577,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s06-2/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5577,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s06-3/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16702,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s06-3/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43711,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s06-3/diversity/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16651,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s06-3/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178729,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s06-3/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5577,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s07-0/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16702,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s07-0/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16702,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s07-0/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43711,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s07-0/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43711,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s07-0/diversity/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16651,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s07-0/diversity/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16651,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s07-0/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178755,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s07-0/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178727,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s07-0/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5577,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s07-0/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5577,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s07-1/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16702,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s07-1/fifo/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16702,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s07-1/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43711,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s07-1/reservoir/removed",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43711,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s07-1/diversity/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16651,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s07-1/diversity/removed",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16651,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s07-1/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178755,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s07-1/unpressured/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178727,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s07-1/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5577,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s07-1/present/removed",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5577,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s07-2/fifo/full",
+      "arrivals": 520,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16702,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s07-2/fifo/removed",
+      "arrivals": 520,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16702,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s07-2/reservoir/full",
+      "arrivals": 520,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43711,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s07-2/reservoir/removed",
+      "arrivals": 520,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43711,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s07-2/diversity/full",
+      "arrivals": 520,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16651,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s07-2/diversity/removed",
+      "arrivals": 520,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16651,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s07-2/unpressured/full",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178807,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s07-2/unpressured/removed",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 129,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178779,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s07-2/present/full",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5577,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s07-2/present/removed",
+      "arrivals": 520,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5577,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s07-3/fifo/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16702,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s07-3/reservoir/full",
+      "arrivals": 519,
+      "replacements": 27,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 43711,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s07-3/diversity/full",
+      "arrivals": 519,
+      "replacements": 122,
+      "retained_records": 8,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 16651,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s07-3/unpressured/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 130,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 178755,
+      "source_absent_recent": true
+    },
+    {
+      "path": "outputs/calibration/s07-3/present/full",
+      "arrivals": 519,
+      "replacements": 0,
+      "retained_records": 0,
+      "candidate_witnesses_checked": 0,
+      "peak_persistent_bytes": 5577,
+      "source_absent_recent": true
+    }
+  ],
+  "elapsed_seconds": 2.908051499980502,
+  "candidate_calls": 0,
+  "qualification_replays": 0,
+  "validation_scope": "Saved evidence and mathematical policy/witness audit, no candidate search or execution; frozen guarded worker source remains necessary to assess absence of hidden accesses."
+}

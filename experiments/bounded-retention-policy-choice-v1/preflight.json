@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "session_counts": {
+    "development": 16,
+    "calibration": 16,
+    "evaluation": 64
+  },
+  "readout_counts": {
+    "development": 140,
+    "calibration": 140,
+    "evaluation": 560
+  },
+  "qualification": 15,
+  "planned_total_calls": 855,
+  "frozen_matcher_identical": true,
+  "inputs_hashed": 192,
+  "evaluation_candidate_calls": 0
+}

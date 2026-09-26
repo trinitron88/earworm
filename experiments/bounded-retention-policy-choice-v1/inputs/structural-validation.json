@@ -1,0 +1,14 @@
+{
+  "all_inputs_are_label_free": true,
+  "elapsed_seconds": 2.6653277499135584,
+  "families": 24,
+  "historical_json_files": 2259,
+  "historical_unique_phrases": 3471,
+  "no_material_regeneration": true,
+  "query_start_seconds": 516,
+  "same_split_interference_only": true,
+  "sessions": 96,
+  "source_once": true,
+  "valid": true,
+  "validated_hashes": true
+}

@@ -1,0 +1,12 @@
+{
+  "descriptor_weight": 1.0,
+  "abstention": "frozen_unique_window",
+  "grid_size": 1,
+  "fitted_parameters": 0,
+  "selection_changed": false,
+  "completed_development": 140,
+  "completed_calibration": 140,
+  "development_unpressured_passes": false,
+  "calibration_unpressured_passes": false,
+  "note": "Known development/calibration reference failures disclosed before held-out evaluation; no outcome-dependent method change."
+}

@@ -1,0 +1,12 @@
+{
+  "split": "development",
+  "passed": true,
+  "errors": [],
+  "readouts": 140,
+  "expected_readouts": 140,
+  "completed_artifacts": 140,
+  "elapsed_seconds": 3.0377225840929896,
+  "candidate_calls": 0,
+  "qualification_replays": 0,
+  "validation_scope": "Saved evidence and mathematical policy/witness audit, no candidate search or execution; frozen guarded worker source remains necessary to assess absence of hidden accesses."
+}
